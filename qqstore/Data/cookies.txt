@@ -1,0 +1,15 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.ptlogin2.qq.com	TRUE	/	FALSE		ETK	
+.ptlogin2.qq.com	TRUE	/	FALSE		confirmuin	0
+.ptlogin2.qq.com	TRUE	/	FALSE	1577923200	ptcz	3f789df07d0a105e2eec34882baf30ee4dfd50bfa94db18152cb0d20b0a4e2ba
+.ptlogin2.qq.com	TRUE	/	FALSE		ptuserinfo	313437383431333239
+.ptlogin2.qq.com	TRUE	/	FALSE		ptvfsession	dd798354ea81d9e9a41f095f9f3235cc16d9921a155de46e4e1508366f27d954e53625bba508f225f8aa0ad6de8d39bf
+.qq.com	TRUE	/	FALSE	1674366423	RK	abSGJjXKUM
+.qq.com	TRUE	/	FALSE	1577923200	pt2gguin	o0147841329
+.qq.com	TRUE	/	FALSE		ptisp	ctc
+.qq.com	TRUE	/	FALSE		skey	@Xncmd366g
+.qq.com	TRUE	/	FALSE		uin	o0147841329
+app21641.qzone.qzoneapp.com	FALSE	/	FALSE		JSESSIONID	82593A283152EF08F1D26EDF43B0DF78
