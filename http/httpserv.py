@@ -4,15 +4,28 @@
 #
 # sockchat serv
 
-import sys, os, socket, thread
+import sys, os, socket, thread, time
 import datetime
 
 class httpserv:
-	def __init__(self):
+	def __init__(self, port):
 		# 服务器名字/版本号
 		self.server_name = "MyServerDemo/0.1"
 		self.GMT_FORMAT = '%a, %d %b %Y %H:%M:%S GMT'
-
+		try:
+			self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+		except socket.error, msg:
+			print 'socket create failed!'
+		try:
+			self.sock.bind(('localhost',port))
+		except socket.error, msg:
+			print 'socket bind failed!'
+		try:
+			self.sock.listen(1024)
+			#self.sock.setblocking(0)
+			print 'begin listen localhost:', port
+		except socket.error, msg:
+			print 'socket listen failed!'
 	'''
 	' ab -n 1000 -c 10 http://localhost:12345/123.html
 	' Requests per second:    19.84 [#/sec]
@@ -28,18 +41,24 @@ class httpserv:
 	'''
 	def run_single(self):
 		try:
-			sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-			sock.bind(('localhost',12345))
-			sock.listen(5)
-
 			while 1:
-				conn, address = sock.accept()
+				try:
+					conn, address = self.sock.accept()
+				except socket.error, msg:
+					time.sleep(0.01)
+					continue
+
 				while 1:
-					data = conn.recv(2048)
+					try:
+						data = conn.recv(2048)
+					except socket.error, msg:
+						time.sleep(0.01)
+						continue
+
+					if len(data)==0: break
 					if not data:break
 					arr_head = data.split('\r\n')
 					request_url = arr_head[0].split(' ')[1].split('?')[0]
-					print request_url
 					filepath = "content" + request_url
 					now = datetime.datetime.utcnow()
 					expires = datetime.timedelta(seconds=60)
@@ -65,10 +84,10 @@ class httpserv:
 					break
 				conn.close()
 		except socket.error, msg:
-			print msg
+			print msg, '无法连接'
 			sys.exit()
 		finally:
-			sock.close()
+			self.sock.close()
 
 	'''
 	' listen = 5
@@ -86,10 +105,6 @@ class httpserv:
 	'''
 	def run_multi(self):
 		try:
-			self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-			self.sock.bind(('localhost',12345))
-			self.sock.listen(10)
-
 			while 1:
 				conn, client = self.sock.accept()
 				thread.start_new_thread(self.handlerconn,((conn,self.sock),))
@@ -140,5 +155,8 @@ Connection: keep-alive\r\n\r\n%s''' % (
 		if _url.endswith(".jpg"):return "image/jpg"
 		return "text/html;charset=utf-8";
 
-serv = httpserv()
-serv.run_multi()
+serv1 = httpserv(12345)
+serv1.run_single()
+
+#serv2 = httpserv(12346)
+#serv2.run_multi()
