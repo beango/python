@@ -44,6 +44,7 @@ class httpserv:
 			while 1:
 				try:
 					conn, address = self.sock.accept()
+					conn.setblocking(0)
 				except socket.error, msg:
 					time.sleep(0.01)
 					continue
