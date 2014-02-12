@@ -15,9 +15,15 @@ class poolcls(threading.Thread):
             _func = _task.get("m")
             _arg = _task.get("arg")
             _sleep = _task.get("sleep")
+            _cb = _task.get("callback")
             if _arg == "exit":
                 break
             print "I'm a thread, and I received %s!!" % _arg
+            if _cb :
+                _cb(_arg)
+
+def handle_result(result):
+    print(type(result), result)
 
 def main():
     q = Queue.Queue()
@@ -26,7 +32,7 @@ def main():
     start_time = time.time() 
     # While under 5 seconds.. 
     while time.time() - start_time < 5:
-        q.put({'arg':datetime.datetime.now(), 'sleep':2.8})
+        q.put({'arg':datetime.datetime.now(), 'sleep':2.8, 'callback' : handle_result})
         time.sleep(1)
 
     q.put({'arg':"exit"})
@@ -44,4 +50,4 @@ def main1():
     t.join()
 
 if __name__ == "__main__":
-    main1()
+    main()
