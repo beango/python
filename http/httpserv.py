@@ -23,7 +23,10 @@ class httpserv:
 			while 1:
 				data = conn.recv(2048)
 				if not data:break
-				print data
+				request_url = ""
+				for line in data.split('\r\n'):
+					if line.split(': ')[0] == "Host": request_url = line.split(': ')[1]
+				print "request:", request_url
 
 				response_code = "200 OK"
 				now = datetime.datetime.utcnow()
@@ -46,7 +49,8 @@ class httpserv:
 					content
 				)
 				conn.send(response)
-				conn.close()
+				break
+			conn.close()
 		sock.close()
 
 serv = httpserv()
