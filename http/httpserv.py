@@ -4,7 +4,7 @@
 #
 # sockchat serv
 
-import socket
+import os, socket
 import datetime
 
 class httpserv:
@@ -23,20 +23,25 @@ class httpserv:
 			while 1:
 				data = conn.recv(2048)
 				if not data:break
-				request_url = ""
-				for line in data.split('\r\n'):
-					if line.split(': ')[0] == "Host": request_url = line.split(': ')[1]
-				print "request:", request_url
-
-				response_code = "200 OK"
+				arr_head = data.split('\r\n')
+				request_url = arr_head[0].split(' ')[1].split('?')[0]
+				#print data
+				filepath = "content" + request_url
 				now = datetime.datetime.utcnow()
 				expires = datetime.timedelta(seconds=60)
-				content = "<h1>hello my http serv!</h1>"
+				
+				if os.path.isfile(filepath):
+					response_code = "200 OK"
+					content = open(filepath, 'rb').read()
+				else:
+					response_code = "400 Not Found"
+					content = "<h1>Page not found!</h1>"
+
 				response = '''HTTP/1.1 %s
 					Server: %s
 					Date: %s
 					Expires: %s
-					Content-Type: text/html;charset=utf8
+					Content-Type: %s;charset=utf-8
 					Content-Length: %s
 					Connection: keep-alive
 
@@ -45,13 +50,22 @@ class httpserv:
 					self.server_name, 
 					now.strftime(self.GMT_FORMAT), 
 					(now + expires).strftime(self.GMT_FORMAT),
+					self.getAccept(request_url),
 					len(content),
 					content
 				)
 				conn.send(response)
+				if request_url =="/bundles/blog-common.css":
+					print response
 				break
 			conn.close()
 		sock.close()
-
+	def getAccept(self, _url):
+		if _url.endswith(".css"):return "text/css"
+		if _url.endswith(".js"):return "text/javascript"
+		if _url.endswith(".gif"):return "image/gif"
+		if _url.endswith(".png"):return "image/png"
+		if _url.endswith(".jpg"):return "image/jpg"
+		return "text/html";
 serv = httpserv()
 serv.run()
