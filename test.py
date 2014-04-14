@@ -36,11 +36,8 @@ def load_csv():
 	rst = []
 
 	for line in reader:
-		#_r = ''.join([_v.ljust(15) for _v in ''.join(line).split()]).decode('gbk').encode("utf-8")
-		#_r = '|'.join(line).split() #).decode('gbk').encode("utf-8")
-		#rst.append(_r)
-		print '|'.join(''.join(line).split()).decode('gbk').encode("utf-8")
-	print len(rst)
+		line1 = ['{0:<20}'.format(x.strip()) for x in line]
+		print ''.join(line1).decode('gbk').encode("utf-8")
 
 from module.timer import Timer
 

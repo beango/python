@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # test.py
 #
-# 你可能不知道的 30 个 Python 语言的特点技巧
+# python高级程序
 
 '''
 分拆
@@ -30,3 +30,49 @@ a,b = b,a
 assert a==2
 assert b==1
 
+'''
+#def 也可以有end
+'''
+__builtins__.end = None
+
+def main():
+	print 'def也可以有end'
+end
+
+main()
+
+
+'''
+设置全局变量
+'''
+
+d = {'a': 1, 'b':2}
+for v,k in d.iteritems():# 粗暴的写法
+	print v, '=', k
+
+#print locals()
+globals().update(d)
+#print globals()
+
+assert a==1
+assert b==2
+assert globals()['a']==1
+
+globals()['a']==2
+globals().update(d)
+
+assert globals()['a']==1
+assert d['a']==1
+
+d['a']=2
+assert globals()['a']==1
+globals().update(d)
+assert globals()['a']==2
+assert d['a']==2
+#assert globals()['a']==2
+
+'''
+字符串格式化
+'''
+print '{key}={val}'.format(key='a', val='123')
+print '[{0:<10}][{0:^10}][{0:*>10}]'.format('hello')
