@@ -1,6 +1,14 @@
 #coding=gbk  
-import httplib  
-conn = httplib.HTTPConnection("localhost:12345")  
-conn.request('get', '/123.html')  
-print conn.getresponse().read()  
-conn.close() 
+
+import time
+import sys
+import os
+
+
+print  'hello -1'
+f = os.fork()
+print os.getpid()
+
+if f == 0 : 
+	print "\nEntering in child process" 
+	sys.exit()
