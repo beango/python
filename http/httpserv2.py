@@ -147,22 +147,6 @@ Connection: keep-alive\r\n\r\n%s''' % (
 			conn.send(response)
 			break
 		conn.close()
-	def getHeader(self, data):
-		headend = data.find("\r\n\r\n")
-		if headend > 0:
-			headlist = data[0:headend].split("\r\n")
-		else:
-			headlist = data.split("\r\n")
-		self.headers = {}
-		for headitem in headlist:
-			if headitem.strip() == "":
-				continue
-			segindex = headitem.find(":")
-			if segindex < 0:
-				continue
-			key = item[0:segindex].strip()
-			value = item[segindex+1:].strip()
-			self.headers[key] = value
 
 	def getAccept(self, _url):
 		if _url.endswith(".css"):return "text/css; charset=utf-8"
