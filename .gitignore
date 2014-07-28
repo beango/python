@@ -2,4 +2,5 @@
 *.xls
 *.xlsx
 *.csv
+*.txt
 /log

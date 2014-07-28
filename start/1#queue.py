@@ -74,7 +74,9 @@ def main2():
  
     print "List processing complete."
 
-from timer import module.Timer
+import sys
+sys.path.append("..")
+from module.timer import Timer
 
 if __name__ == "__main__":
     with Timer() as t:

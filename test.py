@@ -15,23 +15,32 @@ def load_xls():
 	sheet1 = data.sheets()[0]
 	nrows = sheet1.nrows
 	ncols = sheet1.ncols
+	rst = []
 
 	for x in xrange(1, nrows):
-		print ''.join([v.ljust(15) for v in sheet1.row_values(x)])
+		_r = ''.join([v.ljust(15) for v in sheet1.row_values(x)])
+		rst.append(_r)
+	print len(rst)
 
 def load_csv():
 	csvfile = file('2014-07-16-13-22-54_222_204.csv', 'rb')
 	reader = csv.reader(csvfile)
+	rst = []
+
 	for line in reader:
-		_r = ''.join([_v.ljust(15) for _v in ''.join(line).split()]).decode('gbk').encode("utf-8")
+		#_r = ''.join([_v.ljust(15) for _v in ''.join(line).split()]).decode('gbk').encode("utf-8")
+		#_r = '|'.join(line).split() #).decode('gbk').encode("utf-8")
+		#rst.append(_r)
+		print '|'.join(''.join(line).split()).decode('gbk').encode("utf-8")
 	csvfile.close()
+	print len(rst)
 
-import sys
-sys.path.append("module")
-
-from timer import Timer
+from module.timer import Timer
 
 with Timer() as t:
-	#load_xls()
 	load_csv()
-print "=> elasped lpush: %s s" % t.secs
+print "=> load_csv elasped lpush: %s s" % t.secs
+
+with Timer() as t:
+	load_xls()
+print "=> load_xls elasped lpush: %s s" % t.secs
