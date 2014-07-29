@@ -3,4 +3,5 @@
 *.xlsx
 *.csv
 *.txt
+*.zip
 /log

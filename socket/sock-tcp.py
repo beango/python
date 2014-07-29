@@ -43,7 +43,7 @@ def sock_tcp_method_msg(_arg):
 	data = connect.recv(1024)
 	if not data:
 		return;
-	#print data
+	print data
     
 	connect.send('the result is complete!')
 	connect.close()
