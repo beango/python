@@ -10,6 +10,14 @@ import xlrd, csv
 reload(sys)
 sys.setdefaultencoding( "utf-8" )
 
+def outForList(content, row):
+    for i in range(row):
+        tmp = content[i::row]
+        row_content = ''
+        for j in tmp:
+            row_content += str(j).ljust(15)
+        print row_content
+
 def load_xls():
 	data = xlrd.open_workbook("4d7923f1-452f-461c-b837-eb31b6c7ed0e.xls")
 	sheet1 = data.sheets()[0]
@@ -32,7 +40,6 @@ def load_csv():
 		#_r = '|'.join(line).split() #).decode('gbk').encode("utf-8")
 		#rst.append(_r)
 		print '|'.join(''.join(line).split()).decode('gbk').encode("utf-8")
-	csvfile.close()
 	print len(rst)
 
 from module.timer import Timer
@@ -41,6 +48,8 @@ with Timer() as t:
 	load_csv()
 print "=> load_csv elasped lpush: %s s" % t.secs
 
+'''
 with Timer() as t:
 	load_xls()
 print "=> load_xls elasped lpush: %s s" % t.secs
+'''
