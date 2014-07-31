@@ -52,7 +52,7 @@ class httpserv:
 				data = ""
 				while 1:
 					try:
-						_recv = conn.recv(2)
+						_recv = conn.recv(2048)
 						data += _recv
 					except socket.error, msg:
 						if len(data)>0: break
@@ -94,11 +94,17 @@ class httpserv:
 
 	def handlerconn(self, _args):
 		conn, sock = _args[0], _args[1]
+		conn.setblocking(0)
+		data = ""
 		while 1:
-			data = conn.recv(2048)
-			if not data:break
-			conn.send(self.getResponse(data))
-			break
+			try:
+				_recv = conn.recv(2048)
+				data += _recv
+			except socket.error, msg:
+				if len(data)>0: break
+
+		if len(data)==0: return
+		conn.send(self.getResponse(data))
 		conn.close()
 
 	def getHeader(self, data):
@@ -144,7 +150,7 @@ Connection: keep-alive\r\n\r\n%s''' % (
 			content
 		)
 		return response
-		
+
 	def getAccept(self, _url):
 		if _url.endswith(".css"): return "text/css; charset=utf-8"
 		if _url.endswith(".js"): return "application/javascript"
@@ -153,8 +159,8 @@ Connection: keep-alive\r\n\r\n%s''' % (
 		if _url.endswith(".jpg"): return "image/jpg"
 		return "text/html;charset=utf-8";
 
-#serv1 = httpserv(12345)
-#serv1.run_single()
+serv1 = httpserv(12345)
+serv1.run_single()
 
-serv2 = httpserv(12346)
-serv2.run_multi()
+#serv2 = httpserv(12346)
+#serv2.run_multi()
