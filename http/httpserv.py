@@ -20,8 +20,9 @@ class httpserv:
 			self.sock.bind(('localhost',port))
 		except socket.error, msg:
 			print 'socket bind failed!'
+			sys.exit()
 		try:
-			self.sock.listen(1024)
+			self.sock.listen(5)
 			#self.sock.setblocking(0)
 			print 'begin listen localhost:', port
 		except socket.error, msg:
@@ -48,44 +49,20 @@ class httpserv:
 				except socket.error, msg:
 					time.sleep(0.01)
 					continue
-
+				data = ""
 				while 1:
 					try:
-						data = conn.recv(2048)
+						_recv = conn.recv(2)
+						data += _recv
 					except socket.error, msg:
-						time.sleep(0.01)
-						continue
+						if len(data)>0: break
 
-					if len(data)==0: break
-					if not data:break
-					arr_head = data.split('\r\n')
-					request_url = arr_head[0].split(' ')[1].split('?')[0]
-					filepath = "content" + request_url
-					now = datetime.datetime.utcnow()
-					expires = datetime.timedelta(seconds=60)
-					
-					if os.path.isfile(filepath):
-						response_code = "200 OK"
-						content = open(filepath, 'rb').read()
-					else:
-						response_code = "400 Not Found"
-						content = "<h1>Page not found!</h1>"
-
-					response = '''HTTP/1.1 %s\r\nServer: %s\r\nDate: %s\r\nExpires: %s\r\nContent-Type: %s\r\nContent-Length: %s
-	Connection: keep-alive\r\n\r\n%s''' % (
-						response_code,
-						self.server_name, 
-						now.strftime(self.GMT_FORMAT), 
-						(now + expires).strftime(self.GMT_FORMAT),
-						self.getAccept(request_url),
-						len(content),
-						content
-					)
-					conn.send(response)
-					break
+				if len(data)==0: continue
+				#self.getHeader(data)
+				conn.send(self.getResponse(data))
 				conn.close()
 		except socket.error, msg:
-			print msg, '无法连接'
+			print msg
 			sys.exit()
 		finally:
 			self.sock.close()
@@ -120,33 +97,10 @@ class httpserv:
 		while 1:
 			data = conn.recv(2048)
 			if not data:break
-			arr_head = data.split('\r\n')
-			request_url = arr_head[0].split(' ')[1].split('?')[0]
-			print request_url
-			filepath = "content" + request_url
-			now = datetime.datetime.utcnow()
-			expires = datetime.timedelta(seconds=60)
-			
-			if os.path.isfile(filepath):
-				response_code = "200 OK"
-				content = open(filepath, 'rb').read()
-			else:
-				response_code = "400 Not Found"
-				content = "<h1>Page not found!</h1>"
-
-			response = '''HTTP/1.1 %s\r\nServer: %s\r\nDate: %s\r\nExpires: %s\r\nContent-Type: %s\r\nContent-Length: %s
-Connection: keep-alive\r\n\r\n%s''' % (
-				response_code,
-				self.server_name, 
-				now.strftime(self.GMT_FORMAT), 
-				(now + expires).strftime(self.GMT_FORMAT),
-				self.getAccept(request_url),
-				len(content),
-				content
-			)
-			conn.send(response)
+			conn.send(self.getResponse(data))
 			break
 		conn.close()
+
 	def getHeader(self, data):
 		headend = data.find("\r\n\r\n")
 		if headend > 0:
@@ -160,20 +114,47 @@ Connection: keep-alive\r\n\r\n%s''' % (
 			segindex = headitem.find(":")
 			if segindex < 0:
 				continue
-			key = item[0:segindex].strip()
-			value = item[segindex+1:].strip()
+			key = headitem[0:segindex].strip()
+			value = headitem[segindex+1:].strip()
 			self.headers[key] = value
+		print self.headers
 
+	def getResponse(self, data):
+		arr_head = data.split('\r\n')
+		request_url = arr_head[0].split(' ')[1].split('?')[0]
+		filepath = "content" + request_url
+		now = datetime.datetime.utcnow()
+		expires = datetime.timedelta(seconds=60)
+		
+		if os.path.isfile(filepath):
+			response_code = "200 OK"
+			content = open(filepath, 'rb').read()
+		else:
+			response_code = "400 Not Found"
+			content = "<h1>Page not found!</h1>"
+
+		response = '''HTTP/1.1 %s\r\nServer: %s\r\nDate: %s\r\nExpires: %s\r\nContent-Type: %s\r\nContent-Length: %s
+Connection: keep-alive\r\n\r\n%s''' % (
+			response_code,
+			self.server_name, 
+			now.strftime(self.GMT_FORMAT), 
+			(now + expires).strftime(self.GMT_FORMAT),
+			self.getAccept(request_url),
+			len(content),
+			content
+		)
+		return response
+		
 	def getAccept(self, _url):
-		if _url.endswith(".css"):return "text/css; charset=utf-8"
-		if _url.endswith(".js"):return "application/javascript"
-		if _url.endswith(".gif"):return "image/gif"
-		if _url.endswith(".png"):return "image/png"
-		if _url.endswith(".jpg"):return "image/jpg"
+		if _url.endswith(".css"): return "text/css; charset=utf-8"
+		if _url.endswith(".js"): return "application/javascript"
+		if _url.endswith(".gif"): return "image/gif"
+		if _url.endswith(".png"): return "image/png"
+		if _url.endswith(".jpg"): return "image/jpg"
 		return "text/html;charset=utf-8";
 
-serv1 = httpserv(12345)
-serv1.run_single()
+#serv1 = httpserv(12345)
+#serv1.run_single()
 
-#serv2 = httpserv(12346)
-#serv2.run_multi()
+serv2 = httpserv(12346)
+serv2.run_multi()
