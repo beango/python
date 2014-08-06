@@ -4,6 +4,8 @@
 #
 # python高级程序
 
+import sys, datetime
+
 '''
 分拆
 '''
@@ -74,5 +76,12 @@ assert d['a']==2
 '''
 字符串格式化
 '''
-print '{key}={val}'.format(key='a', val='123')
-print '[{0:<10}][{0:^10}][{0:*>10}]'.format('hello')
+assert '{key}={val}'.format(key='a', val='123') == 'a=123'
+assert '[{0:<10}][{0:^10}][{0:*>10}]'.format('sys') == '[sys       ][   sys    ][*******sys]'
+print "{0.platform}".format(sys) # 成员
+assert "{0[a]}".format(dict(a=10, b=20)) == '10' # 字典
+assert "{0[5]}".format(range(10)) == '5'
+assert "My name is {0} :-{{}}".format('Fred') == 'My name is Fred :-{}' # 真得想显示{},需要双{}
+assert "{0!r:20}".format("Hello") == "'Hello'             "
+assert "{0!s:20}".format("Hello") == "Hello               "
+print "Today is: {0:%a %b %d %H:%M:%S %Y}".format(datetime.datetime.now())
