@@ -81,4 +81,4 @@ from module.timer import Timer
 if __name__ == "__main__":
     with Timer() as t:
         main1()
-    print "=> elasped lpush: %s s" % t.secs
+    print "=> elasped lpush: %ss" % t.secs
