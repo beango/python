@@ -1,0 +1,51 @@
+$def with (page_posts, page_count, page)
+
+$code:
+    grace = 5
+    range = grace * 2
+    start = page - grace if page - grace > 0 else 1
+    end = start + range
+    if end > page_count:
+        end = page_count
+        start = end - range if end - range > 0 else 1
+<div id="new_post">
+	<a href="/add">+发帖</a>
+</div>
+
+<div class="row">
+
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+		$for p in page_posts:
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<div class="thumbnail">
+					<a href="/view/$p['id']" title="$p['title']">
+						<img class="img-responsive img-rounded center-block right_image" alt="$p['title']" src="http://s1.nothingshare.com/image/350x200_2_s1_150601124637988762.jpg"></a>
+					<div class="caption">
+						<h3 class="article">
+							<a class="article" title="$p['title']" href="/view/$p['id']">$trim_utf8(p['title'], 15)</a>
+						</h3>
+					</div>
+					<div class="artile-time"> <i class="fa fa-clock-o"></i>
+						$p['time']
+					</div>
+				</div>
+			</div>
+		<div style="clear: both;"></div>
+		<div class="text-center">
+			<div class="text-center">
+				<ul class="pagination">
+				$if start > 1:
+					<li class='active'><a class="page" href="/?page=1">1</a></li>...
+				$for i in xrange(start, end+1):
+					$if i == page:
+						<li><span class="page">$i</span></li>
+					$else:
+						<li><a class="page" href="/?page=$i">$i</a></li>
+				$if end < page_count:
+					... <li><a class="page" href="/?page=$page_count">$page_count</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="margin20 visible-xs"></div>
+	</div>
+</div>
