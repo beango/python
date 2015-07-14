@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:cacheColorHint="#00000000"
+    android:orientation="horizontal"
+    android:background="@drawable/shape_listview_background">
+    
+    <TextView
+        android:id="@+id/stockno"
+        android:layout_width="0dip"
+        android:layout_weight="1.1"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp" />
+    
+    <TextView
+        android:id="@+id/stockname"
+        android:layout_width="0dip"
+        android:layout_weight="1.1"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp" />
+
+    <TextView
+        android:id="@+id/newprice"
+       android:layout_width="0dip"
+        android:layout_weight="1.2"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp" />
+    
+    <TextView
+        android:id="@+id/delayprice"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp" />
+    
+    <TextView
+        android:id="@+id/delayrate"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp" />
+    
+</LinearLayout>
