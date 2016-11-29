@@ -1,0 +1,4 @@
+2016-10-10 12:19:22,323 app.py[line:33] WARNING logging.warning
+2016-10-10 12:19:22,323 app.py[line:34] ERROR logging.error
+2016-10-10 12:21:20,950 app.py[line:40] WARNING logging.warning
+2016-10-10 12:21:20,951 app.py[line:41] ERROR logging.error

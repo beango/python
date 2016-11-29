@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>HuangDing&#39;s Blog</title>
+		<description>Huang Ding</description>		
+		<link>http://www.uwebs.tk</link>
+		<atom:link href="http://www.uwebs.tk/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Linux配置Lighttpd+Python+web.py应用</title>
+				        
+				
+					<description>&lt;p&gt;用web.py写了一个app，由于官方网站推荐Lighttpd+fastcgi模式部署，于是实践一把，在Debian
+Squeeze Linux上成功安装了Lighttpd和基于web.py的应用。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+				<link>http://www.uwebs.tk/archives/2016/10/10/Linux-configuration-Lighttpd-Python-webPy-applications.html</link>
+				<img>http://www.uwebs.tk/assets/files/2016-10/l.jpg</img>
+				<guid isPermaLink="true">http://www.uwebs.tk/archives/2016/10/10/Linux-configuration-Lighttpd-Python-webPy-applications.html</guid>
+			</item>
+		
+			<item>
+				<title>为最佳性能调优 Nginx</title>
+				        
+				
+					<description>&lt;p&gt;英文出处：&lt;a href=&quot;http://dak1n1.com/blog/12-nginx-performance-tuning&quot;&gt;dak1n1.com&lt;/a&gt;。欢迎加入&lt;a href=&quot;http://group.jobbole.com/category/feedback/trans-team/&quot;&gt;翻译小组&lt;/a&gt;。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+				<link>http://www.uwebs.tk/archives/2015/06/15/12-nginx-performance-tuning.html</link>
+				<img></img>
+				<guid isPermaLink="true">http://www.uwebs.tk/archives/2015/06/15/12-nginx-performance-tuning.html</guid>
+			</item>
+		
+			<item>
+				<title>Shell脚本编程初体验</title>
+				        
+				
+					<description>&lt;p&gt;原文出处： &lt;a href=&quot;http://linoxide.com/linux-shell-script/guide-start-learning-shell-scripting-scratch/&quot;&gt;Petras Liumparas&lt;/a&gt;   译文出处：&lt;a href=&quot;https://linux.cn/article-5591-1.html&quot;&gt;GOLinux&lt;/a&gt;   欢迎分享原创到&lt;a href=&quot;http://top.jobbole.com/?utm_source=jobboleblog-article&quot;&gt;伯乐头条&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+				<link>http://www.uwebs.tk/archives/2015/06/10/guide-start-learning-shell-scripting-scratch.html</link>
+				<img></img>
+				<guid isPermaLink="true">http://www.uwebs.tk/archives/2015/06/10/guide-start-learning-shell-scripting-scratch.html</guid>
+			</item>
+		
+			<item>
+				<title>python realtime</title>
+				        
+				
+					<description>&lt;h2 id=&quot;section&quot;&gt;声明&lt;/h2&gt;
+
+</description>
+				
+				<pubDate>Tue, 05 Aug 2014 00:00:00 +0000</pubDate>
+				<link>http://www.uwebs.tk/archives/2014/08/05/python-realtime.html</link>
+				<img></img>
+				<guid isPermaLink="true">http://www.uwebs.tk/archives/2014/08/05/python-realtime.html</guid>
+			</item>
+		
+			<item>
+				<title>Oracle与SQLServer语法区别</title>
+				        
+				
+					<description>&lt;ul&gt;
+  &lt;li&gt;Oracle:nvl SqlServer:isnull&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				
+				<pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+				<link>http://www.uwebs.tk/archives/2014/06/18/oracle-and-sqlserver.html</link>
+				<img></img>
+				<guid isPermaLink="true">http://www.uwebs.tk/archives/2014/06/18/oracle-and-sqlserver.html</guid>
+			</item>
+		
+			<item>
+				<title>十步完全理解SQL</title>
+				        
+				
+					<description>&lt;p&gt;很多程序员视 SQL 为洪水猛兽。SQL 是一种为数不多的声明性语言，它的运行方式完全不同于我们所熟知的命令行语言、面向对象的程序语言、甚至是函数语言（尽管有些人认为 SQL 语言也是一种函数式语言）。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+				<link>http://www.uwebs.tk/archives/2014/01/13/10-easy-steps-to-a-complete-understanding-of-sql.html</link>
+				<img></img>
+				<guid isPermaLink="true">http://www.uwebs.tk/archives/2014/01/13/10-easy-steps-to-a-complete-understanding-of-sql.html</guid>
+			</item>
+		
+	</channel>
+</rss>
