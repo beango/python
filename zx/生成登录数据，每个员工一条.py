@@ -8,14 +8,12 @@ import sys,time,random
 import urllib
 import urllib2
 import cookielib
-reload(sys)
-sys.setdefaultencoding('utf8')
 
 TOKEN_VERSION='v2'
 accessKey = 'AK'
 expireTime = int(time.time())+3
 
-headers={'UserAgent':'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)', 'Content-Type': 'application/json'};
+headers={'UserAgent':'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)', 'Content-Type': 'application/json'}
 SK = 'B548EC106017EFB2429B7528E65055E5'
 #post方式时候要发送的数据
 queue = [{"queuenum":"Q01","queuetype":1},
@@ -65,7 +63,7 @@ while start<end:
 
 			print "员工ID:" + eid + ",窗口：" + counterid + ", 时间: " + time.strftime("%Y-%m-%d %H:%M:%S", s)
 			if counterid == "":
-				continue;
+				continue
 			
 			###########################################登录
 			t1=random.randint(start - 24 * 60 * 60, start)
@@ -79,10 +77,10 @@ while start<end:
 			hash_md5 = hashlib.md5(data)
 			s2 = hash_md5.hexdigest()
 			values={"service":"login","account":"ACCOUNT","password":s2,"hallno":hallno,"counterno":counterid,"serverno":eid,"servername":"","eventtime":localtime,"tt":tt}
-			request=urllib2.Request(inte, headers=headers);
+			request=urllib2.Request(inte, headers=headers)
 			data = json.dumps(values) # , ensure_ascii=False
 			#获得回送的数据
-			response=urllib2.urlopen(request, data);
+			response=urllib2.urlopen(request, data)
 			#print data
 			
 			###########################################
@@ -96,10 +94,10 @@ while start<end:
 			hash_md5 = hashlib.md5(data)
 			s2 = hash_md5.hexdigest()
 			values={"service":"unlogin","account":"ACCOUNT","password":s2,"hallno":hallno, "counterno":counterid,"eventtime":localtime,"tt":tt}
-			request=urllib2.Request(inte, headers=headers);
+			request=urllib2.Request(inte, headers=headers)
 			data = json.dumps(values) # , ensure_ascii=False
 			#获得回送的数据
-			response=urllib2.urlopen(request, data);
+			response=urllib2.urlopen(request, data)
 			#print data
 			###########################################
 		

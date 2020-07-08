@@ -2,33 +2,26 @@
 # -*- coding: utf-8 -*- 
 import requests
 import json
-import urllib,urllib2,httplib
+import urllib
 import hashlib
 import sys,time,random
 from datetime import datetime 
-import urllib2
-import cookielib
-reload(sys)
-sys.setdefaultencoding('utf8')
 
 inte = 'http://localhost:8081/evalctl'
-headers={'UserAgent':'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)', 'Content-Type': 'application/json'};
+headers={'UserAgent':'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)', 'Content-Type': 'application/json'}
 
 values={"method":"STATE_EVALUATE", "json":"{\"centerid\":\"000001\",\"id\":\"9c1c3ffd-551b-4644-9c9b-57956c6e0b90\",\"counterid\":\"44060500000001Window0101\",\"serviceper_no\":\"1\",\"state\":0}"}
-request=urllib2.Request(inte, headers=headers);
-params = json.dumps(values)
-response=urllib2.urlopen(request, params);
+request=urllib.request.Request(inte, headers=headers)
+params = bytes(json.dumps(values), encoding="utf-8")
+response=urllib.request.urlopen(request, params)
 data = json.loads(response.read())
 
-print data["code"]
-print data["context"]["msg"]
+print(data["code"])
+print(data["context"]["msg"])
 
 
 values={"method":"STATE_EVALUATE", "json":"{\"centerid\":\"000001\",\"id\":\"9c1c3ffd-551b-4644-9c9b-57956c6e0b90\",\"counterid\":\"44060500000001Window0101\",\"serviceper_no\":\"008201\",\"state\":7}"}
-request=urllib2.Request(inte, headers=headers);
+request=urllib.request.Request(inte, headers=headers)
 params = json.dumps(values)
-#response=urllib2.urlopen(request, params);
-#data = json.loads(response.read())
-
-#print data["code"]
-#print data["context"]["msg"]
+response=urllib.request.urlopen(request, params)
+data = json.loads(response.read())

@@ -10,20 +10,21 @@ import logging
 logging.basicConfig(level=logging.DEBUG,
                 format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
                 datefmt='%a, %d %b %Y %H:%M:%S',
-                filename='²âÊÔ½Å±¾ÈÕÖ¾.log',
+                filename='æµ‹è¯•è„šæœ¬æ—¥å¿—.log',
                 filemode='w')
 
 def log_uncaught_exceptions(exception_type, exception, tb):
-    logging.critical(''.join(traceback.format_tb(tb)))
+    #logging.critical(''.join(traceback.format_tb(tb)))
     logging.critical('{0}: {1}'.format(exception_type, exception))
+    print tb
 
 sys.excepthook = log_uncaught_exceptions
 
-#Íø¹ØµØÖ·
+#ç½‘å…³åœ°å€
 url='http://192.168.1.103:8083/queueSysinterface.aspx'
-thread_count = 1 #µ¥´Î²¢·¢ÊıÁ¿
-requst_interval = 0.001 #ÇëÇó¼ä¸ô(Ãë)
-test_count = 10000 #sys.maxsize  # Ö¸¶¨²âÊÔ´ÎÊı
+thread_count = 1 #å•æ¬¡å¹¶å‘æ•°é‡
+requst_interval = 0.001 #è¯·æ±‚é—´éš”(ç§’)
+test_count = 10000 #sys.maxsize  # æŒ‡å®šæµ‹è¯•æ¬¡æ•°
 
 islog = False
 now_count = 0
@@ -34,17 +35,17 @@ def send_http():
     httpClient = None
     try:
         params = "{\"interfacename\":\"getcounterinfo\",\"counterno\":\"1\"}" # urllib.urlencode(params)
-        req = urllib2.Request(url, params)    #Éú³ÉÒ³ÃæÇëÇóµÄÍêÕûÊı¾İ
-        response = urllib2.urlopen(req)     #·¢ËÍÒ³ÃæÇëÇó
+        req = urllib2.Request(url, params)    #ç”Ÿæˆé¡µé¢è¯·æ±‚çš„å®Œæ•´æ•°æ®
+        response = urllib2.urlopen(req)     #å‘é€é¡µé¢è¯·æ±‚
         
         if islog:
-            #print '·¢ËÍÊı¾İ: ' + params
-            print '·µ»ØÂë: ' + str(response.getcode())
-            #print '·µ»ØÊı¾İ: ' + response.read()
+            #print 'å‘é€æ•°æ®: ' + params
+            print 'è¿”å›ç : ' + str(response.getcode())
+            #print 'è¿”å›æ•°æ®: ' + response.read()
 
-            logging.info('·¢ËÍÊı¾İ: ' + params)
-            logging.info('·µ»ØÂë: ' + str(response.getcode()))
-            logging.info('·µ»ØÊı¾İ: ' + response.read())
+            logging.info('å‘é€æ•°æ®: ' + params)
+            logging.info('è¿”å›ç : ' + str(response.getcode()))
+            logging.info('è¿”å›æ•°æ®: ' + response.read())
             sys.stdout.flush()
     except Exception, e:
         print e
@@ -61,15 +62,15 @@ def test_func(run_count):
     cnt = 0
     while cnt < run_count:
         lock_obj.acquire()
-        #print '¼ä¸ôÊ±¼ä'+str(requst_interval)
+        #print 'é—´éš”æ—¶é—´'+str(requst_interval)
 
         if islog:
             print ''
-            print '***************************ÇëÇó´ÎÊı:' + str(cnt) + "---now_count:" + str(now_count) + '*******************************'
+            print '***************************è¯·æ±‚æ¬¡æ•°:' + str(cnt) + "---now_count:" + str(now_count) + '*******************************'
             print 'Thread:(%d) Time:%s\n'%(thread.get_ident(), time.ctime())
 
             logging.info(' ')
-            logging.info('***************************ÇëÇó´ÎÊı:' + str(cnt) + '*******************************')
+            logging.info('***************************è¯·æ±‚æ¬¡æ•°:' + str(cnt) + '*******************************')
             logging.info('Thread:(%d) Time:%s\n'%(thread.get_ident(), time.ctime()))
             sys.stdout.flush()
 
@@ -81,9 +82,9 @@ def test_func(run_count):
 
 def test(ct):
     thread_count
-    print('Ïß³ÌÊı'+ str(thread_count) + ', ÇëÇóÊı:'+str(ct))
+    print('çº¿ç¨‹æ•°'+ str(thread_count) + ', è¯·æ±‚æ•°:'+str(ct))
     sys.stdout.flush()
-    for i in range(thread_count):
+    for _ in range(thread_count):
         thread.start_new_thread(test_func,(ct,))
 
 if __name__=='__main__':

@@ -1,0 +1,1 @@
+int ns__reversestr(char *iStr, char **oStr);

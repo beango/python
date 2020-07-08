@@ -8,19 +8,19 @@ import time
 
  
 
-TOTAL = 0 #×ÜÊı  
+TOTAL = 0 #æ€»æ•°  
 
-SUCC = 0 #ÏìÓ¦³É¹¦Êı  
+SUCC = 0 #å“åº”æˆåŠŸæ•°  
 
-FAIL = 0 #ÏìÓ¦Ê§°ÜÊı  
+FAIL = 0 #å“åº”å¤±è´¥æ•°  
 
-EXCEPT = 0 #ÏìÓ¦Òì³£Êı  
+EXCEPT = 0 #å“åº”å¼‚å¸¸æ•°  
 
-MAXTIME=0 #×î´óÏìÓ¦Ê±¼ä  
+MAXTIME=0 #æœ€å¤§å“åº”æ—¶é—´  
 
-MINTIME=100 #×îĞ¡ÏìÓ¦Ê±¼ä£¬³õÊ¼ÖµÎª100Ãë
+MINTIME=100 #æœ€å°å“åº”æ—¶é—´ï¼Œåˆå§‹å€¼ä¸º100ç§’
 
-# ×ÓÀà»¯Thread
+# å­ç±»åŒ–Thread
 
 class Mythread(threading.Thread):
     def __init__(self, func, args, name=''):
@@ -43,11 +43,11 @@ def request_url(url, r):
     try:
         st = time.time()
         params = "{\"interfacename\":\"getcounterinfo\",\"counterno\":\"1\"}" # urllib.urlencode(params)
-        req = urllib2.Request(url, params)    #Éú³ÉÒ³ÃæÇëÇóµÄÍêÕûÊı¾İ
-        response = urllib2.urlopen(req)     #·¢ËÍÒ³ÃæÇëÇó
-        print response.read()    #»ñÈ¡·şÎñÆ÷·µ»ØµÄÒ³ÃæĞÅÏ¢
+        req = urllib2.Request(url, params)    #ç”Ÿæˆé¡µé¢è¯·æ±‚çš„å®Œæ•´æ•°æ®
+        response = urllib2.urlopen(req)     #å‘é€é¡µé¢è¯·æ±‚
+        print(response.read())   #è·å–æœåŠ¡å™¨è¿”å›çš„é¡µé¢ä¿¡æ¯
         status = response.getcode()
-        print status
+        print(status)
         if status == 200:
             TOTAL+=1  
             SUCC+=1  
@@ -57,7 +57,7 @@ def request_url(url, r):
         time_span = time.time()-st 
         maxtime(time_span)
         self.mintime(time_span) 
-    except Exception, e:
+    except(Exception, e):
         TOTAL+=1  
         EXCEPT+=1
  
@@ -73,10 +73,10 @@ def mintime(ts):
  
 
 def main():
-    print '===========task start==========='  
-    # ¿ªÊ¼µÄÊ±¼ä  
+    print('===========task start==========='  )
+    # å¼€å§‹çš„æ—¶é—´  
     start_time = time.time()  
-    # ²¢·¢µÄÏß³ÌÊı  
+    # å¹¶å‘çš„çº¿ç¨‹æ•°  
     thread_count = 10
     i = 0  
     while i < thread_count:  
@@ -84,11 +84,11 @@ def main():
         t.start()
         i += 1
     t=0  
-    #²¢·¢ÊıËùÓĞ¶¼Íê³É»ò´óÓÚ20Ãë¾Í½áÊø  
+    #å¹¶å‘æ•°æ‰€æœ‰éƒ½å®Œæˆæˆ–å¤§äº20ç§’å°±ç»“æŸ  
 
     while TOTAL<thread_count|t>2:  
 
-        print "total:%d,succ:%d,fail:%d,except:%d\n"%(TOTAL,SUCC,FAIL,EXCEPT)  
+        print("total:%d,succ:%d,fail:%d,except:%d\n"%(TOTAL,SUCC,FAIL,EXCEPT))
 
         t+=1  
 
@@ -96,17 +96,17 @@ def main():
 
  
 
-    print '===========task end==========='  
+    print('===========task end===========')
 
-    print "total:%d,succ:%d,fail:%d,except:%d"%(TOTAL,SUCC,FAIL,EXCEPT)  
+    print ("total:%d,succ:%d,fail:%d,except:%d"%(TOTAL,SUCC,FAIL,EXCEPT)  )
 
-    print 'response maxtime:',MAXTIME  
+    print ('response maxtime:',MAXTIME  )
 
-    print 'response mintime',MINTIME
+    print ('response mintime',MINTIME)
 
     s = raw_input("Press any key")
 
-    print "bay!"
+    print ("bay!")
 
     pass
 

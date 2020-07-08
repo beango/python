@@ -2,7 +2,7 @@
 
 import urllib
 import urllib2
-url = 'http://112.74.208.56:8080/DeviceManage/manage/DmCheck/checkDevice.htm'
+url = 'http://112.74.208.56:8080/DeviceManage/inte/DmCheck/checkDevice.htm'
 values = {'deviceno':'20170331101721','comments':'可以呀','checkrst':1,'commitUser':1}
 data = urllib.urlencode(values)
 print data

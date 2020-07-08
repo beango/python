@@ -87,7 +87,7 @@ def PingList(aList):
     if failure :
          NotifyAdmin(failureIP)
     else:
-        ReportSummary(sucess,failure);
+        ReportSummary(sucess,failure)
 
 
 def timeFmt():
@@ -96,13 +96,13 @@ def timeFmt():
 def writeLog(content):
     print('[%s] %s' % (timeFmt(), content))
     file_object = open('ping.' + time.strftime('%Y-%m-%d', time.localtime(time.time())) + '.log', 'a')
-    file_object.write('[%s] %s\n' % (timeFmt(), content));
+    file_object.write('[%s] %s\n' % (timeFmt(), content))
     file_object.close()
 
 if __name__ == '__main__':
     parse = argparse.ArgumentParser(description='Batch ping utility.')
     parse.add_argument('-f','--filename',default='ip.txt',help='IP file name(Default IP.txt)')
-    parse.add_argument('-d','--destip',type=str,default='',help='destination IPs ');
+    parse.add_argument('-d','--destip',type=str,default='',help='destination IPs ')
     args = parse.parse_args()
     if args.destip!='':
         IPList = AddLineIP([],args.destip)

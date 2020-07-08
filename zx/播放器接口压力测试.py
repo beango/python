@@ -11,23 +11,23 @@ uri = 'http://192.168.1.199:8083/queueSysinterface.aspx'
 i = 1
 count = random.randint(150, 170)
 t = datetime.datetime.strptime("2018-07-02 8:40:00", "%Y-%m-%d %H:%M:%S")
-count = 0;
-if i<=50000:
+count = 0
+if i<=1:
 	params = "{\"interfacename\":\"getserverinfo\",\"serverno\":\"1\"}" # urllib.urlencode(params)
-	req = urllib2.Request(uri, params)    #Éú³ÉÒ³ÃæÇëÇóµÄÍêÕûÊý¾Ý
-	response = urllib2.urlopen(req)     #·¢ËÍÒ³ÃæÇëÇó
-	print response.read()    #»ñÈ¡·þÎñÆ÷·µ»ØµÄÒ³ÃæÐÅÏ¢
+	req = urllib2.Request(uri, params)    #ç”Ÿæˆé¡µé¢è¯·æ±‚çš„å®Œæ•´æ•°æ®
+	response = urllib2.urlopen(req)     #å‘é€é¡µé¢è¯·æ±‚
+	print response.read()    #èŽ·å–æœåŠ¡å™¨è¿”å›žçš„é¡µé¢ä¿¡æ¯
 	# print '               ' + params
 	time.sleep(0.01)
 
 	count += 1
 	i+=1
 	
-print "×ÜÊÕµ½%dÌõ½á¹û"%count
+print "æ€»æ”¶åˆ°%dæ¡ç»“æžœ"%count
 
 
 
 params = "{\"interfacename\":\"getcounterinfo\",\"counterno\":\"1\"}" # urllib.urlencode(params)
-req = urllib2.Request(uri, params)    #Éú³ÉÒ³ÃæÇëÇóµÄÍêÕûÊý¾Ý
-response = urllib2.urlopen(req)     #·¢ËÍÒ³ÃæÇëÇó
-print response.read()    #»ñÈ¡·þÎñÆ÷·µ»ØµÄÒ³ÃæÐÅÏ¢
+req = urllib2.Request(uri, params)    #ç”Ÿæˆé¡µé¢è¯·æ±‚çš„å®Œæ•´æ•°æ®
+response = urllib2.urlopen(req)     #å‘é€é¡µé¢è¯·æ±‚
+print response.read()    #èŽ·å–æœåŠ¡å™¨è¿”å›žçš„é¡µé¢ä¿¡æ¯

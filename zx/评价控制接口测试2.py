@@ -1,23 +1,19 @@
-#!/usr/bin/python2.7 
+#!/usr/bin/python3
 # -*- coding: utf-8 -*- 
 import requests
 import json
-import urllib,urllib2,httplib
+import urllib
 import hashlib
 import sys,time,random
-from datetime import datetime 
-import urllib2
-import cookielib
-reload(sys)
-sys.setdefaultencoding('utf8')
+from datetime import datetime
 
-inte = 'http://10.168.13.108/fsWebServiceWebHall/evaluate/sendEvaluate.action'
-headers={'UserAgent':'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)', 'Content-Type': 'application/json'};
-
-values={"evaluateLevel":1,"evaluateContent":"����","transitionId":"3703c86322454536be13c7346f986972","officeId":"2","evaluateUrlAddr":"/download/recorder/10D07AEA2A44-2018-11-14-15-51-43.jpg","operatorId":"100023","counterId":"10D07AEA2A44"}
-request=urllib2.Request(inte, headers=headers);
-params = json.dumps(values)
-response=urllib2.urlopen(request, params);
-data = json.loads(response.read())
-
-print data
+inte = 'http://localhost:8080/sysqueueinterface'
+headers={'UserAgent':'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)', 'Content-Type': 'application/json'}
+values = "{\"service\":\"addticketrecord\",\"account\":\"test\",\"hallno\":\"2\",\"password\":\"5019254caed8956a67b1d936d759d7e1\",\"bizid\":\"DL13\",\"cardtype\":\"身份证\",\"queuetype\":\"1\",\"queuenum\":\"A014\",\"cardid\":\"440184198101110622\",\"cardname\":\"钟少娟\",\"mobile\":\"\",\"yyno\":\"20200603DL1348081\",\"eventtime\":\"2020-06-03 09:08:32\",\"isproxy\":\"1\",\"counterlist\":\"2,3,4,5,6,7,8,9,10,11,24,25,26,27,28,29,30,31,32,33\",\"ywlsh\":\"204120200603090832A014\",\"tt\":\"20200603090833\"}"
+values = {"service":"addticketrecord","account":"test","hallno":"2","password":"5019254caed8956a67b1d936d759d7e1","bizid":"DL13","cardtype":"身份证","queuetype":"1","queuenum":"A014","cardid":"440184198101110622","cardname":"钟少娟","mobile":"null","yyno":"20200603DL1348081","eventtime":"2020-06-03 09:08:32","isproxy":"1","counterlist":"2,3,4,5,6,7,8,9,10","ywlsh":"204120200603090832A014","tt":"20200603090833"}
+data = bytes(json.dumps(values), encoding='utf8')
+request = urllib.request.Request(url=inte, headers=headers, data = data, method='POST')
+response = urllib.request.urlopen(request)
+data = response.read().decode('utf-8')
+data = eval("'{}'".format(data))
+print(data)

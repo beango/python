@@ -1,7 +1,7 @@
 #!/usr/bin/python2.6  
 # -*- coding: utf-8 -*-  
 
-import socket  
+import socket,sys,re
 import os
 
 devices = os.popen("adb devices -l | sed '1d' | sed '/./!d'").readlines()
@@ -19,7 +19,7 @@ if len(devices) > 1:
             if 0 <= var <= max:
                 return var
             return read_a_target(max)
-        except Exception, e:
+        except Exception, _:
             print read_a_target(max)
     print 'Select the target device: '
     for i in range(len(devices)):
@@ -47,12 +47,12 @@ s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 #s.sendto("00411", address)
 
-s.sendto("S01||E", address) #»¶Ó­¹âÁÙ
-#s.sendto("S02", address) #ÆÀ¼Û
-#s.sendto("S03", address) #ÔÝÍ£
-#s.sendto("S041001E", address) #µÇÂ¼
-#s.sendto("S05", address) #ÍË³ö
-#s.sendto("S06", address) #È¡ÏûÆÀ¼Û
+s.sendto("S01||E", address) #ï¿½ï¿½Ó­ï¿½ï¿½ï¿½ï¿½
+#s.sendto("S02", address) #ï¿½ï¿½ï¿½ï¿½
+#s.sendto("S03", address) #ï¿½ï¿½Í£
+#s.sendto("S041001E", address) #ï¿½ï¿½Â¼
+#s.sendto("S05", address) #ï¿½Ë³ï¿½
+#s.sendto("S06", address) #È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 #s.sendto("S071001E", address)
 #s.sendto("S04||1001||E", address)
 #s.sendto("PT", address)
