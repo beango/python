@@ -1,0 +1,6 @@
+{
+  "type": "lskill",
+  "name": "駕馭萬物",
+  "effect": "I. 神族及機械族攻擊力 5 倍<br>II. 達成 ≥7 連擊 (Combo) 時<br>⇒ 神族及機械族攻擊力額外 5 倍<br>III. 達成 ≤6 連擊 (Combo) 時<br>⇒ 所受傷害減少 80%<br>&nbsp;&nbsp;&nbsp;&nbsp;至下回合開始時",
+  "pet": "2329"
+}

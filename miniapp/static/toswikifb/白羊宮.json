@@ -1,0 +1,401 @@
+{
+  "openhis": [
+    {
+      "start": "2019/5/14 16:00",
+      "end": "2019/6/2 23:59",
+      "note": "僅開放港澳台新馬泰等地區",
+      "cj": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "838",
+      "title": "雅典娜的危機",
+      "cj": [],
+      "data": [
+        {
+          "card": "2116",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "100",
+          "coin": "6",
+          "es": "2078",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI069.png|static/es/SI161.png",
+            "title": "[7回人攻2倍] ‧ 自殺"
+          }
+        },
+        {
+          "card": "831",
+          "stage": "2{{隨機*3}}",
+          "damage": "276",
+          "turn": "1",
+          "hp": "425760",
+          "def": "3100",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "604",
+          "turn": "2",
+          "hp": "383620",
+          "def": "2800",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "846",
+          "turn": "3",
+          "hp": "451820",
+          "def": "3500",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "587",
+          "turn": "2",
+          "hp": "426350",
+          "def": "3400",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "293",
+          "turn": "1",
+          "hp": "394570",
+          "def": "2600",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "3{{隨機*3}}",
+          "damage": "276",
+          "turn": "1",
+          "hp": "425760",
+          "def": "3100",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "604",
+          "turn": "2",
+          "hp": "383620",
+          "def": "2800",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "846",
+          "turn": "3",
+          "hp": "451820",
+          "def": "3500",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "587",
+          "turn": "2",
+          "hp": "426350",
+          "def": "3400",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "293",
+          "turn": "1",
+          "hp": "394570",
+          "def": "2600",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "4",
+          "damage": "1268",
+          "turn": "2{{初始CD*2}}",
+          "hp": "967800",
+          "def": "8950",
+          "coin": "29",
+          "chest": "2000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "damage": "1257",
+          "turn": "2{{初始CD*1}}",
+          "hp": "982980",
+          "def": "8600",
+          "coin": "29",
+          "chest": "2000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "378",
+      "title": "永不放棄的意志",
+      "cj": [],
+      "data": [
+        {
+          "card": "378",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "100",
+          "coin": "100",
+          "chest": "2000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2123",
+      "title": "被控制的穆",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1{{隨機*2}}",
+          "damage": "489",
+          "turn": "1",
+          "hp": "34080",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "1020",
+          "turn": "2",
+          "hp": "29750",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "1429",
+          "turn": "3",
+          "hp": "32640",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "975",
+          "turn": "2",
+          "hp": "34170",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "506",
+          "turn": "1",
+          "hp": "28960",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "2{{隨機*2}}",
+          "damage": "489",
+          "turn": "1",
+          "hp": "34080",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "1020",
+          "turn": "2",
+          "hp": "29750",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "1429",
+          "turn": "3",
+          "hp": "32640",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "975",
+          "turn": "2",
+          "hp": "34170",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "506",
+          "turn": "1",
+          "hp": "28960",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2123",
+          "stage": "3",
+          "damage": "1702",
+          "turn": "2{{初始CD*2}}",
+          "hp": "87440",
+          "def": "790",
+          "coin": "125",
+          "chest": "2000",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png",
+            "title": "強化盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2123",
+      "title": "壓倒性的強大",
+      "cj": [],
+      "data": [
+        {
+          "card": "2123",
+          "stage": "1",
+          "damage": "2082",
+          "turn": "2{{初始CD*1}}",
+          "hp": "66420",
+          "def": "790",
+          "coin": "125",
+          "es": "322",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘25%"
+          }
+        },
+        {
+          "card": "2123",
+          "stage": "2{{雙血}}",
+          "damage": "2379",
+          "turn": "2{{初始CD*2}}",
+          "hp": "75410",
+          "def": "790",
+          "coin": "0",
+          "es": "185",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "風化-先"
+          }
+        },
+        {
+          "card": "2123",
+          "stage": "",
+          "damage": "1104",
+          "turn": "1",
+          "hp": "89320",
+          "def": "790",
+          "coin": "125",
+          "chest": "2000",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2123",
+      "title": "重重的謎團",
+      "cj": [],
+      "data": [
+        {
+          "card": "2123",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "100",
+          "coin": "125",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    }
+  ]
+}

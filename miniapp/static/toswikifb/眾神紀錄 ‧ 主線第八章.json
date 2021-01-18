@@ -1,0 +1,229 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "830",
+      "title": "眾神紀錄 ‧ 主線第八章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "2",
+          "hp": "7161840",
+          "def": "6000",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "6714220",
+          "def": "5900",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "7833260",
+          "def": "7000",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "7609450",
+          "def": "6200",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "6490410",
+          "def": "6400",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "840",
+      "title": "眾神紀錄 ‧ 主線第八章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "",
+          "hp": "9840000",
+          "def": "12000",
+          "coin": "248",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "9225000",
+          "def": "15000",
+          "coin": "248",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "11480000",
+          "def": "18000",
+          "coin": "248",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "11070000",
+          "def": "15000",
+          "coin": "248",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "hp": "8610000",
+          "def": "11000",
+          "coin": "248",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "836",
+          "stage": "2",
+          "turn": "1{{初始CD*3}}",
+          "hp": "20539850",
+          "def": "46000",
+          "coin": "29",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "20384120",
+          "def": "43000",
+          "coin": "29",
+          "es": "3387",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI165.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 2秒轉珠 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "834",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "23896430",
+          "def": "42000",
+          "coin": "29",
+          "es": "16",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越戰越強-金"
+          }
+        },
+        {
+          "card": "840",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "23571540",
+          "def": "45000",
+          "coin": "29",
+          "es": "1429",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI340.png",
+            "title": "暗屬技能封鎖 ‧ 暗弱化鎖定20%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "title": "眾神紀錄 ‧ 主線第八章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "196",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "27350830",
+          "def": "57000",
+          "coin": "125",
+          "es": "701",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾"
+          }
+        },
+        {
+          "card": "196",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "24826390",
+          "def": "57000",
+          "coin": "0",
+          "es": "3232",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI003.png|static/es/SI244.png",
+            "title": "木屬防禦75% ‧ 五屬追擊盾"
+          }
+        },
+        {
+          "card": "196",
+          "stage": "",
+          "turn": "1",
+          "hp": "38041870",
+          "def": "57000",
+          "coin": "125",
+          "chest": "8000",
+          "es": "3224",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI181.png|static/es/SI251.png",
+            "title": "人類禁錮 ‧ 敵屬初級拼圖盾-限 ‧ 無視減傷"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "{{#switch:{{{id|}}}",
+  "effect": "{{#switch:{{{id|}}}",
+  "turn": "{{#switch:{{{id|}}}",
+  "minTurn": "{{#switch:{{{id|}}}",
+  "pet": "{{{id|1166}}}"
+}

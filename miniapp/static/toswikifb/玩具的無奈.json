@@ -1,0 +1,238 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1593",
+      "title": "被噩夢纏繞",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "damage": "4526",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1593",
+          "damage": "13759",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1594",
+          "damage": "8973",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1595",
+          "damage": "9141",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1596",
+          "damage": "4947",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3470",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1593",
+          "stage": "3",
+          "damage": "25786",
+          "turn": "3{{初始CD*3}}",
+          "hp": "2030000",
+          "def": "4690",
+          "coin": "189",
+          "es": "945",
+          "lv": "15",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI211.png",
+            "title": "五次受攻盾50%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1191",
+      "title": "被操控的千千",
+      "cj": [],
+      "data": [
+        {
+          "card": "256",
+          "stage": "1",
+          "damage": "10954",
+          "turn": "2{{初始CD*2}}",
+          "hp": "2678650",
+          "def": "20000",
+          "coin": "400",
+          "es": "649",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水縱橫輪轉"
+          }
+        },
+        {
+          "card": "256",
+          "stage": "",
+          "damage": "10954",
+          "turn": "2{{初始CD*1}}",
+          "hp": "2678650",
+          "def": "20000",
+          "coin": "400",
+          "es": "784",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水橫縱輪轉"
+          }
+        },
+        {
+          "card": "1191",
+          "stage": "2{{雙血}}",
+          "damage": "13226",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4067390",
+          "def": "8950",
+          "coin": "0",
+          "es": "1267",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI181.png|static/es/SI068.png",
+            "title": "火屬技能封鎖 ‧ 3倍獵魔 ‧ 初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "1191",
+          "stage": "",
+          "damage": "8428",
+          "turn": "1",
+          "hp": "9321580",
+          "def": "8950",
+          "coin": "6383",
+          "es": "1775",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI016.png|static/es/SI301.png|static/es/SI047.png|static/es/SI113.png|static/es/SI124.png",
+            "title": "敵轉水-首回隨機轉水 ‧ 首消水追擊零化 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1191",
+      "title": "千千真正的心願",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "damage": "4386",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "872",
+          "damage": "8598",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "873",
+          "damage": "4364",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "874",
+          "damage": "11937",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "875",
+          "damage": "8603",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1191",
+          "stage": "4",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "es": "1013",
+          "note": "{{特性*離開*2}}",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "攻擊傷害無效"
+          }
+        }
+      ]
+    }
+  ]
+}

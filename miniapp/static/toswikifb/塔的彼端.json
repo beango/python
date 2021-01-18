@@ -1,0 +1,416 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "118",
+      "title": "古代修行者的希望",
+      "cj": [],
+      "data": [
+        {
+          "card": "340",
+          "stage": "6",
+          "num": "",
+          "damage": "6653",
+          "turn": "3",
+          "hp": "220000",
+          "def": "99",
+          "drop": "079",
+          "lv": "1",
+          "note": "{{人類剋制 ‧ 防}}",
+          "esjson": null
+        },
+        {
+          "card": "341",
+          "stage": "",
+          "num": "",
+          "damage": "4884",
+          "turn": "2",
+          "hp": "420000",
+          "def": "100",
+          "drop": "081",
+          "lv": "1",
+          "note": "{{人類剋制 ‧ 攻*atk=4884}}",
+          "esjson": null
+        },
+        {
+          "card": "118",
+          "stage": "7",
+          "num": "",
+          "damage": "1",
+          "turn": "2",
+          "hp": "850000",
+          "def": "202",
+          "soul": "1",
+          "note": "{{扣血50%}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "title": "尋找以諾塔中的秘密",
+      "cj": [],
+      "data": [
+        {
+          "card": "339",
+          "stage": "6",
+          "num": "",
+          "damage": "9236",
+          "turn": "3",
+          "hp": "450000",
+          "def": "101",
+          "drop": "077",
+          "lv": "1",
+          "note": "{{龍類剋制 ‧ 防}}",
+          "esjson": null
+        },
+        {
+          "card": "341",
+          "stage": "",
+          "num": "",
+          "damage": "5693",
+          "turn": "2",
+          "hp": "150000",
+          "def": "20000",
+          "drop": "081",
+          "lv": "1",
+          "note": "{{龍類剋制 ‧ 攻*atk=5693}}",
+          "esjson": null
+        },
+        {
+          "card": "121",
+          "stage": "7",
+          "num": "",
+          "damage": "7693",
+          "turn": "2",
+          "hp": "900000",
+          "def": "198",
+          "soul": "1",
+          "note": "{{越戰越強 ‧ 銀*atk=7693}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "title": "修行者的苦惱",
+      "cj": [],
+      "data": [
+        {
+          "card": "339",
+          "stage": "6",
+          "num": "",
+          "damage": "8425",
+          "turn": "3",
+          "hp": "320000",
+          "def": "101",
+          "drop": "077",
+          "lv": "1",
+          "note": "{{獸類剋制 ‧ 防}}",
+          "esjson": null
+        },
+        {
+          "card": "341",
+          "stage": "",
+          "num": "",
+          "damage": "3684",
+          "turn": "2",
+          "hp": "30",
+          "def": "200000",
+          "drop": "081",
+          "lv": "1",
+          "note": "{{獸類剋制 ‧ 攻*atk=3684}}",
+          "esjson": null
+        },
+        {
+          "card": "124",
+          "stage": "7",
+          "num": "",
+          "damage": "6800",
+          "turn": "2",
+          "hp": "740000",
+          "def": "200",
+          "soul": "1",
+          "note": "{{中毒7.5%}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "title": "通往天界的階梯",
+      "cj": [],
+      "data": [
+        {
+          "card": "343",
+          "stage": "6",
+          "damage": "8625",
+          "turn": "4",
+          "hp": "38萬",
+          "def": "97",
+          "drop": "085",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "343",
+          "stage": "",
+          "damage": "4215",
+          "turn": "2{{初始CD*2}}",
+          "hp": "25萬",
+          "def": "97",
+          "drop": "085",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "127",
+          "stage": "7",
+          "damage": "4517",
+          "turn": "2{{初始CD*2}}",
+          "hp": "85萬",
+          "def": "193",
+          "soul": "1",
+          "note": "{{反彈15%}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "title": "階梯的盡頭",
+      "cj": [],
+      "data": [
+        {
+          "card": "342",
+          "stage": "6",
+          "damage": "23000",
+          "turn": "4{{初始CD*4}}",
+          "hp": "7",
+          "def": "30萬",
+          "drop": "083",
+          "lv": "1",
+          "note": "{{1Combo盾}}<!--無首消-->",
+          "esjson": null
+        },
+        {
+          "card": "342",
+          "stage": "",
+          "damage": "11598",
+          "turn": "3",
+          "hp": "35萬",
+          "def": "97",
+          "drop": "083",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "130",
+          "stage": "7",
+          "damage": "6900",
+          "turn": "2",
+          "hp": "82萬",
+          "def": "194",
+          "soul": "1",
+          "note": "{{中毒15%}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "293",
+      "title": "門之海",
+      "cj": [],
+      "data": [
+        {
+          "card": "087",
+          "stage": "8",
+          "damage": "2254",
+          "turn": "2",
+          "hp": "16萬",
+          "coin": "372",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "2845",
+          "hp": "154000",
+          "coin": "372",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "1804",
+          "turn": "2",
+          "hp": "186000",
+          "coin": "372",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "116",
+          "stage": "9",
+          "damage": "3223",
+          "hp": "22萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "119",
+          "stage": "",
+          "damage": "3353",
+          "turn": "3",
+          "hp": "20萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "122",
+          "stage": "",
+          "damage": "3224",
+          "hp": "28萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "125",
+          "stage": "",
+          "damage": "3352",
+          "turn": "3",
+          "hp": "25萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "128",
+          "stage": "",
+          "damage": "3353",
+          "hp": "26萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "293",
+          "stage": "10",
+          "damage": "4500",
+          "turn": "2{{初始CD*2}}",
+          "hp": "150萬",
+          "coin": "100",
+          "note": "{{光暗轉換 ‧ 吸收}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "293",
+      "title": "門海深處 {{EXTRA}}",
+      "cj": [
+        "隊伍中有 3 個或以上的水屬性成員 (不包括隊伍技能)",
+        "隊伍中有 3 個或以上的火屬性成員 (不包括隊伍技能)",
+        "隊伍中有 3 個或以上的木屬性成員 (不包括隊伍技能)"
+      ],
+      "data": [
+        {
+          "card": "087",
+          "stage": "8",
+          "damage": "2254",
+          "turn": "2",
+          "hp": "16萬",
+          "coin": "372",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "2845",
+          "hp": "154000",
+          "coin": "372",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "1804",
+          "turn": "2",
+          "hp": "186000",
+          "coin": "372",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "116",
+          "stage": "9",
+          "damage": "3223",
+          "hp": "22萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "119",
+          "stage": "",
+          "damage": "3353",
+          "turn": "3",
+          "hp": "20萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "122",
+          "stage": "",
+          "damage": "3224",
+          "hp": "28萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "125",
+          "stage": "",
+          "damage": "3352",
+          "turn": "3",
+          "hp": "25萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "128",
+          "stage": "",
+          "damage": "3353",
+          "hp": "26萬",
+          "coin": "381",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "293",
+          "stage": "10",
+          "damage": "4500",
+          "turn": "2{{初始CD*2}}",
+          "hp": "150萬",
+          "coin": "100",
+          "chest": "2500",
+          "note": "{{光暗轉換 ‧ 吸收}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

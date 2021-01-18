@@ -1,0 +1,148 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "971",
+      "title": "魔族賢者篇 ‧ 第一章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "971",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5000000",
+          "def": "2420",
+          "coin": "1315",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        },
+        {
+          "card": "971",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9805840",
+          "def": "2420",
+          "coin": "1315",
+          "chest": "4000",
+          "es": "921",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI135.png|static/es/SI309.png|static/es/SI218.png",
+            "title": "中毒40% ‧ 首回攻後木心化血"
+          }
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "title": "魔族賢者篇 ‧ 第一章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1442",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4817520",
+          "def": "103230",
+          "coin": "209",
+          "es": "589",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉橫火"
+          }
+        },
+        {
+          "card": "1442",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "4817520",
+          "def": "3230",
+          "coin": "209",
+          "es": "589",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉橫火"
+          }
+        },
+        {
+          "card": "1442",
+          "stage": "",
+          "turn": "2{{初始CD*3}}",
+          "hp": "4817520",
+          "def": "3230",
+          "coin": "209",
+          "es": "589",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉橫火"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "2",
+          "turn": "3{{初始CD*3}}",
+          "hp": "6389570",
+          "def": "4850",
+          "coin": "674",
+          "es": "1245",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI014.png",
+            "title": "首消光傷害吸收"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "6389570",
+          "def": "4850",
+          "coin": "674",
+          "es": "1245",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI014.png",
+            "title": "首消光傷害吸收"
+          }
+        },
+        {
+          "card": "136",
+          "stage": "3{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7763190",
+          "def": "14360",
+          "coin": "0",
+          "es": "796",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "✕形燃燒10%"
+          }
+        },
+        {
+          "card": "136",
+          "stage": "",
+          "turn": "1",
+          "hp": "12684520",
+          "def": "14360",
+          "coin": "1368",
+          "chest": "8000",
+          "es": "16",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越戰越強-金"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1015",
+      "title": "逃出鐵牢",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "585",
+          "stage": "4",
+          "turn": "1(1)",
+          "hp": "5926430",
+          "def": "1510",
+          "chest": "4000",
+          "coin": "249",
+          "es": "67",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "高級拼圖盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "583",
+          "stage": "",
+          "turn": "3(3)",
+          "hp": "6031250",
+          "def": "1830",
+          "chest": "4000",
+          "coin": "249",
+          "es": "52",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png",
+            "title": "攻前盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "872",
+      "title": "讓人變怪物的法陣",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "5",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1192",
+          "stage": "1",
+          "turn": "1(2)",
+          "hp": "100",
+          "def": "10",
+          "es": "1013",
+          "coin": "0",
+          "note": "{{特性*離開*1}}",
+          "esjson": {
+            "img": "es/SI257.png",
+            "title": "攻擊傷害無效"
+          },
+          "jd": ""
+        },
+        {
+          "card": "871",
+          "stage": "2~4",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "871",
+          "stage": "5",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "874",
+      "title": "少女絲堤",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 少女絲堤 ——開放關卡[絲堤與玩具的怨念](/pages/index/detail/detail?name2=%E7%B5%B2%E5%A0%A4%E8%88%87%E7%8E%A9%E5%85%B7%E7%9A%84%E6%80%A8%E5%BF%B5)",
+        "讓 鐵皮蜂鳥騎士 離開——開放關卡[無路可走](/pages/index/detail/detail?name2=%E7%84%A1%E8%B7%AF%E5%8F%AF%E8%B5%B0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "5",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "871",
+          "stage": "5",
+          "turn": "1(1)",
+          "hp": "4302580",
+          "def": "730",
+          "coin": "905",
+          "lv": "15",
+          "es": "45",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png",
+            "title": "技能封鎖"
+          },
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3(3)",
+          "hp": "7148590",
+          "def": "550",
+          "coin": "905",
+          "lv": "15",
+          "es": "50",
+          "note": "{{特性*離開*2}}",
+          "esjson": {
+            "img": "es/SI124.png",
+            "title": "無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "4271690",
+          "def": "690",
+          "coin": "905",
+          "lv": "15",
+          "es": "604",
+          "note": "",
+          "esjson": {
+            "img": "es/SI228.png",
+            "title": "軌跡黏附"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "330",
+      "title": "眾神紀錄 ‧ 主線第二章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "097",
+          "stage": "1-3",
+          "turn": "2",
+          "hp": "3000000",
+          "def": "2060",
+          "coin": "146",
+          "es": "911",
+          "note": "",
+          "esjson": {
+            "img": "es/SI033.png",
+            "title": "首消全木盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "turn": "2",
+          "hp": "2900000",
+          "def": "2000",
+          "coin": "146",
+          "es": "909",
+          "note": "",
+          "esjson": {
+            "img": "es/SI031.png",
+            "title": "首消全水盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "turn": "2",
+          "hp": "3200000",
+          "def": "2080",
+          "coin": "146",
+          "es": "910",
+          "note": "",
+          "esjson": {
+            "img": "es/SI032.png",
+            "title": "首消全火盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "103",
+          "stage": "",
+          "turn": "2",
+          "hp": "3100000",
+          "def": "2040",
+          "coin": "146",
+          "es": "913",
+          "note": "",
+          "esjson": {
+            "img": "es/SI035.png",
+            "title": "首消全暗盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "105",
+          "stage": "",
+          "turn": "2",
+          "hp": "2800000",
+          "def": "2020",
+          "coin": "146",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "es/SI034.png",
+            "title": "首消全光盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "330",
+          "stage": "4",
+          "turn": "2(2)",
+          "hp": "8200000",
+          "def": "15800",
+          "coin": "277",
+          "es": "909",
+          "note": "",
+          "esjson": {
+            "img": "es/SI031.png",
+            "title": "首消全水盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "330",
+          "stage": "",
+          "turn": "2(1)",
+          "hp": "8200000",
+          "def": "15800",
+          "coin": "277",
+          "chest": "4000",
+          "es": "909",
+          "note": "",
+          "esjson": {
+            "img": "es/SI031.png",
+            "title": "首消全水盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "854",
+      "title": "眾神紀錄 ‧ 主線第二章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "186",
+          "stage": "1-3",
+          "turn": "2",
+          "hp": "5400000",
+          "def": "8800",
+          "coin": "643",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "854",
+          "stage": "4{{雙血}}",
+          "turn": "1(1)",
+          "hp": "9210000",
+          "def": "65000",
+          "coin": "0",
+          "es": "1823",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI236.png",
+            "title": "突擊65% ‧ 攻後電擊2顆"
+          },
+          "jd": ""
+        },
+        {
+          "card": "854",
+          "stage": "",
+          "turn": "1",
+          "hp": "8960000",
+          "def": "65000",
+          "coin": "3392",
+          "chest": "4000",
+          "es": "2826",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI282.png|es/SI103.png|es/SI003.png",
+            "title": "突擊10%-左右暴風輪轉 ‧ 5+Combo追擊盾 ‧ 木屬防禦75%"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "title": "眾神紀錄 ‧ 主線第二章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界擊倒 ![193](zhs/193i.png) 1 次——開放關卡[眾神紀錄 ‧ 支線關卡之鑄劍練習](/pages/index/detail/detail?name2=%E7%9C%BE%E7%A5%9E%E7%B4%80%E9%8C%84%20%E2%80%A7%20%E6%94%AF%E7%B7%9A%E9%97%9C%E5%8D%A1%E4%B9%8B%E9%91%84%E5%8A%8D%E7%B7%B4%E7%BF%92)",
+        "通過 眾神紀錄 ‧ 主線第二章第三話 ——開放關卡[眾神紀錄 ‧ 主線第三章](/pages/index/detail/detail?name2=%E7%9C%BE%E7%A5%9E%E7%B4%80%E9%8C%84%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E4%B8%89%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "193",
+          "stage": "1",
+          "turn": "2(2)",
+          "hp": "6520000",
+          "def": "43000",
+          "coin": "63",
+          "es": "516",
+          "note": "",
+          "esjson": {
+            "img": "es/SI229.png",
+            "title": "雙重燃燒10%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "193",
+          "stage": "2{{雙血}}",
+          "turn": "1(1)",
+          "hp": "5610000",
+          "def": "43000",
+          "coin": "0",
+          "es": "1594",
+          "note": "",
+          "esjson": {
+            "img": "es/SI183.png",
+            "title": "始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "193",
+          "stage": "",
+          "turn": "1",
+          "hp": "9870000",
+          "def": "43000",
+          "coin": "63",
+          "chest": "8000",
+          "es": "2316",
+          "note": "",
+          "esjson": {
+            "img": "es/SI121.png|es/SI123.png|es/SI158.png|es/SI188.png",
+            "title": "附加消除重置 ‧ [3回減攻80%] ‧ 越戰越強-金"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

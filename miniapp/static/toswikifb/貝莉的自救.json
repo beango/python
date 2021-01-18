@@ -1,0 +1,110 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1330",
+      "title": "染血的斗篷",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "stage": "1~2",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1192",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "5123",
+          "es": "530",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "妖精技能回復"
+          }
+        },
+        {
+          "card": "713",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "397800",
+          "def": "13980",
+          "coin": "0",
+          "es": "667",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI221.png|static/es/SI217.png",
+            "title": "1-4顆追擊風化20% ‧ 溢補盾"
+          }
+        },
+        {
+          "card": "713",
+          "stage": "",
+          "hp": "10487600",
+          "def": "13980",
+          "coin": "6100",
+          "chest": "8000",
+          "es": "1263",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI256.png|static/es/SI131.png|static/es/SI228.png",
+            "title": "消心盾5% ‧ 扣血90% ‧ 雙重黏附"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "061",
+      "title": "岡山上的邊緣",
+      "cj": [],
+      "data": [
+        {
+          "card": "030",
+          "stage": "",
+          "damage": "1618",
+          "hp": "17525",
+          "coin": "108",
+          "drop": "029",
+          "lv": "3",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "070",
+          "stage": "",
+          "damage": "431",
+          "hp": "3692",
+          "lv": "3",
+          "coin": "160",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "076",
+          "stage": "",
+          "damage": "1348",
+          "hp": "3951",
+          "lv": "3",
+          "coin": "106",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "110",
+          "stage": "",
+          "damage": "810",
+          "hp": "3121",
+          "lv": "3",
+          "coin": "55",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "253",
+          "stage": "",
+          "damage": "6666",
+          "hp": "7000",
+          "lv": "1",
+          "coin": "300",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "277",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "060",
+          "stage": "6{{前置}}",
+          "damage": "250",
+          "hp": "1295",
+          "coin": "151",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "061",
+          "stage": "6",
+          "damage": "2250",
+          "hp": "10031",
+          "drop": "060",
+          "lv": "3",
+          "coin": "0",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "081",
+      "title": "塗毒之刃",
+      "cj": [],
+      "data": [
+        {
+          "card": "030",
+          "stage": "",
+          "damage": "1678",
+          "hp": "18199",
+          "coin": "112",
+          "drop": "029",
+          "lv": "3",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "070",
+          "stage": "",
+          "damage": "447",
+          "hp": "3834",
+          "coin": "166",
+          "lv": "3",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "076",
+          "stage": "",
+          "damage": "1398",
+          "hp": "4103",
+          "coin": "110",
+          "lv": "3",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "110",
+          "stage": "",
+          "damage": "840",
+          "hp": "3241",
+          "coin": "57",
+          "lv": "3",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "253",
+          "stage": "",
+          "damage": "6666",
+          "hp": "7000",
+          "lv": "1",
+          "coin": "300",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "277",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "080",
+          "stage": "6{{前置}}",
+          "damage": "1298",
+          "hp": "3800",
+          "coin": "102",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "081",
+          "stage": "6",
+          "damage": "4367",
+          "hp": "20251",
+          "drop": "080",
+          "lv": "1",
+          "coin": "0",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "071",
+      "title": "夢之樂章",
+      "cj": [],
+      "data": [
+        {
+          "card": "030",
+          "stage": "",
+          "damage": "1858",
+          "hp": "20221",
+          "coin": "124",
+          "drop": "029",
+          "lv": "3",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "070",
+          "stage": "",
+          "damage": "495",
+          "hp": "4260",
+          "coin": "184",
+          "lv": "3",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "076",
+          "stage": "",
+          "damage": "1548",
+          "hp": "4559",
+          "coin": "122",
+          "lv": "3",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "110",
+          "stage": "",
+          "damage": "930",
+          "hp": "3601",
+          "coin": "63",
+          "lv": "3",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "253",
+          "stage": "",
+          "damage": "6666",
+          "hp": "7000",
+          "lv": "1",
+          "coin": "300",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "277",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "070",
+          "stage": "8",
+          "num": "2",
+          "damage": "271",
+          "hp": "2272",
+          "coin": "100",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "071",
+          "stage": "",
+          "damage": "1274",
+          "hp": "31697",
+          "coin": "183",
+          "note": "{{召喚小怪}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

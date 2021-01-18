@@ -1,0 +1,217 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/28 22:00",
+      "end": "2020/11/1 23:59",
+      "note": "僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": [
+        {
+          "star": "3",
+          "id": "C394",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        }
+      ],
+      "cs_jltj": "成功通过 地狱级 关卡 3 次",
+      "cs_jl": "2532",
+      "cs_jlsl": "1"
+    }
+  ],
+  "cjtimes": 1,
+  "stages": [
+    {
+      "id": "2532",
+      "title": "暴走的力量 地獄級",
+      "cj": [
+        "隊伍中只有水屬性的成員  (不包括隊伍技能)",
+        "隊伍中只有神族成員",
+        "隊伍中只有暗屬性的成員  (不包括隊伍技能)"
+      ],
+      "data": [
+        {
+          "card": "837",
+          "stage": "1",
+          "damage": "24398",
+          "turn": "2{{初始CD*2}}",
+          "hp": "94608400",
+          "def": "89000",
+          "coin": "208",
+          "es": "3185",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png|static/es/SI188.png",
+            "title": "首消6Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "24398",
+          "turn": "2{{初始CD*1}}",
+          "hp": "94608400",
+          "def": "89000",
+          "coin": "208",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "24398",
+          "turn": "2{{初始CD*3}}",
+          "hp": "94608400",
+          "def": "89000",
+          "coin": "208",
+          "es": "3186",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI087.png|static/es/SI188.png",
+            "title": "首消7Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "1849",
+          "stage": "2",
+          "damage": "22705",
+          "turn": "1{{初始CD*1}}",
+          "hp": "267465890",
+          "def": "387360",
+          "coin": "600",
+          "es": "3344",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI073.png|static/es/SI302.png|static/es/SI047.png|static/es/SI229.png",
+            "title": "神外防禦90% ‧ 首回隨機轉火 ‧ 攻後火橫縱輪轉 ‧ 軌跡燃燒2000"
+          }
+        },
+        {
+          "card": "2085",
+          "stage": "3{{雙血}}",
+          "damage": "82620",
+          "turn": "1{{初始CD*3}}",
+          "hp": "503698040",
+          "def": "597080",
+          "coin": "0",
+          "es": "3893",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI304.png|static/es/SI047.png|static/es/SI146.png",
+            "title": "攻前盾 ‧ 光外最多轉光 ‧ 首消光傷害零化-反擊100%"
+          }
+        },
+        {
+          "card": "2085",
+          "stage": "",
+          "damage": "57088",
+          "turn": "1",
+          "hp": "639041360",
+          "def": "597080",
+          "coin": "7223",
+          "es": "3124",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI140.png|static/es/SI025.png|static/es/SI181.png|static/es/SI124.png",
+            "title": "CD1 ‧ 龍脈重置 ‧ 暗強化初級拼圖盾-限 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1149",
+          "stage": "4",
+          "damage": "32705",
+          "turn": "3{{初始CD*3}}",
+          "hp": "185413980",
+          "def": "153210",
+          "coin": "1220",
+          "es": "2984",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI012.png",
+            "title": "突擊65%-四連燃燒10% ‧ 燃燒位置轉火 ‧ 首消火傷害吸收"
+          }
+        },
+        {
+          "card": "959",
+          "stage": "",
+          "damage": "14052",
+          "turn": "1{{初始CD*1}}",
+          "hp": "259325740",
+          "def": "287050",
+          "coin": "12050",
+          "es": "3952",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png|static/es/SI032.png",
+            "title": "能力繼承 ‧ 首消全火盾"
+          }
+        },
+        {
+          "card": "964",
+          "stage": "5",
+          "damage": "57115",
+          "turn": "2{{初始CD*2}}",
+          "hp": "378124650",
+          "def": "410520",
+          "coin": "21125",
+          "es": "3733",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png|static/es/SI268.png|static/es/SI251.png",
+            "title": "強化盾-反擊100% ‧ 每回符石還原 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "2526",
+          "stage": "6",
+          "damage": "23158",
+          "turn": "1{{初始CD*1}}",
+          "hp": "569873130",
+          "def": "842000",
+          "coin": "6383",
+          "es": "4292",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/ES995.png|static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI144.png|static/es/SI251.png",
+            "title": "先攻 ‧ 絕對領域-2000萬 ‧ 二五直行燃燒20% ‧ 燃燒轉火 ‧ 首消火傷害零化-受傷反饋100% ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "2532",
+          "stage": "7",
+          "damage": "25876",
+          "turn": "1{{初始CD*1}}",
+          "hp": "128085320",
+          "def": "947850",
+          "coin": "7643",
+          "es": "4317",
+          "note": "<font color=orange>碎裂上限為10格</font>",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI122.png|static/es/ES996.png|static/es/ES567.png|static/es/ES749.png|static/es/SI257.png",
+            "title": "先攻⇒禁錮 ‧ 絕對領域-5000萬 ‧ 攻後2格碎裂 ‧ 首消水暗Combo同等盾 ‧ 25%盾"
+          }
+        },
+        {
+          "card": "2533",
+          "stage": "8{{掉落*EVA}}",
+          "damage": "70213",
+          "turn": "1",
+          "hp": "834208630",
+          "def": "947850",
+          "coin": "7643",
+          "drop": "2532",
+          "lv": "1",
+          "es": "4319",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/ES999.png|static/es/SI339.png|static/es/SI304.png|static/es/SI047.png|static/es/SI251.png",
+            "title": "CD1 ‧ 絕對領域-10億 ‧ 消光1組減傷20% ‧ 光外屬最多轉光 ‧ 無視減傷"
+          }
+        }
+      ]
+    }
+  ]
+}

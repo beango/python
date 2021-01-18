@@ -1,0 +1,74 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "094",
+      "title": "陶德的回憶",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 陶德的回憶 1 次——獲得2000 友情點數"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "097",
+          "stage": "1",
+          "damage": "11749",
+          "turn": "3(3)",
+          "hp": "836438",
+          "def": "1620",
+          "coin": "8",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "damage": "11906",
+          "turn": "3(2)",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "8",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "11813",
+          "turn": "3(4)",
+          "hp": "841763",
+          "def": "1640",
+          "coin": "8",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "094",
+          "stage": "2",
+          "damage": "100",
+          "turn": "1(1)",
+          "hp": "100",
+          "def": "10",
+          "coin": "14",
+          "es": "1013",
+          "note": "{{特性*離開*1}}",
+          "esjson": {
+            "img": "es/SI257.png",
+            "title": "攻擊傷害無效"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

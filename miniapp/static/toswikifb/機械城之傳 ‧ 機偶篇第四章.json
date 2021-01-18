@@ -1,0 +1,114 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1370",
+      "title": "機偶篇 ‧ 第四章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "369",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1370",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1370",
+      "title": "機偶篇 ‧ 第四章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1367",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1370",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "title": "機偶篇 ‧ 第四章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "369",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1367",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "chest": "8000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    }
+  ]
+}

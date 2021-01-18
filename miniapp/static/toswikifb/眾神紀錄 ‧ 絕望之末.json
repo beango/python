@@ -1,0 +1,313 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "840",
+      "title": "眾神紀錄 ‧ 絕望之末第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "945",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "7575",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        },
+        {
+          "card": "831",
+          "stage": "2-4",
+          "turn": "1",
+          "hp": "9800000",
+          "def": "12000",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "9500000",
+          "def": "15000",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "10600000",
+          "def": "18000",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "10400000",
+          "def": "15000",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "1",
+          "hp": "9200000",
+          "def": "11000",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "840",
+          "stage": "5",
+          "turn": "2{{初始CD*2}}",
+          "hp": "52000000",
+          "def": "38000",
+          "coin": "624",
+          "es": "2950",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI014.png|static/es/SI260.png",
+            "title": "首消光傷害吸收-反擊200%"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "56000000",
+          "def": "40000",
+          "coin": "624",
+          "chest": "4000",
+          "es": "3382",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI304.png|static/es/SI047.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 攻後光縱橫輪轉 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "836",
+      "title": "眾神紀錄 ‧ 絕望之末第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1-3",
+          "turn": "1",
+          "hp": "12000",
+          "def": "1",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "1",
+          "hp": "15000",
+          "def": "2",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "1",
+          "hp": "18000",
+          "def": "3",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "1",
+          "hp": "15000",
+          "def": "2",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "1",
+          "hp": "11000",
+          "def": "1",
+          "coin": "148",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "836",
+          "stage": "4",
+          "turn": "3{{初始CD*3}}",
+          "hp": "58000000",
+          "def": "43000",
+          "coin": "624",
+          "es": "941",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png|static/es/SI232.png|static/es/SI218.png",
+            "title": "無視減傷 ‧ 首回化血圍城-心化血"
+          }
+        },
+        {
+          "card": "834",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "54000000",
+          "def": "36000",
+          "coin": "624",
+          "chest": "4000",
+          "es": "282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越攻越強"
+          }
+        }
+      ]
+    },
+    {
+      "id": "942",
+      "title": "眾神紀錄 ‧ 絕望之末第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "945",
+          "stage": "1{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "74170000",
+          "def": "92000",
+          "coin": "0",
+          "es": "2907",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI215.png|static/es/SI251.png",
+            "title": "技能封鎖 ‧ 黑白符石 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "945",
+          "stage": "",
+          "turn": "1",
+          "hp": "109500000",
+          "def": "92000",
+          "coin": "7575",
+          "es": "3505",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI106.png",
+            "title": "軌跡隱藏 ‧ 8+Combo追擊盾"
+          }
+        },
+        {
+          "card": "941",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "89240000",
+          "def": "96000",
+          "coin": "8075",
+          "es": "3371",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI143.png|static/es/SI183.png",
+            "title": "首消水傷害吸收-反擊100% ‧ 水起手始終盾"
+          }
+        },
+        {
+          "card": "944",
+          "stage": "3{{雙血}}",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "96210000",
+          "def": "80000",
+          "coin": "0",
+          "es": "2971",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI158.png|static/es/SI139.png|static/es/SI124.png",
+            "title": "[3回攻擊力變0] ‧ 先攻當前99% ‧ 越扣越強50%-70%-90%-100% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "944",
+          "stage": "",
+          "turn": "1",
+          "hp": "178200000",
+          "def": "80000",
+          "coin": "9075",
+          "es": "3167",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI046.png|static/es/SI236.png|static/es/SI165.png|static/es/SI132.png",
+            "title": "CD3 ‧ 刷新符石-左右直行電擊 ‧ 4秒轉珠 ‧ 扣血100%"
+          }
+        },
+        {
+          "card": "943",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "97190000",
+          "def": "120000",
+          "coin": "8575",
+          "es": "2939",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI048.png",
+            "title": "首消隨機16~25符石追擊盾"
+          }
+        },
+        {
+          "card": "942",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "149500000",
+          "def": "106000",
+          "coin": "0",
+          "es": "3021",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI229.png|static/es/SI047.png|static/es/SI306.png|static/es/SI045.png",
+            "title": "先攻 ‧ 四重燃燒20% ‧ 隨機轉心 ‧ 首消心傷害吸收"
+          }
+        },
+        {
+          "card": "942",
+          "stage": "",
+          "turn": "1",
+          "hp": "260800000",
+          "def": "106000",
+          "coin": "9075",
+          "chest": "8000",
+          "es": "2467",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 扣血100% ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

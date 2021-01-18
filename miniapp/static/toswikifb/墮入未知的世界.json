@@ -1,0 +1,70 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1522",
+      "title": "擊向空中的襲擊",
+      "cj": [],
+      "data": [
+        {
+          "card": "083",
+          "stage": "",
+          "hp": "976584",
+          "def": "2130",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "085",
+          "stage": "",
+          "hp": "962315",
+          "def": "2090",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1522",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3829167",
+          "def": "10180",
+          "coin": "269",
+          "chest": "6000",
+          "es": "7",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "static/es/SI049.png|static/es/SI047.png",
+            "title": "光暗屬輪轉 ‧ 心剋轉當前 ‧ 消剋屬吸血"
+          }
+        }
+      ]
+    }
+  ]
+}

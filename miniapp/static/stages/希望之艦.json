@@ -1,0 +1,101 @@
+{
+  "openhis": [
+    {
+      "start": "2020/11/2",
+      "end": "2020/11/8",
+      "note": "僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2539",
+      "title": "計劃的真相 困難",
+      "cj": [],
+      "data": [
+        {
+          "card": "834",
+          "stage": "1",
+          "damage": "21473",
+          "turn": "2{{初始CD*1}}",
+          "hp": "12985410",
+          "def": "21000",
+          "coin": "624",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "",
+          "damage": "21473",
+          "turn": "2{{初始CD*2}}",
+          "hp": "12985410",
+          "def": "21000",
+          "coin": "624",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "6415",
+          "stage": "20",
+          "damage": "30185",
+          "turn": "1{{初始CD*1}}",
+          "hp": "859065380",
+          "def": "1050000",
+          "coin": "6383",
+          "es": "4325",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI001.png|static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI114.png",
+            "title": "水攻盾 ‧ 六重燃燒20% ‧ 燃燒轉火 ‧ 首消火追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2539",
+      "title": "計劃的真相 一般",
+      "cj": [],
+      "data": [
+        {
+          "card": "834",
+          "stage": "1",
+          "damage": "14386",
+          "turn": "2{{初始CD*1}}",
+          "hp": "8700220",
+          "def": "21000",
+          "coin": "624",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "",
+          "damage": "14386",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8700220",
+          "def": "21000",
+          "coin": "624",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "6415",
+          "stage": "20",
+          "damage": "20623",
+          "turn": "1{{初始CD*1}}",
+          "hp": "575595410",
+          "def": "1050000",
+          "coin": "6383",
+          "es": "4324",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI001.png|static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI114.png",
+            "title": "水外防禦75% ‧ 三重燃燒10% ‧ 燃燒轉火 ‧ 首消火追擊零化"
+          }
+        }
+      ]
+    }
+  ]
+}

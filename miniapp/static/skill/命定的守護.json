@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "命定的守護",
+  "effect": "1 回合內<br>I. 心符石兼具<br>⇒  200% 屬性符石效果<br>II. 2 粒符石即可發動消除，<br>&nbsp;&nbsp;&nbsp;&nbsp;效果持續至消除 1 種符石<br>&nbsp;&nbsp;&nbsp;&nbsp;達 25 粒<br>III. 回合結束時<br>⇒ 自身進入 2 回合瀕死狀態",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2570"
+}

@@ -1,0 +1,254 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1990",
+      "title": "眾神紀錄 ‧ 主線第三章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1153",
+          "stage": "1",
+          "turn": "2{{初始CD*1}}",
+          "hp": "5600000",
+          "def": "14500",
+          "coin": "1020",
+          "es": "1067",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI304.png|static/es/SI047.png",
+            "title": "攻後轉光4顆"
+          }
+        },
+        {
+          "card": "1147",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5800000",
+          "def": "13600",
+          "coin": "1020",
+          "es": "661",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI047.png",
+            "title": "攻後轉水4顆"
+          }
+        },
+        {
+          "card": "706",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9620000",
+          "def": "42000",
+          "coin": "452",
+          "es": "2378",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI011.png|static/es/SI165.png",
+            "title": "突擊25% ‧ 攻後轉直水 ‧ 2秒轉珠"
+          }
+        },
+        {
+          "card": "1990",
+          "stage": "3",
+          "turn": "2{{初始CD*1}}",
+          "hp": "2000000000",
+          "def": "1000000000",
+          "coin": "125",
+          "chest": "4000",
+          "es": "2177",
+          "note": "{{特性*離開*6}}",
+          "esjson": {
+            "img": "static/es/SI304.png|static/es/SI047.png|static/es/SI236.png",
+            "title": "首回隨機轉光 ‧ 攻後光縱橫輪轉 ‧ 攻後電擊趨狂"
+          }
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "title": "眾神紀錄 ‧ 主線第三章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "193",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8790000",
+          "def": "43000",
+          "coin": "63",
+          "es": "876",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI254.png",
+            "title": "越攻越強 ‧ 強化盾-非強化傷害吸收"
+          }
+        },
+        {
+          "card": "193",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*3}}",
+          "hp": "20680000",
+          "def": "43000",
+          "coin": "0",
+          "es": "1758",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png|static/es/SI229.png|static/es/SI124.png",
+            "title": "首消火傷害吸收-雙重燃燒10% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "193",
+          "stage": "",
+          "turn": "1",
+          "hp": "14180000",
+          "def": "43000",
+          "coin": "63",
+          "chest": "4000",
+          "es": "796",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "✕形燃燒10%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "688",
+      "title": "眾神紀錄 ‧ 主線第三章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1271",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5200000",
+          "def": "8300",
+          "coin": "1002",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "1271",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5200000",
+          "def": "8300",
+          "coin": "1002",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "2",
+          "turn": "2{{初始CD*1}}",
+          "hp": "6300000",
+          "def": "10200",
+          "coin": "188",
+          "es": "105",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI047.png",
+            "title": "心轉自身"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "6800000",
+          "def": "15700",
+          "coin": "188",
+          "es": "3382",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI304.png|static/es/SI047.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 攻後光縱橫輪轉 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6300000",
+          "def": "10200",
+          "coin": "188",
+          "es": "105",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI047.png",
+            "title": "心轉自身"
+          }
+        },
+        {
+          "card": "1271",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5200000",
+          "def": "8300",
+          "coin": "1002",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "1271",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5200000",
+          "def": "8300",
+          "coin": "1002",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "688",
+          "stage": "4{{雙血}}",
+          "turn": "2{{初始CD*2}}",
+          "hp": "11790000",
+          "def": "38200",
+          "coin": "0",
+          "es": "2418",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI221.png|static/es/SI254.png",
+            "title": "突擊25% ‧ 三重風化-先 ‧ 強化盾"
+          }
+        },
+        {
+          "card": "688",
+          "stage": "",
+          "turn": "1",
+          "hp": "13810000",
+          "def": "38200",
+          "coin": "7950",
+          "chest": "8000",
+          "es": "3225",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI022.png|static/es/SI181.png|static/es/SI251.png",
+            "title": "人類禁錮 ‧ 火強化初級拼圖盾-限 ‧ 無視減傷"
+          }
+        }
+      ]
+    }
+  ]
+}

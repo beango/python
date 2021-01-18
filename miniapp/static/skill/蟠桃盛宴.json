@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "蟠桃盛宴",
+  "effect": "1 回合內<br>I. 連擊 (Ex. Combo) 數目增加 3<br>II. 自身以外「上古諸神」系列角色的<br>&nbsp;&nbsp;「仙力」增加 5 點<br>II. 將戰友直行的符石<br>⇒ 轉化為與自身直行相同的符石<br>　(包括強化符石、種族符石)<br>III. 若自身為戰友<br>⇒ 則將自身直行的符石<br>&nbsp;&nbsp;&nbsp;&nbsp;轉化為神族符石<br>IV. 發動技能時若自身「仙力」達 10 點<br>⇒ 連擊 (Ex. Combo) 數目額外增加 8",
+  "turn": "14",
+  "minTurn": "3",
+  "pet": "2132"
+}

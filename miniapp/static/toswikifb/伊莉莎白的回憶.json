@@ -1,0 +1,42 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "711",
+      "title": "死亡的意義",
+      "cj": [],
+      "data": [
+        {
+          "card": "1271",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4087330",
+          "def": "8320",
+          "coin": "1202",
+          "es": "1099",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI135.png|static/es/SI254.png",
+            "title": "突擊30% ‧ (5回中毒60%) ‧ 強化盾"
+          }
+        },
+        {
+          "card": "1271",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6387700",
+          "def": "8320",
+          "coin": "1202",
+          "chest": "8000",
+          "es": "704",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png",
+            "title": "附加消除重置"
+          }
+        }
+      ]
+    }
+  ]
+}

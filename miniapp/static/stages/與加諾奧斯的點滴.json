@@ -1,0 +1,88 @@
+{
+  "openhis": [
+    {
+      "start": "2020/11/10 17:00",
+      "end": "2020/11/16 23:59",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "830",
+      "title": "同甘共苦之交",
+      "cj": [],
+      "data": [
+        {
+          "card": "001",
+          "stage": "1",
+          "damage": "39",
+          "turn": "2",
+          "hp": "200",
+          "def": "20",
+          "coin": "6",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "001",
+          "stage": "",
+          "damage": "39",
+          "turn": "2",
+          "hp": "200",
+          "def": "20",
+          "coin": "6",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "001",
+          "stage": "2",
+          "damage": "39",
+          "turn": "2",
+          "hp": "200",
+          "def": "20",
+          "coin": "6",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "001",
+          "stage": "",
+          "damage": "39",
+          "turn": "2",
+          "hp": "200",
+          "def": "20",
+          "coin": "6",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "001",
+          "stage": "3",
+          "damage": "39",
+          "turn": "2",
+          "hp": "200",
+          "def": "20",
+          "coin": "6",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "001",
+          "stage": "",
+          "damage": "39",
+          "turn": "2",
+          "hp": "200",
+          "def": "20",
+          "coin": "6",
+          "chest": "1",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

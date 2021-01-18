@@ -1,0 +1,64 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1594",
+      "title": "神秘人的援助",
+      "cj": [],
+      "data": [
+        {
+          "card": "1595",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4592640",
+          "def": "9580",
+          "es": "1594",
+          "coin": "189",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI183.png",
+            "title": "始終盾"
+          }
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "9316170",
+          "def": "5820",
+          "chest": "4000",
+          "es": "894",
+          "coin": "189",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI212.png",
+            "title": "2倍士氣高昂-無限回復"
+          }
+        }
+      ]
+    },
+    {
+      "id": "712",
+      "title": "她們的僵持",
+      "cj": [],
+      "data": [
+        {
+          "card": "712",
+          "stage": "3",
+          "turn": "1{{初始CD*4}}",
+          "hp": "8435660",
+          "def": "14360",
+          "es": "1309",
+          "coin": "6100",
+          "chest": "4000",
+          "note": "{{特性*離開*7}}",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI257.png|static/es/SI229.png",
+            "title": "突擊25% ‧ 25%盾 ‧ 攻後三重燃燒10%"
+          }
+        }
+      ]
+    }
+  ]
+}

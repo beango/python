@@ -1,0 +1,42 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "713",
+      "title": "追求美味的心",
+      "cj": [],
+      "data": [
+        {
+          "card": "672",
+          "stage": "1",
+          "turn": "1{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "0",
+          "es": "1013",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "攻擊傷害無效"
+          }
+        },
+        {
+          "card": "713",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6100",
+          "chest": "8000",
+          "es": "321",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘50%"
+          }
+        }
+      ]
+    }
+  ]
+}

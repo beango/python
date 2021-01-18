@@ -1,0 +1,742 @@
+{
+  "openhis": [
+    {
+      "start": "2019/6/17",
+      "end": "2019/6/30",
+      "note": "17.3版本更新後開放",
+      "cj": [
+        {
+          "star": "3",
+          "id": "617",
+          "soul": "",
+          "m": "",
+          "num": "2"
+        },
+        {
+          "star": "6",
+          "id": "C08",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        },
+        {
+          "star": "9",
+          "id": "",
+          "soul": "",
+          "m": "1",
+          "num": ""
+        },
+        {
+          "star": "12",
+          "id": "",
+          "soul": "150",
+          "m": "",
+          "num": ""
+        }
+      ]
+    },
+    {
+      "start": "2020/10/26",
+      "end": "2020/11/8",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "617",
+          "soul": "",
+          "m": "",
+          "num": "2"
+        },
+        {
+          "star": "6",
+          "id": "C08",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        },
+        {
+          "star": "9",
+          "id": "",
+          "soul": "",
+          "m": "1",
+          "num": ""
+        },
+        {
+          "star": "12",
+          "id": "",
+          "soul": "150",
+          "m": "",
+          "num": ""
+        }
+      ]
+    }
+  ],
+  "cjtimes": 2,
+  "stages": [
+    {
+      "id": "2146",
+      "title": "數星星 初級",
+      "cj": [
+        "隊伍中有 3 個或以上的光屬性成員 (不包括隊伍技能)",
+        "戰鬥中不使用任何主動技 (包括合體技能)",
+        "於 6 回合內完成關卡"
+      ],
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "379",
+          "hp": "12339",
+          "coin": "102",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "379",
+          "hp": "12341",
+          "coin": "102",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "523",
+          "stage": "",
+          "damage": "510",
+          "hp": "7070",
+          "coin": "103",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "529",
+          "stage": "",
+          "damage": "473",
+          "hp": "7320",
+          "coin": "103",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1113",
+          "stage": "",
+          "damage": "1112",
+          "turn": "2",
+          "hp": "10960",
+          "def": "680",
+          "coin": "305",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1119",
+          "stage": "",
+          "damage": "593",
+          "turn": "1",
+          "hp": "11050",
+          "def": "700",
+          "coin": "305",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1709",
+          "stage": "",
+          "damage": "944",
+          "turn": "3{{初始CD*3}}",
+          "hp": "32280",
+          "def": "1550",
+          "coin": "2648",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2146",
+          "stage": "5",
+          "damage": "5746",
+          "turn": "2{{初始CD*2}}",
+          "hp": "319190",
+          "def": "21930",
+          "coin": "2183",
+          "lv": "1",
+          "chest": "500",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2146",
+      "title": "與前輩的相遇 中級",
+      "cj": [
+        "隊伍中有 3 個或以上的光屬性成員 (不包括隊伍技能)",
+        "隊長與戰友相同",
+        "於 7 回合內完成關卡"
+      ],
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "970",
+          "hp": "48512",
+          "coin": "162",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "970",
+          "hp": "48877",
+          "coin": "162",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "523",
+          "stage": "",
+          "damage": "1420",
+          "hp": "22760",
+          "coin": "163",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "529",
+          "stage": "",
+          "damage": "1318",
+          "hp": "25360",
+          "coin": "163",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1113",
+          "stage": "",
+          "damage": "2683",
+          "turn": "2",
+          "hp": "40600",
+          "def": "680",
+          "coin": "505",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1119",
+          "stage": "",
+          "damage": "1425",
+          "turn": "1",
+          "hp": "40930",
+          "def": "700",
+          "coin": "505",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1709",
+          "stage": "",
+          "damage": "3497",
+          "turn": "3{{初始CD*3}}",
+          "hp": "119580",
+          "def": "1550",
+          "coin": "4388",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1045",
+          "stage": "5",
+          "damage": "3964",
+          "turn": "1{{初始CD*1}}",
+          "hp": "989110",
+          "def": "17350",
+          "coin": "2603",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2146",
+          "stage": "6",
+          "damage": "8576",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1182210",
+          "def": "21930",
+          "coin": "3023",
+          "lv": "1",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2146",
+      "title": "靈魂之友 高級",
+      "cj": [
+        "隊伍中只有光屬性的成員 (不包括隊伍技能)",
+        "隊長及戰友都是人類",
+        "隊伍中只有神族成員"
+      ],
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "1690",
+          "hp": "132752",
+          "coin": "282",
+          "lv": "5",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          }
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "1690",
+          "hp": "133397",
+          "coin": "282",
+          "lv": "5",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          }
+        },
+        {
+          "card": "523",
+          "stage": "",
+          "damage": "3365",
+          "hp": "143040",
+          "coin": "283",
+          "lv": "5",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "529",
+          "stage": "",
+          "damage": "2981",
+          "hp": "150180",
+          "coin": "283",
+          "lv": "5",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1113",
+          "stage": "",
+          "damage": "5377",
+          "turn": "2",
+          "hp": "166570",
+          "def": "680",
+          "lv": "5",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1119",
+          "stage": "",
+          "damage": "2856",
+          "turn": "1",
+          "hp": "167100",
+          "def": "700",
+          "lv": "5",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1709",
+          "stage": "",
+          "damage": "5219",
+          "turn": "3{{初始CD*3}}",
+          "hp": "178490",
+          "def": "1550",
+          "lv": "5",
+          "coin": "7868",
+          "es": "383",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "軌跡燃燒200"
+          }
+        },
+        {
+          "card": "515",
+          "stage": "4",
+          "damage": "7656",
+          "turn": "2{{初始CD*2}}",
+          "hp": "2659280",
+          "def": "12030",
+          "coin": "801",
+          "es": "680",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "？形隱藏 ‧ 15%隱藏3顆符石"
+          }
+        },
+        {
+          "card": "1045",
+          "stage": "7",
+          "damage": "5917",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3663390",
+          "def": "17350",
+          "coin": "4703",
+          "es": "1109",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png",
+            "title": "首消暗追擊零化"
+          }
+        },
+        {
+          "card": "2146",
+          "stage": "8",
+          "damage": "12802",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4378584",
+          "def": "21930",
+          "coin": "5123",
+          "lv": "1",
+          "chest": "1500",
+          "soul": "2",
+          "craft": "1",
+          "es": "3341",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI015.png|static/es/SI183.png",
+            "title": "首消暗傷害吸收 ‧ 始終盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2146",
+      "title": "渴望動盪 超級 {{EXTRA}}",
+      "cj": [
+        "隊伍中只有光屬性的成員 (不包括隊伍技能)",
+        "隊伍中有 3 個或以上的獸類成員",
+        "隊伍中只有暗屬性的成員 (不包括隊伍技能)"
+      ],
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "2230",
+          "hp": "243432",
+          "coin": "372",
+          "lv": "15",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          }
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "2230",
+          "hp": "244287",
+          "coin": "372",
+          "lv": "15",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          }
+        },
+        {
+          "card": "523",
+          "stage": "",
+          "damage": "4486",
+          "hp": "257390",
+          "coin": "373",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "529",
+          "stage": "",
+          "damage": "3974",
+          "hp": "266900",
+          "coin": "373",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1113",
+          "stage": "",
+          "damage": "8735",
+          "turn": "2",
+          "hp": "309140",
+          "def": "680",
+          "coin": "1205",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1119",
+          "stage": "",
+          "damage": "4249",
+          "turn": "1",
+          "hp": "310010",
+          "def": "700",
+          "coin": "1205",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1709",
+          "stage": "",
+          "damage": "7790",
+          "turn": "3{{初始CD*3}}",
+          "hp": "266410",
+          "def": "1550",
+          "coin": "10478",
+          "lv": "15",
+          "es": "384",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "軌跡燃燒500"
+          }
+        },
+        {
+          "card": "515",
+          "stage": "4",
+          "damage": "11427",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3969080",
+          "def": "12030",
+          "coin": "1011",
+          "es": "681",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "？形隱藏 ‧ 15%隱藏4顆符石"
+          }
+        },
+        {
+          "card": "1045",
+          "stage": "7",
+          "damage": "8831",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5467750",
+          "def": "17350",
+          "coin": "5963",
+          "es": "1584",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png|static/es/SI305.png|static/es/SI236.png",
+            "title": "首消暗追擊零化 ‧ 暗電擊"
+          }
+        },
+        {
+          "card": "2146",
+          "stage": "8",
+          "damage": "12802",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6535200",
+          "def": "21930",
+          "coin": "6383",
+          "lv": "1",
+          "chest": "2000",
+          "soul": "3",
+          "craft": "1",
+          "es": "3342",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI015.png|static/es/SI260.png|static/es/SI183.png",
+            "title": "2回技能封鎖 ‧ 首消暗傷害吸收-反擊100% ‧ 暗起手始終盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2146",
+      "title": "不平凡的挑戰 精英級 {{ELITE}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "2770",
+          "hp": "354112",
+          "coin": "462",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          }
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "2770",
+          "hp": "355177",
+          "coin": "462",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          }
+        },
+        {
+          "card": "523",
+          "stage": "",
+          "damage": "5982",
+          "hp": "376520",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "529",
+          "stage": "",
+          "damage": "5299",
+          "hp": "389200",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1113",
+          "stage": "",
+          "damage": "11881",
+          "turn": "2",
+          "hp": "478920",
+          "def": "680",
+          "coin": "1505",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1119",
+          "stage": "",
+          "damage": "6072",
+          "turn": "1",
+          "hp": "480360",
+          "def": "700",
+          "coin": "1505",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1709",
+          "stage": "",
+          "damage": "11628",
+          "turn": "3{{初始CD*3}}",
+          "hp": "396720",
+          "def": "1550",
+          "coin": "13088",
+          "es": "385",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "軌跡燃燒800"
+          }
+        },
+        {
+          "card": "1709",
+          "stage": "1{{掉落*白金}}",
+          "damage": "11628",
+          "turn": "3{{初始CD*4}}",
+          "hp": "396720",
+          "def": "1550",
+          "coin": "13088",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1709",
+          "stage": "",
+          "damage": "11628",
+          "turn": "3{{初始CD*2}}",
+          "hp": "396720",
+          "def": "1550",
+          "coin": "13088",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "515",
+          "stage": "4",
+          "damage": "17056",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5924010",
+          "def": "12030",
+          "coin": "1221",
+          "es": "682",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "？形隱藏 ‧ 15%隱藏5顆符石"
+          }
+        },
+        {
+          "card": "1045",
+          "stage": "7",
+          "damage": "13182",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8160830",
+          "def": "17350",
+          "coin": "7223",
+          "es": "1585",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png|static/es/SI305.png|static/es/SI236.png",
+            "title": "首消暗追擊零化 ‧ 暗電擊2顆"
+          }
+        },
+        {
+          "card": "2146",
+          "stage": "8{{掉落*白金}}",
+          "damage": "12802",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9754030",
+          "def": "21930",
+          "coin": "7643",
+          "lv": "1",
+          "es": "3343",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI015.png|static/es/SI260.png|static/es/SI183.png",
+            "title": "4回技能封鎖 ‧ 首消暗傷害吸收-反擊200% ‧ 暗起手始終盾"
+          }
+        }
+      ]
+    }
+  ]
+}

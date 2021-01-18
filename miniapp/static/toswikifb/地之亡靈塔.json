@@ -1,0 +1,62 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "070",
+      "title": "翠綠色的小怪",
+      "cj": [],
+      "data": [
+        {
+          "card": "070",
+          "stage": "3",
+          "num": "2",
+          "damage": "55",
+          "hp": "355",
+          "lv": "1",
+          "coin": "19",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "title": "狼之森林",
+      "cj": [],
+      "data": [
+        {
+          "card": "110",
+          "stage": "3",
+          "num": "2",
+          "damage": "105",
+          "hp": "301",
+          "lv": "1",
+          "coin": "8",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "090",
+      "title": "石岩之魔塔",
+      "cj": [],
+      "data": [
+        {
+          "card": "090",
+          "stage": "5",
+          "num": "3",
+          "damage": "48",
+          "hp": "229",
+          "lv": "1",
+          "chest": "300",
+          "soul": "1",
+          "coin": "20",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

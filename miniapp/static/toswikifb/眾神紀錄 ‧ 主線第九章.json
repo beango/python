@@ -1,0 +1,264 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "196",
+      "title": "眾神紀錄 ‧ 主線第九章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "196",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "26297410",
+          "def": "57000",
+          "coin": "125",
+          "es": "651",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png",
+            "title": "攻後木縱橫輪轉"
+          }
+        },
+        {
+          "card": "196",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*3}}",
+          "hp": "30368220",
+          "def": "57000",
+          "coin": "0",
+          "es": "1668",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI139.png|static/es/SI306.png|static/es/SI221.png",
+            "title": "攻前盾 ‧ 首攻扣血當前99% ‧ 攻後全心風化3000"
+          }
+        },
+        {
+          "card": "196",
+          "stage": "",
+          "turn": "1",
+          "hp": "35982590",
+          "def": "57000",
+          "coin": "125",
+          "chest": "4000",
+          "es": "3225",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI022.png|static/es/SI181.png|static/es/SI251.png",
+            "title": "人類禁錮 ‧ 火強化初級拼圖盾-限 ‧ 無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1626",
+      "title": "眾神紀錄 ‧ 主線第九章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "",
+          "hp": "10332000",
+          "def": "12000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "9686250",
+          "def": "15000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "12054000",
+          "def": "18000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "11623500",
+          "def": "15000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "hp": "9040500",
+          "def": "11000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "579",
+      "title": "眾神紀錄 ‧ 主線第九章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "833",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12608040",
+          "def": "15000",
+          "coin": "248",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12608040",
+          "def": "15000",
+          "coin": "248",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12608040",
+          "def": "15000",
+          "coin": "248",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "28582170",
+          "def": "43000",
+          "coin": "248",
+          "es": "3185",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png|static/es/SI188.png",
+            "title": "首消6Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "28582170",
+          "def": "43000",
+          "coin": "248",
+          "es": "3185",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png|static/es/SI188.png",
+            "title": "首消6Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "831",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "30584300",
+          "def": "42000",
+          "coin": "248",
+          "es": "3176",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI143.png",
+            "title": "首消水傷害吸收-反擊50%"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "31204690",
+          "def": "45000",
+          "coin": "248",
+          "es": "1594",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI183.png",
+            "title": "始終盾"
+          }
+        },
+        {
+          "card": "196",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "43057790",
+          "def": "57000",
+          "coin": "125",
+          "es": "1145",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI156.png|static/es/SI250.png",
+            "title": "回復力變0 ‧ 循環累積30+同屬符石盾"
+          }
+        },
+        {
+          "card": "579",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "39621470",
+          "def": "157000",
+          "coin": "0",
+          "es": "2914",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI236.png|static/es/SI105.png",
+            "title": "神外技能重置 ‧ 電擊3顆 ‧ 7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "579",
+          "stage": "",
+          "turn": "1",
+          "hp": "58203710",
+          "def": "157000",
+          "coin": "5580",
+          "chest": "8000",
+          "es": "2814",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI140.png|static/es/SI159.png|static/es/SI232.png|static/es/SI311.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "龍脈重置-CD1 ‧ 化血圍城-暗化血 ‧ 扣血100% ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

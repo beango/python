@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "ZERO 集束光線",
+  "effect": "I. 將最底 1 橫行及<br>&nbsp;&nbsp;&nbsp;最右方 1 直行的符石<br>⇒ 轉化為水強化符石<br>1 回合內<br>II. 自身對獸類及機械族目標<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻擊力 3 倍<br>III. 若發動技能時生命力全滿<br>⇒ 全隊攻擊力額外 1.5 倍",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "2150"
+}

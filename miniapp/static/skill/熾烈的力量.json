@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "熾烈的力量",
+  "effect": "I. 引爆「火及心以外」符石<br>⇒ 掉落隊伍成員屬性強化符石<br><br>1 回合內<br>II. 自身攻擊力 10 倍，<br>&nbsp;&nbsp;&nbsp;&nbsp;此傷害無視防禦力，<br>&nbsp;&nbsp;&nbsp;&nbsp;其他成員不能發動攻擊<br><br>III. 若隊伍中有<br>&nbsp;&nbsp;&nbsp;&nbsp;「卿雲護庇 ‧ 蒼璧」或<br>&nbsp;&nbsp;&nbsp;&nbsp;「豁達浪息 ‧ 蒼璧」<br>⇒ 所受傷害不會使你死亡<br><br>IV. 若隊伍中有<br>&nbsp;&nbsp;&nbsp;&nbsp;「編號 8299 ‧ 南納」<br>⇒ 火及心符石互相兼具效果",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2587"
+}

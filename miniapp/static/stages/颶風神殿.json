@@ -1,0 +1,425 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "139",
+      "title": "乘疾風之途",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "7",
+        "exp": "2000"
+      },
+      "data": [
+        {
+          "card": "061",
+          "stage": "",
+          "damage": "5540",
+          "hp": "83550",
+          "def": "12000",
+          "turn": "4",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "2108",
+          "hp": "44530",
+          "def": "280",
+          "turn": "1",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "damage": "4342",
+          "hp": "59292",
+          "def": "860",
+          "turn": "2",
+          "lv": "12",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "3470",
+          "hp": "190160",
+          "def": "4260",
+          "turn": "2(2)",
+          "lv": "12",
+          "note": "{{中毒15%}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "336",
+          "stage": "",
+          "damage": "2050",
+          "hp": "173000",
+          "def": "500",
+          "turn": "1",
+          "drop": "071",
+          "lv": "12",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "341",
+          "stage": "",
+          "damage": "8000",
+          "hp": "157900",
+          "def": "3400",
+          "turn": "2",
+          "drop": "081",
+          "lv": "12",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "458",
+          "stage": "6",
+          "damage": "9680",
+          "hp": "278900",
+          "def": "3500",
+          "turn": "2(2)",
+          "drop": "091",
+          "lv": "12",
+          "note": "{{召喚小怪}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "061",
+          "num": "2",
+          "stage": "",
+          "damage": "2405",
+          "hp": "12",
+          "def": "60萬",
+          "turn": "1(1)",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "139",
+          "stage": "7",
+          "damage": "6360",
+          "hp": "30",
+          "def": "60萬",
+          "turn": "1(1)",
+          "drop": "137",
+          "lv": "1",
+          "note": "{{無視減傷}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "title": "聖獸仰望的天空",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "7",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "061",
+          "stage": "",
+          "damage": "5540",
+          "hp": "83550",
+          "def": "12000",
+          "turn": "4",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "damage": "4340",
+          "hp": "59292",
+          "def": "860",
+          "turn": "2",
+          "lv": "3",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "336",
+          "stage": "",
+          "damage": "2050",
+          "hp": "173200",
+          "def": "500",
+          "turn": "1",
+          "drop": "071",
+          "lv": "3",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "2108",
+          "hp": "44530",
+          "def": "280",
+          "turn": "1",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "3470",
+          "hp": "190160",
+          "def": "4260",
+          "turn": "2",
+          "lv": "3",
+          "note": "{{中毒15%}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "341",
+          "stage": "",
+          "damage": "8000",
+          "hp": "157900",
+          "def": "3400",
+          "turn": "2",
+          "drop": "081",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "458",
+          "stage": "",
+          "damage": "4660",
+          "hp": "178900",
+          "def": "1500",
+          "turn": "2",
+          "drop": "",
+          "note": "{{無視減傷}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "184",
+          "stage": "6",
+          "damage": "10200",
+          "hp": "648600",
+          "def": "380",
+          "turn": "2(2)",
+          "note": "{{人類剋制 ‧ 攻*atk=10200}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "154",
+          "stage": "",
+          "damage": "99999",
+          "hp": "20",
+          "def": "60萬",
+          "turn": "5(5)",
+          "note": "{{全體無效}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "032",
+          "stage": "7",
+          "damage": "99999",
+          "hp": "202000",
+          "def": "46萬",
+          "turn3": "",
+          "drop": "029",
+          "lv": "1",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "216",
+      "title": "庇護大地的天神",
+      "note": "※ 颶風神殿 STAGE CLEARED 會獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※<br />",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "30",
+        "battle": "10",
+        "exp": "3000"
+      },
+      "data": [
+        {
+          "card": "061",
+          "stage": "",
+          "damage": "5540",
+          "hp": "83550",
+          "def": "12000",
+          "turn": "4",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "damage": "4342",
+          "hp": "59292",
+          "def": "860",
+          "turn": "2",
+          "lv": "3",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "336",
+          "stage": "",
+          "damage": "2050",
+          "hp": "173200",
+          "def": "500",
+          "turn": "1",
+          "drop": "071",
+          "lv": "3",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "2108",
+          "hp": "44530",
+          "def": "280",
+          "turn": "1",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "458",
+          "stage": "",
+          "damage": "4460",
+          "hp": "178900",
+          "def": "1500",
+          "turn": "2",
+          "drop": "091",
+          "lv": "3",
+          "note": "{{無視減傷}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "3470",
+          "hp": "190160",
+          "def": "4260",
+          "turn": "2",
+          "lv": "3",
+          "note": "{{中毒15%}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "341",
+          "stage": "",
+          "damage": "8000",
+          "hp": "157900",
+          "def": "3400",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "453",
+          "stage": "5",
+          "damage": "6250",
+          "hp": "30",
+          "def": "50萬",
+          "turn": "1(1)",
+          "drop": "",
+          "note": "{{先攻}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "452",
+          "stage": "",
+          "damage": "14530",
+          "hp": "24",
+          "def": "50萬",
+          "turn": "4(4)",
+          "drop": "",
+          "note": "{{問號珠20%}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "463",
+          "stage": "9",
+          "damage": "100",
+          "hp": "24",
+          "def": "60萬",
+          "turn": "1",
+          "drop": "",
+          "note": "{{扣血40%}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "462",
+          "stage": "",
+          "damage": "100",
+          "hp": "624880",
+          "def": "1080",
+          "turn": "1",
+          "drop": "",
+          "note": "{{扣血40%}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "216",
+          "stage": "10",
+          "damage": "99999",
+          "hp": "835000",
+          "def": "60萬",
+          "turn": "3(3)",
+          "note": "{{風化 ‧ 先}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

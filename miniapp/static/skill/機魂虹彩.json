@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "機魂虹彩",
+  "effect": "I. 將所有符石轉化為機械族符石<br>1 回合內<br>II. 記錄「移動符石時間完結一刻」<br>&nbsp;&nbsp;&nbsp;&nbsp;場上的符石分佈<br>&nbsp;&nbsp;&nbsp;(包括強化符石、種族符石)<br>⇒ 首批掉落所記錄的符石",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2478"
+}

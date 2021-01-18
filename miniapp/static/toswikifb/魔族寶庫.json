@@ -1,0 +1,108 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1125",
+      "title": "錢包滿滿",
+      "cj": [],
+      "data": [
+        {
+          "card": "487",
+          "stage": "1",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "chest": "100000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "chest": "100000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "2-6",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "chest ": " 100000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "chest ": " 100000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "chest ": " 100000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "chest ": " 100000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "chest ": " 100000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1125",
+          "stage": "7",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8285140",
+          "def": "7870",
+          "coin": "6383",
+          "chest": "100000",
+          "es": "16",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越戰越強-金"
+          }
+        }
+      ]
+    }
+  ]
+}

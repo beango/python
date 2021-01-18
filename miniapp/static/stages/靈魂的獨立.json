@@ -1,0 +1,118 @@
+{
+  "openhis": [
+    {
+      "start": "2020/11/2",
+      "end": "2020/11/8",
+      "note": "僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2540",
+      "title": "意識的渴望",
+      "cj": [],
+      "data": [
+        {
+          "card": "281",
+          "stage": "1{{掉落*銀}}",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "300",
+          "lv": "1",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        },
+        {
+          "card": "282",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "300",
+          "lv": "1",
+          "es": "584",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI138.png",
+            "title": "龍脈回復"
+          }
+        },
+        {
+          "card": "960",
+          "stage": "2",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100000000",
+          "def": "10",
+          "coin": "150",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "958",
+          "stage": "3",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100000000",
+          "def": "10",
+          "coin": "150",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "281",
+          "stage": "4{{掉落*銀}}",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "300",
+          "lv": "1",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        },
+        {
+          "card": "282",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "300",
+          "lv": "1",
+          "es": "584",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI138.png",
+            "title": "龍脈回復"
+          }
+        },
+        {
+          "card": "2540",
+          "stage": "5",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100000000",
+          "def": "10",
+          "coin": "125",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

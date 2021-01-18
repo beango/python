@@ -1,0 +1,51 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "711",
+      "title": "死亡的意義",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2250"
+      },
+      "data": [
+        {
+          "card": "1271",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "4087330",
+          "def": "8320",
+          "coin": "1202",
+          "es": "1099",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI135.png|es/SI254.png",
+            "title": "突擊30% ‧ (5回中毒60%) ‧ 強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1271",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "6387700",
+          "def": "8320",
+          "coin": "1202",
+          "chest": "8000",
+          "es": "704",
+          "note": "",
+          "esjson": {
+            "img": "es/SI121.png|es/SI123.png",
+            "title": "附加消除重置"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

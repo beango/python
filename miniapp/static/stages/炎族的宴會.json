@@ -1,0 +1,230 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "134",
+      "title": "霹靂遊俠的挑戰",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "5",
+        "battle": "5",
+        "exp": "70"
+      },
+      "data": [
+        {
+          "card": "026",
+          "damage": "432",
+          "hp": "3948",
+          "drop": "025",
+          "lv": "1",
+          "coin": "28",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "058",
+          "damage": "71",
+          "hp": "312",
+          "lv": "2",
+          "coin": "43",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "068",
+          "damage": "113",
+          "hp": "829",
+          "lv": "2",
+          "coin": "40",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "078",
+          "damage": "362",
+          "hp": "889",
+          "lv": "2",
+          "coin": "26",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "134",
+          "stage": "5",
+          "damage": "1221",
+          "hp": "5327",
+          "coin": "52",
+          "lv": "1",
+          "chest": "1000",
+          "soul": "1",
+          "note": "掉落率低",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "title": "命運支配者",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "5",
+        "battle": "5",
+        "exp": "86"
+      },
+      "data": [
+        {
+          "card": "026",
+          "damage": "463",
+          "hp": "4277",
+          "drop": "025",
+          "lv": "1",
+          "coin": "30",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "058",
+          "damage": "76",
+          "hp": "338",
+          "lv": "2",
+          "coin": "46",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "068",
+          "damage": "121",
+          "hp": "898",
+          "lv": "2",
+          "coin": "43",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "078",
+          "damage": "388",
+          "hp": "963",
+          "lv": "2",
+          "coin": "28",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "068",
+          "stage": "5",
+          "num": "2",
+          "damage": "97",
+          "hp": "691",
+          "lv": "2",
+          "coin": "34",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "119",
+          "stage": "",
+          "damage": "571",
+          "hp": "5279",
+          "lv": "1",
+          "coin": "60",
+          "note": "掉落率低",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "044",
+      "title": "岩漿試煉",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "7",
+        "battle": "7",
+        "exp": "137"
+      },
+      "data": [
+        {
+          "card": "026",
+          "damage": "556",
+          "hp": "5264",
+          "coin": "36",
+          "drop": "025",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "058",
+          "damage": "91",
+          "hp": "416",
+          "lv": "2",
+          "coin": "55",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "068",
+          "damage": "145",
+          "hp": "1105",
+          "lv": "2",
+          "coin": "52",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "078",
+          "damage": "466",
+          "hp": "1185",
+          "lv": "2",
+          "coin": "34",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "044",
+          "stage": "7",
+          "damage": "1484",
+          "hp": "15003",
+          "coin": "57",
+          "lv": "1",
+          "note": "掉落率低",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "715",
+      "title": "再遇陶德",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1006",
+          "damage": "8067",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "1008",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "1010",
+          "damage": "3952",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "1012",
+          "damage": "8124",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "1014",
+          "damage": "4083",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "715",
+          "stage": "3",
+          "damage": "8866",
+          "turn": "1(1)",
+          "hp": "2000000000",
+          "def": "3760",
+          "coin": "6100",
+          "escape": "5",
+          "es": "701",
+          "note": "{{特性*離開*5}}",
+          "esjson": {
+            "img": "es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾"
+          },
+          "jd": "R3特性场景特性：10211"
+        }
+      ]
+    },
+    {
+      "id": "715",
+      "title": "來不及的救援",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "583",
+          "stage": "1",
+          "damage": "16982",
+          "turn": "4(1)",
+          "hp": "2286980",
+          "def": "670",
+          "coin": "189",
+          "lv": "15",
+          "drop": "488",
+          "es": "786",
+          "note": "",
+          "esjson": {
+            "img": "es/SI013.png",
+            "title": "攻後木橫縱輪轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "585",
+          "stage": "",
+          "damage": "17034",
+          "turn": "4(3)",
+          "hp": "2258460",
+          "def": "680",
+          "coin": "189",
+          "lv": "15",
+          "drop": "490",
+          "es": "653",
+          "note": "",
+          "esjson": {
+            "img": "es/SI015.png",
+            "title": "攻後暗縱橫輪轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "581",
+          "stage": "2",
+          "damage": "12690",
+          "turn": "3(3)",
+          "hp": "20",
+          "def": "8000000",
+          "coin": "189",
+          "lv": "15",
+          "drop": "486",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          },
+          "jd": ""
+        },
+        {
+          "card": "582",
+          "stage": "",
+          "damage": "6573",
+          "turn": "1(1)",
+          "hp": "3594670",
+          "def": "590",
+          "coin": "189",
+          "lv": "15",
+          "drop": "487",
+          "es": "930",
+          "note": "",
+          "esjson": {
+            "img": "es/SI302.png|es/SI168.png",
+            "title": "火點燃符石20%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "715",
+          "stage": "3{{雙血}}",
+          "damage": "9034",
+          "turn": "1(1)",
+          "hp": "4383620",
+          "def": "3760",
+          "coin": "0",
+          "es": "1749",
+          "note": "",
+          "esjson": {
+            "img": "es/SI043.png|es/SI254.png|es/SI067.png|es/SI121.png",
+            "title": "(98回心禁消) ‧ 強化盾 ‧ 3倍獵神-技能重置"
+          },
+          "jd": "R3特性场景特性：10211"
+        },
+        {
+          "card": "715",
+          "stage": "",
+          "damage": "6356",
+          "turn": "1",
+          "hp": "6726530",
+          "def": "3760",
+          "coin": "7600",
+          "es": "886",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI188.png",
+            "title": "無法控制 ‧ 越攻越強"
+          },
+          "jd": "R3特性场景特性：10211"
+        }
+      ]
+    },
+    {
+      "id": "875",
+      "title": "殺氣騰騰的玩具",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 殺氣騰騰的玩具 1 次——開放關卡[玩具的無奈](/pages/index/detail/detail?name2=%E7%8E%A9%E5%85%B7%E7%9A%84%E7%84%A1%E5%A5%88)",
+        "殺死 ![875](zhs/875i.png) 1次──開放關卡[過去的幸福](/pages/index/detail/detail?name2=%E9%81%8E%E5%8E%BB%E7%9A%84%E5%B9%B8%E7%A6%8F)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "5",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "872",
+          "damage": "8598",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "damage": "4364",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "damage": "11937",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "871",
+          "stage": "5",
+          "damage": "4386",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "damage": "8603",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "8598",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

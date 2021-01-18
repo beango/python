@@ -1,0 +1,308 @@
+{
+  "openhis": [
+    {
+      "start": "2020/11/9",
+      "end": "2020/11/15",
+      "note": "",
+      "cj": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "408",
+      "title": "增廣見聞",
+      "cj": [],
+      "data": [
+        {
+          "card": "241",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "242",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "243",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "244",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "245",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "246",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "247",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "248",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "249",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "250",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "251",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "252",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "253",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "254",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "255",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "261",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "262",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "264",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "265",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "267",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "268",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "385",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "386",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "408",
+          "stage": "4",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "100",
+          "coin": "125",
+          "chest": "10000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

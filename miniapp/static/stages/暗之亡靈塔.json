@@ -1,0 +1,106 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "074",
+      "title": "暗影迷宮",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "3",
+        "battle": "3",
+        "exp": "52"
+      },
+      "data": [
+        {
+          "card": "074",
+          "stage": "3",
+          "num": "3",
+          "damage": "73",
+          "hp": "496",
+          "lv": "1",
+          "coin": "25",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "title": "狼之黑夜",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "3",
+        "battle": "3",
+        "exp": "60"
+      },
+      "data": [
+        {
+          "card": "114",
+          "stage": "3",
+          "num": "3",
+          "damage": "142",
+          "hp": "420",
+          "lv": "1",
+          "coin": "10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "title": "黑石之魔塔",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "5",
+        "battle": "5",
+        "exp": "68"
+      },
+      "data": [
+        {
+          "card": "094",
+          "stage": "4",
+          "num": "3",
+          "damage": "64",
+          "hp": "316",
+          "lv": "1",
+          "coin": "26",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "104",
+          "stage": "5{{前置}}",
+          "damage": "48",
+          "hp": "140",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "105",
+          "stage": "5",
+          "damage": "386",
+          "hp": "841",
+          "drop": "104",
+          "lv": "1",
+          "coin": "16",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

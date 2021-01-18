@@ -1,0 +1,10 @@
+{
+  "type": "skill",
+  "name": "八重破壞光線",
+  "effect": "I. 隨機引爆場上 8 粒<br>&nbsp;&nbsp;「水及暗以外」的符石<br>1 回合內<br>II. 連擊 (Combo) 數目增加 8<br>III. 個人追打 8 次",
+  "turn": "0",
+  "minTurn": "0",
+  "ep": "15",
+  "minEp": "9",
+  "pet": "2151"
+}

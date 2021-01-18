@@ -1,0 +1,5138 @@
+[
+  {
+    "id": "001",
+    "path": "static/zhs/001i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 水",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "木符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "002",
+    "path": "static/zhs/002i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 水",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "木符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "003",
+    "path": "static/zhs/003i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 水",
+    "skill1": "",
+    "lskill": "海之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "木符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "004",
+    "path": "static/zhs/004i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石激發 ‧ 水",
+    "skill1": "",
+    "lskill": "海之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "木符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "005",
+    "path": "static/zhs/005i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "水符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "006",
+    "path": "static/zhs/006i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "水符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "007",
+    "path": "static/zhs/007i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "水符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "008",
+    "path": "static/zhs/008i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石激發 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "水符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "009",
+    "path": "static/zhs/009i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 木",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "火符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "010",
+    "path": "static/zhs/010i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 木",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "火符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "011",
+    "path": "static/zhs/011i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 木",
+    "skill1": "",
+    "lskill": "森之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "火符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "012",
+    "path": "static/zhs/012i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石激發 ‧ 木",
+    "skill1": "",
+    "lskill": "森之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "火符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "013",
+    "path": "static/zhs/013i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "暗符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "014",
+    "path": "static/zhs/014i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "暗符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "015",
+    "path": "static/zhs/015i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "暗符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "016",
+    "path": "static/zhs/016i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石激發 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "暗符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "017",
+    "path": "static/zhs/017i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "光符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "018",
+    "path": "static/zhs/018i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "光符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "019",
+    "path": "static/zhs/019i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石解放 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "光符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "020",
+    "path": "static/zhs/020i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "人類",
+    "series": "主角",
+    "skill": "符石激發 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之怒",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "光符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "021",
+    "path": "static/zhs/021i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "龍類",
+    "series": "中國神獸",
+    "skill": "攻擊姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "龍之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "022",
+    "path": "static/zhs/022i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "龍類",
+    "series": "中國神獸",
+    "skill": "攻擊姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "龍之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "023",
+    "path": "static/zhs/023i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "龍類",
+    "series": "中國神獸",
+    "skill": "攻擊姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "龍之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "024",
+    "path": "static/zhs/024i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "龍類",
+    "series": "中國神獸",
+    "skill": "攻擊姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "龍之狂怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "025",
+    "path": "static/zhs/025i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "野獸之復甦",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "026",
+    "path": "static/zhs/026i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "野獸之復甦",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "027",
+    "path": "static/zhs/027i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "野獸之復甦",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "028",
+    "path": "static/zhs/028i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "野獸之再生",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "029",
+    "path": "static/zhs/029i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦壁",
+    "skill1": "",
+    "lskill": "野獸之血",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "030",
+    "path": "static/zhs/030i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦壁",
+    "skill1": "",
+    "lskill": "野獸之血",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "031",
+    "path": "static/zhs/031i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦壁",
+    "skill1": "",
+    "lskill": "野獸之血",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "032",
+    "path": "static/zhs/032i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦壁",
+    "skill1": "",
+    "lskill": "野獸之意志",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "033",
+    "path": "static/zhs/033i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之怒",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "034",
+    "path": "static/zhs/034i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之怒",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "035",
+    "path": "static/zhs/035i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之怒",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "036",
+    "path": "static/zhs/036i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "護牆崩壞",
+    "skill1": "",
+    "lskill": "野獸之狂怒",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "037",
+    "path": "static/zhs/037i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "野獸之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "038",
+    "path": "static/zhs/038i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "野獸之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "039",
+    "path": "static/zhs/039i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "野獸之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "040",
+    "path": "static/zhs/040i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "中國神獸",
+    "skill": "防禦姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "野獸之狂怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "041",
+    "path": "static/zhs/041i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "水波怒擊",
+    "skill1": "",
+    "lskill": "水之防壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "042",
+    "path": "static/zhs/042i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "水波怒擊",
+    "skill1": "",
+    "lskill": "海森護牆",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "043",
+    "path": "static/zhs/043i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "水波爆擊",
+    "skill1": "",
+    "lskill": "海森闇之壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "044",
+    "path": "static/zhs/044i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "火焰怒擊",
+    "skill1": "",
+    "lskill": "火之防壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "045",
+    "path": "static/zhs/045i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "火焰怒擊",
+    "skill1": "",
+    "lskill": "炎海護牆",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "046",
+    "path": "static/zhs/046i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "火焰爆撃",
+    "skill1": "",
+    "lskill": "炎海聖之壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "047",
+    "path": "static/zhs/047i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "大地怒擊",
+    "skill1": "",
+    "lskill": "木之防壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "048",
+    "path": "static/zhs/048i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "大地怒擊",
+    "skill1": "",
+    "lskill": "森炎護牆",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "049",
+    "path": "static/zhs/049i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "大地爆擊",
+    "skill1": "",
+    "lskill": "森炎闇之壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "050",
+    "path": "static/zhs/050i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "閃光怒擊",
+    "skill1": "",
+    "lskill": "光之防壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "051",
+    "path": "static/zhs/051i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "閃光怒擊",
+    "skill1": "",
+    "lskill": "聖海護牆",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "052",
+    "path": "static/zhs/052i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "閃光爆撃",
+    "skill1": "",
+    "lskill": "聖海森之壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "053",
+    "path": "static/zhs/053i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "暗影怒擊",
+    "skill1": "",
+    "lskill": "暗之防壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "054",
+    "path": "static/zhs/054i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "暗影怒擊",
+    "skill1": "",
+    "lskill": "闇炎護牆",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "055",
+    "path": "static/zhs/055i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "防龍",
+    "skill": "暗影爆撃",
+    "skill1": "",
+    "lskill": "闇炎聖之壁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "056",
+    "path": "static/zhs/056i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "寒冰一擊",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "057",
+    "path": "static/zhs/057i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "攻擊姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "058",
+    "path": "static/zhs/058i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "烈炎一擊",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "059",
+    "path": "static/zhs/059i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "攻擊姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "060",
+    "path": "static/zhs/060i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "旋風一擊",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "061",
+    "path": "static/zhs/061i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "攻擊姿勢 ‧ 木",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "062",
+    "path": "static/zhs/062i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "金光一擊",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "063",
+    "path": "static/zhs/063i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "攻擊姿勢 ‧ 光",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉光",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "064",
+    "path": "static/zhs/064i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "暗色一擊",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "065",
+    "path": "static/zhs/065i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "地精",
+    "skill": "攻擊姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "066",
+    "path": "static/zhs/066i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "生命補充",
+    "skill1": "",
+    "lskill": "水之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "067",
+    "path": "static/zhs/067i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "超級治療",
+    "skill1": "",
+    "lskill": "水之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "068",
+    "path": "static/zhs/068i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "生命補充",
+    "skill1": "",
+    "lskill": "火之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "069",
+    "path": "static/zhs/069i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "超級治療",
+    "skill1": "",
+    "lskill": "火之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "070",
+    "path": "static/zhs/070i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "生命補充",
+    "skill1": "",
+    "lskill": "木之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "071",
+    "path": "static/zhs/071i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "超級治療",
+    "skill1": "",
+    "lskill": "木之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "072",
+    "path": "static/zhs/072i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "生命補充",
+    "skill1": "",
+    "lskill": "光之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "073",
+    "path": "static/zhs/073i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "超級治療",
+    "skill1": "",
+    "lskill": "光之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "074",
+    "path": "static/zhs/074i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "生命補充",
+    "skill1": "",
+    "lskill": "暗之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "075",
+    "path": "static/zhs/075i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "精靈",
+    "skill": "超級治療",
+    "skill1": "",
+    "lskill": "暗之制裁",
+    "tags": [
+      "增回",
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "076",
+    "path": "static/zhs/076i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "寒冰一擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "077",
+    "path": "static/zhs/077i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "寒冰強擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "078",
+    "path": "static/zhs/078i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "烈炎一擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "079",
+    "path": "static/zhs/079i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "烈炎強擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "080",
+    "path": "static/zhs/080i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "旋風一擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "081",
+    "path": "static/zhs/081i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "旋風強擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "082",
+    "path": "static/zhs/082i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "金光一擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "083",
+    "path": "static/zhs/083i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "金光強擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "084",
+    "path": "static/zhs/084i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "暗色一擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "085",
+    "path": "static/zhs/085i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "蜥蜴戰士",
+    "skill": "暗色強擊",
+    "skill1": "",
+    "lskill": "龍之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "086",
+    "path": "static/zhs/086i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "流水連擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "087",
+    "path": "static/zhs/087i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "流水狂擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "088",
+    "path": "static/zhs/088i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "烈焰連擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "089",
+    "path": "static/zhs/089i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "烈焰狂擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "090",
+    "path": "static/zhs/090i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "片葉連擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "091",
+    "path": "static/zhs/091i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "片葉狂擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "092",
+    "path": "static/zhs/092i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "光刃連擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "093",
+    "path": "static/zhs/093i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "光刃狂擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "094",
+    "path": "static/zhs/094i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "暗戈連擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "095",
+    "path": "static/zhs/095i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "人類",
+    "series": "魔法女孩",
+    "skill": "暗戈狂擊",
+    "skill1": "",
+    "lskill": "人類之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "096",
+    "path": "static/zhs/096i.png",
+    "rare": "1",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "流水連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "097",
+    "path": "static/zhs/097i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "防禦姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "098",
+    "path": "static/zhs/098i.png",
+    "rare": "1",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "烈焰連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "099",
+    "path": "static/zhs/099i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "防禦姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "100",
+    "path": "static/zhs/100i.png",
+    "rare": "1",
+    "attr": "木",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "片葉連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "101",
+    "path": "static/zhs/101i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "防禦姿勢 ‧ 木",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "水轉其他"
+    ]
+  },
+  {
+    "id": "102",
+    "path": "static/zhs/102i.png",
+    "rare": "1",
+    "attr": "光",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "光刃連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "103",
+    "path": "static/zhs/103i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "防禦姿勢 ‧ 光",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "104",
+    "path": "static/zhs/104i.png",
+    "rare": "1",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "暗戈連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "105",
+    "path": "static/zhs/105i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "史萊姆",
+    "skill": "防禦姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "106",
+    "path": "static/zhs/106i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "寒冰一擊",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "107",
+    "path": "static/zhs/107i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "108",
+    "path": "static/zhs/108i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "烈炎一擊",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "109",
+    "path": "static/zhs/109i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "110",
+    "path": "static/zhs/110i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "旋風一擊",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "111",
+    "path": "static/zhs/111i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "112",
+    "path": "static/zhs/112i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "金光一擊",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "113",
+    "path": "static/zhs/113i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "114",
+    "path": "static/zhs/114i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "暗色一擊",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "115",
+    "path": "static/zhs/115i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "狼人",
+    "skill": "裝甲破壞",
+    "skill1": "",
+    "lskill": "野獸之力",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "116",
+    "path": "static/zhs/116i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "凍結",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 水",
+    "tags": [
+      "風化符石處理",
+      "無法行動",
+      "增傷",
+      "敵方轉屬",
+      "凍結敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "117",
+    "path": "static/zhs/117i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "凍結",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 水",
+    "tags": [
+      "風化符石處理",
+      "無法行動",
+      "增傷",
+      "敵方轉屬",
+      "凍結敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "118",
+    "path": "static/zhs/118i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "凍結",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 水",
+    "tags": [
+      "風化符石處理",
+      "無法行動",
+      "增傷",
+      "敵方轉屬",
+      "凍結敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "119",
+    "path": "static/zhs/119i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "加速世界",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 火",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "排珠",
+      "防毒"
+    ]
+  },
+  {
+    "id": "120",
+    "path": "static/zhs/120i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "疾風境界",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 火",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "排珠",
+      "防毒"
+    ]
+  },
+  {
+    "id": "121",
+    "path": "static/zhs/121i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "時間操縱",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 火",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "排珠",
+      "防毒"
+    ]
+  },
+  {
+    "id": "122",
+    "path": "static/zhs/122i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "寄生",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 木",
+    "tags": [
+      "指定符石引爆",
+      "回血",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "寄生敵方"
+    ]
+  },
+  {
+    "id": "123",
+    "path": "static/zhs/123i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "寄生",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 木",
+    "tags": [
+      "指定符石引爆",
+      "回血",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "寄生敵方"
+    ]
+  },
+  {
+    "id": "124",
+    "path": "static/zhs/124i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "寄生",
+    "skill1": "",
+    "lskill": "攻守一體 ‧ 木",
+    "tags": [
+      "指定符石引爆",
+      "回血",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "寄生敵方"
+    ]
+  },
+  {
+    "id": "125",
+    "path": "static/zhs/125i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "神聖結界",
+    "skill1": "",
+    "lskill": "治療之心",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "126",
+    "path": "static/zhs/126i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "神聖結界",
+    "skill1": "",
+    "lskill": "治療之心",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "127",
+    "path": "static/zhs/127i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "神聖結界",
+    "skill1": "",
+    "lskill": "痊癒之心",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "128",
+    "path": "static/zhs/128i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "毒害",
+    "skill1": "",
+    "lskill": "靈魂收割 ‧ 起",
+    "tags": [
+      "指定符石引爆",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "敵方中毒",
+      "防毒"
+    ]
+  },
+  {
+    "id": "129",
+    "path": "static/zhs/129i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "毒害",
+    "skill1": "",
+    "lskill": "靈魂收割 ‧ 狙",
+    "tags": [
+      "指定符石引爆",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "敵方中毒",
+      "防毒"
+    ]
+  },
+  {
+    "id": "130",
+    "path": "static/zhs/130i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "神族",
+    "series": "命運女神",
+    "skill": "毒害",
+    "skill1": "",
+    "lskill": "靈魂收割 ‧ 結",
+    "tags": [
+      "指定符石引爆",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "敵方中毒",
+      "防毒"
+    ]
+  },
+  {
+    "id": "131",
+    "path": "static/zhs/131i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "大海之壁",
+    "skill1": "",
+    "lskill": "不倒意志",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "132",
+    "path": "static/zhs/132i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "大海之壁",
+    "skill1": "",
+    "lskill": "不倒意志",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "133",
+    "path": "static/zhs/133i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "大海之壁",
+    "skill1": "",
+    "lskill": "絕境意志",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "134",
+    "path": "static/zhs/134i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "橫掃千軍",
+    "skill1": "",
+    "lskill": "狐仙軍神",
+    "tags": [
+      "破防",
+      "直傷",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "135",
+    "path": "static/zhs/135i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "橫掃千軍",
+    "skill1": "",
+    "lskill": "狐仙軍神",
+    "tags": [
+      "破防",
+      "直傷",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "136",
+    "path": "static/zhs/136i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "橫掃千軍",
+    "skill1": "",
+    "lskill": "狐仙軍神",
+    "tags": [
+      "破防",
+      "直傷",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "137",
+    "path": "static/zhs/137i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "引弓狙擊",
+    "skill1": "",
+    "lskill": "矢無虛發",
+    "tags": [
+      "破防",
+      "直傷",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "138",
+    "path": "static/zhs/138i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "引弓狙擊",
+    "skill1": "",
+    "lskill": "矢無虛發",
+    "tags": [
+      "破防",
+      "直傷",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "139",
+    "path": "static/zhs/139i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "引弓狙擊",
+    "skill1": "",
+    "lskill": "百步穿楊",
+    "tags": [
+      "破防",
+      "直傷",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "140",
+    "path": "static/zhs/140i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "完全回復",
+    "skill1": "",
+    "lskill": "人之血脈",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "141",
+    "path": "static/zhs/141i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "完全回復",
+    "skill1": "",
+    "lskill": "人之血脈",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "142",
+    "path": "static/zhs/142i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "完全回復",
+    "skill1": "",
+    "lskill": "人類之意志",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "143",
+    "path": "static/zhs/143i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "生命終解",
+    "skill1": "",
+    "lskill": "亡命攻擊",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "144",
+    "path": "static/zhs/144i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "生命終解",
+    "skill1": "",
+    "lskill": "亡命攻擊",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "145",
+    "path": "static/zhs/145i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "人類",
+    "series": "遊俠",
+    "skill": "生命終解",
+    "skill1": "",
+    "lskill": "木馬屠城計",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "146",
+    "path": "static/zhs/146i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "獸類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 水",
+    "skill1": "",
+    "lskill": "水之代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "147",
+    "path": "static/zhs/147i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "獸類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 水",
+    "skill1": "",
+    "lskill": "水之代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "148",
+    "path": "static/zhs/148i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "獸類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 水",
+    "skill1": "",
+    "lskill": "水之代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "149",
+    "path": "static/zhs/149i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "龍類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 火",
+    "skill1": "",
+    "lskill": "灼熱境界",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "150",
+    "path": "static/zhs/150i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "龍類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 火",
+    "skill1": "",
+    "lskill": "灼熱境界",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "151",
+    "path": "static/zhs/151i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "龍類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 火",
+    "skill1": "",
+    "lskill": "燎原境界",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "152",
+    "path": "static/zhs/152i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "人類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 木",
+    "skill1": "",
+    "lskill": "兩儀",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "水轉其他"
+    ]
+  },
+  {
+    "id": "153",
+    "path": "static/zhs/153i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "人類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 木",
+    "skill1": "",
+    "lskill": "兩儀",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "水轉其他"
+    ]
+  },
+  {
+    "id": "154",
+    "path": "static/zhs/154i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "人類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 木",
+    "skill1": "",
+    "lskill": "兩儀",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "水轉其他"
+    ]
+  },
+  {
+    "id": "155",
+    "path": "static/zhs/155i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "獸類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 光",
+    "skill1": "",
+    "lskill": "光明代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉光",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "156",
+    "path": "static/zhs/156i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "獸類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 光",
+    "skill1": "",
+    "lskill": "光明代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉光",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "157",
+    "path": "static/zhs/157i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "獸類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 光",
+    "skill1": "",
+    "lskill": "光明代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉光",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "158",
+    "path": "static/zhs/158i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 暗",
+    "skill1": "",
+    "lskill": "暗黑代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "159",
+    "path": "static/zhs/159i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 暗",
+    "skill1": "",
+    "lskill": "暗黑代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "160",
+    "path": "static/zhs/160i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "巨像",
+    "skill": "符石變換 ‧ 暗",
+    "skill1": "",
+    "lskill": "暗黑代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "161",
+    "path": "static/zhs/161i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "水波猛擊",
+    "skill1": "",
+    "lskill": "水之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "162",
+    "path": "static/zhs/162i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "水波猛擊",
+    "skill1": "",
+    "lskill": "水之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "163",
+    "path": "static/zhs/163i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "水波轟擊",
+    "skill1": "",
+    "lskill": "水之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "164",
+    "path": "static/zhs/164i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "火焰猛擊",
+    "skill1": "",
+    "lskill": "火之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "165",
+    "path": "static/zhs/165i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "火焰猛擊",
+    "skill1": "",
+    "lskill": "火之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "166",
+    "path": "static/zhs/166i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "火焰轟擊",
+    "skill1": "",
+    "lskill": "火之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "167",
+    "path": "static/zhs/167i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "大地猛擊",
+    "skill1": "",
+    "lskill": "木之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "168",
+    "path": "static/zhs/168i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "大地猛擊",
+    "skill1": "",
+    "lskill": "木之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "169",
+    "path": "static/zhs/169i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "大地轟擊",
+    "skill1": "",
+    "lskill": "木之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "170",
+    "path": "static/zhs/170i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "閃光猛擊",
+    "skill1": "",
+    "lskill": "光之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "171",
+    "path": "static/zhs/171i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "閃光猛擊",
+    "skill1": "",
+    "lskill": "光之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "172",
+    "path": "static/zhs/172i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "閃光轟擊",
+    "skill1": "",
+    "lskill": "光之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "173",
+    "path": "static/zhs/173i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "暗影猛擊",
+    "skill1": "",
+    "lskill": "暗之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "174",
+    "path": "static/zhs/174i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "暗影猛擊",
+    "skill1": "",
+    "lskill": "暗之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "175",
+    "path": "static/zhs/175i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "機械族",
+    "series": "機械獸",
+    "skill": "暗影轟擊",
+    "skill1": "",
+    "lskill": "暗之制裁",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "176",
+    "path": "static/zhs/176i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "防禦姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "177",
+    "path": "static/zhs/177i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "防禦姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "178",
+    "path": "static/zhs/178i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "防禦姿勢 ‧ 水",
+    "skill1": "",
+    "lskill": "海之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "179",
+    "path": "static/zhs/179i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "攻擊姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "180",
+    "path": "static/zhs/180i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "攻擊姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "181",
+    "path": "static/zhs/181i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "攻擊姿勢 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "182",
+    "path": "static/zhs/182i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "石化",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "無法行動",
+      "增傷",
+      "敵方轉屬",
+      "石化敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "183",
+    "path": "static/zhs/183i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "石化",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "無法行動",
+      "增傷",
+      "敵方轉屬",
+      "石化敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "184",
+    "path": "static/zhs/184i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "石化",
+    "skill1": "",
+    "lskill": "森之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "無法行動",
+      "增傷",
+      "敵方轉屬",
+      "石化敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "185",
+    "path": "static/zhs/185i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "防禦姿勢 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "186",
+    "path": "static/zhs/186i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "防禦姿勢 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "187",
+    "path": "static/zhs/187i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "防禦姿勢 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉心",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "188",
+    "path": "static/zhs/188i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "攻擊姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "189",
+    "path": "static/zhs/189i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "攻擊姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "190",
+    "path": "static/zhs/190i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "西方魔獸",
+    "skill": "攻擊姿勢 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "191",
+    "path": "static/zhs/191i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "水屬印記",
+    "skill1": "",
+    "lskill": "水之驅動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "192",
+    "path": "static/zhs/192i.png",
+    "rare": "6",
+    "attr": "水",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "水屬印記",
+    "skill1": "",
+    "lskill": "水之連動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "193",
+    "path": "static/zhs/193i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "火屬印記",
+    "skill1": "",
+    "lskill": "火之驅動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "194",
+    "path": "static/zhs/194i.png",
+    "rare": "6",
+    "attr": "火",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "火屬印記",
+    "skill1": "",
+    "lskill": "火之連動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "195",
+    "path": "static/zhs/195i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "木屬印記",
+    "skill1": "",
+    "lskill": "木之驅動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "196",
+    "path": "static/zhs/196i.png",
+    "rare": "6",
+    "attr": "木",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "木屬印記",
+    "skill1": "",
+    "lskill": "木之連動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "197",
+    "path": "static/zhs/197i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "光屬印記",
+    "skill1": "",
+    "lskill": "光之驅動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "198",
+    "path": "static/zhs/198i.png",
+    "rare": "6",
+    "attr": "光",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "光屬印記",
+    "skill1": "",
+    "lskill": "光之連動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "199",
+    "path": "static/zhs/199i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "暗屬印記",
+    "skill1": "",
+    "lskill": "暗之驅動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "200",
+    "path": "static/zhs/200i.png",
+    "rare": "6",
+    "attr": "暗",
+    "race": "神族",
+    "series": "希臘神",
+    "skill": "暗屬印記",
+    "skill1": "",
+    "lskill": "暗之連動",
+    "tags": [
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "201",
+    "path": "static/zhs/201i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 水",
+    "skill1": "",
+    "lskill": "海之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "符石轉水強化",
+      "符石強化",
+      "水轉其他"
+    ]
+  },
+  {
+    "id": "202",
+    "path": "static/zhs/202i.png",
+    "rare": "6",
+    "attr": "水",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 水",
+    "skill1": "",
+    "lskill": "海之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "符石轉水強化",
+      "符石強化",
+      "水轉其他"
+    ]
+  },
+  {
+    "id": "203",
+    "path": "static/zhs/203i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "符石轉火強化",
+      "符石強化",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "204",
+    "path": "static/zhs/204i.png",
+    "rare": "6",
+    "attr": "火",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 火",
+    "skill1": "",
+    "lskill": "炎之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "符石轉火強化",
+      "符石強化",
+      "火轉其他"
+    ]
+  },
+  {
+    "id": "205",
+    "path": "static/zhs/205i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 木",
+    "skill1": "",
+    "lskill": "森之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "符石轉木強化",
+      "符石強化",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "206",
+    "path": "static/zhs/206i.png",
+    "rare": "6",
+    "attr": "木",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 木",
+    "skill1": "",
+    "lskill": "森之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "符石轉木強化",
+      "符石強化",
+      "木轉其他"
+    ]
+  },
+  {
+    "id": "207",
+    "path": "static/zhs/207i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉光",
+      "符石轉光強化",
+      "符石強化",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "208",
+    "path": "static/zhs/208i.png",
+    "rare": "6",
+    "attr": "光",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 光",
+    "skill1": "",
+    "lskill": "聖之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉光",
+      "符石轉光強化",
+      "符石強化",
+      "光轉其他"
+    ]
+  },
+  {
+    "id": "209",
+    "path": "static/zhs/209i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "符石轉暗強化",
+      "符石強化",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "210",
+    "path": "static/zhs/210i.png",
+    "rare": "6",
+    "attr": "暗",
+    "race": "神族",
+    "series": "北歐神",
+    "skill": "符石強化 ‧ 暗",
+    "skill1": "",
+    "lskill": "邪之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "符石轉暗強化",
+      "符石強化",
+      "暗轉其他"
+    ]
+  },
+  {
+    "id": "211",
+    "path": "static/zhs/211i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "獸類",
+    "series": "埃及神",
+    "skill": "符石解放 ‧ 水",
+    "skill1": "",
+    "lskill": "水之制裁",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "木符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "212",
+    "path": "static/zhs/212i.png",
+    "rare": "6",
+    "attr": "水",
+    "race": "獸類",
+    "series": "埃及神",
+    "skill": "符石極限解放 ‧ 水",
+    "skill1": "",
+    "lskill": "水之審判",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "水符石引爆",
+      "水外符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "213",
+    "path": "static/zhs/213i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "龍類",
+    "series": "埃及神",
+    "skill": "符石解放 ‧ 火",
+    "skill1": "",
+    "lskill": "火之制裁",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "水符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "214",
+    "path": "static/zhs/214i.png",
+    "rare": "6",
+    "attr": "火",
+    "race": "龍類",
+    "series": "埃及神",
+    "skill": "符石極限解放 ‧ 火",
+    "skill1": "",
+    "lskill": "火之審判",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "火符石引爆",
+      "火外符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "215",
+    "path": "static/zhs/215i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "龍類",
+    "series": "埃及神",
+    "skill": "符石解放 ‧ 木",
+    "skill1": "",
+    "lskill": "木之制裁",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "火符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "216",
+    "path": "static/zhs/216i.png",
+    "rare": "6",
+    "attr": "木",
+    "race": "龍類",
+    "series": "埃及神",
+    "skill": "符石極限解放 ‧ 木",
+    "skill1": "",
+    "lskill": "木之審判",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "木符石引爆",
+      "木外符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "217",
+    "path": "static/zhs/217i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "獸類",
+    "series": "埃及神",
+    "skill": "符石解放 ‧ 光",
+    "skill1": "",
+    "lskill": "光之制裁",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "暗符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "218",
+    "path": "static/zhs/218i.png",
+    "rare": "6",
+    "attr": "光",
+    "race": "獸類",
+    "series": "埃及神",
+    "skill": "符石極限解放 ‧ 光",
+    "skill1": "",
+    "lskill": "光之審判",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "光符石引爆",
+      "光外符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "219",
+    "path": "static/zhs/219i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "神族",
+    "series": "埃及神",
+    "skill": "符石解放 ‧ 暗",
+    "skill1": "",
+    "lskill": "暗之制裁",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "光符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "220",
+    "path": "static/zhs/220i.png",
+    "rare": "6",
+    "attr": "暗",
+    "race": "神族",
+    "series": "埃及神",
+    "skill": "符石極限解放 ‧ 暗",
+    "skill1": "",
+    "lskill": "暗之審判",
+    "tags": [
+      "引爆",
+      "指定符石引爆",
+      "暗符石引爆",
+      "暗外符石引爆",
+      "風化符石處理",
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "221",
+    "path": "static/zhs/221i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "龍類",
+    "series": "中國神",
+    "skill": "海洋大號令",
+    "skill1": "",
+    "lskill": "龍之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "火轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "222",
+    "path": "static/zhs/222i.png",
+    "rare": "6",
+    "attr": "水",
+    "race": "龍類",
+    "series": "中國神",
+    "skill": "海洋大號令",
+    "skill1": "",
+    "lskill": "海龍王之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉水",
+      "火轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "223",
+    "path": "static/zhs/223i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "中國神",
+    "skill": "焚燒大號令",
+    "skill1": "",
+    "lskill": "燎原境界",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "木轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "224",
+    "path": "static/zhs/224i.png",
+    "rare": "6",
+    "attr": "火",
+    "race": "人類",
+    "series": "中國神",
+    "skill": "焚燒大號令",
+    "skill1": "",
+    "lskill": "獄炎境界",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉火",
+      "木轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "225",
+    "path": "static/zhs/225i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "獸類",
+    "series": "中國神",
+    "skill": "自然大號令",
+    "skill1": "",
+    "lskill": "野獸之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "水轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "226",
+    "path": "static/zhs/226i.png",
+    "rare": "6",
+    "attr": "木",
+    "race": "獸類",
+    "series": "中國神",
+    "skill": "自然大號令",
+    "skill1": "",
+    "lskill": "牛魔王之怒",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉木",
+      "水轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "227",
+    "path": "static/zhs/227i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "妖精類",
+    "series": "中國神",
+    "skill": "金睛火眼",
+    "skill1": "",
+    "lskill": "金剛不壞",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "228",
+    "path": "static/zhs/228i.png",
+    "rare": "6",
+    "attr": "光",
+    "race": "神族",
+    "series": "中國神",
+    "skill": "金睛火眼",
+    "skill1": "",
+    "lskill": "金剛不壞",
+    "tags": [
+      "破防",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "229",
+    "path": "static/zhs/229i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "中國神",
+    "skill": "疾風境界",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "排珠",
+      "防毒"
+    ]
+  },
+  {
+    "id": "230",
+    "path": "static/zhs/230i.png",
+    "rare": "6",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "中國神",
+    "skill": "顛倒眾生",
+    "skill1": "",
+    "lskill": "傾國傾城",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "排珠",
+      "防毒"
+    ]
+  },
+  {
+    "id": "231",
+    "path": "static/zhs/231i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "水波轟擊",
+    "skill1": "",
+    "lskill": "暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "232",
+    "path": "static/zhs/232i.png",
+    "rare": "6",
+    "attr": "水",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "水波爆擊",
+    "skill1": "",
+    "lskill": "致命暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "233",
+    "path": "static/zhs/233i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "火焰轟擊",
+    "skill1": "",
+    "lskill": "暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "234",
+    "path": "static/zhs/234i.png",
+    "rare": "6",
+    "attr": "火",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "火焰爆撃",
+    "skill1": "",
+    "lskill": "致命暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "235",
+    "path": "static/zhs/235i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "大地轟擊",
+    "skill1": "",
+    "lskill": "暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "236",
+    "path": "static/zhs/236i.png",
+    "rare": "6",
+    "attr": "木",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "大地爆擊",
+    "skill1": "",
+    "lskill": "致命暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "237",
+    "path": "static/zhs/237i.png",
+    "rare": "5",
+    "attr": "光",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "閃光轟擊",
+    "skill1": "",
+    "lskill": "暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "238",
+    "path": "static/zhs/238i.png",
+    "rare": "6",
+    "attr": "光",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "閃光爆撃",
+    "skill1": "",
+    "lskill": "致命暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "239",
+    "path": "static/zhs/239i.png",
+    "rare": "5",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "暗影轟擊",
+    "skill1": "",
+    "lskill": "暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "240",
+    "path": "static/zhs/240i.png",
+    "rare": "6",
+    "attr": "暗",
+    "race": "龍類",
+    "series": "遠古神龍",
+    "skill": "暗影爆撃",
+    "skill1": "",
+    "lskill": "致命暴擊",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "241",
+    "path": "static/zhs/241i.png",
+    "rare": "1",
+    "attr": "水",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "水波攻擊",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "242",
+    "path": "static/zhs/242i.png",
+    "rare": "1",
+    "attr": "火",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "火焰攻擊",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "243",
+    "path": "static/zhs/243i.png",
+    "rare": "1",
+    "attr": "木",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "大地攻擊",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "244",
+    "path": "static/zhs/244i.png",
+    "rare": "1",
+    "attr": "光",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "閃光攻擊",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "245",
+    "path": "static/zhs/245i.png",
+    "rare": "1",
+    "attr": "暗",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "暗影攻擊",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "246",
+    "path": "static/zhs/246i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "水波攻擊",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "247",
+    "path": "static/zhs/247i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "火焰攻擊",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "248",
+    "path": "static/zhs/248i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "大地攻擊",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "249",
+    "path": "static/zhs/249i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "閃光攻擊",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "250",
+    "path": "static/zhs/250i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "暗影攻擊",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "251",
+    "path": "static/zhs/251i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "水波攻擊",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "252",
+    "path": "static/zhs/252i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "火焰攻擊",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "253",
+    "path": "static/zhs/253i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "大地攻擊",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "254",
+    "path": "static/zhs/254i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "閃光攻擊",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "255",
+    "path": "static/zhs/255i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "暗影攻擊",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "256",
+    "path": "static/zhs/256i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "水波攻擊",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "257",
+    "path": "static/zhs/257i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "火焰攻擊",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "258",
+    "path": "static/zhs/258i.png",
+    "rare": "4",
+    "attr": "木",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "大地攻擊",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "259",
+    "path": "static/zhs/259i.png",
+    "rare": "4",
+    "attr": "光",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "閃光攻擊",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "260",
+    "path": "static/zhs/260i.png",
+    "rare": "4",
+    "attr": "暗",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "暗影攻擊",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "261",
+    "path": "static/zhs/261i.png",
+    "rare": "1",
+    "attr": "水",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "防禦壁",
+    "skill1": "",
+    "lskill": "不倒意志",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "262",
+    "path": "static/zhs/262i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "防禦壁",
+    "skill1": "",
+    "lskill": "不倒意志",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "263",
+    "path": "static/zhs/263i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "防禦壁",
+    "skill1": "",
+    "lskill": "不倒意志",
+    "tags": [
+      "減傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "264",
+    "path": "static/zhs/264i.png",
+    "rare": "1",
+    "attr": "火",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "烈焰連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "265",
+    "path": "static/zhs/265i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "烈焰連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "266",
+    "path": "static/zhs/266i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "烈焰連擊",
+    "skill1": "",
+    "lskill": "進擊支援",
+    "tags": [
+      "直傷",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "267",
+    "path": "static/zhs/267i.png",
+    "rare": "1",
+    "attr": "木",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "寄生",
+    "skill1": "",
+    "lskill": "野獸之血",
+    "tags": [
+      "指定符石引爆",
+      "回血",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "寄生敵方"
+    ]
+  },
+  {
+    "id": "268",
+    "path": "static/zhs/268i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "寄生",
+    "skill1": "",
+    "lskill": "野獸之血",
+    "tags": [
+      "指定符石引爆",
+      "回血",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "寄生敵方"
+    ]
+  },
+  {
+    "id": "269",
+    "path": "static/zhs/269i.png",
+    "rare": "5",
+    "attr": "木",
+    "race": "進化素材",
+    "series": "進化素材",
+    "skill": "寄生",
+    "skill1": "",
+    "lskill": "野獸之血",
+    "tags": [
+      "指定符石引爆",
+      "回血",
+      "破防",
+      "破防直傷",
+      "增傷",
+      "界王拳",
+      "寄生敵方"
+    ]
+  },
+  {
+    "id": "270",
+    "path": "static/zhs/270i.png",
+    "rare": "1",
+    "attr": "水",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "水波攻擊",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "271",
+    "path": "static/zhs/271i.png",
+    "rare": "1",
+    "attr": "火",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "火焰攻擊",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "272",
+    "path": "static/zhs/272i.png",
+    "rare": "1",
+    "attr": "木",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "大地攻擊",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "273",
+    "path": "static/zhs/273i.png",
+    "rare": "1",
+    "attr": "光",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "閃光攻擊",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "274",
+    "path": "static/zhs/274i.png",
+    "rare": "1",
+    "attr": "暗",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "暗影攻擊",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "275",
+    "path": "static/zhs/275i.png",
+    "rare": "2",
+    "attr": "水",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "水波攻擊",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "276",
+    "path": "static/zhs/276i.png",
+    "rare": "2",
+    "attr": "火",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "火焰攻擊",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "277",
+    "path": "static/zhs/277i.png",
+    "rare": "2",
+    "attr": "木",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "大地攻擊",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "278",
+    "path": "static/zhs/278i.png",
+    "rare": "2",
+    "attr": "光",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "閃光攻擊",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "279",
+    "path": "static/zhs/279i.png",
+    "rare": "2",
+    "attr": "暗",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "暗影攻擊",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "280",
+    "path": "static/zhs/280i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "水波攻擊",
+    "skill1": "",
+    "lskill": "海之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "281",
+    "path": "static/zhs/281i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "火焰攻擊",
+    "skill1": "",
+    "lskill": "炎之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "282",
+    "path": "static/zhs/282i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "大地攻擊",
+    "skill1": "",
+    "lskill": "森之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "283",
+    "path": "static/zhs/283i.png",
+    "rare": "3",
+    "attr": "光",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "閃光攻擊",
+    "skill1": "",
+    "lskill": "聖之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "284",
+    "path": "static/zhs/284i.png",
+    "rare": "3",
+    "attr": "暗",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "暗影攻擊",
+    "skill1": "",
+    "lskill": "邪之力",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "285",
+    "path": "static/zhs/285i.png",
+    "rare": "7",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "封王",
+    "skill": "偷天換日 ‧ 心",
+    "skill1": "",
+    "lskill": "罪之代價",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "增傷",
+      "界王拳",
+      "大幅轉版"
+    ]
+  },
+  {
+    "id": "286",
+    "path": "static/zhs/286i.png",
+    "rare": "7",
+    "attr": "暗",
+    "race": "妖精類",
+    "series": "封王",
+    "skill": "完全回復",
+    "skill1": "",
+    "lskill": "妖精之舞",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "287",
+    "path": "static/zhs/287i.png",
+    "rare": "7",
+    "attr": "暗",
+    "race": "神族",
+    "series": "封王",
+    "skill": "絕地逢生",
+    "skill1": "",
+    "lskill": "絕境意志",
+    "tags": [
+      "增攻",
+      "增傷",
+      "界王拳"
+    ]
+  },
+  {
+    "id": "288",
+    "path": "static/zhs/288i.png",
+    "rare": "7",
+    "attr": "光",
+    "race": "獸類",
+    "series": "封王",
+    "skill": "聖神大號令",
+    "skill1": "",
+    "lskill": "一念之間",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉光",
+      "暗轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "289",
+    "path": "static/zhs/289i.png",
+    "rare": "7",
+    "attr": "暗",
+    "race": "獸類",
+    "series": "封王",
+    "skill": "邪魔大號令",
+    "skill1": "",
+    "lskill": "一念之間",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "符石轉暗",
+      "光轉其他",
+      "心轉其他"
+    ]
+  },
+  {
+    "id": "290",
+    "path": "static/zhs/290i.png",
+    "rare": "7",
+    "attr": "木",
+    "race": "龍類",
+    "series": "封王",
+    "skill": "靈之活 ‧ 龍",
+    "skill1": "",
+    "lskill": "歃血之盟",
+    "tags": [
+      "回血",
+      "增傷",
+      "界王拳",
+      "防毒",
+      "龍脈儀蓄能"
+    ]
+  },
+  {
+    "id": "291",
+    "path": "static/zhs/291i.png",
+    "rare": "6",
+    "attr": "暗",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "暗影猛擊",
+    "skill1": "",
+    "lskill": "邪之怒",
+    "tags": [
+      "直傷",
+      "增傷",
+      "防毒"
+    ]
+  },
+  {
+    "id": "292",
+    "path": "static/zhs/292i.png",
+    "rare": "6",
+    "attr": "木",
+    "race": "強化素材",
+    "series": "強化素材",
+    "skill": "石化",
+    "skill1": "",
+    "lskill": "痊癒之心",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "無法行動",
+      "增傷",
+      "敵方轉屬",
+      "石化敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "293",
+    "path": "static/zhs/293i.png",
+    "rare": "7",
+    "attr": "光",
+    "race": "神族",
+    "series": "封王",
+    "skill": "魔力召喚",
+    "skill1": "",
+    "lskill": "光暗一體",
+    "tags": [
+      "指定符石引爆",
+      "風化符石處理",
+      "我方減攻",
+      "我方攻擊力吸收",
+      "限制成員攻擊",
+      "增傷",
+      "界王拳",
+      "敵方減攻",
+      "防毒"
+    ]
+  },
+  {
+    "id": "294",
+    "path": "static/zhs/294i.png",
+    "rare": "3",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "妖女",
+    "skill": "泡沫爆破",
+    "skill1": "",
+    "lskill": "妖精之歌",
+    "tags": [
+      "指定符石引爆",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "295",
+    "path": "static/zhs/295i.png",
+    "rare": "4",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "妖女",
+    "skill": "泡沫爆破",
+    "skill1": "",
+    "lskill": "妖精之歌",
+    "tags": [
+      "指定符石引爆",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "296",
+    "path": "static/zhs/296i.png",
+    "rare": "5",
+    "attr": "水",
+    "race": "妖精類",
+    "series": "妖女",
+    "skill": "泡沫爆破",
+    "skill1": "",
+    "lskill": "妖精領域",
+    "tags": [
+      "指定符石引爆",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  },
+  {
+    "id": "297",
+    "path": "static/zhs/297i.png",
+    "rare": "3",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "妖女",
+    "skill": "點燃",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "風化符石處理",
+      "增傷",
+      "界王拳",
+      "敵方轉屬",
+      "點燃敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "298",
+    "path": "static/zhs/298i.png",
+    "rare": "4",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "妖女",
+    "skill": "點燃",
+    "skill1": "",
+    "lskill": "妖精之力",
+    "tags": [
+      "風化符石處理",
+      "增傷",
+      "界王拳",
+      "敵方轉屬",
+      "點燃敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "299",
+    "path": "static/zhs/299i.png",
+    "rare": "5",
+    "attr": "火",
+    "race": "妖精類",
+    "series": "妖女",
+    "skill": "點燃",
+    "skill1": "",
+    "lskill": "妖精之怒",
+    "tags": [
+      "風化符石處理",
+      "增傷",
+      "界王拳",
+      "敵方轉屬",
+      "點燃敵方",
+      "防毒"
+    ]
+  },
+  {
+    "id": "300",
+    "path": "static/zhs/300i.png",
+    "rare": "3",
+    "attr": "木",
+    "race": "妖精類",
+    "series": "妖女",
+    "skill": "生命採摘",
+    "skill1": "",
+    "lskill": "妖精之心",
+    "tags": [
+      "風化符石處理",
+      "回血",
+      "我方傷害吸收",
+      "增傷",
+      "界王拳",
+      "防毒"
+    ]
+  }
+]

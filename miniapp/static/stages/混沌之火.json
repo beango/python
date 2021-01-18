@@ -1,0 +1,172 @@
+{
+  "openhis": [
+    {
+      "start": "2020/12/18 22:00",
+      "end": "2020/12/21 23:59",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "C356",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        }
+      ],
+      "cishujl": [
+        {
+          "cs_jltj": "成功通过 [地獄級]() 3 次",
+          "cs_jl": "![2574](zhs/2574i.png) * 1(技能等级 7) "
+        }
+      ]
+    }
+  ],
+  "cj": [],
+  "stages": [
+    {
+      "id": "2574",
+      "title": "烙骨之罪 地獄級",
+      "note": "",
+      "story": "",
+      "cj": [
+        "<span style=\"font-size:12pt; font-weight:800; color:#FF5733;\">2020/12/18 關卡成就|</span> <br>隊伍中只有水屬性的成員  (不包括隊伍技能)<br>隊長及戰友都是妖精類<br>隊伍中只有火屬性的成員  (不包括隊伍技能)"
+      ],
+      "info": {
+        "sta": "50",
+        "battle": "5",
+        "exp": "5000"
+      },
+      "data": [
+        {
+          "card": "710",
+          "stage": "1",
+          "damage": "20852",
+          "turn": "1(3)",
+          "hp": "365176580",
+          "def": "520000",
+          "coin": "",
+          "es": "872",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png",
+            "title": "軌跡黑白"
+          },
+          "jd": ""
+        },
+        {
+          "card": "547",
+          "stage": "",
+          "damage": "19724",
+          "turn": "1(1)",
+          "hp": "139605120",
+          "def": "680000",
+          "coin": "",
+          "es": "281",
+          "note": "",
+          "esjson": {
+            "img": "es/SI106.png",
+            "title": "8+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1355",
+          "stage": "2",
+          "damage": "35644",
+          "turn": "1(1)",
+          "hp": "578393980",
+          "def": "3200000",
+          "coin": "",
+          "es": "2969",
+          "note": "",
+          "esjson": {
+            "img": "es/SI165.png|es/SI224.png|es/SI183.png",
+            "title": "(5回轉珠減3秒) ‧ 隱藏符石-轉 ‧ 始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2557",
+          "stage": "3{{雙血}}",
+          "damage": "15400",
+          "turn": "1(1)",
+          "hp": "423114870",
+          "def": "5600000",
+          "coin": "",
+          "es": "4343",
+          "note": "",
+          "esjson": {
+            "img": "es/SI207.png|es/SI087.png|es/SI188.png|es/SI124.png",
+            "title": "火焰地型10000 ‧ 首消7Combo盾 ‧ 越攻越強 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2557",
+          "stage": "",
+          "damage": "100",
+          "turn": "2",
+          "hp": "953084350",
+          "def": "5600000",
+          "coin": "",
+          "es": "3362",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI250.png|es/SI254.png|es/SI132.png",
+            "title": "CD2 ‧ 附加盾 ‧ 強化盾 ‧ 扣血100%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2550",
+          "stage": "4",
+          "damage": "30869",
+          "turn": "1(1)",
+          "hp": "749371480",
+          "def": "5400000",
+          "coin": "",
+          "es": "3819",
+          "note": "",
+          "esjson": {
+            "img": "es/SI340.png|es/SI188.png|es/SI124.png",
+            "title": "(消暗減攻99%) ‧ 越戰越強-金 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2574",
+          "stage": "5{{雙血}}{{掉落*白金}}",
+          "damage": "100",
+          "turn": "1(1)",
+          "hp": "10000000",
+          "def": "8200000",
+          "coin": "",
+          "es": "4373",
+          "note": "",
+          "esjson": {
+            "img": "es/SI217.png|es/SI306.png|es/SI229.png|es/SI139.png|es/SI124.png",
+            "title": "溢補盾 ‧ 心位置燃燒20% ‧ 越扣越強25% ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2574",
+          "stage": "",
+          "damage": "41457",
+          "turn": "1",
+          "hp": "1312735460",
+          "def": "8200000",
+          "coin": "",
+          "lv": "1",
+          "es": "4375",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI048.png|es/ES1369.png|es/SI144.png",
+            "title": "CD1 ‧ 剋屬盾 ‧ 回復顛倒 ‧ 首消火傷害化血-受傷反饋500%"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

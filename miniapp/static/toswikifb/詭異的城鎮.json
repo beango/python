@@ -1,0 +1,221 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1011",
+      "title": "發狂的魔族",
+      "cj": [],
+      "data": [
+        {
+          "card": "1007",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "726580",
+          "def": "350",
+          "coin": "920",
+          "es": "649",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水縱橫輪轉"
+          }
+        },
+        {
+          "card": "1009",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "695230",
+          "def": "370",
+          "coin": "920",
+          "es": "785",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後火橫縱輪轉"
+          }
+        },
+        {
+          "card": "1015",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "803160",
+          "def": "430",
+          "coin": "920",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "1015",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "803160",
+          "def": "430",
+          "coin": "920",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1231470",
+          "def": "580",
+          "coin": "920",
+          "es": "291",
+          "ws": "10071",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1231470",
+          "def": "580",
+          "coin": "920",
+          "chest": "4000",
+          "es": "291",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        }
+      ]
+    },
+    {
+      "id": "715",
+      "title": "無法制止的陶德",
+      "cj": [],
+      "data": [
+        {
+          "card": "1014",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "524580",
+          "def": "140",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1415",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "1292150",
+          "def": "990",
+          "coin": "3780",
+          "es": "39",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png|static/es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "524580",
+          "def": "140",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "715",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2043780",
+          "def": "3760",
+          "coin": "6100",
+          "chest": "4000",
+          "es": "817",
+          "ws": "10212",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI103.png",
+            "title": "5+Combo追擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1011",
+      "title": "怪物",
+      "cj": [],
+      "data": [
+        {
+          "card": "1007",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "30",
+          "def": "1000000",
+          "coin": "920",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1007",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "30",
+          "def": "1000000",
+          "coin": "920",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2871420",
+          "def": "580",
+          "coin": "920",
+          "chest": "8000",
+          "es": "38",
+          "ws": "10068",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png",
+            "title": "2秒轉珠"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2871420",
+          "def": "580",
+          "coin": "920",
+          "es": "614",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI040.png",
+            "title": "(5回木禁消)"
+          }
+        }
+      ]
+    }
+  ]
+}

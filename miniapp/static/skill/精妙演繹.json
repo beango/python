@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "精妙演繹",
+  "effect": "1 回合內<br>I. 無視「燃燒」敵技<br>&nbsp;&nbsp;&nbsp;(不包括「煉獄之火」)<br>II. 無視「黏腐」敵技<br>III. 隊長、戰友、「馬戲團團長 ‧ 馬列斯」<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及「奇幻馬戲團」系列成員<br>⇒ 攻擊力 3.5 倍",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2510"
+}

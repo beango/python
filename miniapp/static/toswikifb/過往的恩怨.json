@@ -1,0 +1,299 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "507",
+      "title": "成功結盟",
+      "cj": [],
+      "data": [
+        {
+          "card": "966",
+          "stage": "",
+          "turn": "1",
+          "hp": "839250",
+          "def": "1550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "968",
+          "stage": "",
+          "turn": "3",
+          "hp": "916630",
+          "def": "2360",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "970",
+          "stage": "",
+          "turn": "2",
+          "hp": "857480",
+          "def": "1890",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "972",
+          "stage": "",
+          "turn": "2",
+          "hp": "821720",
+          "def": "1710",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "974",
+          "stage": "",
+          "turn": "1",
+          "hp": "796340",
+          "def": "1960",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "507",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9575480",
+          "def": "16280",
+          "coin": "5123",
+          "chest": "4000",
+          "es": "1310",
+          "ws": "10003",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI337.png|static/es/SI188.png",
+            "title": "火弱化鎖定20% ‧ 越戰越強-金"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1116",
+      "title": "魔族的突襲",
+      "cj": [],
+      "data": [
+        {
+          "card": "488",
+          "stage": "",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "730588",
+          "def": "3080",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1120",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6925590",
+          "def": "4320",
+          "coin": "1220",
+          "chest": "4000",
+          "es": "616",
+          "ws": "10070",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI042.png",
+            "title": "(5回暗禁消)"
+          }
+        },
+        {
+          "card": "1116",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7304210",
+          "def": "4890",
+          "coin": "1220",
+          "es": "381",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "六重軌跡黏附"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1108",
+      "title": "洛基的救援",
+      "cj": [],
+      "data": [
+        {
+          "card": "488",
+          "stage": "",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "489",
+          "stage": "",
+          "hp": "759384",
+          "def": "2080",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "730588",
+          "def": "3080",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1123",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "30",
+          "def": "80000",
+          "coin": "5123",
+          "es": "1727",
+          "ws": "10071",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI237.png",
+            "title": "2顆雙層石化500倍"
+          }
+        },
+        {
+          "card": "1108",
+          "stage": "6{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9821060",
+          "def": "17840",
+          "coin": "0",
+          "es": "1678",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI304.png|static/es/SI047.png|static/es/SI339.png|static/es/SI043.png",
+            "title": "先攻-心轉光弱化鎖定20% ‧ 心禁消"
+          }
+        },
+        {
+          "card": "1108",
+          "stage": "",
+          "turn": "1",
+          "hp": "17391220",
+          "def": "17840",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1551",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI256.png|static/es/SI131.png",
+            "title": "消心盾5% ‧ 扣血90%"
+          }
+        }
+      ]
+    }
+  ]
+}

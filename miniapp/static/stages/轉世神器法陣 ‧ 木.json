@@ -1,0 +1,377 @@
+{
+  "openhis": [
+    {
+      "start": "2014/01/19 19:00",
+      "end": "2015/12/31 13:00",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
+  "cj": [],
+  "stages": [
+    {
+      "id": "032",
+      "title": "逐步接近真相",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "5",
+        "exp": "380"
+      },
+      "data": [
+        {
+          "card": "090",
+          "stage": "",
+          "damage": "377",
+          "hp": "2391",
+          "coin": "161",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "092",
+          "stage": "",
+          "damage": "379",
+          "hp": "2392",
+          "coin": "161",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "934",
+          "hp": "6731",
+          "coin": "26",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "525",
+          "stage": "",
+          "damage": "818",
+          "hp": "6992",
+          "coin": "121",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "773",
+          "stage": "",
+          "damage": "568",
+          "hp": "7732",
+          "coin": "38",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "774",
+          "stage": "",
+          "damage": "307",
+          "hp": "2000",
+          "coin": "38",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "783",
+          "stage": "",
+          "damage": "501",
+          "hp": "14",
+          "coin": "5000",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "032",
+          "stage": "5",
+          "damage": "1824",
+          "turn": "4",
+          "hp": "50110",
+          "def": "200",
+          "coin": "38",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "778",
+      "title": "謎團的破解",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "6",
+        "exp": "780"
+      },
+      "data": [
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "918",
+          "hp": "18980",
+          "coin": "162",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "stage": "",
+          "damage": "920",
+          "hp": "19084",
+          "coin": "162",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "2694",
+          "hp": "23171",
+          "coin": "106",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "525",
+          "stage": "",
+          "damage": "2313",
+          "hp": "33297",
+          "coin": "316",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "773",
+          "stage": "",
+          "damage": "1808",
+          "hp": "24892",
+          "coin": "98",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "774",
+          "stage": "",
+          "damage": "967",
+          "hp": "2000",
+          "coin": "98",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "783",
+          "stage": "",
+          "damage": "501",
+          "hp": "14",
+          "coin": "5000",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "778",
+          "stage": "6",
+          "damage": "5965",
+          "turn": "3",
+          "hp": "254120",
+          "def": "330",
+          "coin": "5000",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "760",
+      "title": "重情重義的少俠",
+      "note": "※ {{PAGENAME}} 首次通關（STAGE CLEARED）會獲得 ![魔法石](toswikiapic/Gift-魔法石.png) 1粒 ※",
+      "story": "{{故事|'''【BOSS前】'''<br>\n{{760|50}}{{760|_name}} : 「夏姑娘承認閣下的寶力。」<br>\n{{760|50}}{{760|_name}} : 「雖然我相信她，但我仍想看看閣下的力量。」\n\n'''【擊敗BOSS】'''<br>\n{{760|50}}{{760|_name}} : 「確實不錯，我將告知閣下我所知的一切。」",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "8",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "1598",
+          "hp": "33580",
+          "coin": "282",
+          "lv": "3",
+          "chest": "3000",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "stage": "",
+          "damage": "1600",
+          "hp": "33764",
+          "coin": "282",
+          "lv": "3",
+          "chest": "3000",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "6254",
+          "hp": "45611",
+          "coin": "186",
+          "lv": "3",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "526",
+          "stage": "",
+          "damage": "5156",
+          "hp": "69559",
+          "coin": "602",
+          "lv": "3",
+          "chest": "3000",
+          "drop": "525",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "773",
+          "stage": "",
+          "damage": "4288",
+          "hp": "59212",
+          "coin": "218",
+          "lv": "3",
+          "chest": "3000",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "774",
+          "stage": "",
+          "damage": "2287",
+          "turn": "1(1)",
+          "hp": "2000",
+          "coin": "218",
+          "lv": "3",
+          "chest": "3000",
+          "note": "{{先攻}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "783",
+          "stage": "",
+          "damage": "501",
+          "hp": "14",
+          "coin": "5000",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "513",
+          "stage": "4",
+          "damage": "7836",
+          "turn": "4",
+          "hp": "356140",
+          "def": "400",
+          "coin": "591",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "752",
+          "stage": "7",
+          "damage": "6351",
+          "turn": "2",
+          "hp": "412580",
+          "def": "290",
+          "coin": "5898",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "760",
+          "stage": "8",
+          "damage": "6845",
+          "turn": "2",
+          "hp": "629840",
+          "def": "360",
+          "coin": "7138",
+          "chest": "3000",
+          "note": "{{越戰越強 ‧ 金*atk=6845}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "761",
+      "title": "昊天塔的解說  {{回合上限2|55}}",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "item": "64,10",
+        "battle": "20",
+        "exp": "0"
+      },
+      "data": []
+    }
+  ]
+}

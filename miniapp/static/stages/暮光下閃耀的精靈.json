@@ -1,0 +1,316 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "063",
+      "title": "召喚光精靈",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "7",
+        "battle": "6",
+        "exp": "164"
+      },
+      "data": [
+        {
+          "card": "034",
+          "damage": "1802",
+          "hp": "19662",
+          "coin": "120",
+          "drop": "033",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "072",
+          "damage": "481",
+          "hp": "4119",
+          "coin": "178",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "084",
+          "damage": "1558",
+          "hp": "4407",
+          "coin": "118",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "112",
+          "damage": "902",
+          "hp": "3537",
+          "coin": "61",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "254",
+          "damage": "6666",
+          "hp": "7000",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "278",
+          "damage": "300",
+          "hp": "10",
+          "coin": "200",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "062",
+          "stage": "6{{前置}}",
+          "damage": "280",
+          "hp": "1458",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "063",
+          "stage": "6",
+          "damage": "2577",
+          "hp": "11339",
+          "drop": "062",
+          "lv": "1",
+          "coin": "171",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "083",
+      "title": "黃金之刃",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "7",
+        "battle": "6",
+        "exp": "184"
+      },
+      "data": [
+        {
+          "card": "034",
+          "damage": "1862",
+          "hp": "20340",
+          "coin": "124",
+          "drop": "033",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "072",
+          "damage": "497",
+          "hp": "4261",
+          "coin": "184",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "084",
+          "damage": "1610",
+          "hp": "4559",
+          "coin": "122",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "112",
+          "damage": "932",
+          "hp": "3659",
+          "coin": "63",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "254",
+          "damage": "6666",
+          "hp": "7000",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "278",
+          "damage": "300",
+          "hp": "10",
+          "coin": "200",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "082",
+          "stage": "6{{前置}}",
+          "damage": "1452",
+          "hp": "4311",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "stage": "6",
+          "damage": "4989",
+          "hp": "22793",
+          "drop": "082",
+          "lv": "3",
+          "coin": "175",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "073",
+      "title": "光之躍動",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "10",
+        "battle": "8",
+        "exp": "246"
+      },
+      "data": [
+        {
+          "card": "034",
+          "damage": "2042",
+          "hp": "22374",
+          "coin": "136",
+          "drop": "033",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "072",
+          "damage": "545",
+          "hp": "4687",
+          "lv": "3",
+          "coin": "202",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "084",
+          "damage": "1766",
+          "hp": "5015",
+          "lv": "3",
+          "coin": "134",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "112",
+          "damage": "1022",
+          "hp": "4025",
+          "lv": "3",
+          "coin": "69",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "254",
+          "damage": "6666",
+          "hp": "7000",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "278",
+          "damage": "300",
+          "hp": "10",
+          "coin": "200",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "072",
+          "stage": "8",
+          "num": "2",
+          "damage": "273",
+          "hp": "2273",
+          "lv": "1",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "073",
+          "stage": "",
+          "damage": "1410",
+          "hp": "35278",
+          "chest": "1500",
+          "coin": "401",
+          "note": "{{召喚小怪}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

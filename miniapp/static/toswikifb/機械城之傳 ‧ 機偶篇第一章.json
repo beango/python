@@ -1,0 +1,369 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "605",
+      "title": "機偶篇 ‧ 第一章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "605",
+          "stage": "1",
+          "hp": "10",
+          "coin": "125",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "259",
+          "stage": "2",
+          "turn": "7{{初始CD*7}}",
+          "hp": "50000",
+          "def": "10",
+          "coin": "400",
+          "es": "269",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "單次12+光符石盾"
+          }
+        },
+        {
+          "card": "260",
+          "stage": "",
+          "turn": "7{{初始CD*7}}",
+          "hp": "50000",
+          "def": "10",
+          "coin": "400",
+          "es": "272",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI035.png",
+            "title": "單次12+暗符石盾"
+          }
+        },
+        {
+          "card": "256",
+          "stage": "3",
+          "turn": "3{{初始CD*3}}",
+          "hp": "50000",
+          "def": "10",
+          "coin": "400",
+          "es": "214",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png",
+            "title": "單次15+水符石盾"
+          }
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "50000",
+          "def": "10",
+          "coin": "400",
+          "es": "217",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI032.png",
+            "title": "單次15+火符石盾"
+          }
+        },
+        {
+          "card": "258",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "50000",
+          "def": "10",
+          "coin": "400",
+          "es": "220",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI033.png",
+            "title": "單次15+木符石盾"
+          }
+        },
+        {
+          "card": "605",
+          "stage": "4",
+          "hp": "10",
+          "coin": "125",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "title": "機偶篇 ‧ 第一章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1529",
+          "stage": "1",
+          "turn": "3{{初始CD*2}}",
+          "hp": "4172560",
+          "def": "2000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "4089350",
+          "def": "2000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3{{初始CD*4}}",
+          "hp": "4172560",
+          "def": "2000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "4089350",
+          "def": "2000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "454",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9607180",
+          "def": "8620",
+          "coin": "367",
+          "es": "282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越攻越強"
+          }
+        },
+        {
+          "card": "455",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "9438820",
+          "def": "8470",
+          "coin": "367",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "3{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7829410",
+          "def": "15250",
+          "coin": "0",
+          "es": "1110",
+          "ws": "10071",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI118.png",
+            "title": "首消心追擊零化"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "",
+          "turn": "1",
+          "hp": "11468720",
+          "def": "15250",
+          "coin": "4980",
+          "chest": "4000",
+          "es": "570",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI168.png|static/es/SI251.png",
+            "title": "血弱50%-同歸於盡"
+          }
+        }
+      ]
+    },
+    {
+      "id": "462",
+      "title": "機偶篇 ‧ 第一章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "108",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3878510",
+          "def": "560",
+          "coin": "85",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "108",
+          "stage": "",
+          "turn": "2{{初始CD*3}}",
+          "hp": "3878510",
+          "def": "560",
+          "coin": "85",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "108",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3878510",
+          "def": "560",
+          "coin": "85",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "108",
+          "stage": "",
+          "turn": "2{{初始CD*3}}",
+          "hp": "3878510",
+          "def": "560",
+          "coin": "85",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "2",
+          "turn": "3{{初始CD*3}}",
+          "hp": "7253470",
+          "def": "2790",
+          "coin": "209",
+          "lv": "15",
+          "es": "304",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png",
+            "title": "首消6Combo盾"
+          }
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "7253470",
+          "def": "2790",
+          "coin": "209",
+          "lv": "15",
+          "es": "304",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png",
+            "title": "首消6Combo盾"
+          }
+        },
+        {
+          "card": "109",
+          "stage": "3",
+          "turn": "3{{初始CD*3}}",
+          "hp": "7253470",
+          "def": "2790",
+          "coin": "209",
+          "lv": "15",
+          "es": "253",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "全體共生"
+          }
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "turn": "3{{初始CD*2}}",
+          "hp": "7253470",
+          "def": "2790",
+          "coin": "209",
+          "lv": "15",
+          "es": "253",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "全體共生"
+          }
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "turn": "3{{初始CD*1}}",
+          "hp": "7253470",
+          "def": "2790",
+          "coin": "209",
+          "lv": "15",
+          "es": "253",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "全體共生"
+          }
+        },
+        {
+          "card": "462",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5201980",
+          "def": "9930",
+          "coin": "0",
+          "es": "814",
+          "ws": "10082",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI250.png",
+            "title": "越攻越強 ‧ 循環累積15+相剋符石盾"
+          }
+        },
+        {
+          "card": "462",
+          "stage": "",
+          "turn": "1",
+          "hp": "12164130",
+          "def": "9930",
+          "coin": "621",
+          "chest": "8000",
+          "es": "711",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI251.png",
+            "title": "無法控制-無視減傷"
+          }
+        }
+      ]
+    }
+  ]
+}

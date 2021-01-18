@@ -1,0 +1,65 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "714",
+      "title": "狂魔們的話語",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "30",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "713",
+          "stage": "1",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "6100",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "712",
+          "stage": "2",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "6100",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "711",
+          "stage": "3",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "6100",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "714",
+          "stage": "4",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "6100",
+          "chest": "10000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

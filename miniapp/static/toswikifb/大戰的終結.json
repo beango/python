@@ -1,0 +1,196 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1863",
+      "title": "再度封印",
+      "cj": [],
+      "data": [
+        {
+          "card": "1859",
+          "stage": "1-3",
+          "damage": "11036",
+          "turn": "1{{初始CD*1}}",
+          "hp": "73805360",
+          "def": "10200",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1860",
+          "stage": "",
+          "damage": "23978",
+          "turn": "2{{初始CD*2}}",
+          "hp": "72480970",
+          "def": "11500",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1861",
+          "stage": "",
+          "damage": "34852",
+          "turn": "3{{初始CD*3}}",
+          "hp": "74063850",
+          "def": "12300",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1862",
+          "stage": "",
+          "damage": "23497",
+          "turn": "2{{初始CD*2}}",
+          "hp": "74346980",
+          "def": "11800",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1863",
+          "stage": "",
+          "damage": "12574",
+          "turn": "1{{初始CD*1}}",
+          "hp": "72654820",
+          "def": "10400",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2306",
+      "title": "紋龍的守護",
+      "cj": [],
+      "data": [
+        {
+          "card": "2306",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "item": "164",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2309",
+      "title": "遲來的告白",
+      "cj": [],
+      "data": [
+        {
+          "card": "2309",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2389",
+      "title": "開闢的未來",
+      "cj": [],
+      "data": [
+        {
+          "card": "2389",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2306",
+      "title": "開闢的未來 Extra",
+      "cj": [],
+      "data": [
+        {
+          "card": "2385",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2383",
+          "stage": "2",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2497",
+          "stage": "3",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2381",
+          "stage": "4",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2306",
+          "stage": "5",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

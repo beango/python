@@ -1,0 +1,269 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "830",
+      "title": "眾神紀錄 ‧ 主線第八章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "2",
+          "hp": "7161840",
+          "def": "6000",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "6714220",
+          "def": "5900",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "7833260",
+          "def": "7000",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "7609450",
+          "def": "6200",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "6490410",
+          "def": "6400",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "840",
+      "title": "眾神紀錄 ‧ 主線第八章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "831",
+          "stage": "",
+          "hp": "9840000",
+          "def": "12000",
+          "coin": "248",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "9225000",
+          "def": "15000",
+          "coin": "248",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "11480000",
+          "def": "18000",
+          "coin": "248",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "11070000",
+          "def": "15000",
+          "coin": "248",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "hp": "8610000",
+          "def": "11000",
+          "coin": "248",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "836",
+          "stage": "2",
+          "turn": "1(3)",
+          "hp": "20539850",
+          "def": "46000",
+          "coin": "29",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "20384120",
+          "def": "43000",
+          "coin": "29",
+          "es": "3387",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI165.png|es/SI124.png",
+            "title": "首殺盾 ‧ 2秒轉珠 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "834",
+          "stage": "4",
+          "turn": "2(2)",
+          "hp": "23896430",
+          "def": "42000",
+          "coin": "29",
+          "es": "16",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png",
+            "title": "越戰越強-金"
+          },
+          "jd": ""
+        },
+        {
+          "card": "840",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "23571540",
+          "def": "45000",
+          "coin": "29",
+          "es": "1429",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png|es/SI340.png",
+            "title": "暗屬技能封鎖 ‧ 暗弱化鎖定20%"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "title": "眾神紀錄 ‧ 主線第八章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 眾神紀錄 ‧ 主線第八章第三話 ——開放關卡[眾神紀錄 ‧ 主線第九章](/pages/index/detail/detail?name2=%E7%9C%BE%E7%A5%9E%E7%B4%80%E9%8C%84%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E4%B9%9D%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "196",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "27350830",
+          "def": "57000",
+          "coin": "125",
+          "es": "701",
+          "note": "",
+          "esjson": {
+            "img": "es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "196",
+          "stage": "2{{雙血}}",
+          "turn": "1(1)",
+          "hp": "24826390",
+          "def": "57000",
+          "coin": "0",
+          "es": "3232",
+          "note": "",
+          "esjson": {
+            "img": "es/SI003.png|es/SI244.png",
+            "title": "木屬防禦75% ‧ 五屬追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "196",
+          "stage": "",
+          "turn": "1",
+          "hp": "38041870",
+          "def": "57000",
+          "coin": "125",
+          "chest": "8000",
+          "es": "3224",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png|es/SI181.png|es/SI251.png",
+            "title": "人類禁錮 ‧ 敵屬初級拼圖盾-限 ‧ 無視減傷"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

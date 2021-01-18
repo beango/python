@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "暗水移魂",
+  "effect": "暗符石轉化為水符石",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "8016",
+  "rpet": ""
+}

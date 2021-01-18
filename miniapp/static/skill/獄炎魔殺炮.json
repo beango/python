@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "獄炎魔殺炮",
+  "effect": "I. 引爆木符石<br>⇒ 掉落火強化符石<br>II. 魔族攻擊力 1.8 倍<br>III. 每回合魔族成員<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首次發動主動技能時<br>⇒ 對敵方全體造成<br>&nbsp;&nbsp;&nbsp;&nbsp;600 萬火屬性傷害<br>&nbsp;&nbsp;&nbsp;&nbsp;(此傷害無視敵人防禦力)<br>效果會在進入下一層數 (Wave) 時消失",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2574"
+}

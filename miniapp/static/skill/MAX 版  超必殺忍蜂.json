@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "MAX 版 超必殺忍蜂",
+  "effect": "<font color=yellow>MAX 版 超必殺忍蜂</font>：<br>將所有符石轉化為[board]固定數量及位置[/board]的火強化、木強化、暗強化及心強化符石。發動此技能時需儲滿龍脈儀及該回合不能發動龍刻脈動",
+  "turn": "17",
+  "minTurn": "8",
+  "pet": "1576"
+}

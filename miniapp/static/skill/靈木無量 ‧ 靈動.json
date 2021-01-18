@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "靈木無量 ‧ 靈動",
+  "effect": "I. 將場上所有符石轉化為<br>⇒ [board]固定數量及位置[/board]的<br>&nbsp;&nbsp;&nbsp;「心及木神族」強化符石<br>1 回合內<br>II. 木及心符石<br>&nbsp;&nbsp;&nbsp;&nbsp;首批 2 粒相連即可發動消除",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2487"
+}

@@ -1,0 +1,231 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "077",
+      "title": "古代修行者的醒悟",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "6",
+        "exp": "289"
+      },
+      "data": [
+        {
+          "card": "077",
+          "stage": "6",
+          "damage": "2824",
+          "hp": "12897",
+          "coin": "103",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "079",
+          "stage": "",
+          "damage": "2957",
+          "hp": "12641",
+          "coin": "103",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "081",
+          "stage": "",
+          "damage": "2855",
+          "hp": "12961",
+          "coin": "103",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "087",
+      "title": "利用塔入侵天界的魔族",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "6",
+        "exp": "324"
+      },
+      "data": [
+        {
+          "card": "087",
+          "stage": "6",
+          "damage": "1257",
+          "hp": "26137",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "222",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "1330",
+          "hp": "25632",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "222",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "1258",
+          "hp": "26280",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "222",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "title": "歷史烙痕",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "6",
+        "exp": "361"
+      },
+      "data": [
+        {
+          "card": "164",
+          "stage": "6",
+          "damage": "2071",
+          "hp": "14185",
+          "soul": "1",
+          "coin": "143",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "173",
+          "stage": "",
+          "damage": "2071",
+          "hp": "14473",
+          "soul": "1",
+          "coin": "143",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "title": "夢見在星海下高歌",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "6",
+        "exp": "399"
+      },
+      "data": [
+        {
+          "card": "137",
+          "stage": "6",
+          "num": "2",
+          "damage": "2597",
+          "hp": "12726",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "124",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "134",
+          "stage": "",
+          "damage": "3295",
+          "hp": "15391",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "154",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "title": "解開第三階段封印",
+      "note": "首次完成第三階段封印獎勵︰{{體力回復劑}}&times; 1 及 {{背包空間}}&times; 5 及 {{朋友空間}} &times; 10 及 ![金幣](toswikiapic/金幣.png) &times; 100,000<br>※第三階段封印STAGE CLEARED會獲得2粒![魔法石](toswikiapic/Gift-魔法石.png)※",
+      "story": "{{故事|【BOSS關前】<br>\n{{Owl}}：「此階段所封印的是擁有戰神稱號的騎士」<br>\n{{Owl}}：「他身上披著刻滿碑文的戰甲，擁有絕對的防禦力」<br>\n{{Owl}}：「但是只要激發符石的潛力，就能與之抗衡」<br>\n{{Owl}}：「人類，努力吧！」<br>\n\n【擊敗BOSS】<br>\n{{Owl}}：「恭喜你完美的突破此段封印」<br>\n{{Owl}}：「接下來的考驗將會更加嚴峻」<br>\n{{Owl}}：「不要鬆懈！」<br>",
+      "cj": [],
+      "info": {
+        "sta": "10",
+        "battle": "8",
+        "exp": "440"
+      },
+      "data": [
+        {
+          "card": "287",
+          "stage": "8",
+          "damage": "3900",
+          "hp": "24萬",
+          "coin": "2000",
+          "soul": "1",
+          "note": "{{強化盾}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "title": "破除第三封印法陣",
+      "note": "※ 破除第三封印法陣 EXTRA 首次通關會獲得 ![577](zhs/577i.png) 2隻※",
+      "story": "",
+      "cj": [
+        "於 15 回合內完成關卡",
+        "關卡中不使用任何主動技能",
+        "隊伍中只有 3 個或以下成員}"
+      ],
+      "info": {
+        "sta": "10",
+        "battle": "8",
+        "exp": "440"
+      },
+      "data": [
+        {
+          "card": "287",
+          "stage": "8",
+          "damage": "3900",
+          "hp": "24萬",
+          "coin": "2000",
+          "note": "{{強化盾}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

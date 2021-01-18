@@ -1,0 +1,302 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1411",
+      "title": "湧現的怪物",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "486",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "984580",
+          "def": "180",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "1827150",
+          "def": "410",
+          "coin": "905",
+          "lv": "15",
+          "es": "1069",
+          "note": "",
+          "esjson": {
+            "img": "es/SI336.png",
+            "title": "水弱化鎖定10%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "984580",
+          "def": "180",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1007",
+          "stage": "2",
+          "turn": "2(2)",
+          "hp": "2526390",
+          "def": "550",
+          "coin": "920",
+          "lv": "15",
+          "drop": "1006",
+          "es": "38",
+          "note": "",
+          "esjson": {
+            "img": "es/SI165.png",
+            "title": "2秒轉珠"
+          },
+          "jd": ""
+        },
+        {
+          "card": "581",
+          "stage": "",
+          "turn": "4(4)",
+          "hp": "2385490",
+          "def": "680",
+          "coin": "189",
+          "lv": "15",
+          "drop": "486",
+          "es": "280",
+          "note": "",
+          "esjson": {
+            "img": "es/SI106.png",
+            "title": "8+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1411",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "3621720",
+          "def": "1640",
+          "coin": "3780",
+          "lv": "15",
+          "drop": "1006",
+          "chest": "4000",
+          "es": "814",
+          "ws": "10114",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png|es/SI250.png",
+            "title": "越攻越強 ‧ 循環累積15+相剋符石盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1592",
+      "title": "倖存者內訌",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1594",
+          "stage": "1",
+          "turn": "2(1)",
+          "hp": "1489320",
+          "def": "520",
+          "coin": "189",
+          "lv": "15",
+          "es": "651",
+          "note": "",
+          "esjson": {
+            "img": "es/SI013.png",
+            "title": "攻後木縱橫輪轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "1459430",
+          "def": "570",
+          "coin": "189",
+          "lv": "15",
+          "es": "788",
+          "note": "",
+          "esjson": {
+            "img": "es/SI015.png",
+            "title": "攻後暗橫縱輪轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1593",
+          "stage": "2",
+          "turn": "3(3)",
+          "hp": "2631590",
+          "def": "630",
+          "coin": "189",
+          "lv": "15",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "2693520",
+          "def": "610",
+          "coin": "189",
+          "lv": "15",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1592",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "4382950",
+          "def": "890",
+          "coin": "189",
+          "lv": "15",
+          "chest": "4000",
+          "es": "1105",
+          "note": "",
+          "esjson": {
+            "img": "es/SI113.png",
+            "title": "首消水追擊零化"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "713",
+      "title": "甜蜜香味與殺意",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 甜蜜香味與殺意 1 次 ——開放關卡[獨自的追蹤](/pages/index/detail/detail?name2=%E7%8D%A8%E8%87%AA%E7%9A%84%E8%BF%BD%E8%B9%A4)",
+        "擊倒 ![713](zhs/713i.png) 1 次 ——開放關卡[貝莉的自救](/pages/index/detail/detail?name2=%E8%B2%9D%E8%8E%89%E7%9A%84%E8%87%AA%E6%95%91)",
+        "讓 ![713](zhs/713i.png) 離開 1 次——開放關卡[彼此信賴](/pages/index/detail/detail?name2=%E5%BD%BC%E6%AD%A4%E4%BF%A1%E8%B3%B4)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1592",
+          "stage": "1~3",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3(3)",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "713",
+          "stage": "4",
+          "turn": "1(1)",
+          "hp": "5872860",
+          "def": "7690",
+          "coin": "6100",
+          "chest": "8000",
+          "es": "1009",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "es/SI160.png|es/SI309.png|es/SI228.png",
+            "title": "突擊65% ‧ 首回攻後木化血 ‧ 首攻隨機側行黏附"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

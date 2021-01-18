@@ -1,0 +1,84 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "068",
+      "title": "血染沙河",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "3",
+        "battle": "3",
+        "exp": "52"
+      },
+      "data": [
+        {
+          "card": "068",
+          "stage": "3",
+          "num": "2",
+          "damage": "49",
+          "hp": "277",
+          "lv": "1",
+          "coin": "16",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "title": "狼之火洞穴",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "3",
+        "battle": "3",
+        "exp": "60"
+      },
+      "data": [
+        {
+          "card": "108",
+          "stage": "3",
+          "num": "2",
+          "damage": "94",
+          "hp": "235",
+          "lv": "1",
+          "coin": "7",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "088",
+      "title": "紅玉之魔塔",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "5",
+        "battle": "5",
+        "exp": "68"
+      },
+      "data": [
+        {
+          "card": "088",
+          "stage": "5",
+          "num": "3",
+          "damage": "43",
+          "hp": "179",
+          "lv": "1",
+          "coin": "17",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

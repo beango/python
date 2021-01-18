@@ -1,0 +1,176 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1990",
+      "title": "眾神紀錄 ‧ 主線第七章上部第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1149",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "12630840",
+          "def": "17800",
+          "coin": "1220",
+          "es": "662",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI047.png",
+            "title": "攻後轉火4顆"
+          }
+        },
+        {
+          "card": "1149",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "12630840",
+          "def": "17800",
+          "coin": "1220",
+          "es": "662",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI047.png",
+            "title": "攻後轉火4顆"
+          }
+        },
+        {
+          "card": "707",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "23817530",
+          "def": "41000",
+          "coin": "572",
+          "es": "2278",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI095.png|static/es/SI229.png",
+            "title": "CD2 ‧ 首消5Combo盾 ‧ 軌跡燃燒800"
+          }
+        },
+        {
+          "card": "1990",
+          "stage": "3",
+          "turn": "2{{初始CD*4}}",
+          "hp": "30540130",
+          "def": "76500",
+          "coin": "155",
+          "chest": "4000",
+          "es": "3166",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI046.png|static/es/SI236.png|static/es/SI165.png|static/es/SI132.png",
+            "title": "CD4 ‧ 刷新符石-隨機側行電擊 ‧ 6秒轉珠 ‧ 扣血100%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1990",
+      "title": "眾神紀錄 ‧ 主線第七章上部第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1",
+          "turn": "2{{初始CD*1}}",
+          "hp": "11751700",
+          "def": "24000",
+          "coin": "208",
+          "es": "593",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後轉直水"
+          }
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "12031800",
+          "def": "39000",
+          "coin": "208",
+          "es": "590",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png",
+            "title": "攻後轉橫木"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "10934300",
+          "def": "30000",
+          "coin": "208",
+          "es": "594",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉直火"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "18650230",
+          "def": "43000",
+          "coin": "624",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "18650230",
+          "def": "43000",
+          "coin": "624",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "854",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "24028360",
+          "def": "65000",
+          "coin": "3952",
+          "es": "3477",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI304.png|static/es/SI047.png|static/es/SI236.png|static/es/SI116.png|static/es/SI124.png",
+            "title": "四角轉光電擊 ‧ 首消光追擊零化 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1990",
+          "stage": "4",
+          "turn": "2{{初始CD*3}}",
+          "hp": "35197820",
+          "def": "76500",
+          "coin": "155",
+          "chest": "8000",
+          "es": "3167",
+          "note": "{{特性*離開*2}}",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI046.png|static/es/SI236.png|static/es/SI165.png|static/es/SI132.png",
+            "title": "CD3 ‧ 刷新符石-左右直行電擊 ‧ 4秒轉珠 ‧ 扣血100%"
+          }
+        }
+      ]
+    }
+  ]
+}

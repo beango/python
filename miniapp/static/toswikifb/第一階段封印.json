@@ -1,0 +1,187 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "066",
+      "title": "古代修行者的目標",
+      "cj": [],
+      "data": [
+        {
+          "card": "066",
+          "stage": "5",
+          "damage": "79",
+          "hp": "567",
+          "lv": "1",
+          "coin": "28",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "068",
+          "stage": "",
+          "damage": "81",
+          "hp": "553",
+          "lv": "1",
+          "coin": "28",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "076",
+      "title": "尋找成神的捷徑",
+      "cj": [],
+      "data": [
+        {
+          "card": "076",
+          "stage": "5",
+          "damage": "248",
+          "hp": "607",
+          "lv": "1",
+          "coin": "18",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "078",
+          "stage": "",
+          "damage": "258",
+          "hp": "593",
+          "lv": "1",
+          "coin": "18",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "161",
+      "title": "漫長的登塔",
+      "cj": [],
+      "data": [
+        {
+          "card": "161",
+          "stage": "5",
+          "damage": "187",
+          "hp": "1006",
+          "coin": "9",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "164",
+          "stage": "",
+          "damage": "195",
+          "hp": "986",
+          "coin": "9",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "title": "為了與神對話",
+      "cj": [],
+      "data": [
+        {
+          "card": "131",
+          "stage": "5",
+          "damage": "412",
+          "hp": "1509",
+          "coin": "13",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "137",
+          "stage": "",
+          "damage": "414",
+          "hp": "1515",
+          "coin": "13",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "286",
+      "title": "解開第一階段封印",
+      "cj": [],
+      "data": [
+        {
+          "card": "062",
+          "stage": "5",
+          "damage": "50",
+          "hp": "216",
+          "coin": "31",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "286",
+          "stage": "",
+          "damage": "1400",
+          "hp": "13000",
+          "coin": "1500",
+          "es": "4",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png",
+            "title": "召喚小怪"
+          }
+        },
+        {
+          "card": "064",
+          "stage": "",
+          "damage": "51",
+          "hp": "215",
+          "coin": "31",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "286",
+      "title": "破除第一封印法陣 {{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "062",
+          "stage": "5",
+          "damage": "70",
+          "hp": "324",
+          "coin": "43",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "286",
+          "stage": "",
+          "damage": "1400",
+          "hp": "13000",
+          "coin": "1500",
+          "chest": "500",
+          "es": "4",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png",
+            "title": "召喚小怪"
+          }
+        },
+        {
+          "card": "064",
+          "stage": "",
+          "damage": "71",
+          "hp": "323",
+          "coin": "43",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

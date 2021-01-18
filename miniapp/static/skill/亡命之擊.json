@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "亡命之擊",
+  "effect": "2 回合內<br>I. 所有減傷效果無效<br>II. 每消除 1 連擊 (Combo)<br>⇒ 額外增加 1 Ex. Combo<br>⇒ 最多增加 10 Ex. Combo<br>III. 隊中有 ≥3 個「EVA 駕駛員」<br>⇒ 自身技能 CD -2",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "2524"
+}

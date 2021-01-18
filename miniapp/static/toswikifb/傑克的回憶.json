@@ -1,0 +1,59 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1568",
+      "title": "使人安心的冰冷",
+      "cj": [],
+      "data": [
+        {
+          "card": "1568",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6826630",
+          "def": "2580",
+          "coin": "189",
+          "lv": "",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1568",
+          "stage": "",
+          "turn": "2{{初始CD*3}}",
+          "hp": "6826630",
+          "def": "2580",
+          "coin": "189",
+          "lv": "",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1568",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6826630",
+          "def": "2580",
+          "coin": "189",
+          "lv": "",
+          "chest": "8000",
+          "es": "1861",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI305.png|static/es/SI047.png|static/es/SI216.png|static/es/SI124.png",
+            "title": "攻後暗縱橫輪轉 ‧ 復活變強3倍 ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "超必殺忍蜂",
+  "effect": "<font color=yellow>超必殺忍蜂</font>：<br>將所有符石轉化為固定數量的火強化、木強化、暗強化及心強化符石",
+  "turn": "17",
+  "minTurn": "8",
+  "pet": "1576"
+}

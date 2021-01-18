@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "木暗移魂",
+  "effect": "木符石轉化為暗符石",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "8020",
+  "rpet": ""
+}

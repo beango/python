@@ -1,0 +1,7 @@
+{
+  "no": "3503",
+  "title": "軌跡隱藏 ‧ 6+Combo追擊盾",
+  "effect": "<font color=yellow>持續</font> 將移動符石時所觸碰的符石轉化為<font color=yellow>隱藏符石</font> 。<br><br><font color=yellow>6 連擊 (Combo) 或以上</font> 才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊",
+  "content": "隱藏,正負Combo盾",
+  "icon": "es/SI224.png|es/SI104.png"
+}

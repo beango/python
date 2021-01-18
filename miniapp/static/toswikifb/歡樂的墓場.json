@@ -1,0 +1,456 @@
+{
+  "openhis": [
+    {
+      "start": "2014/10/31",
+      "end": "",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "425",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        }
+      ]
+    },
+    {
+      "start": "2015/4/11",
+      "end": "",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "C28",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        }
+      ]
+    },
+    {
+      "start": "2015/10/30 22:00",
+      "end": "2015/10/31 23:59",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "",
+          "soul": "200",
+          "m": "",
+          "num": ""
+        }
+      ]
+    },
+    {
+      "start": "2016/10/28 22:00",
+      "end": "2016/10/30 23:59",
+      "note": "新增戰慄級",
+      "cj": []
+    },
+    {
+      "start": "2017/9/4 22:00",
+      "end": "2017/9/6 23:59",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "619",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        }
+      ]
+    },
+    {
+      "start": "2020/10/22 22:00",
+      "end": "2020/10/25 23:59",
+      "note": "連同煉獄級「[[熾熱嗜殺]]」開放<br>{{671*30}} 開放潛能解放成 {{2543*30}}，取消戰慄級",
+      "cj": [
+        {
+          "star": "3",
+          "id": "",
+          "soul": "500",
+          "m": "",
+          "num": ""
+        }
+      ],
+      "cs_jltj": "成功通过 地狱级 关卡 3 次",
+      "cs_jl": "671",
+      "cs_jlsl": "1"
+    },
+    {
+      "start": "2020/1/13",
+      "end": "2099/12/31",
+      "note": "以「遺跡特許 ‧ 歡樂的墓場」名義進駐遺跡特許，18.2版本起永久開放",
+      "cj": []
+    }
+  ],
+  "cjtimes": 5,
+  "stages": [
+    {
+      "id": "671",
+      "title": "搗蛋的屠夫 地獄級",
+      "cj": [
+        "隊伍中有 3 個或以上的光屬性成員 (不包括隊伍技能)",
+        "隊長及戰友都是獸類",
+        "隱藏條件：於 30 回合內完成關卡"
+      ],
+      "data": [
+        {
+          "card": "053",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/a/aa/053i.png/revision/latest/scale-to-width-down/60?cb=20140618131804&path-prefix=zh",
+          "stage": "1",
+          "damage": "6500",
+          "turn": "3{{初始CD|3}}",
+          "hp": "53710",
+          "def": "45000",
+          "coin": "249",
+          "es": "51",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          },
+          "note": ""
+        },
+        {
+          "card": "053",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/a/aa/053i.png/revision/latest/scale-to-width-down/60?cb=20140618131804&path-prefix=zh",
+          "stage": "",
+          "damage": "6500",
+          "turn": "3{{初始CD|3}}",
+          "hp": "53710",
+          "def": "45000",
+          "coin": "249",
+          "es": "51",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          },
+          "note": ""
+        },
+        {
+          "card": "053",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/a/aa/053i.png/revision/latest/scale-to-width-down/60?cb=20140618131804&path-prefix=zh",
+          "stage": "",
+          "damage": "6500",
+          "turn": "3{{初始CD|3}}",
+          "hp": "53710",
+          "def": "45000",
+          "coin": "249",
+          "es": "51",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          },
+          "note": ""
+        },
+        {
+          "card": "144",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/c/cb/144i.png/revision/latest/scale-to-width-down/60?cb=20140618172317&path-prefix=zh",
+          "stage": "2",
+          "damage": "100",
+          "turn": "1{{初始CD|2}}",
+          "hp": "347670",
+          "def": "1020",
+          "coin": "1009",
+          "es": "35",
+          "esjson": {
+            "img": "static/es/SI129.png",
+            "title": "扣血70%"
+          },
+          "note": ""
+        },
+        {
+          "card": "144",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/c/cb/144i.png/revision/latest/scale-to-width-down/60?cb=20140618172317&path-prefix=zh",
+          "stage": "",
+          "damage": "6000",
+          "turn": "1{{初始CD|1}}",
+          "hp": "347670",
+          "def": "1020",
+          "coin": "1009",
+          "es": "41",
+          "esjson": {
+            "img": "static/es/SI135.png",
+            "title": "中毒30%"
+          },
+          "note": ""
+        },
+        {
+          "card": "115",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/7/74/115i.png/revision/latest/scale-to-width-down/60?cb=20140618165635&path-prefix=zh",
+          "stage": "3",
+          "damage": "8123",
+          "turn": "1{{初始CD|1}}",
+          "hp": "186780",
+          "def": "39",
+          "coin": "249",
+          "es": "141",
+          "esjson": {
+            "img": "static/es/SI064.png",
+            "title": "獸外防禦75%"
+          },
+          "note": ""
+        },
+        {
+          "card": "095",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/2/24/095i.png/revision/latest/scale-to-width-down/60?cb=20140618164400&path-prefix=zh",
+          "stage": "",
+          "damage": "7642",
+          "turn": "1{{初始CD|1}}",
+          "hp": "177640",
+          "def": "10",
+          "coin": "372",
+          "es": "140",
+          "esjson": {
+            "img": "static/es/SI063.png",
+            "title": "人外防禦75%"
+          },
+          "note": ""
+        },
+        {
+          "card": "490",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/e/e0/490i.png/revision/latest/scale-to-width-down/60?cb=20140618221530&path-prefix=zh",
+          "stage": "",
+          "damage": "9723",
+          "turn": "1{{初始CD|1}}",
+          "hp": "162470",
+          "def": "213",
+          "coin": "249",
+          "es": "144",
+          "esjson": {
+            "img": "static/es/SI062.png",
+            "title": "魔外防禦75%"
+          },
+          "note": ""
+        },
+        {
+          "card": "306",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/0/04/306i.png/revision/latest/scale-to-width-down/60?cb=20140618190247&path-prefix=zh",
+          "stage": "4",
+          "damage": "2000",
+          "turn": "1",
+          "hp": "30806",
+          "def": "220000",
+          "coin": "368",
+          "es": "126",
+          "esjson": {
+            "img": "static/es/SI168.png",
+            "title": "自爆20000"
+          },
+          "note": ""
+        },
+        {
+          "card": "308",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/e/ee/308i.png/revision/latest/scale-to-width-down/60?cb=20140618191102&path-prefix=zh",
+          "stage": "",
+          "damage": "17054",
+          "turn": "3{{初始CD|3}}",
+          "hp": "1212000",
+          "def": "10",
+          "coin": "2826",
+          "note": ""
+        },
+        {
+          "card": "306",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/0/04/306i.png/revision/latest/scale-to-width-down/60?cb=20140618190247&path-prefix=zh",
+          "stage": "",
+          "damage": "2000",
+          "turn": "1",
+          "hp": "30806",
+          "def": "220000",
+          "coin": "368",
+          "es": "126",
+          "esjson": {
+            "img": "static/es/SI168.png",
+            "title": "自爆20000"
+          },
+          "note": ""
+        },
+        {
+          "card": "2544",
+          "orginimg": "",
+          "stage": "5",
+          "damage": "24640",
+          "turn": "3{{初始CD|3}}",
+          "hp": "156411",
+          "def": "4021",
+          "lv": "1",
+          "coin": "0",
+          "es": "288",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "主動盾"
+          },
+          "note": ""
+        },
+        {
+          "card": "671",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/3/39/671i.png/revision/latest/scale-to-width-down/60?cb=20141125120038&path-prefix=zh",
+          "stage": "6{{掉落|白金}}",
+          "damage": "13547",
+          "turn": "1",
+          "hp": "1567910",
+          "def": "2104",
+          "coin": "3187",
+          "lv": "1",
+          "es": "290",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "隱身"
+          },
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "671",
+      "title": "搗蛋的屠夫 戰慄級",
+      "cj": [],
+      "data": [
+        {
+          "card": "1120",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/b/b1/1119i.png/revision/latest/scale-to-width-down/60?cb=20160314074906&path-prefix=zh",
+          "stage": "1",
+          "damage": "12696",
+          "turn": "3{{初始CD|3}}",
+          "hp": "1630900",
+          "def": "1010",
+          "coin": "1120",
+          "drop": "1119",
+          "lv": "1",
+          "es": "721",
+          "esjson": {
+            "img": "static/es/SI156.png",
+            "title": "攻後(1回回復力變0)"
+          },
+          "note": ""
+        },
+        {
+          "card": "1114",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/7/71/1113i.png/revision/latest/scale-to-width-down/60?cb=20160314074949&path-prefix=zh",
+          "stage": "",
+          "damage": "9737",
+          "turn": "2{{初始CD|2}}",
+          "hp": "1587360",
+          "def": "890",
+          "coin": "1120",
+          "drop": "1113",
+          "lv": "1",
+          "es": "650",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後火縱橫輪轉"
+          },
+          "note": ""
+        },
+        {
+          "card": "1018",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/f/f6/1018i.png/revision/latest/scale-to-width-down/60?cb=20151022141243&path-prefix=zh",
+          "stage": "2",
+          "damage": "12478",
+          "turn": "2{{初始CD|1}}",
+          "hp": "5260950",
+          "def": "3160",
+          "coin": "2927",
+          "es": "876",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI254.png",
+            "title": "越攻越強 ‧ 強化盾-非強化傷害吸收"
+          },
+          "note": ""
+        },
+        {
+          "card": "1014",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/b/b2/1014i.png/revision/latest/scale-to-width-down/60?cb=20151005095222&path-prefix=zh",
+          "stage": "3",
+          "damage": "5348",
+          "turn": "1{{初始CD|2}}",
+          "hp": "1071460",
+          "def": "120",
+          "coin": "",
+          "lv": "1",
+          "note": ""
+        },
+        {
+          "card": "1015",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/b/bf/1015i.png/revision/latest/scale-to-width-down/60?cb=20151005095222&path-prefix=zh",
+          "stage": "",
+          "damage": "12080",
+          "turn": "2{{初始CD|1}}",
+          "hp": "1529310",
+          "def": "1390",
+          "coin": "",
+          "es": "39",
+          "esjson": {
+            "img": "static/es/SI164.png|static/es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          },
+          "note": ""
+        },
+        {
+          "card": "1014",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/b/b2/1014i.png/revision/latest/scale-to-width-down/60?cb=20151005095222&path-prefix=zh",
+          "stage": "",
+          "damage": "5348",
+          "turn": "1{{初始CD|2}}",
+          "hp": "1071460",
+          "def": "120",
+          "coin": "",
+          "lv": "1",
+          "note": ""
+        },
+        {
+          "card": "1185",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/2/2b/1185i.png/revision/latest/scale-to-width-down/60?cb=20160627042504&path-prefix=zh",
+          "stage": "4",
+          "damage": "56760",
+          "turn": "1{{初始CD|3}}",
+          "hp": "8487360",
+          "def": "3600000",
+          "coin": "5963",
+          "es": "900",
+          "esjson": {
+            "img": "static/es/SI005.png",
+            "title": "暗外防禦90%"
+          },
+          "note": ""
+        },
+        {
+          "card": "671",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/3/39/671i.png/revision/latest/scale-to-width-down/60?cb=20141125120038&path-prefix=zh",
+          "stage": "5{{雙血}}{{掉落|白金}}",
+          "damage": "28463",
+          "turn": "2{{初始CD|2}}",
+          "hp": "2650890",
+          "def": "5470",
+          "coin": "0",
+          "es": "1078",
+          "esjson": {
+            "img": "static/es/SI339.png",
+            "title": "光弱化鎖定20%"
+          },
+          "note": ""
+        },
+        {
+          "card": "671",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/3/39/671i.png/revision/latest/scale-to-width-down/60?cb=20141125120038&path-prefix=zh",
+          "stage": "",
+          "damage": "14672",
+          "turn": "1",
+          "hp": "5703910",
+          "def": "5470",
+          "lv": "1",
+          "coin": "3187",
+          "es": "1056",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI229.png",
+            "title": "5回人類禁錮 ‧ 雙重擴散燃燒10%"
+          },
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

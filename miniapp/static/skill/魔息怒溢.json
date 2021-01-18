@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "魔息怒溢",
+  "effect": "I. 將所有符石隨機轉化為<br>⇒ 五屬強化符石<br>1 回合內<br>II. 消除符石的屬性愈多<br>⇒ 自身及「智火解析 ‧ 恩莉兒」<br>&nbsp;&nbsp;&nbsp;&nbsp;攻擊力提升愈多<br>⇒ 最多可提升至 6 倍<br>III. 若有擊斃敵人<br>⇒ 下回合將自身及<br>&nbsp;&nbsp;「智火解析 ‧ 恩莉兒」<br>&nbsp;&nbsp;&nbsp;&nbsp;直行的符石轉化為<br>&nbsp;&nbsp;&nbsp;&nbsp;自身屬性強化符石",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2477"
+}

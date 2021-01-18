@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "財源廣進",
+  "effect": "3 回合內，<br>隊伍成員的種族及屬性愈多<br>⇒ 所受傷害減少愈多<br>⇒ 隊中集齊 5 種屬性及<br>&nbsp;&nbsp;&nbsp;&nbsp;6 個種族成員，<br>&nbsp;&nbsp;&nbsp;&nbsp;可減少最多 88% 傷害",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2444"
+}

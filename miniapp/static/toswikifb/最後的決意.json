@@ -1,0 +1,618 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1104",
+      "title": "依約而來",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "turn": "2",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "488",
+          "stage": "",
+          "turn": "3",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1123",
+          "stage": "4",
+          "turn": "2{{初始CD*1}}",
+          "hp": "7253280",
+          "def": "8000",
+          "coin": "5123",
+          "es": "1009",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI309.png|static/es/SI228.png",
+            "title": "突擊65% ‧ 首回攻後木化血 ‧ 首攻隨機側行黏附"
+          }
+        },
+        {
+          "card": "1104",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6329540",
+          "def": "15270",
+          "coin": "0",
+          "es": "796",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "✕形燃燒10%"
+          }
+        },
+        {
+          "card": "1104",
+          "stage": "",
+          "turn": "1",
+          "hp": "14195860",
+          "def": "15270",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1266",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png|static/es/SI188.png",
+            "title": "首消6+Combo盾 ‧ 初怒-連擊"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1106",
+      "title": "對立的二人",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "turn": "2",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "488",
+          "stage": "",
+          "turn": "3",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1121",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7189460",
+          "def": "7370",
+          "coin": "5123",
+          "chest": "4000",
+          "es": "671",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI254.png|static/es/SI301.png|static/es/SI047.png",
+            "title": "妖魔技能重置 ‧ 強化盾 ‧ 水縱橫輪轉"
+          }
+        },
+        {
+          "card": "1106",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6581440",
+          "def": "15130",
+          "coin": "0",
+          "es": "1599",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI139.png",
+            "title": "循環累積30+相剋符石盾 ‧ 越扣越強25%"
+          }
+        },
+        {
+          "card": "1106",
+          "stage": "",
+          "turn": "1",
+          "hp": "17318580",
+          "def": "15130",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1606",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI309.png|static/es/SI310.png|static/es/SI254.png|static/es/SI251.png",
+            "title": "首回攻後木光化血 ‧ 強化盾 ‧ 無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1562",
+      "title": "弗麗嘉的殺意",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "turn": "2",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "488",
+          "stage": "",
+          "turn": "3",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1562",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9767220",
+          "def": "35360",
+          "coin": "155",
+          "chest": "4000",
+          "es": "324",
+          "ws": "10141",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘10%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1100",
+      "title": "北域集結",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "turn": "2",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "488",
+          "stage": "",
+          "turn": "3",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1052",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6178920",
+          "def": "4980",
+          "coin": "5123",
+          "es": "1627",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI236.png|static/es/SI216.png|static/es/SI251.png",
+            "title": "無法控制 ‧ 攻後電擊 ‧ 復活變強-無視減傷"
+          }
+        },
+        {
+          "card": "1102",
+          "stage": "6{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7308970",
+          "def": "27840",
+          "coin": "0",
+          "es": "1461",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI047.png|static/es/SI011.png",
+            "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 首消水傷害吸收"
+          }
+        },
+        {
+          "card": "1102",
+          "stage": "",
+          "turn": "1",
+          "hp": "5431290",
+          "def": "27840",
+          "coin": "6383",
+          "es": "1573",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI113.png|static/es/SI301.png|static/es/SI236.png",
+            "title": "首消水追擊零化 ‧ 水電擊2顆"
+          }
+        },
+        {
+          "card": "1054",
+          "stage": "9",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9876310",
+          "def": "9030",
+          "coin": "5123",
+          "es": "846",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI227.png",
+            "title": "強化盾 ‧ 迷惑符石"
+          }
+        },
+        {
+          "card": "1100",
+          "stage": "10{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8023140",
+          "def": "30530",
+          "coin": "0",
+          "es": "791",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png|static/es/SI224.png",
+            "title": "攻後木橫縱輪轉 ‧ 隱藏-結"
+          }
+        },
+        {
+          "card": "1100",
+          "stage": "",
+          "turn": "1",
+          "hp": "24501780",
+          "def": "30530",
+          "coin": "18400",
+          "chest": "8000",
+          "es": "1086",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI004.png|static/es/SI005.png|static/es/SI246.png",
+            "title": "光暗防禦95% ‧ 三屬強化盾-限"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1562",
+      "title": "粉碎命運的輪迴",
+      "cj": [],
+      "data": [
+        {
+          "card": "1562",
+          "stage": "5{{三血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100000",
+          "def": "35360",
+          "coin": "0",
+          "es": "1087",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png|static/es/SI262.png",
+            "title": "冰封圍城 ‧ 單擊800萬盾"
+          }
+        },
+        {
+          "card": "1562",
+          "stage": "",
+          "turn": "1",
+          "hp": "9482590",
+          "def": "35360",
+          "coin": "0",
+          "es": "1600",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI233.png|static/es/SI161.png|static/es/SI183.png",
+            "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
+          }
+        },
+        {
+          "card": "1562",
+          "stage": "",
+          "turn": "1",
+          "hp": "25316470",
+          "def": "35360",
+          "coin": "",
+          "es": "1759",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI015.png|static/es/SI260.png|static/es/SI122.png|static/es/SI224.png",
+            "title": "首消暗傷害吸收-反擊100% ‧ 含神-全體禁錮-隱藏圍城"
+          }
+        }
+      ]
+    }
+  ]
+}

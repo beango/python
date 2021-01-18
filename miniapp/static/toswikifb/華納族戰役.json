@@ -1,0 +1,192 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1124",
+      "title": "消滅骨龍",
+      "cj": [],
+      "data": [
+        {
+          "card": "083",
+          "stage": "",
+          "hp": "976584",
+          "def": "2130",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "489",
+          "stage": "",
+          "hp": "759384",
+          "def": "2080",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1124",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8041950",
+          "def": "500000",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "884",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI254.png|static/es/SI221.png",
+            "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1411",
+      "title": "不顧一切的費雷",
+      "cj": [],
+      "data": [
+        {
+          "card": "107",
+          "stage": "",
+          "hp": "804193",
+          "def": "1430",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "hp": "813624",
+          "def": "1480",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1411",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6965870",
+          "def": "3320",
+          "coin": "4380",
+          "chest": "4000",
+          "es": "885",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI011.png",
+            "title": "突擊50% ‧ 攻後水橫縱輪轉"
+          }
+        },
+        {
+          "card": "1414",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7032520",
+          "def": "3240",
+          "coin": "4380",
+          "es": "1317",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "6顆風化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "425",
+      "title": "領袖的挑戰",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "",
+          "turn": "1",
+          "hp": "",
+          "def": "2060",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "966",
+          "stage": "",
+          "turn": "2",
+          "hp": "",
+          "def": "2470",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "",
+          "def": "3180",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "425",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1,000,000,000",
+          "def": "59860",
+          "coin": "",
+          "chest": "8000",
+          "es": "635",
+          "note": "{{特性*離開*5}}",
+          "esjson": {
+            "img": "static/es/SI106.png",
+            "title": "(5回8+Combo發動攻回)"
+          }
+        }
+      ]
+    }
+  ]
+}

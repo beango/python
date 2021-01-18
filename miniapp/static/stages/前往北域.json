@@ -1,0 +1,323 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "20001",
+      "title": "受到熱愛的閣主",
+      "note": "※ 通過 受到熱愛的閣主 獎勵：![體力](toswikiapic/體力.png) 體力 10 點 ※",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {},
+      "data": []
+    },
+    {
+      "id": "834",
+      "title": "受到熱愛的閣主 -1",
+      "note": "※ 通過 受到熱愛的閣主 -1 獎勵：1 點養成點數 ※",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "837",
+          "stage": "1",
+          "damage": "29736",
+          "turn": "3(3)",
+          "hp": "50368630",
+          "def": "160000",
+          "coin": "",
+          "es": "3378",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI251.png|es/SI124.png",
+            "title": "首殺盾 ‧ 無視減傷 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "damage": "18252",
+          "turn": "2(2)",
+          "hp": "48697850",
+          "def": "120000",
+          "coin": "",
+          "es": "593",
+          "note": "",
+          "esjson": {
+            "img": "es/SI011.png",
+            "title": "攻後轉直水"
+          },
+          "jd": ""
+        },
+        {
+          "card": "836",
+          "stage": "2",
+          "damage": "71912",
+          "turn": "4(4)",
+          "hp": "98632140",
+          "def": "370000",
+          "coin": "",
+          "es": "1744",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png|es/SI251.png",
+            "title": "初級拼圖盾 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "834",
+          "stage": "",
+          "damage": "18194",
+          "turn": "1(1)",
+          "hp": "97965350",
+          "def": "360000",
+          "coin": "",
+          "es": "3185",
+          "note": "",
+          "esjson": {
+            "img": "es/SI096.png|es/SI188.png",
+            "title": "首消6Combo盾 ‧ 越攻越強"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "委託的來由",
+      "note": "※ 通過 受到熱愛的閣主 獎勵：![體力](toswikiapic/體力.png) 體力 10 點 ※",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": []
+    },
+    {
+      "id": "1014",
+      "title": "委託的來由 -1",
+      "note": "※ 通過 委託的來由 -1 獎勵：1 點養成點數 ※",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1006",
+          "stage": "1-3",
+          "damage": "8967",
+          "turn": "1(1)",
+          "hp": "41038540",
+          "def": "42000",
+          "coin": "",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "damage": "27216",
+          "turn": "3(3)",
+          "hp": "39546810",
+          "def": "98000",
+          "coin": "",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "damage": "17146",
+          "turn": "2(2)",
+          "hp": "42463930",
+          "def": "57000",
+          "coin": "",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "damage": "17350",
+          "turn": "2(2)",
+          "hp": "41863240",
+          "def": "83000",
+          "coin": "",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "damage": "9123",
+          "turn": "1(1)",
+          "hp": "39317560",
+          "def": "40000",
+          "coin": "",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "兵分三路",
+      "note": "※ 通過 兵分三路 獎勵：![體力](toswikiapic/體力.png) 體力 10 點 ※",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "2500"
+      },
+      "data": []
+    },
+    {
+      "id": "1655",
+      "title": "兵分三路 -1",
+      "note": "※ 通過 兵分三路 -1 獎勵：1 點養成點數 ※<br>※ 通過 兵分三路 -1 獎勵：解鎖新的主動技能升級選項：[元素之軌](/pages/index/detail/detail?name2=元素之軌) ※<br>",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "5",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "551",
+          "stage": "1",
+          "damage": "23136",
+          "turn": "2(2)",
+          "hp": "47399850",
+          "def": "140000",
+          "coin": "",
+          "es": "285",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png",
+            "title": "隱藏-轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "546",
+          "stage": "",
+          "damage": "45708",
+          "turn": "3(3)",
+          "hp": "62076250",
+          "def": "350000",
+          "coin": "",
+          "es": "911",
+          "note": "",
+          "esjson": {
+            "img": "es/SI033.png",
+            "title": "首消全木盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1121",
+          "stage": "2",
+          "damage": "32682",
+          "turn": "2(2)",
+          "hp": "137396150",
+          "def": "270000",
+          "coin": "",
+          "es": "1594",
+          "note": "",
+          "esjson": {
+            "img": "es/SI183.png",
+            "title": "始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "552",
+          "stage": "3",
+          "damage": "18491",
+          "turn": "1(1)",
+          "hp": "92563240",
+          "def": "230000",
+          "coin": "",
+          "es": "1770",
+          "note": "",
+          "esjson": {
+            "img": "es/SI016.png|es/SI301.png|es/SI047.png|es/SI113.png",
+            "title": "敵轉水-首回隨機轉水 ‧ 首消水追擊零化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1316",
+          "stage": "4",
+          "damage": "63984",
+          "turn": "3(3)",
+          "hp": "145084430",
+          "def": "390000",
+          "coin": "",
+          "es": "2286",
+          "note": "",
+          "esjson": {
+            "img": "es/SI219.png|es/SI165.png|es/SI001.png",
+            "title": "凍結3顆 ‧ 2秒轉珠 ‧ 水屬防禦75%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1655",
+          "stage": "5",
+          "damage": "63984",
+          "turn": "1(1)",
+          "hp": "164210590",
+          "def": "560000",
+          "coin": "",
+          "es": "2314",
+          "note": "",
+          "esjson": {
+            "img": "es/SI156.png|es/SI301.png|es/SI047.png|es/SI011.png",
+            "title": "回復力變0 ‧ 隨機轉水 ‧ 首消水傷害吸收"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

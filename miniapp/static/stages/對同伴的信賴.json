@@ -1,0 +1,113 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1810",
+      "title": "對同伴的信賴 - 1",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "1810",
+          "stage": "3",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "只求你們安好",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": []
+    },
+    {
+      "id": "1651",
+      "title": "對同伴的信賴 - 2",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "1651",
+          "stage": "4",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "2565",
+      "title": "對同伴的信賴 - 3",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "2565",
+          "stage": "4",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "即使危險也好",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": []
+    }
+  ]
+}

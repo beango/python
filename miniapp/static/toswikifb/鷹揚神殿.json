@@ -1,0 +1,351 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "142",
+      "title": "向諸劍起誓",
+      "cj": [],
+      "data": [
+        {
+          "card": "063",
+          "damage": "7230",
+          "hp": "70980",
+          "def": "3000",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "093",
+          "damage": "2110",
+          "hp": "44774",
+          "def": "240",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "113",
+          "damage": "4586",
+          "hp": "59537",
+          "def": "760",
+          "lv": "12",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "332",
+          "damage": "4080",
+          "hp": "168430",
+          "def": "3940",
+          "drop": "103",
+          "lv": "12",
+          "turn": "2",
+          "note": "{{2秒轉珠}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "337",
+          "damage": "2310",
+          "hp": "169400",
+          "drop": "073",
+          "lv": "12",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "342",
+          "damage": "9500",
+          "hp": "154200",
+          "def": "3000",
+          "drop": "083",
+          "lv": "12",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "459",
+          "stage": "6",
+          "damage": "6530",
+          "hp": "445890",
+          "turn": "1{{初始CD*1}}",
+          "def": "3300",
+          "note": "{{無法控制}}",
+          "esjson": null
+        },
+        {
+          "card": "093",
+          "stage": "",
+          "num": "2",
+          "damage": "2110",
+          "hp": "44774",
+          "turn": "1{{初始CD*1}}",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null
+        },
+        {
+          "card": "142",
+          "stage": "7",
+          "damage": "10850",
+          "hp": "362400",
+          "turn": "2{{初始CD*2}}",
+          "drop": "140",
+          "lv": "1",
+          "note": "{{復活變強}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "035",
+      "title": "聖者傳承的責任",
+      "cj": [],
+      "data": [
+        {
+          "card": "063",
+          "damage": "7230",
+          "hp": "70980",
+          "def": "3000",
+          "turn": "3",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "093",
+          "damage": "2110",
+          "hp": "44774",
+          "def": "240",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "113",
+          "damage": "4586",
+          "hp": "59537",
+          "def": "760",
+          "lv": "3",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "332",
+          "damage": "4080",
+          "hp": "168430",
+          "def": "3940",
+          "drop": "103",
+          "lv": "3",
+          "turn": "2",
+          "note": "{{2秒轉珠}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "337",
+          "damage": "2310",
+          "hp": "169400",
+          "drop": "073",
+          "lv": "3",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "342",
+          "damage": "9500",
+          "hp": "154200",
+          "def": "3000",
+          "drop": "083",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "459",
+          "damage": "3530",
+          "hp": "145890",
+          "def": "1300",
+          "drop": "093",
+          "lv": "3",
+          "note": "{{無法控制}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "157",
+          "stage": "6",
+          "damage": "11430",
+          "hp": "733800",
+          "note": "{{暗轉自身}}",
+          "esjson": null
+        },
+        {
+          "card": "187",
+          "stage": "",
+          "damage": "8420",
+          "hp": "634660",
+          "def": "360",
+          "turn": "2{{初始CD*2}}",
+          "note": "{{無限回復}}",
+          "esjson": null
+        },
+        {
+          "card": "036",
+          "stage": "7",
+          "damage": "34870",
+          "hp": "2089800",
+          "turn": "2{{初始CD*2}}",
+          "drop": "033",
+          "lv": "1",
+          "note": "{{單體無效}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "218",
+      "title": "賜予榮譽的鷹神",
+      "cj": [],
+      "data": [
+        {
+          "card": "063",
+          "damage": "7230",
+          "hp": "70980",
+          "def": "3000",
+          "turn": "3",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "093",
+          "damage": "2110",
+          "hp": "44774",
+          "def": "240",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "113",
+          "damage": "4586",
+          "hp": "59537",
+          "def": "760",
+          "lv": "3",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "332",
+          "damage": "4080",
+          "hp": "168430",
+          "def": "3940",
+          "drop": "103",
+          "lv": "3",
+          "turn": "2{{初始CD*2}}",
+          "note": "{{2秒轉珠}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "337",
+          "damage": "2310",
+          "hp": "169400",
+          "def": "483",
+          "drop": "073",
+          "lv": "3",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "342",
+          "damage": "9500",
+          "hp": "154200",
+          "def": "3000",
+          "drop": "083",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "459",
+          "damage": "3530",
+          "hp": "145890",
+          "def": "1300",
+          "drop": "093",
+          "lv": "3",
+          "note": "{{無法控制}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "454",
+          "stage": "5",
+          "damage": "6060",
+          "hp": "746000",
+          "def": "3000",
+          "turn": "1{{初始CD*1}}",
+          "note": "{{全體無效}}",
+          "esjson": null
+        },
+        {
+          "card": "452",
+          "stage": "",
+          "damage": "15800",
+          "hp": "812000",
+          "def": "3000",
+          "turn": "3{{初始CD*3}}",
+          "note": "{{無法控制}}",
+          "esjson": null
+        },
+        {
+          "card": "464",
+          "stage": "9",
+          "damage": "6040",
+          "hp": "1046000",
+          "def": "1340",
+          "turn": "2",
+          "note": "{{風化 ‧ 先}}",
+          "esjson": null
+        },
+        {
+          "card": "462",
+          "stage": "",
+          "damage": "3280",
+          "hp": "986200",
+          "def": "200",
+          "turn": "1",
+          "note": "{{風化 ‧ 先}}",
+          "esjson": null
+        },
+        {
+          "card": "218",
+          "stage": "10",
+          "damage": "8890",
+          "hp": "2528200",
+          "turn": "1{{初始CD*1}}",
+          "note": "{{反彈15%}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

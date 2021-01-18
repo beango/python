@@ -20,7 +20,7 @@
         {
             "name": "Python2: Current File (Integrated Terminal)",
             "type": "python",
-            //"pythonPath": "/usr/bin/python2",
+            //"python": "/usr/bin/python2",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "震吼之暴",
+  "effect": "2 回合內<br>I. 敵方全體防禦力減至 0<br>II. 減少 40% 所受傷害<br>III. 首批消除所有木符石<br>⇒ 神族及妖精類成員的攻擊<br>&nbsp;&nbsp;&nbsp;&nbsp;無視「指定形狀盾」敵技",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2507"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "超級破壞拳",
+  "effect": "I. 引爆所有弱化符石<br>II. 解除「石化符石」狀態<br>1 回合內<br>III. 自身攻擊轉化為火屬性<br>IV. 自身攻擊力 8 倍<br>(攻擊力不可與其他成員共享)<br>V. 若於最後一層 (Wave)<br>&nbsp;&nbsp;&nbsp;&nbsp;發動此技能<br>⇒ 自身攻擊力額外 1.5 倍<br>",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2291"
+}

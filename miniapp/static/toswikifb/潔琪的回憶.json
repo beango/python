@@ -1,0 +1,85 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1569",
+      "title": "存在的重量",
+      "cj": [],
+      "data": [
+        {
+          "card": "1566",
+          "stage": "",
+          "turn": "1",
+          "hp": "805680",
+          "def": "830",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1567",
+          "stage": "",
+          "turn": "2",
+          "hp": "798390",
+          "def": "790",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1568",
+          "stage": "",
+          "turn": "3",
+          "hp": "821460",
+          "def": "820",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1569",
+          "stage": "",
+          "turn": "2",
+          "hp": "812540",
+          "def": "860",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1570",
+          "stage": "",
+          "turn": "3",
+          "hp": "795640",
+          "def": "810",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1568",
+          "stage": "4",
+          "turn": "2",
+          "hp": "821460",
+          "def": "1020",
+          "coin": "189",
+          "chest": "8000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1569",
+          "stage": "",
+          "turn": "3",
+          "hp": "812540",
+          "def": "860",
+          "coin": "189",
+          "chest": "8000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

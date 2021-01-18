@@ -1,0 +1,1062 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "326",
+      "title": "天秤宮之門 初級",
+      "note": "",
+      "story": "{{故事|'''【進入關卡】'''<br>\n{{382|50}}{{382|_name}}：「試練者，星辰的秤將評價你的實力……」<br>\n{{Owl}}：「星靈在呼喚勇者……」<br>",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "5",
+        "exp": "380"
+      },
+      "data": [
+        {
+          "card": "062",
+          "stage": "",
+          "damage": "250",
+          "hp": "1296",
+          "coin": "148",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "072",
+          "stage": "",
+          "damage": "393",
+          "hp": "3338",
+          "coin": "145",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "082",
+          "stage": "",
+          "damage": "1227",
+          "hp": "3618",
+          "coin": "96",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "092",
+          "stage": "",
+          "damage": "344",
+          "hp": "2162",
+          "coin": "146",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "325",
+          "stage": "",
+          "damage": "800",
+          "hp": "4208",
+          "def": "50",
+          "coin": "6",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "382",
+          "stage": "",
+          "damage": "6888",
+          "turn": "4(4)",
+          "hp": "10",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "384",
+          "stage": "",
+          "damage": "99999",
+          "turn": "8(8)",
+          "hp": "18",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "406",
+          "stage": "",
+          "damage": "598",
+          "hp": "4242",
+          "coin": "29",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "5",
+          "damage": "930",
+          "hp": "26050",
+          "def": "150",
+          "coin": "11",
+          "item": "7",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "326",
+      "title": "天秤守護神 中級",
+      "note": "",
+      "story": "{{故事|'''【進入關卡】'''<br>",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "6",
+        "exp": "780"
+      },
+      "data": [
+        {
+          "card": "063",
+          "stage": "",
+          "damage": "2255",
+          "hp": "9869",
+          "coin": "150",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "073",
+          "stage": "",
+          "damage": "1080",
+          "hp": "26743",
+          "coin": "156",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "stage": "",
+          "damage": "4215",
+          "hp": "19130",
+          "coin": "148",
+          "lv": "2",
+          "item ": " 7",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "stage": "",
+          "damage": "835",
+          "hp": "17249",
+          "coin": "147",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "325",
+          "stage": "",
+          "damage": "2110",
+          "turn": "2",
+          "hp": "26208",
+          "coin": "50",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "382",
+          "stage": "",
+          "damage": "6888",
+          "turn": "4(4)",
+          "hp": "15",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "384",
+          "stage": "",
+          "damage": "99999",
+          "turn": "8(8)",
+          "hp": "18",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "406",
+          "stage": "",
+          "damage": "1718",
+          "hp": "20587",
+          "coin": "99",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "6",
+          "damage": "3350",
+          "turn": "2(2)",
+          "hp": "78700",
+          "def": "200",
+          "coin": "99",
+          "item": "7",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "title": "天秤審判者 高級",
+      "note": "※ {{PAGENAME}} 首次通關（STAGE CLEARED）會獲得 ![魔法石](toswikiapic/Gift-魔法石.png) 1粒 ※",
+      "story": "{{故事|'''【進入關卡】'''<br>\n{{382|50}}{{382|_name}}：「戰爭帶來混亂，劍刃卻將人連結；我們從星辰俯視，尋找公正的弦線……」<br>\n{{Owl}}：「星靈的聲音代表了星宮的意願，祂們在尋找可托付者，以平息人界的紛亂。」<br><br>\n'''【BOSS前】'''<br>\n{{Owl}}：「天秤宮的力量包含著傷害和保護，注意光暗的調和才能與祂作戰。」<br>",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "8",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "063",
+          "stage": "",
+          "damage": "3050",
+          "hp": "18269",
+          "coin": "270",
+          "lv": "3",
+          "es": "12",
+          "item": "7",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": ""
+        },
+        {
+          "card": "073",
+          "stage": "",
+          "damage": "1960",
+          "hp": "49503",
+          "coin": "276",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "stage": "",
+          "damage": "7655",
+          "hp": "35410",
+          "coin": "268",
+          "lv": "3",
+          "item ": " 7",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "stage": "",
+          "damage": "1515",
+          "hp": "31929",
+          "coin": "267",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "",
+          "damage": "3036",
+          "turn": "2",
+          "hp": "48150",
+          "def": "150",
+          "coin": "79",
+          "lv": "6",
+          "drop": "325",
+          "item ": " 7",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "337",
+          "stage": "",
+          "damage": "3280",
+          "hp": "58234",
+          "coin": "53",
+          "lv": "1",
+          "drop": "073",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "382",
+          "stage": "",
+          "damage": "8888",
+          "turn": "4(4)",
+          "hp": "15",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "406",
+          "stage": "",
+          "damage": "2998",
+          "hp": "39267",
+          "coin": "179",
+          "lv": "6",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "384",
+          "stage": "{{掉落*白金}}",
+          "damage": "99999",
+          "turn": "8(8)",
+          "hp": "30",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "315",
+          "stage": "3",
+          "damage": "5092",
+          "turn": "2",
+          "hp": "241230",
+          "coin": "20",
+          "item ": " 7",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "172",
+          "stage": "7",
+          "damage": "6021",
+          "turn": "4",
+          "hp": "143603",
+          "def": "10",
+          "coin": "19",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "172",
+          "stage": "",
+          "damage": "6021",
+          "turn": "4",
+          "hp": "143603",
+          "def": "10",
+          "coin": "19",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "367",
+          "stage": "8",
+          "damage": "4121",
+          "hp": "108506",
+          "coin": "100",
+          "item": "7",
+          "es": "76",
+          "note": "",
+          "esjson": {
+            "img": "es/SI241.png",
+            "title": "光暗盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "368",
+      "title": "正義的天秤",
+      "note": "※EXTRA 首次通關獎勵︰![423](zhs/423i.png) 1隻 + ![338](zhs/338i.png) 5隻 ※",
+      "story": "",
+      "cj": [],
+      "info": {
+        "item": "7,10",
+        "battle": "15",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "063",
+          "stage": "",
+          "damage": "6625",
+          "hp": "51540",
+          "coin": "435",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": ""
+        },
+        {
+          "card": "065",
+          "stage": "",
+          "damage": "6766",
+          "hp": "49477",
+          "coin": "435",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": ""
+        },
+        {
+          "card": "073",
+          "stage": "",
+          "damage": "3170",
+          "hp": "80798",
+          "coin": "441",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "075",
+          "stage": "",
+          "damage": "3170",
+          "hp": "80087",
+          "coin": "441",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "stage": "",
+          "damage": "10780",
+          "hp": "57795",
+          "coin": "493",
+          "es": "17",
+          "note": "",
+          "esjson": {
+            "img": "es/SI260.png",
+            "title": "反彈15%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "085",
+          "stage": "",
+          "damage": "10100",
+          "hp": "57227",
+          "coin": "493",
+          "es": "17",
+          "note": "",
+          "esjson": {
+            "img": "es/SI260.png",
+            "title": "反彈15%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "stage": "",
+          "damage": "2450",
+          "hp": "52114",
+          "coin": "432",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": ""
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "2950",
+          "hp": "51547",
+          "coin": "432",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "",
+          "damage": "6375",
+          "hp": "90400",
+          "coin": "209",
+          "es": "115",
+          "note": "",
+          "esjson": {
+            "img": "es/SI102.png",
+            "title": "4+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "328",
+          "stage": "",
+          "damage": "6545",
+          "hp": "88830",
+          "coin": "209",
+          "es": "115",
+          "note": "",
+          "esjson": {
+            "img": "es/SI102.png",
+            "title": "4+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "337",
+          "stage": "",
+          "damage": "4459",
+          "hp": "95234",
+          "coin": "117",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "338",
+          "stage": "",
+          "damage": "4475",
+          "hp": "94917",
+          "coin": "117",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "406",
+          "stage": "",
+          "damage": "4758",
+          "hp": "64952",
+          "coin": "289",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "407",
+          "stage": "",
+          "damage": "2047",
+          "hp": "56331",
+          "coin": "289",
+          "es": "13",
+          "note": "",
+          "esjson": {
+            "img": "es/SI135.png",
+            "title": "中毒7.5%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "273",
+          "stage": "1{{掉落*黃}}",
+          "damage": "100",
+          "hp": "5",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "273",
+          "stage": "2{{掉落*黃}}",
+          "damage": "100",
+          "hp": "5",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "273",
+          "stage": "",
+          "damage": "100",
+          "hp": "5",
+          "coin": "100",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "052",
+          "stage": "3",
+          "damage": "3951",
+          "hp": "72150",
+          "coin": "1015",
+          "es": "114",
+          "note": "",
+          "esjson": {
+            "img": "es/SI101.png",
+            "title": "3+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "325",
+          "stage": "4{{掉落*銅}}",
+          "damage": "2760",
+          "hp": "28708",
+          "coin": "55",
+          "lv": "10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "325",
+          "stage": "",
+          "damage": "2760",
+          "hp": "28708",
+          "coin": "55",
+          "lv": "10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "130",
+          "stage": "6",
+          "damage": "100",
+          "turn": "1",
+          "hp": "384870",
+          "coin": "1563",
+          "es": "72",
+          "note": "",
+          "esjson": {
+            "img": "es/SI126.png",
+            "title": "扣血30%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "325",
+          "stage": "7{{掉落*銅}}",
+          "damage": "2760",
+          "hp": "28708",
+          "coin": "55",
+          "lv": "10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "325",
+          "stage": "",
+          "damage": "2760",
+          "hp": "28708",
+          "coin": "55",
+          "lv": "10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "325",
+          "stage": "",
+          "damage": "2760",
+          "hp": "28708",
+          "coin": "55",
+          "lv": "10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "283",
+          "stage": "8{{掉落*銀}}",
+          "damage": "900",
+          "hp": "15",
+          "coin": "300",
+          "lv": "1",
+          "def ": " 100000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "175",
+          "stage": "9",
+          "damage": "6620",
+          "hp": "421577",
+          "coin": "992",
+          "es": "66",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "初級拼圖盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "10{{掉落*銅}}",
+          "damage": "6375",
+          "hp": "70450",
+          "coin": "209",
+          "lv": "10",
+          "drop": "325",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "",
+          "damage": "6375",
+          "hp": "70450",
+          "coin": "209",
+          "lv": "10",
+          "drop": "325",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "",
+          "damage": "6375",
+          "hp": "70450",
+          "coin": "209",
+          "lv": "10",
+          "drop": "325",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "157",
+          "stage": "12",
+          "damage": "10540",
+          "hp": "628901",
+          "coin": "850",
+          "es": "104",
+          "note": "",
+          "esjson": {
+            "img": "es/SI047.png",
+            "title": "暗轉自身"
+          },
+          "jd": ""
+        },
+        {
+          "card": "210",
+          "stage": "13",
+          "damage": "11980",
+          "turn": "3",
+          "hp": "749802",
+          "coin": "125",
+          "es": "71",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png",
+            "title": "剋屬外防禦50%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "237",
+          "stage": "14{{前置}}",
+          "damage": "46855",
+          "hp": "685103",
+          "coin": "0",
+          "es": "30",
+          "note": "",
+          "esjson": {
+            "img": "es/SI069.png",
+            "title": "3倍獵人"
+          },
+          "jd": ""
+        },
+        {
+          "card": "238",
+          "stage": "",
+          "damage": "93709",
+          "turn": "5(5)",
+          "hp": "1005510",
+          "coin": "4703",
+          "es": "30",
+          "note": "",
+          "esjson": {
+            "img": "es/SI069.png",
+            "title": "3倍獵人"
+          },
+          "jd": ""
+        },
+        {
+          "card": "125",
+          "stage": "15",
+          "damage": "10",
+          "hp": "10",
+          "coin": "426",
+          "chest": "3000",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "es/SI125.png",
+            "title": "技能回復"
+          },
+          "jd": ""
+        },
+        {
+          "card": "368",
+          "stage": "",
+          "damage": "12240",
+          "turn": "3(3)",
+          "hp": "1287145",
+          "def": "1200",
+          "coin": "100",
+          "es": "76",
+          "note": "",
+          "esjson": {
+            "img": "es/SI241.png",
+            "title": "光暗盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "822",
+      "title": "絕對的公義  {{回合上限2|50}}",
+      "note": "極限突破關卡：隊伍中需包含成員{{MonsterLv|822|99|40|cd=8|ref=4}}",
+      "story": "",
+      "cj": [],
+      "info": {
+        "item": "7,20",
+        "battle": "6",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "326",
+          "stage": "1",
+          "damage": "16543",
+          "turn": "3(3)",
+          "hp": "1612470",
+          "def": "1930",
+          "coin": "189",
+          "es": "899",
+          "note": "",
+          "esjson": {
+            "img": "es/SI004.png",
+            "title": "光外防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "326",
+          "stage": "",
+          "damage": "16543",
+          "turn": "3(3)",
+          "hp": "1612470",
+          "def": "1930",
+          "coin": "189",
+          "es": "899",
+          "note": "",
+          "esjson": {
+            "img": "es/SI004.png",
+            "title": "光外防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "709",
+          "stage": "2",
+          "damage": "14028",
+          "turn": "2(2)",
+          "hp": "4835920",
+          "def": "5320",
+          "coin": "492",
+          "es": "1313",
+          "note": "",
+          "esjson": {
+            "img": "es/SI221.png",
+            "title": "2顆風化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1184",
+          "stage": "3{{雙血}}",
+          "damage": "17560",
+          "turn": "2(2)",
+          "hp": "7692180",
+          "def": "7980",
+          "coin": "0",
+          "es": "884",
+          "note": "",
+          "esjson": {
+            "img": "es/SI158.png|es/SI254.png|es/SI221.png",
+            "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1184",
+          "stage": "",
+          "damage": "14973",
+          "turn": "1",
+          "hp": "3054750",
+          "def": "7980",
+          "coin": "5963",
+          "es": "586",
+          "note": "",
+          "esjson": {
+            "img": "es/SI241.png",
+            "title": "光暗盾-限"
+          },
+          "jd": ""
+        },
+        {
+          "card": "664",
+          "stage": "4",
+          "damage": "10347",
+          "turn": "2(2)",
+          "hp": "3689240",
+          "def": "2490",
+          "coin": "2352",
+          "es": "866",
+          "note": "",
+          "esjson": {
+            "img": "es/SI236.png",
+            "title": "電擊2顆"
+          },
+          "jd": ""
+        },
+        {
+          "card": "157",
+          "stage": "",
+          "damage": "10408",
+          "turn": "2(1)",
+          "hp": "3621730",
+          "def": "2540",
+          "coin": "670",
+          "es": "247",
+          "note": "",
+          "esjson": {
+            "img": "es/SI047.png",
+            "title": "光轉心"
+          },
+          "jd": ""
+        },
+        {
+          "card": "669",
+          "stage": "5",
+          "damage": "68692",
+          "turn": "3(3)",
+          "hp": "1873460",
+          "def": "6340",
+          "coin": "5543",
+          "es": "1746",
+          "note": "",
+          "esjson": {
+            "img": "es/SI339.png|es/SI181.png|es/SI251.png",
+            "title": "光弱化鎖定20% ‧ 初級拼圖盾-限 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "822",
+          "stage": "6{{雙血}}",
+          "damage": "6344",
+          "turn": "1(1)",
+          "hp": "4135720",
+          "def": "15740",
+          "coin": "0",
+          "es": "281",
+          "note": "",
+          "esjson": {
+            "img": "es/SI106.png",
+            "title": "8+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "822",
+          "stage": "",
+          "damage": "15168",
+          "turn": "1",
+          "hp": "9653130",
+          "def": "15740",
+          "coin": "6835",
+          "es": "621",
+          "chest": "3000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI019.png|es/SI123.png|es/SI112.png",
+            "title": "敵轉光 ‧ 附加消除 ‧ 首消光暗Combo同等盾"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

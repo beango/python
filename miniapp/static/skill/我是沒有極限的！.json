@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "我是沒有極限的！",
+  "effect": "I. 變身<br>II. 「超人ZERO」及<br>　「超人ZERO (無限形態)」<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;直行的符石<br>⇒    轉化為水神族強化符石<br>III. 1 回合內，水及暗符石兼具心符石效果",
+  "turn": "8",
+  "minTurn": "8",
+  "pet": "2150"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "郎之心扉",
+  "effect": "將場上左方的 15 粒符石轉化為[board]固定數量及位置[/board]的火、木及心符石",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "877",
+  "rpet": ""
+}

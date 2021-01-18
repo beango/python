@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "生命之碑",
+  "effect": "I. 引爆所有弱化符石、<br>&nbsp;&nbsp;&nbsp;凍結符石、自身直行符石<br>⇒ 掉落水符石<br>1 回合內<br>II. 增加 3 連擊 (Combo、Ex. Combo)",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "2496"
+}

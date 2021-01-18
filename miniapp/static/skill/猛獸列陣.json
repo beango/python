@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "猛獸列陣",
+  "effect": "點選法陣上的動物圖像<br>⇒ 轉換自身形態<br><font color=#FFFF3C>【鹿】</font><br>⓵ 引爆所有符石<br>3 回合內<br>⓶ 全隊回復力減至 0<br>⓷ 每回合回復<br>⇒ 45,000 點生命力<br><font color=#FFFF3C>【熊】</font><br>1 回合內<br>⓵ 所受傷害減至 0<br><font color=#FFFF3C>【狼】</font><br>⓵ 將獸類成員屬性符石及<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;心符石轉化為強化符石<br>1 回合內<br>⓶ 獸類攻擊力 2 倍<br>⓷ 所有成員無視「攻前盾」<br><font color=#FFFF3C>【鷹】</font><br>⓵「比擬萬象 ‧ 達格」以外<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;獸類成員 CD -1<br>1 回合內<br>⓶ 所有符石兼具<br>⇒ 其他屬性符石效果",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2568"
+}

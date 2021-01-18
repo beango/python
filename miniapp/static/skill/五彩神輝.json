@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "五彩神輝",
+  "effect": "1 回合內<br>I. 可任意移動符石<br>&nbsp;&nbsp;&nbsp;而不會發動消除<br>II. 消除屬性符石時，<br>&nbsp;&nbsp;&nbsp;&nbsp;自身、「以諾」、<br>&nbsp;&nbsp;&nbsp;「魔法閣沙蘿耶」系列、<br>&nbsp;&nbsp;&nbsp;「八仙」系列角色<br>⇒ 以 50% 攻擊力追打<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相應屬性攻擊 1 次",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2572"
+}

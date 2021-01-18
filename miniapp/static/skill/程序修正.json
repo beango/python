@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "程序修正",
+  "effect": "I. 12 秒內，可任意移動符石<br>&nbsp;&nbsp;&nbsp;而不會發動消除<br>1 回合內<br>II. 暗符石兼具 50% 其他屬性符石效果",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "1998"
+}

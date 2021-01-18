@@ -1,0 +1,231 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "670",
+      "title": "主線 ‧ 第三章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "158",
+          "stage": "",
+          "turn": "1",
+          "hp": "4451480",
+          "def": "8570",
+          "coin": "182",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "146",
+          "stage": "",
+          "hp": "4508980",
+          "def": "8640",
+          "coin": "182",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "149",
+          "stage": "",
+          "turn": "3",
+          "hp": "4283040",
+          "def": "8160",
+          "coin": "182",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "670",
+          "stage": "4{{雙血}}",
+          "turn": "1(1)",
+          "hp": "7806530",
+          "def": "21000",
+          "coin": "0",
+          "es": "1741",
+          "ws": "10074",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png|es/SI183.png",
+            "title": "黑白符石 ‧ 始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "670",
+          "stage": "",
+          "hp": "12077360",
+          "def": "21000",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1391",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png",
+            "title": "突擊30% ‧ 首回4顆-每回3顆風化3000 ‧ 無法控制 ‧ 7+Combo追擊盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "738",
+      "title": "主線 ‧ 第三章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "149",
+          "stage": "",
+          "turn": "3",
+          "hp": "4283040",
+          "def": "8160",
+          "coin": "182",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "152",
+          "stage": "",
+          "turn": "1",
+          "hp": "4798130",
+          "def": "8990",
+          "coin": "182",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "155",
+          "stage": "",
+          "hp": "4637820",
+          "def": "8650",
+          "coin": "182",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "667",
+          "stage": "3",
+          "turn": "2(2)",
+          "hp": "10508790",
+          "def": "19800",
+          "coin": "5123",
+          "es": "282",
+          "ws": "10006",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png",
+            "title": "越攻越強"
+          },
+          "jd": ""
+        },
+        {
+          "card": "738",
+          "stage": "4{{雙血}}",
+          "turn": "1(1)",
+          "hp": "2500000",
+          "def": "5600",
+          "coin": "0",
+          "es": "870",
+          "ws": "10074",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "敵屬初級拼圖盾-限"
+          },
+          "jd": ""
+        },
+        {
+          "card": "738",
+          "stage": "",
+          "hp": "8485860",
+          "def": "5600",
+          "coin": "600",
+          "chest": "4000",
+          "es": "2158",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI305.png|es/SI047.png|es/SI254.png",
+            "title": "先攻-二五直行轉暗 ‧ 攻後暗縱橫輪轉 ‧ 強化盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "title": "主線 ‧ 第三章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 **主線 ‧ 第三章第三話** 1 次——開放關卡[機械城之傳 ‧ 主線第四章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E5%9B%9B%E7%AB%A0)",
+        "通過 **主線 ‧ 第三章第三話** 1 次——開放關卡[機械城之傳 ‧ 機偶篇第一章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E6%A9%9F%E5%81%B6%E7%AF%87%E7%AC%AC%E4%B8%80%E7%AB%A0)",
+        "通過 **主線 ‧ 第三章第三話** 1 次——開放關卡[機械城之傳 ‧ 魔族賢者篇第一章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E9%AD%94%E6%97%8F%E8%B3%A2%E8%80%85%E7%AF%87%E7%AC%AC%E4%B8%80%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1370",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "100",
+          "def": "10",
+          "coin": "5123",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1367",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "100",
+          "def": "10",
+          "coin": "5123",
+          "chest": "8000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

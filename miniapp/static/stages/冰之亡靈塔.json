@@ -1,0 +1,84 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "066",
+      "title": "冰凍之泉",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "3",
+        "battle": "3",
+        "exp": "52"
+      },
+      "data": [
+        {
+          "card": "066",
+          "stage": "3",
+          "damage": "47",
+          "hp": "283",
+          "lv": "1",
+          "coin": "16",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "title": "狼之水洞穴",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "3",
+        "battle": "3",
+        "exp": "60"
+      },
+      "data": [
+        {
+          "card": "106",
+          "stage": "3",
+          "damage": "89",
+          "hp": "240",
+          "lv": "1",
+          "coin": "7",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "086",
+      "title": "青泉之魔塔",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "5",
+        "battle": "5",
+        "exp": "68"
+      },
+      "data": [
+        {
+          "card": "086",
+          "stage": "5",
+          "num": "2",
+          "damage": "41",
+          "hp": "181",
+          "lv": "1",
+          "chest": "300",
+          "soul": "1",
+          "coin": "17",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

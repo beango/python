@@ -1,0 +1,354 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "135",
+      "title": "狂妄戰士",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "9",
+        "battle": "7",
+        "exp": "325"
+      },
+      "data": [
+        {
+          "card": "027",
+          "stage": "",
+          "damage": "4210",
+          "hp": "88106",
+          "drop": "025",
+          "lv": "2",
+          "coin": "211",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "059",
+          "stage": "",
+          "damage": "2301",
+          "hp": "9587",
+          "lv": "2",
+          "coin": "150",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "069",
+          "stage": "",
+          "damage": "1080",
+          "hp": "25945",
+          "lv": "2",
+          "coin": "156",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "079",
+          "stage": "",
+          "damage": "3392",
+          "hp": "14616",
+          "lv": "2",
+          "coin": "118",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "833",
+          "hp": "17155",
+          "lv": "2",
+          "coin": "147",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "damage": "11111",
+          "hp": "12000",
+          "lv": "1",
+          "coin": "400",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "276",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "134",
+          "stage": "7{{前置}}",
+          "damage": "4698",
+          "hp": "22199",
+          "coin": "223",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "135",
+          "stage": "7",
+          "damage": "7085",
+          "hp": "88350",
+          "drop": "134",
+          "lv": "2",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "title": "執法者的威嚴",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "9",
+        "battle": "7",
+        "exp": "355"
+      },
+      "data": [
+        {
+          "card": "027",
+          "stage": "",
+          "damage": "4271",
+          "hp": "89421",
+          "drop": "025",
+          "lv": "2",
+          "coin": "214",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "059",
+          "stage": "",
+          "damage": "2348",
+          "hp": "9791",
+          "lv": "2",
+          "coin": "153",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "069",
+          "stage": "",
+          "damage": "1102",
+          "hp": "26497",
+          "lv": "2",
+          "coin": "159",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "079",
+          "stage": "",
+          "damage": "3479",
+          "hp": "15011",
+          "lv": "2",
+          "coin": "121",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "850",
+          "hp": "17520",
+          "lv": "2",
+          "coin": "150",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "damage": "11111",
+          "hp": "12000",
+          "lv": "1",
+          "coin": "400",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "276",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "119",
+          "stage": "7{{前置}}",
+          "damage": "2027",
+          "hp": "20063",
+          "coin": "228",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "120",
+          "stage": "7",
+          "damage": "2966",
+          "hp": "80027",
+          "drop": "119",
+          "lv": "2",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "045",
+      "title": "消失的鐵龍",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "10",
+        "exp": "446"
+      },
+      "data": [
+        {
+          "card": "027",
+          "stage": "",
+          "damage": "4454",
+          "hp": "93366",
+          "drop": "025",
+          "lv": "2",
+          "coin": "223",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "059",
+          "stage": "",
+          "damage": "2489",
+          "hp": "10403",
+          "lv": "2",
+          "coin": "162",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "069",
+          "stage": "",
+          "damage": "1168",
+          "hp": "28153",
+          "lv": "2",
+          "coin": "168",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "079",
+          "stage": "",
+          "damage": "3740",
+          "hp": "16196",
+          "lv": "2",
+          "coin": "130",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "901",
+          "hp": "18615",
+          "lv": "2",
+          "coin": "159",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "damage": "11111",
+          "hp": "12000",
+          "lv": "1",
+          "coin": "400",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "276",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "044",
+          "stage": "10{{前置}}",
+          "damage": "4293",
+          "hp": "45584",
+          "coin": "163",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "045",
+          "stage": "10",
+          "damage": "5915",
+          "hp": "182095",
+          "drop": "044",
+          "lv": "2",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

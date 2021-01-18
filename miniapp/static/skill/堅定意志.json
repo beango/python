@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "堅定意志",
+  "effect": "I. 將場上的符石轉化為<br>⇒ [board]固定數量及位置[/board]的<br>    木符石及心符石<br>II. 若隊長為「大紅蓮團」成員<br>⇒ 則轉化[board]固定數量及位置[/board]的<br>   火符石及光符石",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2409"
+}

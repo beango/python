@@ -1,0 +1,51 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "713",
+      "title": "追求美味的心",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) 與 ![672](zhs/672i.png) 1隻 ※ <br>",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "672",
+          "stage": "1",
+          "turn": "1(2)",
+          "hp": "100",
+          "def": "10",
+          "coin": "0",
+          "es": "1013",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "es/SI257.png",
+            "title": "攻擊傷害無效"
+          },
+          "jd": ""
+        },
+        {
+          "card": "713",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "100",
+          "def": "10",
+          "coin": "6100",
+          "chest": "8000",
+          "es": "321",
+          "note": "",
+          "esjson": {
+            "img": "es/SI161.png",
+            "title": "自殘50%"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

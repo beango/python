@@ -1,0 +1,98 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "266",
+      "title": "養父母的恩惠",
+      "cj": [],
+      "data": [
+        {
+          "card": "264",
+          "stage": "1",
+          "turn": "9{{初始CD*9}}",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "es": "68",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png",
+            "title": "初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "32",
+          "es": "87",
+          "note": "{{特性*離開*1}}",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        },
+        {
+          "card": "264",
+          "stage": "2",
+          "turn": "9{{初始CD*9}}",
+          "hp": "100",
+          "def": "100",
+          "coin": "200",
+          "es": "1879",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI181.png",
+            "title": "火屬初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "265",
+          "stage": "3",
+          "turn": "9{{初始CD*9}}",
+          "hp": "100",
+          "def": "200",
+          "coin": "400",
+          "es": "1872",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI181.png",
+            "title": "水屬初級拼圖盾"
+          }
+        },
+        {
+          "card": "265",
+          "stage": "4",
+          "turn": "9{{初始CD*9}}",
+          "hp": "100",
+          "def": "200",
+          "coin": "400",
+          "es": "1882",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI022.png|static/es/SI181.png",
+            "title": "火強化初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "266",
+          "stage": "5",
+          "turn": "9{{初始CD*9}}",
+          "hp": "20000",
+          "def": "300",
+          "coin": "600",
+          "chest": "8000",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png",
+            "title": "強化盾"
+          }
+        }
+      ]
+    }
+  ]
+}

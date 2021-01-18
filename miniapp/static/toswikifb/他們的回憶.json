@@ -1,0 +1,83 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "308",
+      "title": "凱拉的生日",
+      "cj": [],
+      "data": [
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "80",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "430588",
+          "def": "1080",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1535",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "474",
+          "chest": "10000",
+          "note": "{{特性*離開*1}}",
+          "esjson": null
+        },
+        {
+          "card": "308",
+          "stage": "5",
+          "turn": "1{{初始CD*5}}",
+          "hp": "9358740",
+          "def": "9920",
+          "coin": "2126",
+          "chest": "10000",
+          "es": "508",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI096.png",
+            "title": "禁錮吸收盾-首消6Combo解鎖"
+          }
+        }
+      ]
+    }
+  ]
+}

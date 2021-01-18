@@ -1,0 +1,251 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "194",
+      "title": "眾神紀錄 ‧ 主線第一章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "200",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5900000",
+          "def": "64200",
+          "coin": "125",
+          "es": "874",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "軌跡隱藏"
+          }
+        },
+        {
+          "card": "192",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8300000",
+          "def": "68700",
+          "coin": "125",
+          "es": "341",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png",
+            "title": "強化盾-反擊100%"
+          }
+        },
+        {
+          "card": "198",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6600000",
+          "def": "63900",
+          "coin": "125",
+          "es": "701",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾"
+          }
+        },
+        {
+          "card": "196",
+          "stage": "4",
+          "turn": "1{{初始CD*3}}",
+          "hp": "7900000",
+          "def": "78400",
+          "coin": "125",
+          "es": "77",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI244.png",
+            "title": "五屬盾"
+          }
+        },
+        {
+          "card": "194",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9200000",
+          "def": "75900",
+          "coin": "125",
+          "chest": "4000",
+          "es": "386",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "軌跡燃燒1000"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1528",
+      "title": "眾神紀錄 ‧ 主線第一章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-5",
+          "turn": "2",
+          "hp": "3200000",
+          "def": "3000",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "3000000",
+          "def": "2800",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "3400000",
+          "def": "3100",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "3500000",
+          "def": "3500",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "2900000",
+          "def": "3200",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "title": "眾神紀錄 ‧ 主線第一章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-4",
+          "turn": "2",
+          "hp": "3200000",
+          "def": "3000",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "3000000",
+          "def": "2800",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "3400000",
+          "def": "3100",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "3500000",
+          "def": "3500",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "2900000",
+          "def": "3200",
+          "coin": "446",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "5",
+          "turn": "2{{初始CD*1}}",
+          "hp": "6200000",
+          "def": "4100",
+          "coin": "905",
+          "es": "3381",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI303.png|static/es/SI047.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 攻後木縱橫輪轉 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "9300000",
+          "def": "5700",
+          "coin": "4380",
+          "es": "514",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "雙重黏附"
+          }
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6200000",
+          "def": "4100",
+          "coin": "905",
+          "chest": "8000",
+          "es": "3381",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI303.png|static/es/SI047.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 攻後木縱橫輪轉 ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

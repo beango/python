@@ -1,0 +1,283 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1562",
+      "title": "奧丁的真意",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "1",
+          "hp": "504682",
+          "def": "2060",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "488",
+          "stage": "",
+          "hp": "901347",
+          "def": "2890",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1562",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9603250",
+          "def": "35360",
+          "coin": "155",
+          "chest": "4000",
+          "es": "341",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png",
+            "title": "強化盾-反擊100%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1535",
+      "title": "屬於我的幸福",
+      "cj": [],
+      "data": [
+        {
+          "card": "103",
+          "stage": "",
+          "hp": "839511",
+          "def": "1630",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "105",
+          "stage": "",
+          "hp": "824587",
+          "def": "1650",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "hp": "813624",
+          "def": "1480",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "115",
+          "stage": "",
+          "hp": "790634",
+          "def": "1630",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2342980",
+          "def": "2620",
+          "coin": "566",
+          "chest": "4000",
+          "es": "117",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png",
+            "title": "6+Combo盾"
+          }
+        },
+        {
+          "card": "1535",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5319560",
+          "def": "3490",
+          "coin": "474",
+          "es": "1183",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png",
+            "title": "9顆弱化鎖定10%"
+          }
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2342980",
+          "def": "2620",
+          "coin": "566",
+          "chest": "4000",
+          "es": "117",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png",
+            "title": "6+Combo盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "509",
+      "title": "被戳破的謊言",
+      "cj": [],
+      "data": [
+        {
+          "card": "489",
+          "stage": "",
+          "hp": "759384",
+          "def": "2080",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "2",
+          "hp": "825455",
+          "def": "2940",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1535",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "465217",
+          "def": "3490",
+          "coin": "474",
+          "es": "425",
+          "note": "{{特性*離開*5}}",
+          "esjson": {
+            "img": "static/es/SI135.png",
+            "title": "中毒70%"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "509",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9542890",
+          "def": "6890",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "324",
+          "ws": "10118",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘10%"
+          }
+        }
+      ]
+    }
+  ]
+}

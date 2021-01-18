@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "烈焰狂擊",
+  "effect": "進行 15 次火屬性攻擊",
+  "turn": "14",
+  "minTurn": "5",
+  "pet": "089",
+  "rpet": ""
+}

@@ -1,0 +1,243 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1369",
+      "title": "主線 ‧ 第十一章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1370",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1366",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1367",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1369",
+          "stage": "4",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "title": "主線 ‧ 第十一章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "5",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "107",
+          "stage": "1-3",
+          "hp": "965420",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "943170",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "hp": "983660",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "hp": "979350",
+          "def": "40",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "115",
+          "stage": "",
+          "hp": "937310",
+          "def": "40",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "172",
+          "stage": "4",
+          "turn": "2(2)",
+          "hp": "4807400",
+          "def": "5720",
+          "coin": "1062",
+          "lv": "1",
+          "drop": "170",
+          "es": "675",
+          "ws": "10008",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI261.png|es/SI251.png",
+            "title": "無法控制 ‧ 不倒意志40%-完全回復-超狂怒3倍"
+          },
+          "jd": ""
+        },
+        {
+          "card": "175",
+          "stage": "",
+          "turn": "2(1)",
+          "hp": "4561530",
+          "def": "5670",
+          "coin": "1062",
+          "lv": "1",
+          "drop": "173",
+          "es": "675",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI261.png|es/SI251.png",
+            "title": "無法控制 ‧ 不倒意志40%-完全回復-超狂怒3倍"
+          },
+          "jd": ""
+        },
+        {
+          "card": "166",
+          "stage": "5",
+          "turn": "1(1)",
+          "hp": "19720500",
+          "def": "6310",
+          "coin": "1062",
+          "chest": "4000",
+          "es": "284",
+          "ws": "10009",
+          "note": "",
+          "esjson": {
+            "img": "es/SI212.png|es/SI188.png",
+            "title": "無限回復 ‧ 越攻越強"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "title": "主線 ‧ 第十一章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 **主線 ‧ 第十一章第三話** 1 次 —— 開放關卡 [機械城之傳 ‧ 主線第十二章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0)",
+        "擊倒 **異域法眼** 1 次 —— 獲得獎賞 ![292](zhs/292i.png) &times; 1 + ![617](zhs/617i.png) &times; 5"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "170",
+          "stage": "1-3",
+          "hp": "205500",
+          "def": "100",
+          "coin": "243",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "423",
+          "stage": "4",
+          "turn": "4(4)",
+          "hp": "1500000000",
+          "def": "42160",
+          "coin": "100",
+          "chest": "8000",
+          "es": "1171",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "es/SI120.png|es/SI128.png|es/SI132.png",
+            "title": "首消五屬同等盾 ‧ 首扣50%-次扣100%"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "510",
+      "title": "凱拉的堅持",
+      "cj": [],
+      "data": [
+        {
+          "card": "839",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "2673600",
+          "def": "1730",
+          "coin": "208",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "2673600",
+          "def": "1730",
+          "coin": "208",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "2673600",
+          "def": "1730",
+          "coin": "208",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "840",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6482690",
+          "def": "6590",
+          "coin": "624",
+          "es": "509",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "觸怒"
+          }
+        },
+        {
+          "card": "510",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9565400",
+          "def": "15480",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "113",
+          "note": "{{特性*離開*2}}",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "命懸一線"
+          }
+        }
+      ]
+    },
+    {
+      "id": "834",
+      "title": "被侵蝕的身體",
+      "cj": [],
+      "data": [
+        {
+          "card": "109",
+          "stage": "",
+          "turn": "2",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "330",
+          "stage": "",
+          "turn": "3",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "277",
+          "lv": "15",
+          "drop": "099",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "4",
+          "turn": "2{{初始CD*3}}",
+          "hp": "300000",
+          "def": "2030",
+          "coin": "208",
+          "es": "315",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI246.png",
+            "title": "強化三屬盾"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "300000",
+          "def": "2030",
+          "coin": "208",
+          "es": "312",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI245.png",
+            "title": "強化光暗盾"
+          }
+        },
+        {
+          "card": "834",
+          "stage": "5",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6448790",
+          "def": "6250",
+          "coin": "4624",
+          "chest": "4000",
+          "es": "946",
+          "note": "復活第三次時，攻擊力為{{特性*atk=9481}}",
+          "esjson": {
+            "img": "static/es/SI251.png|static/es/SI211.png",
+            "title": "無視減傷 ‧ 三次受攻盾50%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "832",
+      "title": "扭曲的歷史",
+      "cj": [],
+      "data": [
+        {
+          "card": "329",
+          "stage": "",
+          "turn": "3",
+          "hp": "836438",
+          "def": "1620",
+          "coin": "277",
+          "drop": "097",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "333",
+          "stage": "",
+          "turn": "2",
+          "hp": "804193",
+          "def": "1430",
+          "coin": "277",
+          "drop": "105",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "472363",
+          "def": "3180",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3968720",
+          "def": "2360",
+          "coin": "208",
+          "lv": "",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3{{初始CD*1}}",
+          "hp": "4106590",
+          "def": "2580",
+          "coin": "208",
+          "lv": "",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "1{{初始CD*3}}",
+          "hp": "4037830",
+          "def": "2420",
+          "coin": "208",
+          "lv": "",
+          "es": "74",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI131.png",
+            "title": "扣血90%"
+          }
+        },
+        {
+          "card": "832",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7316890",
+          "def": "7070",
+          "coin": "624",
+          "chest": "8000",
+          "es": "843",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI160.png|static/es/SI011.png",
+            "title": "強化盾 ‧ 先攻-雙直行轉水 ‧ 攻後水橫縱輪轉"
+          }
+        }
+      ]
+    }
+  ]
+}

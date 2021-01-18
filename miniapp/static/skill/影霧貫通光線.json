@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "影霧貫通光線",
+  "effect": "I. 3 回合內，石化敵方全體<br>&nbsp;&nbsp;&nbsp;使受影響目標無法行動<br>II. 效果期間，自身攻擊力 5 倍",
+  "turn": "21",
+  "minTurn": "10",
+  "pet": "2164"
+}

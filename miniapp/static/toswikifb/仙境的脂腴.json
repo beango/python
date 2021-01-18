@@ -1,0 +1,615 @@
+{
+  "openhis": [
+    {
+      "start": "2014/05/23",
+      "end": "2015/05/13",
+      "note": "",
+      "cj": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "8024",
+      "title": "越界的紅地毯 初級",
+      "cj": [],
+      "data": [
+        {
+          "card": "8028",
+          "stage": "",
+          "damage": "1923",
+          "turn": "3{{初始CD*3}}",
+          "hp": "16",
+          "def": "10萬",
+          "lv": "1",
+          "coin": "400",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8031",
+          "stage": "",
+          "damage": "837",
+          "turn": "2",
+          "hp": "1880",
+          "def": "22",
+          "lv": "1",
+          "coin": "163",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8033",
+          "stage": "",
+          "damage": "338",
+          "turn": "1",
+          "hp": "3246",
+          "def": "62",
+          "lv": "1",
+          "coin": "163",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8035",
+          "stage": "",
+          "damage": "646",
+          "turn": "3",
+          "hp": "6246",
+          "def": "26",
+          "lv": "1",
+          "coin": "163",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8037",
+          "stage": "",
+          "damage": "511",
+          "turn": "2",
+          "hp": "542",
+          "def": "78",
+          "lv": "1",
+          "coin": "163",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8043",
+          "stage": "",
+          "damage": "547",
+          "turn": "2",
+          "hp": "7558",
+          "def": "43",
+          "lv": "1",
+          "coin": "163",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8024",
+          "stage": "5",
+          "damage": "584",
+          "turn": "1",
+          "hp": "24720",
+          "def": "248",
+          "coin": "600",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "8024",
+      "title": "惹人生氣的訪客 中級",
+      "cj": [],
+      "data": [
+        {
+          "card": "8028",
+          "stage": "",
+          "damage": "1923",
+          "turn": "3{{初始CD*3}}",
+          "hp": "16",
+          "def": "10萬",
+          "lv": "1",
+          "coin": "400",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8031",
+          "stage": "",
+          "damage": "2332",
+          "turn": "2",
+          "hp": "8080",
+          "def": "22",
+          "lv": "2",
+          "coin": "313",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8033",
+          "stage": "",
+          "damage": "923",
+          "turn": "1",
+          "hp": "23131",
+          "def": "62",
+          "lv": "2",
+          "coin": "313",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8035",
+          "stage": "",
+          "damage": "1816",
+          "turn": "3",
+          "hp": "31009",
+          "def": "26",
+          "lv": "2",
+          "coin": "313",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8037",
+          "stage": "",
+          "damage": "2421",
+          "turn": "2",
+          "hp": "26767",
+          "def": "78",
+          "lv": "2",
+          "coin": "313",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8043",
+          "stage": "",
+          "damage": "1552",
+          "turn": "2",
+          "hp": "32423",
+          "def": "43",
+          "lv": "2",
+          "coin": "313",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8033",
+          "stage": "6",
+          "num": "2",
+          "damage": "923",
+          "turn": "1",
+          "hp": "23131",
+          "def": "62",
+          "coin": "313",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8024",
+          "stage": "",
+          "damage": "1743",
+          "turn": "1",
+          "hp": "73460",
+          "def": "248",
+          "coin": "600",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "8003",
+      "title": "皇后大駕光臨 高級",
+      "cj": [],
+      "data": [
+        {
+          "card": "8028",
+          "stage": "",
+          "damage": "1923",
+          "turn": "3{{初始CD*3}}",
+          "hp": "16",
+          "def": "10萬",
+          "lv": "1",
+          "coin": "400",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8031",
+          "stage": "",
+          "damage": "3482",
+          "turn": "2",
+          "hp": "12080",
+          "def": "22",
+          "lv": "6",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8033",
+          "stage": "",
+          "damage": "1373",
+          "turn": "1",
+          "hp": "34581",
+          "def": "62",
+          "lv": "6",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8035",
+          "stage": "",
+          "damage": "2716",
+          "turn": "3",
+          "hp": "46359",
+          "def": "26",
+          "lv": "6",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8037",
+          "stage": "",
+          "damage": "2121",
+          "turn": "2",
+          "hp": "40017",
+          "def": "57",
+          "lv": "6",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8043",
+          "stage": "",
+          "damage": "2272",
+          "turn": "2",
+          "hp": "48473",
+          "def": "43",
+          "lv": "6",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8024",
+          "stage": "7",
+          "num": "2",
+          "damage": "4202",
+          "turn": "2",
+          "hp": "208454",
+          "def": "228",
+          "coin": "600",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8003",
+          "stage": "8",
+          "damage": "10353",
+          "turn": "3",
+          "hp": "348980",
+          "def": "130",
+          "coin": "2562",
+          "note": "{{水外防禦75%}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "8004",
+      "title": "皇后的處決命令{{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "8031",
+          "stage": "",
+          "damage": "3482",
+          "turn": "2",
+          "hp": "12080",
+          "def": "22",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8033",
+          "stage": "",
+          "damage": "1373",
+          "turn": "1",
+          "hp": "34581",
+          "def": "62",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8035",
+          "stage": "",
+          "damage": "2716",
+          "turn": "3",
+          "hp": "46359",
+          "def": "26",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8037",
+          "stage": "",
+          "damage": "2121",
+          "turn": "2",
+          "hp": "40017",
+          "def": "78",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8043",
+          "stage": "",
+          "damage": "2272",
+          "turn": "2",
+          "hp": "48473",
+          "def": "43",
+          "coin": "463",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8028",
+          "stage": "4",
+          "damage": "5063",
+          "turn": "2",
+          "hp": "326870",
+          "def": "250",
+          "coin": "400",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8032",
+          "stage": "5-6",
+          "damage": "5620",
+          "turn": "2{{初始CD*2}}",
+          "hp": "22055",
+          "def": "88",
+          "coin": "566",
+          "note": "{{強化盾}}",
+          "esjson": null
+        },
+        {
+          "card": "8034",
+          "stage": "",
+          "damage": "2466",
+          "turn": "1",
+          "hp": "42188",
+          "def": "248",
+          "coin": "566",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8036",
+          "stage": "",
+          "damage": "5699",
+          "turn": "3",
+          "hp": "56281",
+          "def": "104",
+          "coin": "566",
+          "note": "{{中毒15%}}",
+          "esjson": null
+        },
+        {
+          "card": "8038",
+          "stage": "",
+          "damage": "4352",
+          "turn": "2",
+          "hp": "52896",
+          "def": "312",
+          "coin": "566",
+          "note": "{{4+Combo盾}}",
+          "esjson": null
+        },
+        {
+          "card": "8044",
+          "stage": "",
+          "damage": "4444",
+          "turn": "2",
+          "hp": "65616",
+          "def": "192",
+          "coin": "566",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8030",
+          "stage": "7",
+          "damage": "4480",
+          "turn": "1{{初始CD*1}}",
+          "hp": "498640",
+          "def": "190",
+          "coin": "400",
+          "note": "{{攻前盾}}",
+          "esjson": null
+        },
+        {
+          "card": "8034",
+          "stage": "8{{掉落*迪士尼}}",
+          "num": "2",
+          "damage": "2466",
+          "turn": "1",
+          "hp": "42188",
+          "def": "248",
+          "lv": "1",
+          "coin": "566",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8032",
+          "stage": "9-10",
+          "damage": "9340",
+          "turn": "2{{初始CD*2}}",
+          "hp": "36515",
+          "def": "88",
+          "coin": "926",
+          "note": "{{強化盾}}",
+          "esjson": null
+        },
+        {
+          "card": "8034",
+          "stage": "",
+          "damage": "4086",
+          "turn": "1",
+          "hp": "69848",
+          "def": "248",
+          "coin": "926",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8036",
+          "stage": "",
+          "damage": "9479",
+          "turn": "3",
+          "hp": "93181",
+          "def": "104",
+          "coin": "926",
+          "note": "{{中毒20%}}",
+          "esjson": null
+        },
+        {
+          "card": "8038",
+          "stage": "",
+          "damage": "7232",
+          "turn": "2",
+          "hp": "87576",
+          "def": "312",
+          "coin": "926",
+          "note": "{{5+Combo盾}}",
+          "esjson": null
+        },
+        {
+          "card": "8044",
+          "stage": "",
+          "damage": "7384",
+          "turn": "2",
+          "hp": "108636",
+          "def": "192",
+          "coin": "926",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8026",
+          "stage": "11",
+          "damage": "10356",
+          "turn": "2",
+          "hp": "678980",
+          "def": "150",
+          "coin": "400",
+          "note": "{{三屬盾}}",
+          "esjson": null
+        },
+        {
+          "card": "8034",
+          "stage": "12{{掉落*迪士尼}}",
+          "num": "2",
+          "damage": "2466",
+          "turn": "1",
+          "hp": "42188",
+          "def": "248",
+          "lv": "1",
+          "coin": "566",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8033",
+          "stage": "13",
+          "damage": "4220",
+          "turn": "2",
+          "hp": "320040",
+          "def": "24",
+          "coin": "373",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8043",
+          "stage": "",
+          "damage": "2160",
+          "turn": "1",
+          "hp": "318600",
+          "def": "21",
+          "coin": "373",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8031",
+          "stage": "",
+          "damage": "6760",
+          "turn": "3",
+          "hp": "343560",
+          "def": "42",
+          "coin": "373",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8037",
+          "stage": "",
+          "damage": "4830",
+          "turn": "2",
+          "hp": "332520",
+          "def": "33",
+          "coin": "373",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "8029",
+          "stage": "14",
+          "damage": "7869",
+          "turn": "2{{初始CD*2}}",
+          "hp": "786260",
+          "def": "110",
+          "coin": "400",
+          "note": "{{木屬剋制 ‧ 攻 ‧ 鎖}}",
+          "esjson": null
+        },
+        {
+          "card": "8027",
+          "stage": "",
+          "damage": "3135",
+          "turn": "2{{初始CD*1}}",
+          "hp": "533690",
+          "def": "68",
+          "coin": "400",
+          "note": "{{越戰越強 ‧ 銀*atk=3135}}",
+          "esjson": null
+        },
+        {
+          "card": "8004",
+          "stage": "15",
+          "damage": "65842",
+          "turn": "3",
+          "hp": "1253980",
+          "def": "450",
+          "coin": "5543",
+          "note": "{{水外防禦75%}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

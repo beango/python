@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "戰鬥模式",
+  "effect": "1 回合內<br>I. 延長移動符石時間 7 秒<br>II. 將移動符石時觸碰的<br>&nbsp;&nbsp;&nbsp;&nbsp;首 7 粒符石轉化為<br>⇒ 神族強化符石<br>III. 神族攻擊力及回復力 2.7 倍<br>IV. 若隊中有 ≥3 個<br>&nbsp;&nbsp;&nbsp;「EVA 駕駛員」<br>⇒ 刷新「絕對領域」",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "2536"
+}

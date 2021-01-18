@@ -1,0 +1,173 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "077",
+      "title": "古代修行者的醒悟",
+      "cj": [],
+      "data": [
+        {
+          "card": "077",
+          "stage": "6",
+          "damage": "2824",
+          "hp": "12897",
+          "coin": "103",
+          "chest": "2000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "079",
+          "stage": "",
+          "damage": "2957",
+          "hp": "12641",
+          "coin": "103",
+          "chest": "2000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "081",
+          "stage": "",
+          "damage": "2855",
+          "hp": "12961",
+          "coin": "103",
+          "chest": "2000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "087",
+      "title": "利用塔入侵天界的魔族",
+      "cj": [],
+      "data": [
+        {
+          "card": "087",
+          "stage": "6",
+          "damage": "1257",
+          "hp": "26137",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "222",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "1330",
+          "hp": "25632",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "222",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "091",
+          "stage": "",
+          "damage": "1258",
+          "hp": "26280",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "222",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "title": "歷史烙痕",
+      "cj": [],
+      "data": [
+        {
+          "card": "164",
+          "stage": "6",
+          "damage": "2071",
+          "hp": "14185",
+          "soul": "1",
+          "coin": "143",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "173",
+          "stage": "",
+          "damage": "2071",
+          "hp": "14473",
+          "soul": "1",
+          "coin": "143",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "title": "夢見在星海下高歌",
+      "cj": [],
+      "data": [
+        {
+          "card": "137",
+          "stage": "6",
+          "num": "2",
+          "damage": "2597",
+          "hp": "12726",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "124",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "134",
+          "stage": "",
+          "damage": "3295",
+          "hp": "15391",
+          "chest": "2000",
+          "soul": "1",
+          "coin": "154",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "title": "解開第三階段封印",
+      "cj": [],
+      "data": [
+        {
+          "card": "287",
+          "stage": "8",
+          "damage": "3900",
+          "hp": "24萬",
+          "coin": "2000",
+          "soul": "1",
+          "note": "{{強化盾}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "title": "破除第三封印法陣 {{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "287",
+          "stage": "8",
+          "damage": "3900",
+          "hp": "24萬",
+          "coin": "2000",
+          "note": "{{強化盾}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "057",
+      "title": "海妖之歌",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "7",
+        "battle": "6",
+        "exp": "164"
+      },
+      "data": [
+        {
+          "card": "022",
+          "stage": "",
+          "damage": "1220",
+          "hp": "13439",
+          "coin": "84",
+          "drop": "021",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "066",
+          "stage": "",
+          "damage": "335",
+          "hp": "2839",
+          "lv": "3",
+          "coin": "124",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "078",
+          "stage": "",
+          "damage": "1090",
+          "hp": "2961",
+          "lv": "3",
+          "coin": "82",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "106",
+          "stage": "",
+          "damage": "629",
+          "hp": "2400",
+          "lv": "3",
+          "coin": "43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "251",
+          "stage": "",
+          "damage": "6666",
+          "hp": "7000",
+          "lv": "1",
+          "coin": "300",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "275",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "056",
+          "stage": "6{{前置}}",
+          "damage": "190",
+          "hp": "971",
+          "coin": "115",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "057",
+          "stage": "6",
+          "damage": "1708",
+          "hp": "7487",
+          "drop": "056",
+          "lv": "3",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "077",
+      "title": "凍結之刃",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "7",
+        "battle": "6",
+        "exp": "184"
+      },
+      "data": [
+        {
+          "card": "022",
+          "stage": "",
+          "damage": "1278",
+          "hp": "14111",
+          "coin": "88",
+          "drop": "021",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "066",
+          "stage": "",
+          "damage": "351",
+          "hp": "2981",
+          "lv": "3",
+          "coin": "130",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "078",
+          "stage": "",
+          "damage": "1142",
+          "hp": "3109",
+          "lv": "3",
+          "coin": "86",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "106",
+          "stage": "",
+          "damage": "659",
+          "hp": "2520",
+          "lv": "3",
+          "coin": "45",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "251",
+          "stage": "",
+          "damage": "6666",
+          "hp": "7000",
+          "lv": "1",
+          "coin": "300",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "275",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "076",
+          "stage": "6{{前置}}",
+          "damage": "998",
+          "hp": "2887",
+          "coin": "78",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "077",
+          "stage": "6",
+          "damage": "3322",
+          "hp": "15315",
+          "drop": "076",
+          "lv": "3",
+          "coin": "0",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "067",
+      "title": "精靈的軌跡",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "10",
+        "battle": "8",
+        "exp": "246"
+      },
+      "data": [
+        {
+          "card": "022",
+          "stage": "",
+          "damage": "1452",
+          "hp": "16127",
+          "drop": "021",
+          "lv": "1",
+          "coin": "100",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "066",
+          "stage": "",
+          "damage": "399",
+          "hp": "3407",
+          "lv": "3",
+          "coin": "148",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "078",
+          "stage": "",
+          "damage": "1298",
+          "hp": "3553",
+          "lv": "3",
+          "coin": "98",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "106",
+          "stage": "",
+          "damage": "749",
+          "hp": "2880",
+          "lv": "3",
+          "coin": "51",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "251",
+          "stage": "",
+          "damage": "6666",
+          "hp": "7000",
+          "lv": "1",
+          "coin": "300",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "275",
+          "stage": "",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "066",
+          "stage": "8",
+          "num": "2",
+          "damage": "271",
+          "hp": "2271",
+          "lv": "1",
+          "chest": "1500",
+          "coin": "100",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "067",
+          "stage": "",
+          "damage": "1010",
+          "hp": "24815",
+          "chest": "1500",
+          "coin": "147",
+          "note": "{{召喚小怪}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

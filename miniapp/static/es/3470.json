@@ -1,0 +1,7 @@
+{
+  "no": "3470",
+  "title": "CD2 ‧ 底行轉光 ‧ 首消光傷害吸收-反擊100% ‧ 20%盾 ‧ 下移上橫行燃燒50%",
+  "effect": "敵人首次攻擊變為 <font color=yellow>CD 2</font>。<br><br>首回合將最底 1 橫行的符石<br>⇒ 轉化為光符石<br><br>首批消除<font color=yellow>光屬性</font>的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身<font color=yellow> 100% </font>攻擊傷害。<br><br>每回合攻擊最多只能造成敵人生命力 <font color=yellow>20%</font> 的傷害 (主動技除外)。<br><br>每回合<font color=yellow>燃燒 1 橫行</font>的位置，每觸碰被燃燒的位置，將扣除召喚師<font color=yellow> 50%</font> 生命力",
+  "content": "回合變更,符石轉換,傷害吸收,百分比盾,燃燒",
+  "icon": "es/SI159.png|es/SI304.png|es/SI047.png|es/SI146.png|es/SI257.png|es/SI229.png"
+}

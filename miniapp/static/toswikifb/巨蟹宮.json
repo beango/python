@@ -1,0 +1,594 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2117",
+      "title": "怵目驚心的死亡面具",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1{{隨機*2}}",
+          "damage": "657",
+          "hp": "67480",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "1347",
+          "turn": "2",
+          "hp": "63510",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "2004",
+          "turn": "3",
+          "hp": "73060",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "1335",
+          "turn": "2",
+          "hp": "70470",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "702",
+          "turn": "1",
+          "hp": "63670",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "2{{隨機*2}}",
+          "damage": "657",
+          "hp": "67480",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "1347",
+          "turn": "2",
+          "hp": "63510",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "2004",
+          "turn": "3",
+          "hp": "73060",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "1335",
+          "turn": "2",
+          "hp": "70470",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "702",
+          "turn": "1",
+          "hp": "63670",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2117",
+          "stage": "3",
+          "damage": "2571",
+          "turn": "1{{初始CD*1}}",
+          "hp": "205130",
+          "def": "2420",
+          "coin": "125",
+          "chest": "2000",
+          "es": "566",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "六重軌跡隱藏"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2117",
+      "title": "突入死亡國度",
+      "cj": [],
+      "data": [
+        {
+          "card": "550",
+          "stage": "1",
+          "damage": "3988",
+          "turn": "4{{初始CD*2}}",
+          "hp": "21540",
+          "def": "720",
+          "coin": "11",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "3988",
+          "turn": "4{{初始CD*4}}",
+          "hp": "21540",
+          "def": "720",
+          "coin": "11",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "2",
+          "damage": "1710",
+          "turn": "2{{初始CD*2}}",
+          "hp": "13870",
+          "def": "360",
+          "coin": "15",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "1015",
+          "stage": "",
+          "damage": "1544",
+          "turn": "1{{初始CD*1}}",
+          "hp": "30960",
+          "def": "890",
+          "coin": "30",
+          "es": "817",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI103.png",
+            "title": "5+Combo追擊盾"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "damage": "1710",
+          "turn": "2{{初始CD*3}}",
+          "hp": "13870",
+          "def": "360",
+          "coin": "15",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "274",
+          "stage": "3",
+          "damage": "938",
+          "turn": "1{{初始CD*1}}",
+          "hp": "28490",
+          "def": "150",
+          "coin": "100",
+          "chest": "2000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2117",
+          "stage": "",
+          "damage": "4896",
+          "turn": "3{{初始CD*3}}",
+          "hp": "76710",
+          "def": "2420",
+          "coin": "125",
+          "chest": "2000",
+          "es": "3265",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI164.png|static/es/SI124.png",
+            "title": "附加消除重置 ‧ 召喚小怪 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "274",
+          "stage": "",
+          "damage": "938",
+          "turn": "1{{初始CD*1}}",
+          "hp": "28490",
+          "def": "150",
+          "coin": "100",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2117",
+      "title": "被觸碰的逆鱗",
+      "cj": [],
+      "data": [
+        {
+          "card": "1415",
+          "stage": "1",
+          "damage": "4598",
+          "turn": "4{{初始CD*4}}",
+          "hp": "56290",
+          "def": "950",
+          "coin": "2000",
+          "es": "5",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "雙體共生"
+          }
+        },
+        {
+          "card": "585",
+          "stage": "",
+          "damage": "4572",
+          "turn": "4{{初始CD*2}}",
+          "hp": "57340",
+          "def": "890",
+          "coin": "11",
+          "es": "5",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "雙體共生"
+          }
+        },
+        {
+          "card": "2117",
+          "stage": "2{{雙血}}",
+          "damage": "3279",
+          "turn": "1{{初始CD*1}}",
+          "hp": "80680",
+          "def": "2420",
+          "coin": "0",
+          "es": "2078",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI069.png|static/es/SI161.png",
+            "title": "[7回人攻2倍] ‧ 自殺"
+          }
+        },
+        {
+          "card": "2117",
+          "stage": "",
+          "damage": "1547",
+          "turn": "1",
+          "hp": "127670",
+          "def": "2420",
+          "coin": "125",
+          "chest": "2000",
+          "es": "3267",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI316.png|static/es/SI124.png",
+            "title": "首回回結-暗引爆狂擊減傷 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2117",
+      "title": "激撞！小宇宙！",
+      "cj": [],
+      "data": [
+        {
+          "card": "824",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "coin": "130",
+          "es": "584",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI138.png",
+            "title": "龍脈回復"
+          }
+        },
+        {
+          "card": "2117",
+          "stage": "2{{雙血}}",
+          "damage": "9784",
+          "turn": "1{{初始CD*2}}",
+          "hp": "1500",
+          "def": "60400",
+          "coin": "0",
+          "es": "1731",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI237.png",
+            "title": "3顆三層石化1000倍"
+          }
+        },
+        {
+          "card": "2117",
+          "stage": "",
+          "damage": "2589",
+          "turn": "1",
+          "hp": "5823000",
+          "def": "6040",
+          "coin": "125",
+          "chest": "4000",
+          "es": "701",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2117",
+      "title": "黃泉比良坂 {{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1{{隨機*2}}",
+          "damage": "5356",
+          "turn": "1",
+          "hp": "405490",
+          "def": "380",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "11016",
+          "turn": "2",
+          "hp": "398650",
+          "def": "270",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "14973",
+          "turn": "3",
+          "hp": "447560",
+          "def": "590",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "10790",
+          "turn": "2",
+          "hp": "403570",
+          "def": "410",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "5495",
+          "turn": "1",
+          "hp": "397930",
+          "def": "300",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1867",
+          "stage": "2",
+          "damage": "14182",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6924800",
+          "def": "28930",
+          "coin": "600",
+          "es": "866",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI236.png",
+            "title": "電擊2顆"
+          }
+        },
+        {
+          "card": "2128",
+          "stage": "3",
+          "damage": "8601",
+          "turn": "2{{初始CD*2}}",
+          "hp": "568700",
+          "def": "3480",
+          "coin": "13088",
+          "lv": "1",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png",
+            "title": "強化盾"
+          }
+        },
+        {
+          "card": "1389",
+          "stage": "4{{雙血}}",
+          "damage": "9754",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8175690",
+          "def": "39660",
+          "coin": "0",
+          "es": "701",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾"
+          }
+        },
+        {
+          "card": "1389",
+          "stage": "",
+          "damage": "10464",
+          "turn": "1",
+          "hp": "9682170",
+          "def": "39660",
+          "coin": "7223",
+          "es": "1779",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI020.png|static/es/SI305.png|static/es/SI047.png|static/es/SI117.png|static/es/SI124.png",
+            "title": "敵轉暗-首回隨機轉暗 ‧ 首消暗追擊零化 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "831",
+          "stage": "5{{隨機*3}}",
+          "damage": "5356",
+          "turn": "1",
+          "hp": "405490",
+          "def": "380",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "11016",
+          "turn": "2",
+          "hp": "398650",
+          "def": "270",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "14973",
+          "turn": "3",
+          "hp": "447560",
+          "def": "590",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "10790",
+          "turn": "2",
+          "hp": "403570",
+          "def": "410",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "5495",
+          "turn": "1",
+          "hp": "397930",
+          "def": "300",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1185",
+          "stage": "6",
+          "damage": "39068",
+          "turn": "3{{初始CD*3}}",
+          "hp": "7926450",
+          "def": "37110",
+          "coin": "6803",
+          "es": "1150",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI005.png|static/es/SI241.png",
+            "title": "軌跡隱藏 ‧ 暗屬防禦95% ‧ 光暗盾"
+          }
+        },
+        {
+          "card": "2117",
+          "stage": "7{{雙血}}{{掉落*聖鬥士星矢}}",
+          "damage": "17602",
+          "turn": "1{{初始CD*2}}",
+          "hp": "8726780",
+          "def": "50930",
+          "coin": "0",
+          "es": "1731",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI237.png",
+            "title": "3顆三層石化1000倍"
+          }
+        },
+        {
+          "card": "2117",
+          "stage": "",
+          "damage": "8736",
+          "turn": "1",
+          "hp": "10534640",
+          "def": "50930",
+          "coin": "7643",
+          "lv": "1",
+          "es": "3268",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI005.png|static/es/SI316.png|static/es/SI124.png",
+            "title": "暗攻無效 ‧ 首回回結-暗引爆狂擊減傷 ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

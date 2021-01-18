@@ -1,0 +1,349 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "840",
+      "title": "險象的危機",
+      "cj": [],
+      "data": [
+        {
+          "card": "839",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7439850",
+          "def": "9170",
+          "coin": "188",
+          "item": "161",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7439850",
+          "def": "9170",
+          "coin": "188",
+          "item": "161",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "2",
+          "damage": "14252",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7793650",
+          "def": "9630",
+          "coin": "188",
+          "item": "161",
+          "es": "117",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png",
+            "title": "6+Combo盾"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7439850",
+          "def": "9170",
+          "coin": "188",
+          "item": "161",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "3",
+          "damage": "28514",
+          "turn": "3{{初始CD*3}}",
+          "hp": "13749260",
+          "def": "20310",
+          "coin": "624",
+          "item": "161",
+          "es": "3385",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI227.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 迷惑符石 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "840",
+          "stage": "",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "13678460",
+          "def": "19650",
+          "coin": "624",
+          "item": "161",
+          "es": "35",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI129.png",
+            "title": "扣血70%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2307",
+      "title": "意外的重逢",
+      "cj": [],
+      "data": [
+        {
+          "card": "833",
+          "stage": "1",
+          "damage": "15022",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9825440",
+          "def": "10100",
+          "coin": "248",
+          "item": "161",
+          "es": "3185",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png|static/es/SI188.png",
+            "title": "首消6Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "15022",
+          "turn": "2{{初始CD*1}}",
+          "hp": "9825440",
+          "def": "10100",
+          "coin": "248",
+          "item": "161",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "15022",
+          "turn": "2{{初始CD*3}}",
+          "hp": "9825440",
+          "def": "10100",
+          "coin": "248",
+          "item": "161",
+          "es": "3186",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI087.png|static/es/SI188.png",
+            "title": "首消7Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "1059",
+          "stage": "2",
+          "damage": "13728",
+          "turn": "1{{初始CD*1}}",
+          "hp": "15852130",
+          "def": "37580",
+          "coin": "5963",
+          "item": "161",
+          "es": "3372",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI144.png|static/es/SI183.png",
+            "title": "首消火傷害吸收-反擊100% ‧ 火起手始終盾"
+          }
+        },
+        {
+          "card": "2307",
+          "stage": "3",
+          "damage": "17486",
+          "turn": "1{{初始CD*1}}",
+          "hp": "23431630",
+          "def": "63900",
+          "coin": "6383",
+          "item": "161",
+          "es": "1571",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI306.png|static/es/SI047.png|static/es/SI118.png",
+            "title": "附加消除重置 ‧ 隨機轉心 ‧ 首消心追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2328",
+      "title": "過去的孽緣",
+      "cj": [],
+      "data": [
+        {
+          "card": "2328",
+          "stage": "1",
+          "damage": "28302",
+          "turn": "2{{初始CD*2}}",
+          "hp": "12000000",
+          "def": "21100",
+          "coin": "10478",
+          "item": "161",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "2328",
+          "stage": "2",
+          "damage": "28302",
+          "turn": "2{{初始CD*2}}",
+          "hp": "12000000",
+          "def": "21100",
+          "coin": "10478",
+          "item": "161",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "28302",
+          "turn": "2{{初始CD*1}}",
+          "hp": "12000000",
+          "def": "21100",
+          "coin": "10478",
+          "item": "161",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        }
+      ]
+    },
+    {
+      "id": "431",
+      "title": "團結起來",
+      "cj": [],
+      "data": [
+        {
+          "card": "071",
+          "stage": "1",
+          "damage": "803",
+          "hp": "40280",
+          "def": "360",
+          "coin": "141",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "067",
+          "stage": "",
+          "damage": "840",
+          "hp": "38540",
+          "def": "200",
+          "coin": "141",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "067",
+          "stage": "2",
+          "damage": "840",
+          "hp": "38540",
+          "def": "200",
+          "coin": "141",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "069",
+          "stage": "",
+          "damage": "886",
+          "hp": "36780",
+          "def": "220",
+          "coin": "141",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "067",
+          "stage": "",
+          "damage": "840",
+          "hp": "38540",
+          "def": "200",
+          "coin": "141",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "336",
+          "stage": "3",
+          "damage": "2017",
+          "turn": "2{{初始CD*2}}",
+          "hp": "62870",
+          "def": "2110",
+          "coin": "261",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "335",
+          "stage": "",
+          "damage": "2022",
+          "turn": "2{{初始CD*1}}",
+          "hp": "62350",
+          "def": "2080",
+          "coin": "261",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "431",
+          "stage": "4",
+          "damage": "1539",
+          "turn": "1{{初始CD*1}}",
+          "hp": "98170",
+          "def": "3970",
+          "coin": "100",
+          "item": "161",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

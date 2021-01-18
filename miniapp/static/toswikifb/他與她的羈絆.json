@@ -1,0 +1,256 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1125",
+      "title": "奧丁的邀約",
+      "cj": [],
+      "data": [
+        {
+          "card": "099",
+          "stage": "",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1125",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8932540",
+          "def": "14280",
+          "coin": "5123",
+          "chest": "4000",
+          "es": "1617",
+          "ws": "10092",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "(3回減攻90%) ‧ 越攻越強 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "672",
+      "title": "木訥的他",
+      "cj": [],
+      "data": [
+        {
+          "card": "097",
+          "stage": "",
+          "hp": "836438",
+          "def": "1620",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "107",
+          "stage": "",
+          "hp": "804193",
+          "def": "1430",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "744",
+          "stage": "3",
+          "turn": "1{{初始CD*4}}",
+          "hp": "200000",
+          "def": "2500",
+          "coin": "209",
+          "es": "812",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "循環累積50+同屬符石盾"
+          }
+        },
+        {
+          "card": "672",
+          "stage": "5",
+          "turn": "1{{初始CD*4}}",
+          "hp": "5000000",
+          "def": "6000",
+          "coin": "209",
+          "chest": "4000",
+          "es": "480",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "static/es/SI158.png",
+            "title": "剋水"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1534",
+      "title": "照亮心湖的月光花",
+      "cj": [],
+      "data": [
+        {
+          "card": "103",
+          "stage": "",
+          "hp": "839511",
+          "def": "1630",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "hp": "813624",
+          "def": "1480",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1534",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7543690",
+          "def": "4060",
+          "coin": "524",
+          "chest": "4000",
+          "es": "1114",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI304.png|static/es/SI047.png|static/es/SI116.png",
+            "title": "強化盾 ‧ 隨機轉光 ‧ 首消光追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1104",
+      "title": "弗麗嘉的哀思",
+      "cj": [],
+      "data": [
+        {
+          "card": "079",
+          "stage": "",
+          "hp": "941588",
+          "def": "2190",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1104",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9306540",
+          "def": "18420",
+          "coin": "0",
+          "es": "796",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "✕形燃燒10%"
+          }
+        },
+        {
+          "card": "1104",
+          "stage": "",
+          "turn": "1",
+          "hp": "17680460",
+          "def": "18420",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1310",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI337.png|static/es/SI188.png",
+            "title": "火弱化鎖定20% ‧ 越戰越強-金"
+          }
+        }
+      ]
+    }
+  ]
+}

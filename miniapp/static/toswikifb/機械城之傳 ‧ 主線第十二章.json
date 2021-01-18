@@ -1,0 +1,403 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1034",
+      "title": "主線 ‧ 第十二章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "617",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "100",
+          "es": "301",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI093.png",
+            "title": "首消3Combo盾"
+          }
+        },
+        {
+          "card": "617",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "100",
+          "es": "303",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png",
+            "title": "首消5Combo盾"
+          }
+        },
+        {
+          "card": "617",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "100",
+          "es": "302",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI094.png",
+            "title": "首消4Combo盾"
+          }
+        },
+        {
+          "card": "292",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10000",
+          "def": "100",
+          "coin": "100",
+          "es": "304",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png",
+            "title": "首消6Combo盾"
+          }
+        },
+        {
+          "card": "292",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10000",
+          "def": "100",
+          "coin": "100",
+          "es": "304",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png",
+            "title": "首消6Combo盾"
+          }
+        },
+        {
+          "card": "1034",
+          "stage": "3{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8502500",
+          "def": "17630",
+          "coin": "0",
+          "es": "2827",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI282.png|static/es/SI104.png|static/es/SI003.png",
+            "title": "突擊10%-左右暴風輪轉 ‧ 6+Combo追擊盾 ‧ 木屬防禦90%"
+          }
+        },
+        {
+          "card": "1034",
+          "stage": "",
+          "turn": "1",
+          "hp": "10617800",
+          "def": "17630",
+          "coin": "6060",
+          "chest": "4000",
+          "es": "2454",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI047.png|static/es/SI039.png",
+            "title": "先攻 ‧ 單數橫行轉火 ‧ 火禁消"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1348",
+      "title": "主線 ‧ 第十二章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "646",
+          "stage": "1/3",
+          "hp": "7968880",
+          "def": "930",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "hp": "5481320",
+          "def": "840",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "hp": "3820510",
+          "def": "970",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "5603730",
+          "def": "860",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1746",
+          "stage": "2",
+          "turn": "3{{初始CD*3}}",
+          "hp": "12548000",
+          "def": "80000",
+          "coin": "309",
+          "lv": "1",
+          "drop": "646",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "1749",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8689000",
+          "def": "2170",
+          "coin": "309",
+          "lv": "1",
+          "drop": "649",
+          "es": "894",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI212.png",
+            "title": "2倍士氣高昂-無限回復"
+          }
+        },
+        {
+          "card": "1750",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9638000",
+          "def": "2460",
+          "coin": "309",
+          "lv": "1",
+          "drop": "650",
+          "es": "1399",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI181.png|static/es/SI250.png|static/es/SI122.png",
+            "title": "首回隱藏12顆 ‧ 隱身-隱攻封鎖4回 ‧ 高級拼圖盾-限"
+          }
+        },
+        {
+          "card": "1747",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9510000",
+          "def": "2580",
+          "coin": "309",
+          "lv": "1",
+          "drop": "647",
+          "es": "1683",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI229.png",
+            "title": "突擊20% ‧ (5回軌跡燃燒500)"
+          }
+        },
+        {
+          "card": "1348",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*2}}",
+          "hp": "15952000",
+          "def": "43300",
+          "coin": "0",
+          "es": "1854",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI122.png|static/es/SI236.png",
+            "title": "先攻當前99% ‧ 人外禁錮1回 ‧ 隨機直行電擊"
+          }
+        },
+        {
+          "card": "1348",
+          "stage": "",
+          "turn": "1",
+          "hp": "27090000",
+          "def": "43300",
+          "coin": "7643",
+          "chest": "4000",
+          "es": "1606",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI309.png|static/es/SI310.png|static/es/SI254.png|static/es/SI251.png",
+            "title": "首回攻後木光化血 ‧ 強化盾 ‧ 無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1349",
+      "title": "主線 ‧ 第十二章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "646",
+          "stage": "2/4",
+          "hp": "7968880",
+          "def": "930",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "hp": "5481320",
+          "def": "840",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "hp": "3820510",
+          "def": "970",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "5603730",
+          "def": "860",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "830",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "coin": "6485",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1751",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7306980",
+          "def": "5580",
+          "coin": "309",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "1751",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "7306980",
+          "def": "5580",
+          "coin": "309",
+          "es": "1245",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI014.png",
+            "title": "首消光傷害吸收"
+          }
+        },
+        {
+          "card": "1696",
+          "stage": "5",
+          "turn": "2{{初始CD*1}}",
+          "hp": "9682600",
+          "def": "6920",
+          "coin": "349",
+          "es": "2288",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png|static/es/SI165.png|static/es/SI001.png",
+            "title": "首回冰封圍城-攻後凍結圍城 ‧ 2秒轉珠 ‧ 水屬防禦95%"
+          }
+        },
+        {
+          "card": "1349",
+          "stage": "6{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12988500",
+          "def": "41700",
+          "coin": "0",
+          "es": "1630",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png",
+            "title": "累積15+水符石盾"
+          }
+        },
+        {
+          "card": "1349",
+          "stage": "",
+          "turn": "1",
+          "hp": "24264500",
+          "def": "41700",
+          "coin": "7643",
+          "chest": "8000",
+          "es": "2459",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png|static/es/SI067.png",
+            "title": "首回9顆-其後3顆追擊風化15000 ‧ 3倍獵神"
+          }
+        }
+      ]
+    }
+  ]
+}

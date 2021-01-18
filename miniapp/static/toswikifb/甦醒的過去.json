@@ -1,0 +1,1152 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "065",
+      "title": "甦醒的過去 - 1",
+      "cj": [],
+      "data": [
+        {
+          "card": "057",
+          "stage": "1-4",
+          "damage": "268",
+          "turn": "3",
+          "hp": "7232",
+          "def": "30",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "059",
+          "stage": "",
+          "damage": "273",
+          "turn": "3",
+          "hp": "6795",
+          "def": "30",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "061",
+          "stage": "",
+          "damage": "250",
+          "turn": "3",
+          "hp": "7853",
+          "def": "30",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "063",
+          "stage": "",
+          "damage": "254",
+          "turn": "3",
+          "hp": "7419",
+          "def": "30",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "065",
+          "stage": "",
+          "damage": "274",
+          "turn": "3",
+          "hp": "6823",
+          "def": "30",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "107",
+          "stage": "",
+          "damage": "209",
+          "turn": "2",
+          "hp": "4598",
+          "def": "40",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "damage": "216",
+          "turn": "2",
+          "hp": "4236",
+          "def": "40",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "damage": "202",
+          "turn": "2",
+          "hp": "4639",
+          "def": "40",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "damage": "208",
+          "turn": "2",
+          "hp": "4774",
+          "def": "40",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "115",
+          "stage": "",
+          "damage": "217",
+          "turn": "2",
+          "hp": "4211",
+          "def": "40",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "感染的初兆",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "286",
+      "title": "甦醒的過去 - 2",
+      "cj": [],
+      "data": [
+        {
+          "card": "001",
+          "stage": "1-4",
+          "damage": "79",
+          "hp": "535",
+          "lv": "1",
+          "coin": "11",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "005",
+          "damage": "81",
+          "hp": "521",
+          "lv": "1",
+          "coin": "11",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "009",
+          "damage": "79",
+          "hp": "536",
+          "lv": "1",
+          "coin": "11",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "013",
+          "damage": "81",
+          "hp": "537",
+          "lv": "1",
+          "coin": "11",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "017",
+          "damage": "81",
+          "hp": "535",
+          "lv": "1",
+          "coin": "11",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "267",
+          "damage": "100",
+          "hp": "1000",
+          "lv": "1",
+          "coin": "200",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "261",
+          "damage": "300",
+          "hp": "7",
+          "lv": "1",
+          "coin": "200",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "056",
+          "damage": "50",
+          "hp": "215",
+          "lv": "1",
+          "coin": "31",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "058",
+          "damage": "51",
+          "hp": "208",
+          "lv": "1",
+          "coin": "31",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "060",
+          "damage": "50",
+          "hp": "215",
+          "lv": "1",
+          "coin": "31",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "062",
+          "damage": "50",
+          "hp": "216",
+          "lv": "1",
+          "coin": "31",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "064",
+          "damage": "51",
+          "hp": "215",
+          "lv": "1",
+          "coin": "31",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "066",
+          "damage": "79",
+          "hp": "567",
+          "lv": "1",
+          "coin": "28",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "068",
+          "damage": "81",
+          "hp": "553",
+          "lv": "1",
+          "coin": "28",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "070",
+          "damage": "79",
+          "hp": "568",
+          "lv": "1",
+          "coin": "28",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "072",
+          "damage": "81",
+          "hp": "569",
+          "lv": "1",
+          "coin": "28",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "074",
+          "damage": "81",
+          "hp": "567",
+          "lv": "1",
+          "coin": "28",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "062",
+          "stage": "5",
+          "damage": "50",
+          "hp": "216",
+          "coin": "31",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "286",
+          "stage": "",
+          "damage": "1400",
+          "hp": "13000",
+          "coin": "1500",
+          "es": "4",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png",
+            "title": "召喚小怪"
+          }
+        },
+        {
+          "card": "064",
+          "stage": "",
+          "damage": "51",
+          "hp": "215",
+          "coin": "31",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "450",
+      "title": "甦醒的過去 - 3",
+      "cj": [],
+      "data": [
+        {
+          "card": "057",
+          "damage": "6570",
+          "hp": "57660",
+          "def": "6000",
+          "lv": "3",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          },
+          "stage": ""
+        },
+        {
+          "card": "087",
+          "damage": "2107",
+          "hp": "44287",
+          "def": "200",
+          "lv": "3",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI167.png",
+            "title": "連擊"
+          },
+          "stage": ""
+        },
+        {
+          "card": "107",
+          "damage": "4341",
+          "hp": "58927",
+          "def": "600",
+          "lv": "3",
+          "es": "116",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI103.png",
+            "title": "5+Combo盾"
+          },
+          "stage": ""
+        },
+        {
+          "card": "329",
+          "damage": "4480",
+          "hp": "178800",
+          "def": "3880",
+          "drop": "097",
+          "lv": "3",
+          "es": "47",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png",
+            "title": "2~4回技能封鎖"
+          },
+          "stage": ""
+        },
+        {
+          "card": "334",
+          "damage": "2260",
+          "hp": "158800",
+          "def": "505",
+          "drop": "067",
+          "lv": "3",
+          "es": "105",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI047.png",
+            "title": "心轉自身"
+          },
+          "stage": ""
+        },
+        {
+          "card": "339",
+          "damage": "9000",
+          "hp": "142600",
+          "def": "2500",
+          "drop": "077",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "456",
+          "damage": "2210",
+          "hp": "128000",
+          "def": "800",
+          "turn": "1",
+          "drop": "087",
+          "lv": "3",
+          "es": "38",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png",
+            "title": "2秒轉珠"
+          },
+          "stage": ""
+        },
+        {
+          "card": "047",
+          "stage": "3",
+          "damage": "1500",
+          "hp": "30",
+          "def": "600000",
+          "es": "38",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png",
+            "title": "2秒轉珠"
+          }
+        },
+        {
+          "card": "041",
+          "stage": "",
+          "damage": "1500",
+          "hp": "12",
+          "def": "600000",
+          "es": "65",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png",
+            "title": "技能重置"
+          }
+        },
+        {
+          "card": "044",
+          "stage": "",
+          "damage": "1500",
+          "hp": "18",
+          "def": "600000",
+          "es": "186",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "風化"
+          }
+        },
+        {
+          "card": "053",
+          "stage": "",
+          "damage": "1500",
+          "hp": "36",
+          "def": "600000",
+          "es": "41",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI135.png",
+            "title": "中毒30%"
+          }
+        },
+        {
+          "card": "050",
+          "stage": "",
+          "damage": "1500",
+          "hp": "24",
+          "def": "600000",
+          "es": "123",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "15%隱藏符石5顆"
+          }
+        },
+        {
+          "card": "456",
+          "stage": "4",
+          "damage": "6880",
+          "hp": "946000",
+          "def": "2800",
+          "turn": "2{{初始CD*2}}",
+          "es": "5",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "雙體共生"
+          }
+        },
+        {
+          "card": "460",
+          "stage": "",
+          "damage": "10350",
+          "hp": "1019240",
+          "def": "3200",
+          "turn": "3{{初始CD*3}}",
+          "es": "5",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "雙體共生"
+          }
+        },
+        {
+          "card": "450",
+          "stage": "5",
+          "damage": "13200",
+          "hp": "3060000",
+          "def": "700",
+          "turn": "1{{初始CD*1}}",
+          "es": "182",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI048.png|static/es/SI004.png|static/es/SI005.png",
+            "title": "三屬輪轉 ‧ 剋屬禁消 ‧ 光暗防禦50%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1135",
+      "title": "甦醒的過去 - 4",
+      "cj": [],
+      "data": [
+        {
+          "card": "1017",
+          "stage": "3{{雙血}}",
+          "damage": "66666",
+          "turn": "1{{初始CD*1}}",
+          "hp": "287090",
+          "def": "28940",
+          "coin": "0",
+          "es": "941",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png|static/es/SI232.png|static/es/SI218.png",
+            "title": "無視減傷 ‧ 首回化血圍城-心化血"
+          }
+        },
+        {
+          "card": "1017",
+          "stage": "",
+          "damage": "10493",
+          "turn": "1",
+          "hp": "6346220",
+          "def": "28940",
+          "coin": "5380",
+          "es": "551",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI134.png",
+            "title": "攻後(6回生命倒數)"
+          }
+        },
+        {
+          "card": "1141",
+          "stage": "4",
+          "damage": "5608",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2831900",
+          "def": "20110",
+          "coin": "6383",
+          "es": "281",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI106.png",
+            "title": "8+Combo追擊盾"
+          }
+        },
+        {
+          "card": "50007",
+          "stage": "5-1",
+          "damage": "17476",
+          "turn": "2{{初始CD*1}}",
+          "hp": "3087730",
+          "def": "31930",
+          "coin": "185",
+          "es": "706",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI165.png",
+            "title": "附加消除重置 ‧ 2秒轉珠"
+          }
+        },
+        {
+          "card": "50008",
+          "stage": "",
+          "damage": "7198",
+          "turn": "1{{初始CD*3}}",
+          "hp": "21905630",
+          "def": "43170",
+          "coin": "0",
+          "es": "1013",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "攻擊傷害無效"
+          }
+        },
+        {
+          "card": "50009",
+          "stage": "",
+          "damage": "18037",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4065220",
+          "def": "36620",
+          "coin": "185",
+          "es": "879",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI236.png",
+            "title": "3回神魔禁錮 ‧ 攻後電擊趨狂"
+          }
+        },
+        {
+          "card": "50007",
+          "stage": "5-2",
+          "damage": "17476",
+          "turn": "2",
+          "hp": "3087730",
+          "def": "31930",
+          "coin": "185",
+          "es": "1016",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI004.png|static/es/SI005.png|static/es/SI128.png",
+            "title": "光暗攻擊傷害無效 ‧ 扣血50%"
+          }
+        },
+        {
+          "card": "50008",
+          "stage": "",
+          "damage": "7198",
+          "turn": "1",
+          "hp": "21905630",
+          "def": "43170",
+          "coin": "0",
+          "es": "16",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越戰越強-金"
+          }
+        },
+        {
+          "card": "50009",
+          "stage": "",
+          "damage": "18037",
+          "turn": "2",
+          "hp": "4065220",
+          "def": "36620",
+          "coin": "185",
+          "es": "1015",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI001.png|static/es/SI002.png|static/es/SI003.png|static/es/SI128.png",
+            "title": "三屬攻擊傷害無效 ‧ 扣血50%"
+          }
+        },
+        {
+          "card": "50008",
+          "stage": "5-3",
+          "damage": "7198",
+          "turn": "1",
+          "hp": "21905630",
+          "def": "43170",
+          "coin": "185",
+          "es": "1012",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI157.png|static/es/SI251.png",
+            "title": "狂擊10倍 ‧ 無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1871",
+      "title": "甦醒的過去 - 5",
+      "cj": [],
+      "data": [
+        {
+          "card": "1725",
+          "stage": "4{{雙血}}",
+          "damage": "27100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "24108920",
+          "def": "105300",
+          "coin": "0",
+          "es": "2271",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI219.png|static/es/SI251.png",
+            "title": "先攻-縱橫冰封 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1725",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "50158630",
+          "def": "105300",
+          "coin": "7223",
+          "es": "2272",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI246.png|static/es/SI139.png|static/es/SI124.png",
+            "title": "強化三屬盾-限 ‧ 越扣越強25% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1831",
+          "stage": "5",
+          "damage": "14200",
+          "turn": "1{{初始CD*1}}",
+          "hp": "28954200",
+          "def": "28290",
+          "coin": "600",
+          "es": "1998",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI221.png|static/es/SI251.png",
+            "title": "強化盾-非強化吸收 ‧ 風化七追擊-轉 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1871",
+          "stage": "6{{三血}}",
+          "damage": "29304",
+          "turn": "2{{初始CD*2}}",
+          "hp": "40000000",
+          "def": "150000",
+          "coin": "0",
+          "es": "2931",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI219.png|static/es/SI124.png",
+            "title": "循環40擊盾-CD2 ‧ 攻後冰封4顆 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1871",
+          "stage": "",
+          "damage": "25350",
+          "turn": "1{{初始CD*1}}",
+          "hp": "300000000",
+          "def": "150000",
+          "coin": "0",
+          "es": "2932",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI253.png|static/es/SI045.png|static/es/SI251.png",
+            "title": "100%減傷盾-越攻越弱 ‧ 首消心傷害吸收 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1871",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "80000000",
+          "def": "150000",
+          "coin": "600",
+          "es": "2942",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI140.png|static/es/SI121.png|static/es/SI123.png|static/es/SI159.png|static/es/SI224.png|static/es/SI229.png|static/es/SI215.png|static/es/SI228.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "龍脈重置 ‧ 技能重置 ‧ 附加消除 ‧ CD4-四連障礙 ‧ 累積首消60顆符石盾100% ‧ 同歸於盡 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "結伴而行",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "260",
+      "title": "甦醒的過去 - 6",
+      "cj": [],
+      "data": [
+        {
+          "card": "057",
+          "stage": "1-3",
+          "damage": "19705",
+          "turn": "3",
+          "hp": "25870300",
+          "def": "23440",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "059",
+          "stage": "",
+          "damage": "20336",
+          "turn": "3",
+          "hp": "23925360",
+          "def": "26420",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "061",
+          "stage": "",
+          "damage": "18643",
+          "turn": "3",
+          "hp": "27970530",
+          "def": "30330",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "063",
+          "stage": "",
+          "damage": "20141",
+          "turn": "3",
+          "hp": "26378260",
+          "def": "30280",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "065",
+          "stage": "",
+          "damage": "20569",
+          "turn": "3",
+          "hp": "24071960",
+          "def": "26810",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "259",
+          "stage": "4",
+          "damage": "36506",
+          "turn": "3{{初始CD*4}}",
+          "hp": "61870530",
+          "def": "600000",
+          "coin": "",
+          "es": "596",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI014.png",
+            "title": "攻後轉直光"
+          }
+        },
+        {
+          "card": "260",
+          "stage": "",
+          "damage": "36892",
+          "turn": "3{{初始CD*2}}",
+          "hp": "60928360",
+          "def": "600000",
+          "coin": "",
+          "es": "597",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI015.png",
+            "title": "攻後轉直暗"
+          }
+        },
+        {
+          "card": "259",
+          "stage": "",
+          "damage": "36506",
+          "turn": "3{{初始CD*3}}",
+          "hp": "61870530",
+          "def": "600000",
+          "coin": "",
+          "es": "596",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI014.png",
+            "title": "攻後轉直光"
+          }
+        },
+        {
+          "card": "260",
+          "stage": "5",
+          "damage": "33402",
+          "turn": "2{{初始CD*2}}",
+          "hp": "159635390",
+          "def": "900000",
+          "coin": "",
+          "es": "3954",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png|static/es/SI034.png",
+            "title": "能力繼承 ‧ 首消全光盾"
+          }
+        },
+        {
+          "card": "259",
+          "stage": "",
+          "damage": "32927",
+          "turn": "2{{初始CD*1}}",
+          "hp": "160384350",
+          "def": "900000",
+          "coin": "",
+          "es": "3955",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png|static/es/SI035.png",
+            "title": "能力繼承 ‧ 首消全暗盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "257",
+      "title": "甦醒的過去 - 7",
+      "cj": [],
+      "data": [
+        {
+          "card": "057",
+          "stage": "1-3",
+          "damage": "19705",
+          "turn": "3",
+          "hp": "25870300",
+          "def": "23440",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "059",
+          "stage": "",
+          "damage": "20336",
+          "turn": "3",
+          "hp": "23925360",
+          "def": "26420",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "061",
+          "stage": "",
+          "damage": "18643",
+          "turn": "3",
+          "hp": "27970530",
+          "def": "30330",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "063",
+          "stage": "",
+          "damage": "20141",
+          "turn": "3",
+          "hp": "26378260",
+          "def": "30280",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "065",
+          "stage": "",
+          "damage": "20569",
+          "turn": "3",
+          "hp": "24071960",
+          "def": "26810",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "256",
+          "stage": "4",
+          "damage": "37149",
+          "turn": "3{{初始CD*2}}",
+          "hp": "68054080",
+          "def": "600000",
+          "coin": "",
+          "es": "593",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後轉直水"
+          }
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "damage": "37263",
+          "turn": "3{{初始CD*4}}",
+          "hp": "67908230",
+          "def": "600000",
+          "coin": "",
+          "es": "594",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉直火"
+          }
+        },
+        {
+          "card": "258",
+          "stage": "",
+          "damage": "37010",
+          "turn": "3{{初始CD*3}}",
+          "hp": "68231470",
+          "def": "600000",
+          "coin": "",
+          "es": "595",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png",
+            "title": "攻後轉直木"
+          }
+        },
+        {
+          "card": "257",
+          "stage": "5",
+          "damage": "33871",
+          "turn": "2{{初始CD*1}}",
+          "hp": "163607480",
+          "def": "900000",
+          "coin": "",
+          "es": "3962",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png|static/es/SI229.png",
+            "title": "能力繼承 ‧ 雙重燃燒20%"
+          }
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "damage": "33871",
+          "turn": "2{{初始CD*2}}",
+          "hp": "163607480",
+          "def": "900000",
+          "coin": "",
+          "es": "3962",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png|static/es/SI229.png",
+            "title": "能力繼承 ‧ 雙重燃燒20%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "感謝你的相伴",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "1862",
+      "title": "甦醒的過去 - 8",
+      "cj": [],
+      "data": [
+        {
+          "card": "1859",
+          "stage": "1-4",
+          "damage": "11036",
+          "turn": "1{{初始CD*1}}",
+          "hp": "73805360",
+          "def": "10200",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1860",
+          "stage": "",
+          "damage": "23978",
+          "turn": "2{{初始CD*2}}",
+          "hp": "72480970",
+          "def": "11500",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1861",
+          "stage": "",
+          "damage": "34852",
+          "turn": "3{{初始CD*3}}",
+          "hp": "74063850",
+          "def": "12300",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1862",
+          "stage": "",
+          "damage": "23497",
+          "turn": "2{{初始CD*2}}",
+          "hp": "74346980",
+          "def": "11800",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1863",
+          "stage": "",
+          "damage": "12574",
+          "turn": "1{{初始CD*1}}",
+          "hp": "72654820",
+          "def": "10400",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

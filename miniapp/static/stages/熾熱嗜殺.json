@@ -1,0 +1,256 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/22 22:00",
+      "end": "2020/10/25 23:59",
+      "note": "",
+      "cj": [],
+      "cs_jltj": "成功通过 地狱级 关卡 1 次",
+      "cs_jl": "2544",
+      "cs_jlsl": "1"
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2543",
+      "title": "一天三次的戰書 煉獄級",
+      "cj": [],
+      "data": [
+        {
+          "card": "672",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/3/34/672i.png/revision/latest/scale-to-width-down/60?cb=20141125120049&path-prefix=zh",
+          "stage": "1",
+          "damage": "100",
+          "turn": "3{{初始CD|3}}",
+          "hp": "130000000",
+          "def": "62000",
+          "coin": "209",
+          "es": "854",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI128.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 扣血50% ‧ 喪伴固防50倍-必殺"
+          },
+          "note": ""
+        },
+        {
+          "card": "672",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/3/34/672i.png/revision/latest/scale-to-width-down/60?cb=20141125120049&path-prefix=zh",
+          "stage": "",
+          "damage": "100",
+          "turn": "3{{初始CD|3}}",
+          "hp": "130000000",
+          "def": "62000",
+          "coin": "209",
+          "es": "854",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI128.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 扣血50% ‧ 喪伴固防50倍-必殺"
+          },
+          "note": ""
+        },
+        {
+          "card": "6117",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/2/25/6117i.png/revision/latest/scale-to-width-down/60?cb=20180711234449&path-prefix=zh",
+          "stage": "2",
+          "damage": "24823",
+          "turn": "1{{初始CD|1}}",
+          "hp": "250000000",
+          "def": "530000",
+          "coin": "9998",
+          "es": "3504",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI105.png",
+            "title": "軌跡隱藏 ‧ 7+Combo追擊盾"
+          },
+          "note": ""
+        },
+        {
+          "card": "1014",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/b/b2/1014i.png/revision/latest/scale-to-width-down/60?cb=20151005095222&path-prefix=zh",
+          "stage": "3",
+          "damage": "12892",
+          "turn": "1{{初始CD|1}}",
+          "hp": "46000000",
+          "def": "43000",
+          "coin": "1205",
+          "note": ""
+        },
+        {
+          "card": "1015",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/b/bf/1015i.png/revision/latest/scale-to-width-down/60?cb=20151005095222&path-prefix=zh",
+          "stage": "",
+          "damage": "15366",
+          "turn": "1{{初始CD|1}}",
+          "hp": "89000000",
+          "def": "89000",
+          "coin": "1220",
+          "es": "39",
+          "esjson": {
+            "img": "static/es/SI164.png|static/es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          },
+          "note": ""
+        },
+        {
+          "card": "1014",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/b/b2/1014i.png/revision/latest/scale-to-width-down/60?cb=20151005095222&path-prefix=zh",
+          "stage": "",
+          "damage": "12892",
+          "turn": "1{{初始CD|1}}",
+          "hp": "46000000",
+          "def": "43000",
+          "coin": "1205",
+          "note": ""
+        },
+        {
+          "card": "1018",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/f/f6/1018i.png/revision/latest/scale-to-width-down/60?cb=20151022141243&path-prefix=zh",
+          "stage": "4{{雙血}}",
+          "damage": "100",
+          "turn": "1{{初始CD|1}}",
+          "hp": "200000000",
+          "def": "720000",
+          "coin": "0",
+          "es": "1552",
+          "esjson": {
+            "img": "static/es/SI256.png|static/es/SI132.png",
+            "title": "消心盾5% ‧ 扣血100%"
+          },
+          "note": ""
+        },
+        {
+          "card": "1018",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/f/f6/1018i.png/revision/latest/scale-to-width-down/60?cb=20151022141243&path-prefix=zh",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "530000000",
+          "def": "720000",
+          "coin": "3317",
+          "es": "2919",
+          "esjson": {
+            "img": "static/es/SI229.png|static/es/SI254.png|static/es/SI139.png",
+            "title": "燃燒圍城20% ‧ 強化盾 ‧ 越扣越強25%"
+          },
+          "note": ""
+        },
+        {
+          "card": "6354",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/1/16/6354i.png/revision/latest/scale-to-width-down/60?cb=20200611090917&path-prefix=zh",
+          "stage": "5",
+          "damage": "53175",
+          "turn": "2{{初始CD|2}}",
+          "hp": "370000000",
+          "def": "460000",
+          "coin": "5963",
+          "es": "3375",
+          "esjson": {
+            "img": "static/es/SI147.png|static/es/SI183.png",
+            "title": "首消暗傷害吸收-反擊100% ‧ 暗起手始終盾"
+          },
+          "note": ""
+        },
+        {
+          "card": "9017",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/f/fe/9017i.png/revision/latest/scale-to-width-down/60?cb=20190221063154&path-prefix=zh",
+          "stage": "6{{雙血}}",
+          "damage": "26954",
+          "turn": "1{{初始CD|1}}",
+          "hp": "790000000",
+          "def": "830000",
+          "coin": "0",
+          "es": "3725",
+          "esjson": {
+            "img": "static/es/SI161.png|static/es/SI122.png|static/es/SI215.png|static/es/SI233.png",
+            "title": "命懸一線 ‧ 三回超級禁錮 ‧ 黑白符石 ‧ 回復力減弱95%"
+          },
+          "note": ""
+        },
+        {
+          "card": "9017",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/f/fe/9017i.png/revision/latest/scale-to-width-down/60?cb=20190221063154&path-prefix=zh",
+          "stage": "",
+          "damage": "34322",
+          "turn": "1",
+          "hp": "460000000",
+          "def": "830000",
+          "coin": "600",
+          "es": "4103",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI316.png|static/es/SI140.png|static/es/SI224.png|static/es/SI124.png",
+            "title": "CD1 ‧ 首回暗引爆狂擊-龍脈吸收減傷 ‧ 軌跡隱藏 ‧ 無法控制"
+          },
+          "note": ""
+        },
+        {
+          "card": "2544",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/4/47/2544i.png/revision/latest/scale-to-width-down/60?cb=20201015090940&path-prefix=zh",
+          "stage": "7{{掉落|白金}}",
+          "damage": "96780",
+          "turn": "3{{初始CD|3}}",
+          "hp": "4200000",
+          "def": "100",
+          "coin": "5963",
+          "lv": "1",
+          "es": "288",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "主動盾"
+          },
+          "note": ""
+        },
+        {
+          "card": "1623",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/d/d8/1623i.png/revision/latest/scale-to-width-down/60?cb=20171026062959&path-prefix=zh",
+          "stage": "8",
+          "damage": "27626",
+          "turn": "1{{初始CD|1}}",
+          "hp": "530000000",
+          "def": "600000",
+          "coin": "309",
+          "es": "4034",
+          "esjson": {
+            "img": "static/es/SI232.png|static/es/SI218.png|static/es/SI251.png|static/es/SI043.png",
+            "title": "首回化血圍城-心化血 ‧ 無視減傷 ‧ 心禁消"
+          },
+          "note": ""
+        },
+        {
+          "card": "2543",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/2/25/2543i.png/revision/latest/scale-to-width-down/60?cb=20201015090935&path-prefix=zh",
+          "stage": "9{{雙血}}{{掉落|白金}}",
+          "damage": "75908",
+          "turn": "1{{初始CD|1}}",
+          "hp": "500000000",
+          "def": "1300000",
+          "coin": "0",
+          "es": "2913",
+          "esjson": {
+            "img": "static/es/SI034.png|static/es/SI124.png",
+            "title": "循環累積30+光符石盾-首消禁別屬 ‧ 無法控制"
+          },
+          "note": ""
+        },
+        {
+          "card": "2543",
+          "orginimg": "https://static.wikia.nocookie.net/tos/images/3/39/671i.png/revision/latest/scale-to-width-down/60?cb=20141125120038&path-prefix=zh",
+          "stage": "",
+          "damage": "29753",
+          "turn": "1",
+          "hp": "940000000",
+          "def": "1300000",
+          "coin": "3577",
+          "lv": "1",
+          "drop": "671",
+          "es": "4335",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI004.png|static/es/SI107.png|static/es/ES569.png",
+            "title": "CD1 ‧ 光外防禦90% ‧ 9+Combo追擊盾 ‧ 六重黑洞"
+          },
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

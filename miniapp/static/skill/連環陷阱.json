@@ -1,0 +1,6 @@
+{
+  "type": "lskill",
+  "name": "連環陷阱",
+  "effect": "I. 連擊 (Combo) 愈多<br>⇒ 全隊攻擊力愈高<br>⇒ 10 連擊 (Combo) 即可達至最大 4.5 倍<br>II. 若連擊 (Combo) 數大於 10<br>⇒ 則全隊攻擊力變 0",
+  "pet": "880"
+}

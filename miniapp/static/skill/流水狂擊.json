@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "流水狂擊",
+  "effect": "進行 15 次水屬性攻擊",
+  "turn": "14",
+  "minTurn": "5",
+  "pet": "087",
+  "rpet": ""
+}

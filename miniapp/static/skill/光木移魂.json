@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "光木移魂",
+  "effect": "光符石轉化為木符石",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "8018",
+  "rpet": ""
+}

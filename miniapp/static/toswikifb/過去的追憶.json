@@ -1,0 +1,205 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2499",
+      "title": "歸者蘇因",
+      "cj": [],
+      "data": [
+        {
+          "card": "2499",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "item": "163",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "1646",
+      "title": "惡魔諾索斯",
+      "cj": [],
+      "data": [
+        {
+          "card": "1648",
+          "stage": "1",
+          "damage": "18000",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100000000",
+          "def": "100000",
+          "coin": "",
+          "item": "163",
+          "es": "3510",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI104.png",
+            "title": "隱藏-轉 ‧ 6+Combo追擊盾"
+          }
+        },
+        {
+          "card": "1640",
+          "stage": "2",
+          "damage": "18000",
+          "turn": "4{{初始CD*4}}",
+          "hp": "100000000",
+          "def": "100000",
+          "coin": "",
+          "item": "163",
+          "es": "3544",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI032.png|static/es/SI183.png",
+            "title": "首消全火盾 ‧ 火起手始終盾"
+          }
+        },
+        {
+          "card": "1646",
+          "stage": "3",
+          "damage": "18000",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100000000",
+          "def": "100000",
+          "coin": "",
+          "item": "163",
+          "es": "3258",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png|static/es/SI216.png|static/es/SI124.png",
+            "title": "剋屬初級拼圖盾-限 ‧ 反擊50% ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2498",
+      "title": "停止的戰戈",
+      "cj": [],
+      "data": [
+        {
+          "card": "839",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "28390500",
+          "def": "18000",
+          "coin": "",
+          "item": "163",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "48788",
+          "turn": "3{{初始CD*3}}",
+          "hp": "30185260",
+          "def": "23000",
+          "coin": "",
+          "item": "163",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "28390500",
+          "def": "18000",
+          "coin": "",
+          "item": "163",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI127.png",
+            "title": "扣血40%"
+          }
+        },
+        {
+          "card": "2039",
+          "stage": "2",
+          "damage": "17360",
+          "turn": "1{{初始CD*1}}",
+          "hp": "156087820",
+          "def": "75000",
+          "coin": "",
+          "item": "163",
+          "es": "3477",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI304.png|static/es/SI047.png|static/es/SI236.png|static/es/SI116.png|static/es/SI124.png",
+            "title": "四角轉光電擊 ‧ 首消光追擊零化 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2498",
+          "stage": "3{{雙血}}",
+          "damage": "4585",
+          "turn": "1{{初始CD*1}}",
+          "hp": "96084350",
+          "def": "184000",
+          "coin": "",
+          "es": "3559",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI233.png|static/es/SI135.png|static/es/SI290.png",
+            "title": "攻後回復力衰弱25% ‧ 中毒90% ‧ 點燃盾90%"
+          }
+        },
+        {
+          "card": "2498",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "175341460",
+          "def": "184000",
+          "coin": "",
+          "item": "163",
+          "es": "1263",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI256.png|static/es/SI131.png|static/es/SI228.png",
+            "title": "消心盾5% ‧ 扣血90% ‧ 雙重黏附"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2383",
+      "title": "道別",
+      "cj": [],
+      "data": [
+        {
+          "card": "2383",
+          "stage": "1",
+          "damage": "100",
+          "turn": "9{{初始CD*9}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "item": "163",
+          "es": "321",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘50%"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1370",
+      "title": "機偶篇 ‧ 第四章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "2",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "369",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1370",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1370",
+      "title": "機偶篇 ‧ 第四章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "2",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1367",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1370",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "title": "機偶篇 ‧ 第四章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 **機偶篇 ‧ 第四章第三話**、[機械城之傳 ‧ 主線第十二章第三話](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0) 及 [魔族賢者篇 ‧ 第四章第二話](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E9%AD%94%E6%97%8F%E8%B3%A2%E8%80%85%E7%AF%87%E7%AC%AC%E5%9B%9B%E7%AB%A0) 1 次 —— 開放關卡 [機械城之傳 ‧ 主線終章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%B5%82%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "369",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1367",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "chest": "8000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

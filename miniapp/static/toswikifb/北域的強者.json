@@ -1,0 +1,247 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1310",
+      "title": "無奈的誤會",
+      "cj": [],
+      "data": [
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1535",
+          "stage": "",
+          "turn": "1",
+          "hp": "465217",
+          "def": "3490",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4897130",
+          "def": "4360",
+          "coin": "624",
+          "es": "16",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越戰越強-金"
+          }
+        },
+        {
+          "card": "1310",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7034280",
+          "def": "8760",
+          "coin": "4980",
+          "chest": "4000",
+          "es": "1600",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI233.png|static/es/SI161.png|static/es/SI183.png",
+            "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1310",
+      "title": "召喚師的解釋",
+      "cj": [],
+      "data": [
+        {
+          "card": "1310",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7034280",
+          "def": "8760",
+          "coin": "4980",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "2",
+          "turn": "3{{初始CD*3}}",
+          "hp": "5417260",
+          "def": "3510",
+          "coin": "208",
+          "es": "117",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png",
+            "title": "6+Combo盾"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3021690",
+          "def": "2730",
+          "coin": "208",
+          "es": "105",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI047.png",
+            "title": "心轉自身"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "5417260",
+          "def": "3510",
+          "coin": "208",
+          "es": "117",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png",
+            "title": "6+Combo盾"
+          }
+        },
+        {
+          "card": "1310",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9751850",
+          "def": "8760",
+          "coin": "4980",
+          "chest": "4000",
+          "es": "1391",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI221.png|static/es/SI124.png|static/es/SI105.png",
+            "title": "突擊30% ‧ 首回4顆-每回3顆風化3000 ‧ 無法控制 ‧ 7+Combo追擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "title": "碑紋之鎧的力量",
+      "cj": [],
+      "data": [
+        {
+          "card": "081",
+          "stage": "",
+          "turn": "3",
+          "hp": "998342",
+          "def": "2280",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "730588",
+          "def": "3080",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "4",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1011",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3605340",
+          "def": "4710",
+          "coin": "1020",
+          "es": "262",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI032.png",
+            "title": "單次9+火符石盾"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3605340",
+          "def": "4710",
+          "coin": "1020",
+          "es": "262",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI032.png",
+            "title": "單次9+火符石盾"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "6",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9864890",
+          "def": "9910",
+          "coin": "4380",
+          "chest": "8000",
+          "es": "617",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI043.png",
+            "title": "(5回心禁消)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "no": "984",
+  "title": "溢補盾 ‧ 心形轉心-其他轉敵屬 ‧ 隨機轉心",
+  "effect": "召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力。<br>首回合敵人會將固定位置的符石轉化為心符石，並將其他的符石轉化為敵人屬性的符石。其後每回合敵人會將隨機 1 種符石轉化為心符石<br><img src=\"https://vignette.wikia.nocookie.net/tos/images/b/b6/SUP-SI-011.png/revision/latest?cb=20200307075524&path-prefix=zh\" width=\"250\">",
+  "content": "溢補盾,符石轉換",
+  "icon": "es/SI217.png|es/SI306.png|es/SI047.png"
+}

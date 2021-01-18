@@ -1,0 +1,260 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1412",
+      "title": "前往約定之地",
+      "cj": [],
+      "data": [
+        {
+          "card": "079",
+          "stage": "",
+          "hp": "941588",
+          "def": "2190",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1412",
+          "stage": "5",
+          "turn": "2{{初始CD*1}}",
+          "hp": "7368590",
+          "def": "11250",
+          "coin": "4380",
+          "es": "291",
+          "ws": "10095",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        },
+        {
+          "card": "1412",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7368590",
+          "def": "11250",
+          "coin": "4380",
+          "chest": "4000",
+          "es": "291",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        }
+      ]
+    },
+    {
+      "id": "838",
+      "title": "作為救贖的殺戮",
+      "cj": [],
+      "data": [
+        {
+          "card": "489",
+          "stage": "",
+          "hp": "759384",
+          "def": "2080",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "208",
+          "note": "{{特性*離開*4}}",
+          "esjson": null
+        },
+        {
+          "card": "838",
+          "stage": "5",
+          "turn": "3{{初始CD*3}}",
+          "hp": "30",
+          "def": "2000000",
+          "coin": "624",
+          "chest": "4000",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "832",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8755600",
+          "def": "8710",
+          "coin": "624",
+          "es": "843",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI160.png|static/es/SI011.png",
+            "title": "強化盾 ‧ 先攻-雙直行轉水 ‧ 攻後水橫縱輪轉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1106",
+      "title": "成為王的覺悟",
+      "cj": [],
+      "data": [
+        {
+          "card": "081",
+          "stage": "",
+          "turn": "4",
+          "hp": "998342",
+          "def": "2280",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "901347",
+          "def": "2890",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "488",
+          "stage": "3{{亂入*{{{1*1}}}}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "189",
+          "note": "{{特性*離開*1}}",
+          "esjson": null
+        },
+        {
+          "card": "1115",
+          "stage": "4",
+          "turn": "3{{初始CD*3}}",
+          "hp": "2745690",
+          "def": "4190",
+          "coin": "1005",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "583",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8358230",
+          "def": "6820",
+          "coin": "249",
+          "es": "282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越攻越強"
+          }
+        },
+        {
+          "card": "1115",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "2745690",
+          "def": "4190",
+          "coin": "1005",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "1106",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10632150",
+          "def": "15130",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1262",
+          "note": "{{特性*離開*6}}",
+          "esjson": {
+            "img": "static/es/SI232.png|static/es/SI309.png|static/es/SI218.png|static/es/SI043.png",
+            "title": "化血圍城-木心化血 ‧ 心禁消"
+          }
+        }
+      ]
+    }
+  ]
+}

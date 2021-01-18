@@ -1,0 +1,374 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2516",
+      "title": "想要逃避的心情",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "451",
+      "title": "少年的戰鬥",
+      "cj": [],
+      "data": [
+        {
+          "card": "057",
+          "stage": "1",
+          "damage": "6872",
+          "turn": "3",
+          "hp": "4582300",
+          "def": "5900",
+          "coin": "18",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "063",
+          "stage": "",
+          "damage": "6926",
+          "turn": "3",
+          "hp": "4638520",
+          "def": "6000",
+          "coin": "18",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "059",
+          "stage": "",
+          "damage": "7019",
+          "turn": "3",
+          "hp": "4380360",
+          "def": "5800",
+          "coin": "18",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "454",
+          "stage": "2",
+          "damage": "8553",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9012780",
+          "def": "27200",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "452",
+          "stage": "",
+          "damage": "8619",
+          "turn": "2{{初始CD*1}}",
+          "hp": "8954930",
+          "def": "26800",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "451",
+          "stage": "3",
+          "damage": "5236",
+          "turn": "1{{初始CD*1}}",
+          "hp": "15145300",
+          "def": "31400",
+          "coin": "10",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2516",
+      "title": "神秘的少年",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "2307",
+      "title": "男子漢的戰鬥",
+      "cj": [],
+      "data": [
+        {
+          "card": "838",
+          "stage": "1",
+          "damage": "8406",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8738510",
+          "def": "8800",
+          "coin": "29",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "",
+          "damage": "14523",
+          "turn": "3{{初始CD*3}}",
+          "hp": "8651030",
+          "def": "8700",
+          "coin": "29",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2307",
+          "stage": "2",
+          "damage": "6387",
+          "turn": "1",
+          "hp": "15978250",
+          "def": "63600",
+          "coin": "125",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2516",
+      "title": "與異世界力量的共鳴",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "2382",
+      "title": "少女們，戰鬥吧",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1",
+          "damage": "3875",
+          "turn": "1",
+          "hp": "6870530",
+          "def": "3200",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "12181",
+          "turn": "3",
+          "hp": "7318240",
+          "def": "5400",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "damage": "3875",
+          "turn": "1",
+          "hp": "6870530",
+          "def": "3200",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2388",
+          "stage": "2",
+          "damage": "5702",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10856320",
+          "def": "39780",
+          "coin": "125",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2382",
+          "stage": "3",
+          "damage": "7368",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14905360",
+          "def": "54120",
+          "coin": "125",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2516",
+      "title": "援軍來到",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "2386",
+      "title": "突擊開始",
+      "cj": [],
+      "data": [
+        {
+          "card": "839",
+          "stage": "1",
+          "damage": "10",
+          "turn": "1",
+          "hp": "5128500",
+          "def": "3700",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "10",
+          "turn": "1",
+          "hp": "5128500",
+          "def": "3700",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "10",
+          "turn": "1",
+          "hp": "5128500",
+          "def": "3700",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "840",
+          "stage": "2",
+          "damage": "10",
+          "turn": "1",
+          "hp": "11053050",
+          "def": "5600",
+          "coin": "29",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "840",
+          "stage": "",
+          "damage": "10",
+          "turn": "1",
+          "hp": "11053050",
+          "def": "5600",
+          "coin": "29",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2386",
+          "stage": "3",
+          "damage": "0",
+          "turn": "1{{初始CD*1}}",
+          "hp": "16870520",
+          "def": "34580",
+          "coin": "125",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2516",
+      "title": "不可以逃避！",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "2516",
+      "title": "真理，參上！",
+      "cj": [],
+      "data": []
+    },
+    {
+      "id": "838",
+      "title": "室內狙擊戰",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1",
+          "damage": "3152",
+          "turn": "1",
+          "hp": "6738520",
+          "def": "2300",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "damage": "3152",
+          "turn": "1",
+          "hp": "6738520",
+          "def": "2300",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "damage": "3152",
+          "turn": "1",
+          "hp": "6738520",
+          "def": "2300",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "2",
+          "damage": "6873",
+          "turn": "2",
+          "hp": "8371950",
+          "def": "3900",
+          "coin": "29",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "",
+          "damage": "6873",
+          "turn": "2",
+          "hp": "8371950",
+          "def": "3900",
+          "coin": "29",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "838",
+          "stage": "3",
+          "damage": "8392",
+          "turn": "2",
+          "hp": "12187500",
+          "def": "4300",
+          "coin": "29",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2516",
+      "title": "一定要擊倒你",
+      "cj": [],
+      "data": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "no": "3009",
+  "title": "固定形轉光心-外珠隱藏轉別屬 ‧ 2秒轉珠 ‧ 首消暗傷害吸收",
+  "effect": "分別將 2 個及 6 個固定位置的符石轉化為光及心符石，並將其他位置的符石轉化為隱藏的水、火、木及暗符石。<br>移動符石時間會縮短至 2 秒。<br>首批消除暗屬性的連擊 (Combo) 時，敵人會回復相等於該回合召喚師所造成傷害的血量<br><img src=\"https://vignette.wikia.nocookie.net/tos/images/9/9b/SUP-SI-017.png/revision/latest?cb=20181221143555&path-prefix=zh\" width=\"250\">",
+  "content": "符可轉換,時間改變,傷害吸收",
+  "icon": "es/SI047.png|es/SI304.png|es/SI306.png|es/SI165.png|es/SI015.png"
+}

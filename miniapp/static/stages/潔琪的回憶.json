@@ -1,0 +1,101 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1569",
+      "title": "存在的重量",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 [潔琪的回憶](/pages/index/detail/detail?name2=%E6%BD%94%E7%90%AA%E7%9A%84%E5%9B%9E%E6%86%B6) 1 次——獲得金幣2,500,000"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1566",
+          "stage": "",
+          "turn": "1",
+          "hp": "805680",
+          "def": "830",
+          "coin": "189",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1567",
+          "stage": "",
+          "turn": "2",
+          "hp": "798390",
+          "def": "790",
+          "coin": "189",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1568",
+          "stage": "",
+          "turn": "3",
+          "hp": "821460",
+          "def": "820",
+          "coin": "189",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1569",
+          "stage": "",
+          "turn": "2",
+          "hp": "812540",
+          "def": "860",
+          "coin": "189",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1570",
+          "stage": "",
+          "turn": "3",
+          "hp": "795640",
+          "def": "810",
+          "coin": "189",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1568",
+          "stage": "4",
+          "turn": "2",
+          "hp": "821460",
+          "def": "1020",
+          "coin": "189",
+          "chest": "8000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1569",
+          "stage": "",
+          "turn": "3",
+          "hp": "812540",
+          "def": "860",
+          "coin": "189",
+          "chest": "8000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

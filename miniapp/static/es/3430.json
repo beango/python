@@ -1,0 +1,7 @@
+{
+  "no": "3430",
+  "title": "首消火傷害吸收 ‧ 強化盾",
+  "effect": "首批消除<font color=yellow>火屬性</font>的連擊 (Combo) 時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br><br>敵人只會受到<font color=yellow>強化符石</font>的攻擊傷害",
+  "content": "傷害吸收,強化盾",
+  "icon": "es/SI012.png|es/SI254.png"
+}

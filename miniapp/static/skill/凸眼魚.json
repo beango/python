@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "凸眼魚",
+  "effect": "I. 引爆風化、電擊、心符石<br>⇒ 掉落心以外的強化符石<br>1 回合內<br>II. 自身攻擊力 3 倍<br>III. 將自身對敵方造成傷害的<br>&nbsp;&nbsp;&nbsp;&nbsp;5% 轉化為生命力<br>IV. 回血溢出值 ≥500,000<br>⇒ 當前技能 CD 減少 2",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2289"
+}

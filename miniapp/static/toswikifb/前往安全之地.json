@@ -1,0 +1,300 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1412",
+      "title": "與玩具結伴",
+      "cj": [],
+      "data": [
+        {
+          "card": "487",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "982150",
+          "def": "130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1803260",
+          "def": "370",
+          "coin": "905",
+          "lv": "15",
+          "es": "574",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI229.png",
+            "title": "突擊65% ‧ 攻後雙重燃燒10%"
+          }
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "982150",
+          "def": "130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "582",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "2364780",
+          "def": "590",
+          "coin": "189",
+          "lv": "15",
+          "drop": "487",
+          "es": "930",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI168.png",
+            "title": "火點燃符石20%"
+          }
+        },
+        {
+          "card": "1009",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "2401920",
+          "def": "630",
+          "coin": "920",
+          "lv": "15",
+          "drop": "1008",
+          "es": "385",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "軌跡燃燒800"
+          }
+        },
+        {
+          "card": "1412",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3589540",
+          "def": "1580",
+          "coin": "4380",
+          "chest": "4000",
+          "lv": "15",
+          "drop": "1008",
+          "es": "909",
+          "ws": "10093",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png",
+            "title": "首消全水盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1013",
+      "title": "陷入危機的克拉拉",
+      "cj": [],
+      "data": [
+        {
+          "card": "582",
+          "stage": "1",
+          "turn": "3{{初始CD*3}}",
+          "hp": "1472650",
+          "def": "590",
+          "coin": "189",
+          "lv": "15",
+          "drop": "487",
+          "es": "192",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI216.png",
+            "title": "反擊1000"
+          }
+        },
+        {
+          "card": "585",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1503190",
+          "def": "680",
+          "coin": "189",
+          "lv": "15",
+          "drop": "490",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2268730",
+          "def": "550",
+          "coin": "920",
+          "lv": "15",
+          "drop": "1010",
+          "es": "426",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI135.png",
+            "title": "中毒80%"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2268730",
+          "def": "550",
+          "coin": "920",
+          "lv": "15",
+          "drop": "1010",
+          "es": "428",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI156.png",
+            "title": "回復力變0"
+          }
+        },
+        {
+          "card": "1013",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3067980",
+          "def": "680",
+          "coin": "920",
+          "lv": "15",
+          "chest": "4000",
+          "drop": "1012",
+          "es": "1313",
+          "ws": "10246",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "2顆風化"
+          }
+        },
+        {
+          "card": "1013",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "3067980",
+          "def": "680",
+          "coin": "920",
+          "chest": "4000",
+          "lv": "15",
+          "drop": "1012",
+          "es": "1313",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "2顆風化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "title": "捨身相救",
+      "cj": [],
+      "data": [
+        {
+          "card": "488",
+          "stage": "1",
+          "turn": "3{{初始CD*3}}",
+          "hp": "986320",
+          "def": "260",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1827150",
+          "def": "450",
+          "coin": "905",
+          "lv": "15",
+          "es": "514",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "雙重黏附"
+          }
+        },
+        {
+          "card": "488",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "986320",
+          "def": "260",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1011",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2389390",
+          "def": "550",
+          "coin": "920",
+          "lv": "15",
+          "drop": "1010",
+          "es": "45",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png",
+            "title": "技能封鎖"
+          }
+        },
+        {
+          "card": "583",
+          "stage": "",
+          "turn": "4{{初始CD*4}}",
+          "hp": "3872690",
+          "def": "670",
+          "coin": "189",
+          "lv": "15",
+          "drop": "488",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5306780",
+          "def": "1390",
+          "coin": "4380",
+          "chest": "8000",
+          "lv": "15",
+          "drop": "1010",
+          "es": "604",
+          "ws": "10228",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "軌跡黏附"
+          }
+        }
+      ]
+    }
+  ]
+}

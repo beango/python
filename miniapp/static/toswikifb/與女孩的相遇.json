@@ -1,0 +1,153 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1106",
+      "title": "她的相助",
+      "cj": [],
+      "data": [
+        {
+          "card": "071",
+          "stage": "",
+          "turn": "1",
+          "hp": "964158",
+          "def": "1720",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "331",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "1640",
+          "coin": "566",
+          "drop": "101",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1106",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5035480",
+          "def": "28660",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "941",
+          "note": "{{特性*離開*4}}",
+          "esjson": {
+            "img": "static/es/SI251.png|static/es/SI232.png|static/es/SI218.png",
+            "title": "無視減傷 ‧ 首回化血圍城-心化血"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1102",
+      "title": "誓死保護",
+      "cj": [],
+      "data": [
+        {
+          "card": "107",
+          "stage": "",
+          "turn": "2",
+          "hp": "804193",
+          "def": "1430",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "1",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1102",
+          "stage": "4",
+          "turn": "1{{初始CD*2}}",
+          "hp": "4986910",
+          "def": "27450",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1643",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI033.png",
+            "title": "累積30+木符石盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "510",
+      "title": "洛基的審問",
+      "cj": [],
+      "data": [
+        {
+          "card": "840",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3834580",
+          "def": "3770",
+          "coin": "624",
+          "es": "65",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "static/es/SI121.png",
+            "title": "技能重置"
+          }
+        },
+        {
+          "card": "510",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6448790",
+          "def": "15480",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1594",
+          "note": "{{特性*離開*10}}",
+          "esjson": {
+            "img": "static/es/SI183.png",
+            "title": "始終盾"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "711",
+      "title": "星星枷鎖",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "711",
+          "stage": "5",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "es": "321",
+          "coin": "6100",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘50%"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "no": "3468",
+  "title": "CD2 ‧ 縱橫霧化 ‧ 首消6Combo盾 ‧ 始終盾 ‧ 無視減傷",
+  "effect": "敵人首次攻擊變為 <font color=yellow>CD 2</font>。<br><br><font color=yellow>霧化</font> 1 直行及 1 橫行的符石位置。<br><br><font color=yellow>首批</font>消除 <font color=yellow>6 連擊 (Combo)</font> <br>才會對敵人造成攻擊傷害。<br><br>每回合以指定位置 (綠色漩渦) 的符石開始轉珠及在指定位置 (紅色漩渦) 結束轉珠，才會發動攻擊和回復 (達成條件前，無法進行回復)。<br><br>無視所有減傷效果和意志技能",
+  "content": "回合變更,霧化,指6Combo盾,始終盾,無視減傷",
+  "icon": "es/SI159.png|es/SI266.png|es/SI096.png|es/SI183.png|es/SI251.png"
+}

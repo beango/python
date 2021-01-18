@@ -1,0 +1,340 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2119",
+      "title": "分歧的路途",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1{{隨機*2}}",
+          "damage": "548",
+          "turn": "1",
+          "hp": "56240",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "1123",
+          "turn": "2",
+          "hp": "52930",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "1670",
+          "turn": "3",
+          "hp": "60890",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "1113",
+          "turn": "2",
+          "hp": "58730",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "585",
+          "turn": "1",
+          "hp": "53060",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "2{{隨機*2}}",
+          "damage": "548",
+          "turn": "1",
+          "hp": "56240",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "1123",
+          "turn": "2",
+          "hp": "52930",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "1670",
+          "turn": "3",
+          "hp": "60890",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "1113",
+          "turn": "2",
+          "hp": "58730",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "585",
+          "turn": "1",
+          "hp": "53060",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2119",
+          "stage": "3",
+          "damage": "20000",
+          "turn": "2{{初始CD*3}}",
+          "hp": "108",
+          "def": "2030",
+          "coin": "125",
+          "chest": "2000",
+          "es": "3261",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI183.png|static/es/SI216.png|static/es/SI161.png|static/es/SI124.png",
+            "title": "始終盾 ‧ CD1-不死復活-變CD2 ‧ 自殺 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2101",
+      "title": "強制前往異空間",
+      "cj": [],
+      "data": [
+        {
+          "card": "2109",
+          "stage": "1",
+          "damage": "1073",
+          "turn": "1{{初始CD*3}}",
+          "hp": "15680",
+          "def": "760",
+          "coin": "125",
+          "es": "1854",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI122.png|static/es/SI236.png",
+            "title": "先攻當前99% ‧ 人外禁錮1回 ‧ 隨機直行電擊"
+          }
+        },
+        {
+          "card": "2101",
+          "stage": "2{{雙血}}",
+          "damage": "1795",
+          "turn": "2{{初始CD*2}}",
+          "hp": "12730",
+          "def": "890",
+          "coin": "0",
+          "es": "490",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png",
+            "title": "雙重凍結"
+          }
+        },
+        {
+          "card": "2101",
+          "stage": "",
+          "damage": "864",
+          "turn": "1",
+          "hp": "20190",
+          "def": "890",
+          "coin": "125",
+          "chest": "2000",
+          "es": "2271",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI219.png|static/es/SI251.png",
+            "title": "先攻-縱橫冰封 ‧ 無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2119",
+      "title": "粉碎幻象的決意",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1{{隨機*2}}",
+          "damage": "1023",
+          "turn": "1",
+          "hp": "29780",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "2158",
+          "turn": "2",
+          "hp": "27310",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "3049",
+          "turn": "3",
+          "hp": "35420",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "2094",
+          "turn": "2",
+          "hp": "30230",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "1067",
+          "turn": "1",
+          "hp": "28260",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "2{{隨機*2}}",
+          "damage": "1023",
+          "turn": "1",
+          "hp": "29780",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "2158",
+          "turn": "2",
+          "hp": "27310",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "3049",
+          "turn": "3",
+          "hp": "35420",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "2094",
+          "turn": "2",
+          "hp": "30230",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "1067",
+          "turn": "1",
+          "hp": "28260",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2119",
+          "stage": "3{{雙血}}",
+          "damage": "3016",
+          "turn": "1{{初始CD*1}}",
+          "hp": "40870",
+          "def": "750",
+          "coin": "0",
+          "es": "3262",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI183.png|static/es/SI305.png|static/es/SI047.png|static/es/SI124.png",
+            "title": "始終盾 ‧ 攻後暗縱橫輪轉 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2119",
+          "stage": "",
+          "damage": "4046",
+          "turn": "2",
+          "hp": "56930",
+          "def": "750",
+          "coin": "125",
+          "chest": "4000",
+          "es": "3180",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI147.png",
+            "title": "首消暗傷害吸收-反擊50%"
+          }
+        }
+      ]
+    }
+  ]
+}

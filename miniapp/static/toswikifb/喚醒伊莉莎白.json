@@ -1,0 +1,105 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "711",
+      "title": "驚險的攻防戰",
+      "cj": [],
+      "data": [
+        {
+          "card": "711",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7418590",
+          "def": "8630",
+          "coin": "6100",
+          "chest": "4000",
+          "es": "1670",
+          "wsk": "10206",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI110.png",
+            "title": "(98回3秒轉珠) ‧ 首消隨機3~6Combo追擊盾-轉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1596",
+      "title": "商店街探險",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4372590",
+          "def": "4490",
+          "chest": "4000",
+          "coin": "249",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6502240",
+          "def": "6370",
+          "chest": "4000",
+          "coin": "249",
+          "es": "866",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI236.png",
+            "title": "電擊2顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1593",
+      "title": "製造出口",
+      "cj": [],
+      "data": [
+        {
+          "card": "1593",
+          "stage": "5",
+          "turn": "3{{初始CD*3}}",
+          "hp": "30941200",
+          "def": "806600",
+          "chest": "8000",
+          "coin": "249",
+          "lv": "15",
+          "es": "1012",
+          "note": "攻擊提升至{{特性*atk=154400}}",
+          "esjson": {
+            "img": "static/es/SI157.png|static/es/SI251.png",
+            "title": "狂擊10倍 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "30941200",
+          "def": "806600",
+          "chest": "8000",
+          "coin": "249",
+          "lv": "15",
+          "es": "1012",
+          "note": "攻擊提升至{{特性*atk=154400}}",
+          "esjson": {
+            "img": "static/es/SI157.png|static/es/SI251.png",
+            "title": "狂擊10倍 ‧ 無視減傷"
+          }
+        }
+      ]
+    }
+  ]
+}

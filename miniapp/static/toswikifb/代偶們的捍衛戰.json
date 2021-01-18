@@ -1,0 +1,240 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1147",
+      "title": "絕對的信任",
+      "cj": [],
+      "data": [
+        {
+          "card": "1154",
+          "stage": "1",
+          "damage": "20748",
+          "turn": "2{{初始CD*1}}",
+          "hp": "24836980",
+          "def": "23000",
+          "coin": "",
+          "item": "163",
+          "es": "665",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "攻後隱藏2顆"
+          }
+        },
+        {
+          "card": "1146",
+          "stage": "",
+          "damage": "40354",
+          "turn": "1{{初始CD*4}}",
+          "hp": "26417850",
+          "def": "25000",
+          "coin": "",
+          "item": "163",
+          "es": "3408",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI257.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 25%盾 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1154",
+          "stage": "",
+          "damage": "20748",
+          "turn": "2{{初始CD*2}}",
+          "hp": "24836980",
+          "def": "23000",
+          "coin": "",
+          "item": "163",
+          "es": "665",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "攻後隱藏2顆"
+          }
+        },
+        {
+          "card": "1155",
+          "stage": "2",
+          "damage": "29636",
+          "turn": "2{{初始CD*2}}",
+          "hp": "43023650",
+          "def": "46000",
+          "coin": "",
+          "item": "163",
+          "es": "874",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "軌跡隱藏"
+          }
+        },
+        {
+          "card": "1147",
+          "stage": "",
+          "damage": "14995",
+          "turn": "1{{初始CD*1}}",
+          "hp": "43285360",
+          "def": "48000",
+          "coin": "",
+          "item": "163",
+          "es": "4004",
+          "chest": "6000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI220.png|static/es/SI113.png",
+            "title": "每回全水凍結 ‧ 首消水追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2384",
+      "title": "聲東擊西的伏擊",
+      "cj": [],
+      "data": [
+        {
+          "card": "2384",
+          "stage": "1",
+          "damage": "1000",
+          "turn": "9{{初始CD*9}}",
+          "hp": "97530470",
+          "def": "100",
+          "coin": "",
+          "item": "163",
+          "es": "149",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "25%盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2383",
+      "title": "圈套中的圈套",
+      "cj": [],
+      "data": [
+        {
+          "card": "2383",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "item": "163",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "1052",
+      "title": "計算外的頑強",
+      "cj": [],
+      "data": [
+        {
+          "card": "833",
+          "stage": "1",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "25970520",
+          "def": "17000",
+          "coin": "",
+          "item": "163",
+          "es": "854",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI128.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 扣血50% ‧ 喪伴固防50倍-必殺"
+          }
+        },
+        {
+          "card": "1148",
+          "stage": "",
+          "damage": "10136",
+          "turn": "1{{初始CD*1}}",
+          "hp": "25230740",
+          "def": "22000",
+          "coin": "",
+          "item": "163",
+          "es": "3402",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI229.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 雙重燃燒20% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*1}}",
+          "hp": "25970520",
+          "def": "17000",
+          "coin": "",
+          "item": "163",
+          "es": "854",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI128.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 扣血50% ‧ 喪伴固防50倍-必殺"
+          }
+        },
+        {
+          "card": "1149",
+          "stage": "2",
+          "damage": "30705",
+          "turn": "2{{初始CD*2}}",
+          "hp": "48263680",
+          "def": "45000",
+          "coin": "",
+          "item": "163",
+          "es": "3962",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png|static/es/SI229.png",
+            "title": "能力繼承 ‧ 雙重燃燒20%"
+          }
+        },
+        {
+          "card": "1149",
+          "stage": "",
+          "damage": "30705",
+          "turn": "2{{初始CD*1}}",
+          "hp": "48263680",
+          "def": "45000",
+          "coin": "",
+          "item": "163",
+          "es": "3962",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png|static/es/SI229.png",
+            "title": "能力繼承 ‧ 雙重燃燒20%"
+          }
+        },
+        {
+          "card": "1052",
+          "stage": "3",
+          "damage": "22694",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8364080",
+          "def": "76000",
+          "coin": "",
+          "item": "163",
+          "es": "3618",
+          "chest": "6000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI217.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "溢補盾 ‧ 觸怒4倍 ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

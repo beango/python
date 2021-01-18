@@ -1,0 +1,191 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1597",
+      "title": "眾神紀錄 ‧ 主線第五章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "837",
+          "stage": "1",
+          "turn": "2",
+          "hp": "9900000",
+          "def": "30000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "9500000",
+          "def": "30000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "2",
+          "turn": "2",
+          "hp": "9500000",
+          "def": "30000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "hp": "9700000",
+          "def": "24000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1597",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "26791540",
+          "def": "89900",
+          "coin": "249",
+          "chest": "4000",
+          "es": "3688",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI270.png|static/es/SI302.png|static/es/SI047.png|static/es/SI114.png",
+            "title": "雙重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1626",
+      "title": "眾神紀錄 ‧ 主線第五章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-4",
+          "turn": "2",
+          "hp": "6496000",
+          "def": "6000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "6090000",
+          "def": "5900",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "7105000",
+          "def": "7000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "6902000",
+          "def": "6200",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "5887000",
+          "def": "6400",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "title": "眾神紀錄 ‧ 主線第五章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-4",
+          "turn": "2",
+          "hp": "6496000",
+          "def": "6000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "6090000",
+          "def": "5900",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "7105000",
+          "def": "7000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "6902000",
+          "def": "6200",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "5887000",
+          "def": "6400",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

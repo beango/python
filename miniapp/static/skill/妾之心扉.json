@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "妾之心扉",
+  "effect": "將場上右方的 15 粒符石轉化為[board]固定數量及位置[/board]的水、火及心符石",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "878",
+  "rpet": ""
+}

@@ -70,7 +70,7 @@ def logout():
 
 def welcome():
     try:
-        values={"interfacename": "countereventaction", "counterno":"1", "staffid":"1", "staffname":"服务员1","eventid":"8"}
+        values={"interfacename": "countereventaction", "counterno":"1", "staffid":"1", "staffname":"服务员1","eventid":"1"}
         request = urllib.request.Request(inte, headers = headers, data = json.dumps(values).encode('utf-8'))
         res = urllib.request.urlopen(request)
         print(res.code)
@@ -80,14 +80,13 @@ def welcome():
 
 def service():
     try:
-        values={"interfacename": "countereventaction", "counterno":"1", "staffid":"1", "staffname":"服务员1","eventid":"2", "transcodeid": "0-0000-1-20200408153847-A008"}
+        values={"interfacename": "countereventaction", "counterno":"1", "staffid":"1", "staffname":"服务员1","eventid":"2", "transcodeid": "0001-20201029102155-A001"}
         request = urllib.request.Request(inte, headers = headers, data = json.dumps(values).encode('utf-8'))
         res = urllib.request.urlopen(request)
         print(res.code)
         print(res.read().decode("utf-8"))
     except Exception as ex:
         print("Found Error in auth phase:%s" % str(ex))
-
 
 def getnextnum():
     try:
@@ -99,4 +98,4 @@ def getnextnum():
     except Exception as ex:
         print("Found Error in auth phase:%s" % str(ex))
 
-welcome()
+getnextnum()

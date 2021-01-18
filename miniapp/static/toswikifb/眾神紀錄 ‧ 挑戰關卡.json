@@ -1,0 +1,84 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1993",
+      "title": "眾神紀錄 ‧ 尋果之旅",
+      "cj": [],
+      "data": [
+        {
+          "card": "463",
+          "stage": "1",
+          "turn": "1{{初始CD*2}}",
+          "hp": "500000",
+          "def": "100",
+          "coin": "501",
+          "es": "2370",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI096.png",
+            "title": "技能重置 ‧ 首消6Combo盾"
+          }
+        },
+        {
+          "card": "628",
+          "stage": "2",
+          "turn": "1{{初始CD*2}}",
+          "hp": "500000",
+          "def": "100",
+          "coin": "376",
+          "es": "2939",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI048.png",
+            "title": "首消隨機16~25符石追擊盾"
+          }
+        },
+        {
+          "card": "556",
+          "stage": "3",
+          "turn": "1{{初始CD*2}}",
+          "hp": "500000",
+          "def": "100",
+          "coin": "5543",
+          "es": "3373",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI145.png|static/es/SI183.png",
+            "title": "首消木傷害吸收-反擊100% ‧ 木起手始終盾"
+          }
+        },
+        {
+          "card": "1975",
+          "stage": "4",
+          "turn": "1{{初始CD*2}}",
+          "hp": "500000",
+          "def": "100",
+          "coin": "5963",
+          "es": "2467",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 扣血100% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1993",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "500000",
+          "def": "100",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "3505",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI106.png",
+            "title": "軌跡隱藏 ‧ 8+Combo追擊盾"
+          }
+        }
+      ]
+    }
+  ]
+}

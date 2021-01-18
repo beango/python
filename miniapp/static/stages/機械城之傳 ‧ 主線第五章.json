@@ -1,0 +1,215 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "830",
+      "title": "主線 ‧ 第五章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "830",
+          "stage": "1",
+          "turn": "2(2)",
+          "hp": "4410890",
+          "def": "21620",
+          "coin": "7235",
+          "es": "66",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "初級拼圖盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "830",
+          "stage": "2",
+          "turn": "2(2)",
+          "hp": "6327280",
+          "def": "21620",
+          "coin": "7235",
+          "es": "67",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "高級拼圖盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "830",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "8517830",
+          "def": "21620",
+          "coin": "7235",
+          "chest": "4000",
+          "es": "68",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "初級拼圖盾-限"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1752",
+      "title": "主線 ‧ 第五章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "2",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "309",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1752",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "309",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "092",
+      "title": "主線 ‧ 第五章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 **主線 ‧ 第五章第三話** 1 次——開放關卡[機械城之傳 ‧ 主線第六章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E5%85%AD%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "647",
+          "stage": "1",
+          "damage": "4418",
+          "turn": "1",
+          "hp": "956080",
+          "def": "840",
+          "coin": "11",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "4506",
+          "hp": "941720",
+          "def": "900",
+          "coin": "11",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "4418",
+          "turn": "1",
+          "hp": "956080",
+          "def": "840",
+          "coin": "11",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1747",
+          "stage": "2",
+          "turn": "2(2)",
+          "hp": "8206780",
+          "def": "2580",
+          "coin": "11",
+          "lv": "1",
+          "drop": "647",
+          "es": "498",
+          "note": "",
+          "esjson": {
+            "img": "es/SI229.png",
+            "title": "隨機縱向燃燒10%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1750",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "8178620",
+          "def": "2460",
+          "coin": "11",
+          "lv": "1",
+          "drop": "650",
+          "es": "2488",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI135.png|es/SI254.png",
+            "title": "先攻 ‧ 攻後[5回中毒50%] ‧ 強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "092",
+          "stage": "3",
+          "turn": "2(2)",
+          "hp": "10",
+          "def": "10",
+          "coin": "14",
+          "chest": "8000",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

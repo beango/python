@@ -1,0 +1,213 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "830",
+      "title": "失去理智的加諾奧斯",
+      "cj": [],
+      "data": [
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "830",
+          "stage": "4{{雙血}}",
+          "turn": "2{{初始CD*1}}",
+          "hp": "4286980",
+          "def": "7390",
+          "coin": "0",
+          "es": "878",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI227.png|static/es/SI242.png",
+            "title": "先攻 ‧ 迷惑符石 ‧ 三屬盾"
+          }
+        },
+        {
+          "card": "830",
+          "stage": "",
+          "turn": "1",
+          "hp": "6431730",
+          "def": "7390",
+          "coin": "6785",
+          "chest": "4000",
+          "es": "1229",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "鬥志激昂-弱銀"
+          }
+        }
+      ]
+    },
+    {
+      "id": "455",
+      "title": "重返地面",
+      "cj": [],
+      "data": [
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "chest": "4000",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "453",
+          "stage": "4",
+          "turn": "2{{初始CD*1}}",
+          "hp": "5193260",
+          "def": "6250",
+          "coin": "367",
+          "chest": "4000",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "455",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5084260",
+          "def": "6270",
+          "coin": "367",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1593",
+      "title": "神秘的怪物",
+      "cj": [],
+      "data": [
+        {
+          "card": "107",
+          "stage": "",
+          "hp": "44437",
+          "def": "40",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "43608",
+          "def": "40",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "hp": "44897",
+          "def": "39",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "5",
+          "turn": "3{{初始CD*3}}",
+          "hp": "9638200",
+          "def": "8870",
+          "coin": "249",
+          "es": "282",
+          "lv": "15",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越攻越強"
+          }
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4547360",
+          "def": "4390",
+          "coin": "249",
+          "chest": "8000",
+          "es": "866",
+          "lv": "15",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI236.png",
+            "title": "電擊2顆"
+          }
+        }
+      ]
+    }
+  ]
+}

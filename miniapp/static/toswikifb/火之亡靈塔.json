@@ -1,0 +1,60 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "068",
+      "title": "血染沙河",
+      "cj": [],
+      "data": [
+        {
+          "card": "068",
+          "stage": "3",
+          "num": "2",
+          "damage": "49",
+          "hp": "277",
+          "lv": "1",
+          "coin": "16",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "title": "狼之火洞穴",
+      "cj": [],
+      "data": [
+        {
+          "card": "108",
+          "stage": "3",
+          "num": "2",
+          "damage": "94",
+          "hp": "235",
+          "lv": "1",
+          "coin": "7",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "088",
+      "title": "紅玉之魔塔",
+      "cj": [],
+      "data": [
+        {
+          "card": "088",
+          "stage": "5",
+          "num": "3",
+          "damage": "43",
+          "hp": "179",
+          "lv": "1",
+          "coin": "17",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

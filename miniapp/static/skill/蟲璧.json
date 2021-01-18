@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "蟲璧",
+  "effect": "將場上所有符石轉化為<br>⇒ [board]固定數量及位置[/board]的<br>「心及火」妖族強化符石",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2219"
+}

@@ -1,0 +1,193 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2111",
+      "title": "師徒間的對決",
+      "cj": [],
+      "data": [
+        {
+          "card": "839",
+          "stage": "1",
+          "damage": "1963",
+          "hp": "5439460",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "3936",
+          "turn": "2",
+          "hp": "5877570",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "2",
+          "damage": "5673",
+          "turn": "3",
+          "hp": "6228700",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "4050",
+          "turn": "2",
+          "hp": "5288510",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2111",
+          "stage": "3{{雙血}}",
+          "damage": "14402",
+          "turn": "2{{初始CD*2}}",
+          "hp": "13508730",
+          "def": "7680",
+          "coin": "0",
+          "es": "784",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水橫縱輪轉"
+          }
+        },
+        {
+          "card": "2111",
+          "stage": "",
+          "damage": "9192",
+          "turn": "1",
+          "hp": "17062670",
+          "def": "7680",
+          "coin": "125",
+          "chest": "2000",
+          "es": "494",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png",
+            "title": "四重凍結"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2111",
+      "title": "曙光的拂照",
+      "cj": [],
+      "data": [
+        {
+          "card": "2111",
+          "stage": "1",
+          "damage": "2013",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3862050",
+          "def": "7680",
+          "coin": "125",
+          "es": "3286",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI219.png|static/es/SI124.png",
+            "title": "突擊10% ‧ 攻後冰封2顆 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2111",
+          "stage": "2{{雙血}}",
+          "damage": "7168",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3285420",
+          "def": "7680",
+          "coin": "0",
+          "es": "2870",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI250.png",
+            "title": "2秒轉珠 ‧ 循環累積5+同屬符石盾"
+          }
+        },
+        {
+          "card": "2111",
+          "stage": "",
+          "damage": "3259",
+          "turn": "1",
+          "hp": "5043170",
+          "def": "7680",
+          "coin": "125",
+          "chest": "2000",
+          "es": "1110",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI118.png",
+            "title": "首消心追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2111",
+      "title": "卡妙的真意",
+      "cj": [],
+      "data": [
+        {
+          "card": "368",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "100",
+          "es": "584",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI138.png",
+            "title": "龍脈回復"
+          }
+        },
+        {
+          "card": "2111",
+          "stage": "2{{雙血}}",
+          "damage": "2408",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7689300",
+          "def": "7680",
+          "coin": "0",
+          "es": "818",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png",
+            "title": "6+Combo追擊盾"
+          }
+        },
+        {
+          "card": "2111",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "3820530",
+          "def": "7680",
+          "coin": "125",
+          "chest": "4000",
+          "es": "3293",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI219.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "CD1 ‧ 首回冰封圍城 ‧ 扣血100% ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

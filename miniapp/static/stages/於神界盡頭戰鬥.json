@@ -1,0 +1,166 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "835",
+      "title": "於神界盡頭戰鬥 - 1",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "835",
+          "stage": "4",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "全知的惡魔",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": []
+    },
+    {
+      "id": "2480",
+      "title": "於神界盡頭戰鬥 - 2",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "2480",
+          "stage": "3",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "眾人的願望",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": []
+    },
+    {
+      "id": "2511",
+      "title": "於神界盡頭戰鬥 - 3",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "2511",
+          "stage": "4",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "拉普拉斯的願望",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": []
+    },
+    {
+      "id": "2480",
+      "title": "於神界盡頭戰鬥 - 4",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "6",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "2480",
+          "stage": "6",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "因願望而生",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "6",
+        "exp": "4500"
+      },
+      "data": []
+    }
+  ]
+}

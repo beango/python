@@ -9,8 +9,8 @@ import hashlib
 import sys,time,random,re
 from datetime import datetime
 
-inte = 'http://192.168.5.110:8080/sysqueueinterface'
-intedata = "http://192.168.5.110:8080/gethalldata.action?istest=1"
+inte = 'http://localhost:8080/sysqueueinterface'
+intedata = "http://localhost:8080/gethalldata.action?istest=1"
 SK = 'B548EC106017EFB2429B7528E65055E5'
 #post方式时候要发送的数据
 queue = [{"queuenum":"Q01","queuetype":1},
@@ -48,9 +48,9 @@ param = json.loads(data)
 #param = json.loads(json.loads(r.read()))
 #r.close()
 #opener.close()
-counts = 1 #执行次数2018-09-29 14:56:40.000
-a1=(2020, 4, 20, 9,0,0,0,0,0)
-a2=(2020, 4, 20, 17,59,59,0,0,0) 
+counts = 100 #执行次数2018-09-29 14:56:40.000
+a1=(2020, 11, 27, 9,0,0,0,0,0)
+a2=(2020, 11, 27, 17,59,59,0,0,0) 
 start=time.mktime(a1)    #生成开始时间戳
 end=time.mktime(a2)      #生成结束时间戳
 
@@ -62,10 +62,7 @@ while counts>0:
 	queuenum = queueobj["queuenum"]
 	queuetype = queueobj["queuetype"]
 	#print queuenum, queuetype
-	
-	#print param
 	d1 = param[random.randint(0, len(param)-1)]
-	#print json.dumps(d1)
 	hallno = d1["hallno"]
 	bizlist = d1["bizlist"]
 	if len(bizlist) > 0:
@@ -102,9 +99,7 @@ while counts>0:
 	data = response.read().decode('utf-8')
 	data = eval("'{}'".format(data))
 	# data = data[1:-1]
-
-	param = json.loads(data)
-	print(param)
+	print(json.loads(data))
 	#continue
 	###########################################
 	
@@ -169,8 +164,8 @@ while counts>0:
 		data = '%s%s'%(tt, SK)
 		hash_md5 = hashlib.md5(data.encode("utf-8"))
 		s2 = hash_md5.hexdigest()
-		apprst = random.randint(0, 4)
-		apprst = 4
+		apprst = random.randint(0, 6)
+		# apprst = 4
 		values={"service":"apprise","account":"ACCOUNT","password":s2,"ywlsh":ywlsh,"hallno":hallno, "bizid":bizid,"queuenum":queuenum,"eventtime":localtime, "appriseresult":apprst,"tt":tt}
 		data = bytes(json.dumps(values, ensure_ascii=False), encoding='utf8')
 		request = urllib.request.Request(url=inte, headers=headers, data = data, method='POST')

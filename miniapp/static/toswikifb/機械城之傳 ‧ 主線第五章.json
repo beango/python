@@ -1,0 +1,181 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "830",
+      "title": "主線 ‧ 第五章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "830",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4410890",
+          "def": "21620",
+          "coin": "7235",
+          "es": "66",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png",
+            "title": "初級拼圖盾"
+          }
+        },
+        {
+          "card": "830",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6327280",
+          "def": "21620",
+          "coin": "7235",
+          "es": "67",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png",
+            "title": "高級拼圖盾"
+          }
+        },
+        {
+          "card": "830",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8517830",
+          "def": "21620",
+          "coin": "7235",
+          "chest": "4000",
+          "es": "68",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png",
+            "title": "初級拼圖盾-限"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1752",
+      "title": "主線 ‧ 第五章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "309",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1752",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "309",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "092",
+      "title": "主線 ‧ 第五章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "647",
+          "stage": "1",
+          "damage": "4418",
+          "turn": "1",
+          "hp": "956080",
+          "def": "840",
+          "coin": "11",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "4506",
+          "hp": "941720",
+          "def": "900",
+          "coin": "11",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "4418",
+          "turn": "1",
+          "hp": "956080",
+          "def": "840",
+          "coin": "11",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1747",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8206780",
+          "def": "2580",
+          "coin": "11",
+          "lv": "1",
+          "drop": "647",
+          "es": "498",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "隨機縱向燃燒10%"
+          }
+        },
+        {
+          "card": "1750",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8178620",
+          "def": "2460",
+          "coin": "11",
+          "lv": "1",
+          "drop": "650",
+          "es": "2488",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI135.png|static/es/SI254.png",
+            "title": "先攻 ‧ 攻後[5回中毒50%] ‧ 強化盾"
+          }
+        },
+        {
+          "card": "092",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "14",
+          "chest": "8000",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        }
+      ]
+    }
+  ]
+}

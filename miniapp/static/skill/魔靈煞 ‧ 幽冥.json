@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "魔靈煞 ‧ 幽冥",
+  "effect": "I. 還原所有「碎裂」的位置<br>II. 引爆自身左直行及<br>&nbsp;&nbsp;&nbsp;&nbsp;隨機 1 直行符石<br>⇒ 掉落暗魔族強化符石<br>1 回合內<br>III. 自身、隊長及戰友<br>⇒ 攻擊力 3.5 倍",
+  "turn": "31",
+  "minTurn": "5",
+  "pet": "2560"
+}

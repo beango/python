@@ -1,0 +1,221 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2328",
+      "title": "迎救嬰兒",
+      "cj": [],
+      "data": [
+        {
+          "card": "2328",
+          "stage": "1-3",
+          "damage": "20593",
+          "turn": "2",
+          "hp": "45893850",
+          "def": "59000",
+          "coin": "",
+          "item": "164",
+          "es": "3183",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI094.png|static/es/SI188.png",
+            "title": "首消4Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "20593",
+          "turn": "2",
+          "hp": "45893850",
+          "def": "59000",
+          "coin": "",
+          "item": "164",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "20593",
+          "turn": "2",
+          "hp": "45893850",
+          "def": "59000",
+          "coin": "",
+          "item": "164",
+          "es": "3185",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png|static/es/SI188.png",
+            "title": "首消6Combo盾 ‧ 越攻越強"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2499",
+      "title": "外來者伊斯塔",
+      "cj": [],
+      "data": [
+        {
+          "card": "2499",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "item": "164",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2498",
+      "title": "謊言與謊言",
+      "cj": [],
+      "data": [
+        {
+          "card": "1413",
+          "stage": "1",
+          "damage": "26788",
+          "turn": "2{{初始CD*2}}",
+          "hp": "52352400",
+          "def": "45000",
+          "coin": "",
+          "item": "164",
+          "es": "651",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png",
+            "title": "攻後木縱橫輪轉"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "",
+          "damage": "26788",
+          "turn": "2{{初始CD*1}}",
+          "hp": "52352400",
+          "def": "45000",
+          "coin": "",
+          "item": "164",
+          "es": "786",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png",
+            "title": "攻後木橫縱輪轉"
+          }
+        },
+        {
+          "card": "1641",
+          "stage": "2",
+          "damage": "1300",
+          "turn": "1{{初始CD*1}}",
+          "hp": "128498540",
+          "def": "72000",
+          "coin": "",
+          "item": "164",
+          "es": "2878",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI257.png|static/es/SI047.png|static/es/SI135.png",
+            "title": "20%盾 ‧ 心轉自身 ‧ 中毒70%"
+          }
+        },
+        {
+          "card": "2038",
+          "stage": "3",
+          "damage": "68921",
+          "turn": "2{{初始CD*3}}",
+          "hp": "96083130",
+          "def": "69000",
+          "coin": "",
+          "item": "164",
+          "es": "3836",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png|static/es/SI244.png|static/es/SI058.png",
+            "title": "三重黏附 ‧ 五屬盾 ‧ 弱轉珠技無效"
+          }
+        },
+        {
+          "card": "2498",
+          "stage": "4",
+          "damage": "29314",
+          "turn": "1{{初始CD*1}}",
+          "hp": "155798700",
+          "def": "184000",
+          "coin": "",
+          "item": "164",
+          "es": "3122",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI303.png|static/es/SI221.png|static/es/SI115.png|static/es/SI124.png",
+            "title": "CD1 ‧ 全木風化15000 ‧ 首消木追擊零化 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2499",
+      "title": "我與你同在",
+      "cj": [],
+      "data": [
+        {
+          "card": "2499",
+          "stage": "1",
+          "damage": "30582",
+          "turn": "1{{初始CD*1}}",
+          "hp": "200000000",
+          "def": "103000",
+          "coin": "",
+          "item": "164",
+          "es": "2154",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI122.png|static/es/SI257.png",
+            "title": "同屬防禦90% ‧ 魔族禁錮 ‧ 20%盾"
+          }
+        },
+        {
+          "card": "2499",
+          "stage": "2{{雙血}}",
+          "damage": "25879",
+          "turn": "1{{初始CD*1}}",
+          "hp": "176805630",
+          "def": "198000",
+          "coin": "0",
+          "es": "2922",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI304.png|static/es/SI041.png|static/es/SI168.png|static/es/SI124.png",
+            "title": "光圍城 ‧ 禁消光 ‧ 光引爆狂擊減傷 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2499",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "236978250",
+          "def": "198000",
+          "coin": "",
+          "item": "164",
+          "es": "3158",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI014.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "CD3 ‧ 首消光傷害吸收 ‧ 扣血100% ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

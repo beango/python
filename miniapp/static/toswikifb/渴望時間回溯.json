@@ -1,0 +1,83 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1192",
+      "title": "克拉拉的祈願",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "stage": "1~4",
+          "turn": "",
+          "hp": "",
+          "def": "890",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "630",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "520",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "610",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "570",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1192",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "chest": "8000",
+          "es": "321",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘50%"
+          }
+        }
+      ]
+    }
+  ]
+}

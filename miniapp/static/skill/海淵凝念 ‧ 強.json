@@ -1,0 +1,6 @@
+{
+  "type": "lskill",
+  "name": "海淵凝念 ‧ 強",
+  "effect": "隊中只有水屬性成員時：<br><br>I. 全隊攻擊力 6.5 倍及生命力 1.5 倍<br>II. 每消除 1 粒水符石<br>⇒ 回復 3% 總生命力<br>&nbsp;&nbsp;&nbsp;&nbsp;(受連擊 (Combo) 加乘影響)<br><br>III. 若首批消除的連擊 (Combo) 數為單數時<br>⓵ 減少 40% 所受傷害<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至下回合開始時<br>⓶ 所有成員的攻擊無視五屬盾<br><br>IV. 若首批消除的連擊 (Combo) 數為雙數時<br>⇒ 全隊攻擊力額外 2.5 倍<br><br>V. 若首批消除的連擊 (Combo) 數 ≥6<br>⇒ 可以同時獲得 III, IV 效果",
+  "pet": "2545"
+}

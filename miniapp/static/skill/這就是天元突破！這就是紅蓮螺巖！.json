@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "這就是天元突破！這就是紅蓮螺巖！",
+  "effect": "I. 額外增加 3 行符石：<br>&nbsp;&nbsp;&nbsp;分別為直行「五屬及心」<br>&nbsp;&nbsp;&nbsp;機械族強化符石各 3 粒<br>1 回合內<br>II. 延長移動符石時間至 15 秒<br>III. 個人追打 4 次<br>IV. 自身無視「指定形狀盾」<br>&nbsp;&nbsp;&nbsp;&nbsp;及「固定連擊盾」敵技<br>V. 回合結束時<br>⇒ 自身進入 1 回合瀕死狀態",
+  "turn": "65",
+  "minTurn": "6",
+  "pet": "2425"
+}

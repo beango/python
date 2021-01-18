@@ -1,0 +1,610 @@
+[
+  {
+    "title": "黄道十二宫上篇",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "耀之处女宫",
+        "img": "366i.png"
+      },
+      {
+        "title": "光之狮子宫",
+        "img": "364i.png"
+      },
+      {
+        "title": "幽之巨蟹宫",
+        "img": "362i.png"
+      },
+      {
+        "title": "暗之双子宫",
+        "img": "360i.png"
+      },
+      {
+        "title": "炎之金牛宫",
+        "img": "358i.png"
+      },
+      {
+        "title": "赤之白羊宫",
+        "img": "356i.png"
+      }
+    ]
+  },
+  {
+    "title": "黄道十二宫下篇",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "海之双鱼宫",
+        "img": "378i.png"
+      },
+      {
+        "title": "清之水瓶宫",
+        "img": "376i.png"
+      },
+      {
+        "title": "翠之山羊宫",
+        "img": "374i.png"
+      },
+      {
+        "title": "森之人马宫",
+        "img": "372i.png"
+      },
+      {
+        "title": "毒之天蝎宫",
+        "img": "370i.png"
+      },
+      {
+        "title": "义之天秤宫",
+        "img": "368i.png"
+      }
+    ]
+  },
+  {
+    "title": "封神仙境",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "锭光圆觉寺",
+        "img": "534i.png"
+      },
+      {
+        "title": "雷罡仙道观",
+        "img": "540i.png"
+      },
+      {
+        "title": "神台太公庙",
+        "img": "538i.png"
+      },
+      {
+        "title": "天尊太师座",
+        "img": "532i.png"
+      },
+      {
+        "title": "清源二郎庭",
+        "img": "536i.png"
+      }
+    ]
+  },
+  {
+    "title": "斯特灵要塞",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "学士的识见之心",
+        "img": "660i.png"
+      },
+      {
+        "title": "半偶的郁闷之心",
+        "img": "659i.png"
+      },
+      {
+        "title": "傀儡的情感之心",
+        "img": "658i.png"
+      },
+      {
+        "title": "学者的探求之心",
+        "img": "657i.png"
+      },
+      {
+        "title": "机偶的守护之心",
+        "img": "656i.png"
+      }
+    ]
+  },
+  {
+    "title": "青木原古阁",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "炼狱的火",
+        "img": "729i.png"
+      },
+      {
+        "title": "错向的风",
+        "img": "731i.png"
+      },
+      {
+        "title": "守候的影",
+        "img": "735i.png"
+      },
+      {
+        "title": "孤寂的雪",
+        "img": "727i.png"
+      },
+      {
+        "title": "希望的光",
+        "img": "733i.png"
+      }
+    ]
+  },
+  {
+    "title": "圣地阿斯嘉特",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "不赦之泪",
+        "img": "1065i.png"
+      },
+      {
+        "title": "瓦尔哈拉国双王",
+        "img": "1063i.png"
+      },
+      {
+        "title": "悼灵的考古学者",
+        "img": "1061i.png"
+      },
+      {
+        "title": "圣地守护神",
+        "img": "1059i.png"
+      },
+      {
+        "title": "弗尔克范格女皇",
+        "img": "1057i.png"
+      }
+    ]
+  },
+  {
+    "title": "猎人秘社遗址",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "赤龙的秘果",
+        "img": "1230i.png"
+      },
+      {
+        "title": "麒麟的铜币",
+        "img": "1228i.png"
+      },
+      {
+        "title": "独角马的厚礼",
+        "img": "1226i.png"
+      },
+      {
+        "title": "犬神的铃铛",
+        "img": "1224i.png"
+      },
+      {
+        "title": "蛞蝓的水迹",
+        "img": "1222i.png"
+      }
+    ]
+  },
+  {
+    "title": "天竺之巅",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "蜘蛛精之痴",
+        "img": "1670i.png"
+      },
+      {
+        "title": "白骨精之善",
+        "img": "1669i.png"
+      },
+      {
+        "title": "猪八戒之恋",
+        "img": "1668i.png"
+      },
+      {
+        "title": "金角与银角之悲",
+        "img": "1667i.png"
+      },
+      {
+        "title": "沙僧之醉",
+        "img": "1666i.png"
+      }
+    ]
+  },
+  {
+    "title": "尼河权杖记传",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "纯白色的婚约",
+        "img": "1916i.png"
+      },
+      {
+        "title": "控制之爱",
+        "img": "1917i.png"
+      },
+      {
+        "title": "苦心所得的见证",
+        "img": "1918i.png"
+      },
+      {
+        "title": "隼鸟守护神",
+        "img": "1919i.png"
+      },
+      {
+        "title": "鸟语的情歌",
+        "img": "1920i.png"
+      }
+    ]
+  },
+  {
+    "title": "时空之门",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "沉鱼祸水",
+        "img": "2361i.png"
+      },
+      {
+        "title": "烈火的祈愿",
+        "img": "2362i.png"
+      },
+      {
+        "title": "暴风作乱",
+        "img": "2363i.png"
+      },
+      {
+        "title": "绅士的品格",
+        "img": "2364i.png"
+      },
+      {
+        "title": "缠身病毒",
+        "img": "2365i.png"
+      }
+    ]
+  },
+  {
+    "title": "遥古遗碑",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "时空旅程的终结",
+        "img": "1719i.png"
+      },
+      {
+        "title": "寻求自身的起源",
+        "img": "2307i.png"
+      },
+      {
+        "title": "为了永垂不朽",
+        "img": "814i.png"
+      },
+      {
+        "title": "失去半身的纹龙",
+        "img": "1868i.png"
+      },
+      {
+        "title": "延续庞贝的梦想",
+        "img": "2307i.png"
+      }
+    ]
+  },
+  {
+    "title": "代偶记事",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "苍璧的冒险",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "代偶们的生活",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "只盼与所爱相伴",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "被审判的罪名",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "革命的狼烟",
+        "img": "S-2114i.png"
+      }
+    ]
+  },
+  {
+    "title": "新生迹印",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "生命的波折",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "不安份的影子",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "龙哨之声",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "膨胀的支配",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "必然的命运",
+        "img": "S-2114i.png"
+      }
+    ]
+  },
+  {
+    "title": "恶魔领域",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "代偶们的捍卫战",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "爱与恨的心理战",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "异种介入",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "过去的追忆",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "暂歇的战况",
+        "img": "S-2114i.png"
+      }
+    ]
+  },
+  {
+    "title": "星辰封印",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "美梦之下",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "对自身的恐惧",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "踏进末日",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "失去与得到",
+        "img": "S-2114i.png"
+      },
+      {
+        "title": "大战的终结",
+        "img": "S-2114i.png"
+      }
+    ]
+  },
+  {
+    "title": "以诺日记",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "",
+    "stages": [
+      {
+        "title": "通过毕业考试 (上)",
+        "img": "S-2006i.png"
+      },
+      {
+        "title": "通过毕业考试 (下)",
+        "img": "S-2006i.png"
+      },
+      {
+        "title": "前往北域",
+        "img": "000i.png"
+      },
+      {
+        "title": "圣地阿斯嘉特",
+        "img": "000i.png"
+      },
+      {
+        "title": "我们的使命",
+        "img": "000i.png"
+      }
+    ]
+  },
+  {
+    "title": "火时计",
+    "islosed": 0,
+    "type": "旅人的記憶",
+    "note": "※只适用于香港、澳门、台湾、新加坡、马来西亚、泰国地区",
+    "stages": [
+      {
+        "title": "白羊宫",
+        "img": "2123i.png"
+      },
+      {
+        "title": "金牛宫",
+        "img": "2115i.png"
+      },
+      {
+        "title": "双子宫",
+        "img": "2119i.png"
+      },
+      {
+        "title": "巨蟹宫",
+        "img": "2117i.png"
+      },
+      {
+        "title": "狮子宫",
+        "img": "2113i.png"
+      },
+      {
+        "title": "处女宫",
+        "img": "2120i.png"
+      },
+      {
+        "title": "天秤宫",
+        "img": "2124i.png"
+      },
+      {
+        "title": "天蝎宫",
+        "img": "2118i.png"
+      },
+      {
+        "title": "射手宫",
+        "img": "2125i.png"
+      },
+      {
+        "title": "摩羯宫",
+        "img": "2112i.png"
+      },
+      {
+        "title": "水瓶宫",
+        "img": "2111i.png"
+      },
+      {
+        "title": "双鱼宫",
+        "img": "2114i.png"
+      },
+      {
+        "title": "教皇殿",
+        "img": "2121i.png"
+      }
+    ]
+  },
+  {
+    "title": "魔宅异境",
+    "islosed": 1,
+    "type": "旅人的記憶",
+    "note": "※授权范围只包括香港、台湾及澳门地区。\n※魔宅异境关卡已于2015年5月14日起永久关闭。",
+    "stages": [
+      {
+        "title": "冷落的女巫",
+        "img": "8006i.png"
+      },
+      {
+        "title": "高贵的邪恶",
+        "img": "8014i.png"
+      },
+      {
+        "title": "黑色藏宝图",
+        "img": "8012i.png"
+      },
+      {
+        "title": "异想篡位者",
+        "img": "8010i.png"
+      },
+      {
+        "title": "海巫的歌声",
+        "img": "8002i.png"
+      },
+      {
+        "title": "仙境的脂腴",
+        "img": "8004i.png"
+      },
+      {
+        "title": "偏狂的针线",
+        "img": "8008i.png"
+      }
+    ]
+  },
+  {
+    "title": "轩辕结界",
+    "islosed": 1,
+    "type": "旅人的記憶",
+    "note": "※轩辕结界关卡已于2015年12月31日13:00起永久关闭。",
+    "stages": [
+      {
+        "title": "转世神器法阵 ‧ 暗",
+        "img": "765i.png"
+      },
+      {
+        "title": "转世神器法阵 ‧ 木",
+        "img": "761i.png"
+      },
+      {
+        "title": "转世神器法阵 ‧ 火",
+        "img": "759i.png"
+      },
+      {
+        "title": "转世神器法阵 ‧ 水",
+        "img": "747i.png"
+      },
+      {
+        "title": "转世神器法阵 ‧ 光",
+        "img": "763i.png"
+      }
+    ]
+  },
+  {
+    "title": "锁妖塔",
+    "islosed": 1,
+    "type": "旅人的記憶",
+    "note": "※锁妖塔关卡已于2016年6月30日13:00起永久关闭。",
+    "stages": [
+      {
+        "title": "断裂牵绊还心愿",
+        "img": "908i.png"
+      },
+      {
+        "title": "寻仙觅道宿世缘",
+        "img": "902i.png"
+      },
+      {
+        "title": "问情应当历轮回",
+        "img": "900i.png"
+      },
+      {
+        "title": "相隔世代需宽恕",
+        "img": "904i.png"
+      },
+      {
+        "title": "宿命因缘仙与侠",
+        "img": "896i.png"
+      }
+    ]
+  }
+]

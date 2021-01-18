@@ -1,0 +1,156 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/12",
+      "end": "2020/11/1",
+      "note": "19.4版本更新後開放<br>僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": [],
+      "cs_jlsl": ""
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2516",
+      "title": "同步率一致",
+      "cj": [],
+      "data": [
+        {
+          "card": "256",
+          "stage": "1{{掉落*金}}{{隨機*2}}",
+          "damage": "2000",
+          "turn": "2",
+          "hp": "200000",
+          "def": "200",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "damage": "2000",
+          "turn": "2",
+          "hp": "200000",
+          "def": "200",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "258",
+          "stage": "",
+          "damage": "2000",
+          "turn": "2",
+          "hp": "200000",
+          "def": "200",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "259",
+          "stage": "",
+          "damage": "2000",
+          "turn": "2",
+          "hp": "200000",
+          "def": "200",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "260",
+          "stage": "",
+          "damage": "2000",
+          "turn": "2",
+          "hp": "200000",
+          "def": "200",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "291",
+          "stage": "2{{掉落*白金}}{{隨機*1}}",
+          "damage": "4000",
+          "turn": "2",
+          "hp": "400000",
+          "def": "400",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "398",
+          "stage": "",
+          "damage": "4000",
+          "turn": "2",
+          "hp": "400000",
+          "def": "400",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "426",
+          "stage": "",
+          "damage": "4000",
+          "turn": "2",
+          "hp": "400000",
+          "def": "400",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "427",
+          "stage": "",
+          "damage": "4000",
+          "turn": "2",
+          "hp": "400000",
+          "def": "400",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "428",
+          "stage": "",
+          "damage": "4000",
+          "turn": "2",
+          "hp": "400000",
+          "def": "400",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2516",
+          "stage": "3",
+          "damage": "100",
+          "turn": "2",
+          "hp": "1000000",
+          "def": "55000",
+          "coin": "3023",
+          "es": "4321",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ES992.png|static/es/SI139.png|static/es/SI242.png",
+            "title": "絕對領域-200萬 ‧ 越扣越強20% ‧ 三屬盾"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "月餅魔彈",
+  "effect": "I. 敵方全體點燃並轉化為火屬性，<br>&nbsp;&nbsp;&nbsp;持續 2 回合<br>2 回合內<br>II. 將木符石轉化為火魔族符石<br>III. 將暗符石轉化為光魔族符石",
+  "turn": "20",
+  "minTurn": "6",
+  "pet": "2489"
+}

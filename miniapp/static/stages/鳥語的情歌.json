@@ -1,0 +1,707 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1920",
+      "title": "書信之後 初級",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "5",
+        "exp": "380"
+      },
+      "data": [
+        {
+          "card": "115",
+          "stage": "",
+          "damage": "862",
+          "hp": "3120",
+          "coin": "69",
+          "lv": "1",
+          "item ": " 135",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "985",
+          "turn": "2(2)",
+          "hp": "9130",
+          "def": "510",
+          "coin": "69",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1154",
+          "stage": "",
+          "damage": "702",
+          "turn": "2",
+          "hp": "9760",
+          "def": "300",
+          "coin": "305",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "975",
+          "stage": "",
+          "damage": "1289",
+          "turn": "3",
+          "hp": "",
+          "def": "580",
+          "coin": "315",
+          "lv": "1",
+          "drop": "974",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1920",
+          "stage": "5",
+          "damage": "2234",
+          "turn": "1(1)",
+          "hp": "349430",
+          "def": "29860",
+          "coin": "600",
+          "item": "135",
+          "es": "1246",
+          "note": "",
+          "esjson": {
+            "img": "es/SI015.png",
+            "title": "首消暗傷害吸收"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1920",
+      "title": "鳥兒的契機 中級",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "6",
+        "exp": "780"
+      },
+      "data": [
+        {
+          "card": "115",
+          "stage": "",
+          "damage": "1997",
+          "hp": "25117",
+          "coin": "109",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "2308",
+          "turn": "2(2)",
+          "hp": "33830",
+          "def": "510",
+          "coin": "109",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "975",
+          "stage": "",
+          "damage": "4774",
+          "turn": "3",
+          "hp": "29510",
+          "def": "580",
+          "coin": "515",
+          "lv": "2",
+          "drop": "974",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1154",
+          "stage": "",
+          "damage": "2602",
+          "turn": "2",
+          "hp": "",
+          "def": "300",
+          "coin": "505",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1777",
+          "stage": "",
+          "damage": "2280",
+          "turn": "2",
+          "hp": "120810",
+          "def": "1670",
+          "coin": "2183",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1920",
+          "stage": "6",
+          "damage": "4871",
+          "turn": "1(1)",
+          "hp": "1162930",
+          "def": "29860",
+          "coin": "600",
+          "item": "135",
+          "es": "3051",
+          "chest ": " 2500",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI015.png",
+            "title": "4顆追擊隱藏 ‧ 首消暗傷害吸收"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1920",
+      "title": "破冰互動 高級",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "8",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "115",
+          "stage": "",
+          "damage": "5087",
+          "hp": "138927",
+          "coin": "249",
+          "lv": "5",
+          "es": "116",
+          "note": "",
+          "esjson": {
+            "img": "es/SI103.png",
+            "title": "5+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "6480",
+          "turn": "2(2)",
+          "hp": "187010",
+          "def": "510",
+          "coin": "249",
+          "lv": "5",
+          "es": "913",
+          "note": "",
+          "esjson": {
+            "img": "es/SI035.png",
+            "title": "首消全暗盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "975",
+          "stage": "",
+          "damage": "11682",
+          "turn": "3",
+          "hp": "179320",
+          "def": "580",
+          "coin": "1215",
+          "lv": "5",
+          "drop": "974",
+          "item ": " 135",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1154",
+          "stage": "",
+          "damage": "6533",
+          "turn": "2",
+          "hp": "",
+          "def": "300",
+          "coin": "1205",
+          "lv": "5",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1777",
+          "stage": "",
+          "damage": "5080",
+          "turn": "2",
+          "hp": "269120",
+          "def": "1670",
+          "coin": "5123",
+          "lv": "5",
+          "item ": " 135",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1867",
+          "stage": "4",
+          "damage": "12770",
+          "turn": "2(2)",
+          "hp": "3780450",
+          "def": "15890",
+          "coin": "600",
+          "es": "926",
+          "note": "",
+          "esjson": {
+            "img": "es/SI305.png|es/SI047.png|es/SI215.png",
+            "title": "首回隨機轉暗 ‧ 攻後暗橫縱輪轉 ‧ 黑白符石"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1325",
+          "stage": "7",
+          "damage": "8231",
+          "turn": "1(1)",
+          "hp": "5319060",
+          "def": "17140",
+          "coin": "5963",
+          "es": "872",
+          "item ": " 135",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png",
+            "title": "軌跡黑白"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1920",
+          "stage": "8",
+          "damage": "9568",
+          "turn": "1(1)",
+          "hp": "6460870",
+          "def": "29860",
+          "coin": "600",
+          "item": "135",
+          "es": "3053",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI015.png|es/SI061.png",
+            "title": "12顆追擊隱藏 ‧ 首消暗傷害吸收 ‧ 神攻盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1920",
+      "title": "熟絡如昔  {{RL3|70}}",
+      "note": "※ EXTRA 首次通關可獲得 ![425](zhs/425i.png) 2 隻 + ![400](zhs/400i.png) 及 ![1635](zhs/1635i.png) 各 1 隻 ※",
+      "story": "",
+      "cj": [],
+      "info": {
+        "item": "135,10",
+        "battle": "15",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "1777",
+          "stage": "1",
+          "damage": "5080",
+          "turn": "2",
+          "hp": "2691200",
+          "def": "1670",
+          "coin": "3023",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "550",
+          "stage": "2",
+          "damage": "6480",
+          "turn": "2(2)",
+          "hp": "1870100",
+          "def": "510",
+          "coin": "249",
+          "es": "913",
+          "note": "",
+          "esjson": {
+            "img": "es/SI035.png",
+            "title": "首消全暗盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "6480",
+          "turn": "2(2)",
+          "hp": "1870100",
+          "def": "510",
+          "coin": "249",
+          "es": "913",
+          "note": "",
+          "esjson": {
+            "img": "es/SI035.png",
+            "title": "首消全暗盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "815",
+          "stage": "3",
+          "damage": "13514",
+          "turn": "2(2)",
+          "hp": "9371680",
+          "def": "7790",
+          "coin": "4703",
+          "es": "874",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png",
+            "title": "軌跡隱藏"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1867",
+          "stage": "4",
+          "damage": "7119",
+          "turn": "1(1)",
+          "hp": "12540190",
+          "def": "17500",
+          "coin": "600",
+          "es": "872",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png",
+            "title": "軌跡黑白"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1829",
+          "stage": "5{{雙血}}",
+          "damage": "18736",
+          "turn": "2(2)",
+          "hp": "15983040",
+          "def": "35170",
+          "coin": "0",
+          "es": "1538",
+          "note": "",
+          "esjson": {
+            "img": "es/SI306.png|es/SI228.png",
+            "title": "心位置黏附"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1829",
+          "stage": "",
+          "damage": "20664",
+          "turn": "1",
+          "hp": "22897360",
+          "def": "35170",
+          "coin": "5963",
+          "es": "1960",
+          "note": "",
+          "esjson": {
+            "img": "es/SI227.png|es/SI034.png|es/SI035.png",
+            "title": "12+12+光暗符石幻變盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1154",
+          "stage": "6",
+          "damage": "6533",
+          "turn": "2",
+          "hp": "1971900",
+          "def": "300",
+          "coin": "1205",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "6480",
+          "turn": "2(2)",
+          "hp": "1870100",
+          "def": "510",
+          "coin": "249",
+          "es": "913",
+          "note": "",
+          "esjson": {
+            "img": "es/SI035.png",
+            "title": "首消全暗盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "291",
+          "stage": "7",
+          "damage": "15876",
+          "turn": "2(1)",
+          "hp": "7680130",
+          "def": "5000",
+          "coin": "500",
+          "es": "597",
+          "note": "",
+          "esjson": {
+            "img": "es/SI015.png",
+            "title": "攻後轉直暗"
+          },
+          "jd": ""
+        },
+        {
+          "card": "398",
+          "stage": "",
+          "damage": "15904",
+          "turn": "2(2)",
+          "hp": "7702490",
+          "def": "5000",
+          "coin": "500",
+          "es": "591",
+          "note": "",
+          "esjson": {
+            "img": "es/SI014.png",
+            "title": "攻後轉橫光"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1269",
+          "stage": "8",
+          "damage": "10564",
+          "turn": "1(1)",
+          "hp": "16034100",
+          "def": "16630",
+          "coin": "5543",
+          "es": "1998",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png|es/SI221.png|es/SI251.png",
+            "title": "強化盾-非強化吸收 ‧ 風化七追擊-轉 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1389",
+          "stage": "9{{雙血}}",
+          "damage": "15242",
+          "turn": "1(1)",
+          "hp": "13867020",
+          "def": "30590",
+          "coin": "0",
+          "es": "2420",
+          "note": "",
+          "esjson": {
+            "img": "es/SI227.png|es/SI015.png",
+            "title": "迷惑符石 ‧ 首消暗傷害吸收 ‧ 雙重暗幻變"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1389",
+          "stage": "",
+          "damage": "17064",
+          "turn": "1",
+          "hp": "25970140",
+          "def": "30590",
+          "coin": "6383",
+          "es": "2276",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI107.png|es/SI043.png",
+            "title": "隱藏圍城 ‧ 9+Combo追擊盾 ‧ 心禁消"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1777",
+          "stage": "10",
+          "damage": "5080",
+          "turn": "2",
+          "hp": "2691200",
+          "def": "1670",
+          "coin": "3023",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1777",
+          "stage": "",
+          "damage": "5080",
+          "turn": "2",
+          "hp": "2691200",
+          "def": "1670",
+          "coin": "3023",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1415",
+          "stage": "11",
+          "damage": "23155",
+          "turn": "3(3)",
+          "hp": "8064820",
+          "def": "6840",
+          "coin": "3980",
+          "es": "2950",
+          "note": "",
+          "esjson": {
+            "img": "es/SI014.png|es/SI260.png",
+            "title": "首消光傷害吸收-反擊200%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1414",
+          "stage": "",
+          "damage": "8092",
+          "turn": "1(1)",
+          "hp": "8103640",
+          "def": "6250",
+          "coin": "3980",
+          "es": "45",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png",
+            "title": "技能封鎖"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1350",
+          "stage": "12",
+          "damage": "8768",
+          "turn": "1(1)",
+          "hp": "6000000",
+          "def": "14720",
+          "coin": "5963",
+          "es": "2480",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI157.png|es/SI005.png",
+            "title": "循環累積15+相剋符石盾 ‧ 血弱70%-增攻3倍 ‧ 暗屬防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1522",
+          "stage": "13{{雙血}}",
+          "damage": "21401",
+          "turn": "1(2)",
+          "hp": "12563020",
+          "def": "34300",
+          "coin": "0",
+          "es": "1682",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png|es/SI183.png|es/SI244.png",
+            "title": "黑白符石 ‧ 始終盾 ‧ 五屬盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1522",
+          "stage": "",
+          "damage": "14236",
+          "turn": "1",
+          "hp": "35019230",
+          "def": "34300",
+          "coin": "329",
+          "es": "3088",
+          "attr": "暗",
+          "note": "",
+          "esjson": {
+            "img": "es/SI020.png|es/SI305.png|es/SI168.png|es/SI042.png|es/SI124.png",
+            "title": "敵轉暗 ‧ 滅暗增攻 ‧ 暗禁消 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1543",
+          "stage": "14",
+          "damage": "13719",
+          "turn": "1(1)",
+          "hp": "17601790",
+          "def": "28940",
+          "coin": "6383",
+          "es": "1586",
+          "note": "",
+          "esjson": {
+            "img": "es/SI117.png|es/SI305.png|es/SI236.png",
+            "title": "首消暗追擊零化 ‧ 暗電擊3顆"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1920",
+          "stage": "15{{雙血}}",
+          "damage": "19073",
+          "turn": "1(1)",
+          "hp": "24198200",
+          "def": "52670",
+          "coin": "0",
+          "es": "3058",
+          "note": "",
+          "esjson": {
+            "img": "es/SI158.png|es/SI121.png|es/SI215.png",
+            "title": "[5回攻擊力變0] ‧ 光外超級技能重置 ‧ 黑白符石"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1920",
+          "stage": "",
+          "damage": "20465",
+          "turn": "1",
+          "hp": "87461120",
+          "def": "52670",
+          "coin": "600",
+          "es": "3054",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI015.png|es/SI061.png",
+            "title": "16顆追擊隱藏 ‧ 首消暗傷害吸收 ‧ 神攻盾"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

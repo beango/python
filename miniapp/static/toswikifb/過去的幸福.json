@@ -1,0 +1,61 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "094",
+      "title": "陶德的回憶",
+      "cj": [],
+      "data": [
+        {
+          "card": "097",
+          "stage": "1",
+          "damage": "11749",
+          "turn": "3{{初始CD*3}}",
+          "hp": "836438",
+          "def": "1620",
+          "coin": "8",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "damage": "11906",
+          "turn": "3{{初始CD*2}}",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "8",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "damage": "11813",
+          "turn": "3{{初始CD*4}}",
+          "hp": "841763",
+          "def": "1640",
+          "coin": "8",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "094",
+          "stage": "2",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "14",
+          "es": "1013",
+          "note": "{{特性*離開*1}}",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "攻擊傷害無效"
+          }
+        }
+      ]
+    }
+  ]
+}

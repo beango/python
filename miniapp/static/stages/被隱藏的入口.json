@@ -1,0 +1,166 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "075",
+      "title": "被隱藏的入口 - 1",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "075",
+          "stage": "3",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "違和的色彩",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": []
+    },
+    {
+      "id": "1622",
+      "title": "被隱藏的入口 - 2",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "1622",
+          "stage": "3",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "破滅的幻夢",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": []
+    },
+    {
+      "id": "2597",
+      "title": "被隱藏的入口 - 3",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "6",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "2597",
+          "stage": "6",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "失敗與自責",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "6",
+        "exp": "4500"
+      },
+      "data": []
+    },
+    {
+      "id": "2579",
+      "title": "被隱藏的入口 - 4",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "2579",
+          "stage": "3",
+          "damage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "",
+          "es": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "20001",
+      "title": "她的歌聲她的色彩",
+      "note": "",
+      "story": "{{故事|",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "4500"
+      },
+      "data": []
+    }
+  ]
+}

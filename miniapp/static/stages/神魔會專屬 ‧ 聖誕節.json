@@ -1,0 +1,142 @@
+{
+  "openhis": [
+    {
+      "start": "2020/12/21",
+      "end": "2020/12/27",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
+  "cj": [],
+  "stages": [
+    {
+      "id": "518",
+      "title": "神魔會專屬 ‧ 聖誕節",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "20",
+        "battle": "6",
+        "exp": "2000"
+      },
+      "data": [
+        {
+          "card": "257",
+          "stage": "1-2{{隨機*1-2}}{{掉落*金}}",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "259",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "427",
+          "stage": "3-4{{隨機*1}}{{掉落*白金}}",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "398",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "266",
+          "stage": "5{{掉落*白金}}",
+          "damage": "100",
+          "hp": "100",
+          "def": "100",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "266",
+          "stage": "",
+          "damage": "100",
+          "hp": "100",
+          "def": "100",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "266",
+          "stage": "",
+          "damage": "100",
+          "hp": "100",
+          "def": "100",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "518",
+          "stage": "6{{掉落*金}}",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "11",
+          "lv": "30",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "518",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "100",
+          "coin": "11",
+          "lv": "30",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

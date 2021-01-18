@@ -1,0 +1,461 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2309",
+      "title": "與孤獨相伴",
+      "cj": [],
+      "data": [
+        {
+          "card": "315",
+          "stage": "1",
+          "damage": "12171",
+          "turn": "2{{初始CD*2}}",
+          "hp": "12908800",
+          "def": "36700",
+          "coin": "20",
+          "item": "141",
+          "es": "291",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        },
+        {
+          "card": "315",
+          "stage": "",
+          "damage": "12171",
+          "turn": "2{{初始CD*1}}",
+          "hp": "12908800",
+          "def": "36700",
+          "coin": "20",
+          "item": "141",
+          "es": "291",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        },
+        {
+          "card": "316",
+          "stage": "2",
+          "damage": "23807",
+          "turn": "2{{初始CD*2}}",
+          "hp": "16381440",
+          "def": "64100",
+          "coin": "40",
+          "item": "141",
+          "es": "341",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png",
+            "title": "強化盾-反擊100%"
+          }
+        },
+        {
+          "card": "2309",
+          "stage": "3",
+          "damage": "14645",
+          "turn": "1{{初始CD*1}}",
+          "hp": "20689520",
+          "def": "82500",
+          "coin": "125",
+          "item": "141",
+          "es": "3434",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI146.png|static/es/SI165.png|static/es/SI047.png",
+            "title": "首消光傷害吸收-反擊100% ‧ 2秒轉珠 ‧ 雙下角轉光"
+          }
+        }
+      ]
+    },
+    {
+      "id": "547",
+      "title": "活著的意義",
+      "cj": [],
+      "data": [
+        {
+          "card": "179",
+          "stage": "1",
+          "damage": "27415",
+          "turn": "3{{初始CD*1}}",
+          "hp": "8620390",
+          "def": "20440",
+          "coin": "11",
+          "item": "141",
+          "es": "594",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉直火"
+          }
+        },
+        {
+          "card": "179",
+          "stage": "",
+          "damage": "27415",
+          "turn": "3{{初始CD*3}}",
+          "hp": "8620390",
+          "def": "20440",
+          "coin": "11",
+          "item": "141",
+          "es": "594",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉直火"
+          }
+        },
+        {
+          "card": "179",
+          "stage": "",
+          "damage": "27415",
+          "turn": "3{{初始CD*2}}",
+          "hp": "8620390",
+          "def": "20440",
+          "coin": "11",
+          "item": "141",
+          "es": "594",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉直火"
+          }
+        },
+        {
+          "card": "547",
+          "stage": "2",
+          "damage": "12565",
+          "turn": "2{{初始CD*1}}",
+          "hp": "10956300",
+          "def": "25730",
+          "coin": "11",
+          "item": "141",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "547",
+          "stage": "",
+          "damage": "12565",
+          "turn": "2{{初始CD*2}}",
+          "hp": "10956300",
+          "def": "25730",
+          "coin": "11",
+          "item": "141",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1869",
+      "title": "首次感到的溫暖",
+      "cj": [],
+      "data": [
+        {
+          "card": "107",
+          "stage": "1",
+          "damage": "2193",
+          "turn": "2{{初始CD*2}}",
+          "hp": "40360",
+          "def": "220",
+          "coin": "11",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "damage": "2217",
+          "turn": "2{{初始CD*2}}",
+          "hp": "39750",
+          "def": "260",
+          "coin": "11",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "damage": "2136",
+          "turn": "2{{初始CD*2}}",
+          "hp": "42060",
+          "def": "230",
+          "coin": "11",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "332",
+          "stage": "2",
+          "damage": "4169",
+          "turn": "3{{初始CD*3}}",
+          "hp": "60210",
+          "def": "3550",
+          "coin": "10",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "333",
+          "stage": "",
+          "damage": "4288",
+          "turn": "3{{初始CD*3}}",
+          "hp": "60210",
+          "def": "3490",
+          "coin": "10",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1869",
+          "stage": "3",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "600",
+          "item": "141",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1868",
+      "title": "生命的連繫與交錯",
+      "cj": [],
+      "data": [
+        {
+          "card": "1114",
+          "stage": "1",
+          "damage": "30577",
+          "turn": "2{{初始CD*2}}",
+          "hp": "10273830",
+          "def": "15320",
+          "coin": "30",
+          "item": "141",
+          "es": "467",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "縱向燃燒10%-1"
+          }
+        },
+        {
+          "card": "1114",
+          "stage": "",
+          "damage": "30577",
+          "turn": "2{{初始CD*1}}",
+          "hp": "10273830",
+          "def": "15320",
+          "coin": "30",
+          "item": "141",
+          "es": "472",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "縱向燃燒10%-6"
+          }
+        },
+        {
+          "card": "1317",
+          "stage": "2",
+          "damage": "28152",
+          "turn": "2{{初始CD*2}}",
+          "hp": "17821990",
+          "def": "32960",
+          "coin": "125",
+          "item": "141",
+          "es": "3082",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI017.png|static/es/SI250.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "敵轉火 ‧ 循環累積15+相剋符石盾 ‧ 越攻越強 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1868",
+          "stage": "3{{雙血}}",
+          "damage": "13620",
+          "turn": "1{{初始CD*1}}",
+          "hp": "22904540",
+          "def": "79180",
+          "coin": "0",
+          "item": "141",
+          "es": "3344",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI073.png|static/es/SI302.png|static/es/SI047.png|static/es/SI229.png",
+            "title": "神外防禦90% ‧ 首回隨機轉火 ‧ 攻後火橫縱輪轉 ‧ 軌跡燃燒2000"
+          }
+        },
+        {
+          "card": "1868",
+          "stage": "",
+          "damage": "21471",
+          "turn": "1",
+          "hp": "25657170",
+          "def": "79180",
+          "coin": "600",
+          "item": "141",
+          "es": "2916",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI001.png|static/es/SI095.png|static/es/SI216.png",
+            "title": "水攻盾 ‧ 首消5Combo盾 ‧ 反擊10000"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2306",
+      "title": "翱翔於天際的紋龍 {{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "2306",
+          "stage": "1{{雙血}}",
+          "damage": "15868",
+          "turn": "1{{初始CD*1}}",
+          "hp": "18056300",
+          "def": "62050",
+          "coin": "0",
+          "es": "3270",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png|static/es/SI183.png|static/es/SI263.png",
+            "title": "隨機3~6Combo追擊盾 ‧ 始終盾 ‧ 消Combo盾25%"
+          }
+        },
+        {
+          "card": "2306",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "62050",
+          "coin": "125",
+          "es": "2063",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI006.png|static/es/SI161.png",
+            "title": "[7回水攻2倍] ‧ 自殺"
+          }
+        },
+        {
+          "card": "2312",
+          "stage": "2",
+          "damage": "30547",
+          "turn": "3{{初始CD*3}}",
+          "hp": "35058210",
+          "def": "71810",
+          "coin": "125",
+          "es": "2909",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI229.png|static/es/SI301.png|static/es/SI181.png",
+            "title": "越攻越強 ‧ 軌跡燃燒5000 ‧ 水初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "1868",
+          "stage": "3{{雙血}}",
+          "damage": "21380",
+          "turn": "1{{初始CD*1}}",
+          "hp": "29021630",
+          "def": "79180",
+          "coin": "0",
+          "es": "3361",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI012.png|static/es/SI229.png|static/es/SI251.png",
+            "title": "100%減傷盾-越攻越弱 ‧ 首消火傷害吸收 ‧ 雙重燃燒20% ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1868",
+          "stage": "",
+          "damage": "99",
+          "turn": "1",
+          "hp": "65971790",
+          "def": "79180",
+          "coin": "600",
+          "es": "2918",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI001.png|static/es/SI096.png|static/es/SI216.png",
+            "title": "水攻盾 ‧ 首消6Combo盾 ‧ 垂死反擊10000"
+          }
+        },
+        {
+          "card": "2311",
+          "stage": "4",
+          "damage": "6203",
+          "turn": "2{{初始CD*2}}",
+          "hp": "53664310",
+          "def": "72010",
+          "coin": "125",
+          "es": "3012",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI135.png|static/es/SI301.png|static/es/SI219.png|static/es/SI031.png",
+            "title": "中毒70% ‧ 首回全水冰封 ‧ 首消全水盾"
+          }
+        },
+        {
+          "card": "2309",
+          "stage": "5{{雙血}}",
+          "damage": "19724",
+          "turn": "1{{初始CD*1}}",
+          "hp": "38205470",
+          "def": "82500",
+          "coin": "0",
+          "es": "3435",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI146.png|static/es/SI165.png|static/es/SI047.png",
+            "title": "首消光傷害吸收-反擊200% ‧ 2秒轉珠 ‧ 四角轉光"
+          }
+        },
+        {
+          "card": "2309",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "93641950",
+          "def": "82500",
+          "coin": "125",
+          "es": "3167",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI046.png|static/es/SI236.png|static/es/SI165.png|static/es/SI132.png",
+            "title": "CD3 ‧ 刷新符石-左右直行電擊 ‧ 4秒轉珠 ‧ 扣血100%"
+          }
+        }
+      ]
+    }
+  ]
+}

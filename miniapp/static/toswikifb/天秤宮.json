@@ -1,0 +1,187 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "834",
+      "title": "沉溺於懷念之中",
+      "cj": [],
+      "data": [
+        {
+          "card": "1411",
+          "stage": "1",
+          "damage": "3544",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3876980",
+          "def": "3260",
+          "coin": "2000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1411",
+          "stage": "",
+          "damage": "3544",
+          "turn": "2{{初始CD*3}}",
+          "hp": "3876980",
+          "def": "3260",
+          "coin": "2000",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "706",
+          "stage": "2",
+          "damage": "1283",
+          "turn": "2{{初始CD*1}}",
+          "hp": "6542190",
+          "def": "7590",
+          "coin": "16",
+          "es": "918",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI047.png|static/es/SI188.png",
+            "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 血弱追擊"
+          }
+        },
+        {
+          "card": "832",
+          "stage": "3",
+          "damage": "1769",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5058640",
+          "def": "5740",
+          "coin": "29",
+          "es": "38",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png",
+            "title": "2秒轉珠"
+          }
+        },
+        {
+          "card": "834",
+          "stage": "",
+          "damage": "3829",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5042690",
+          "def": "5620",
+          "coin": "29",
+          "chest": "2000",
+          "es": "814",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI250.png",
+            "title": "越攻越強 ‧ 循環累積15+相剋符石盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2101",
+      "title": "無法打破的黑色囚牢",
+      "cj": [],
+      "data": [
+        {
+          "card": "360",
+          "stage": "1",
+          "damage": "1",
+          "turn": "9{{初始CD*9}}",
+          "hp": "30000",
+          "def": "1",
+          "coin": "125",
+          "es": "2",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI217.png",
+            "title": "溢補盾"
+          }
+        },
+        {
+          "card": "2101",
+          "stage": "2",
+          "damage": "1",
+          "turn": "9{{初始CD*9}}",
+          "hp": "30000",
+          "def": "1",
+          "coin": "125",
+          "chest": "2000",
+          "es": "2",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI217.png",
+            "title": "溢補盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "368",
+      "title": "天秤之光互相輝映",
+      "cj": [],
+      "data": [
+        {
+          "card": "1149",
+          "stage": "1",
+          "damage": "5210",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7540680",
+          "def": "4280",
+          "coin": "30",
+          "es": "589",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後轉橫火"
+          }
+        },
+        {
+          "card": "1155",
+          "stage": "",
+          "damage": "5249",
+          "turn": "2{{初始CD*1}}",
+          "hp": "7497030",
+          "def": "4310",
+          "coin": "30",
+          "es": "597",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI015.png",
+            "title": "攻後轉直暗"
+          }
+        },
+        {
+          "card": "368",
+          "stage": "2{{雙血}}",
+          "damage": "3579",
+          "turn": "1{{初始CD*1}}",
+          "hp": "11807930",
+          "def": "7460",
+          "coin": "0",
+          "es": "279",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png",
+            "title": "7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "368",
+          "stage": "",
+          "damage": "2533",
+          "turn": "1",
+          "hp": "15406920",
+          "def": "7460",
+          "coin": "100",
+          "chest": "4000",
+          "es": "1750",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

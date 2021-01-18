@@ -1,0 +1,515 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "2567",
+      "title": "魔法閣的挑戰 1 - 1",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "5",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "1864",
+          "stage": "1",
+          "damage": "7858",
+          "turn": "1(1)",
+          "hp": "63098530",
+          "def": "1100000",
+          "coin": "600",
+          "es": "1750",
+          "note": "",
+          "esjson": {
+            "img": "es/SI158.png|es/SI188.png|es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2571",
+          "stage": "2",
+          "damage": "30532",
+          "turn": "1(1)",
+          "hp": "178867800",
+          "def": "1600000",
+          "coin": "5543",
+          "es": "3846",
+          "note": "",
+          "esjson": {
+            "img": "es/SI013.png|es/SI216.png|es/SI159.png|es/SI047.png|es/SI251.png",
+            "title": "首消木零化 ‧ 復活-CD變1-變強3倍-木外最多轉木 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1868",
+          "stage": "3{{雙血}}",
+          "damage": "100",
+          "turn": "1(1)",
+          "hp": "235018790",
+          "def": "8400000",
+          "coin": "0",
+          "es": "2919",
+          "note": "",
+          "esjson": {
+            "img": "es/SI229.png|es/SI254.png|es/SI139.png",
+            "title": "燃燒圍城20% ‧ 強化盾 ‧ 越扣越強25%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1868",
+          "stage": "",
+          "damage": "35093",
+          "turn": "1",
+          "hp": "165108520",
+          "def": "8400000",
+          "coin": "600",
+          "es": "3765",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI250.png|es/SI313.png|es/SI261.png|es/SI124.png|es/SI251.png",
+            "title": "CD1 ‧ 減傷90% ‧ 滅火恢復20% ‧ 不倒意志⇒狂擊5倍 ‧ 無法控制 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2572",
+          "stage": "4",
+          "damage": "30764",
+          "turn": "1(1)",
+          "hp": "379512830",
+          "def": "2300000",
+          "coin": "5963",
+          "es": "3698",
+          "note": "",
+          "esjson": {
+            "img": "es/SI058.png|es/SI301.png|es/SI302.png|es/SI303.png|es/SI305.png|es/SI244.png|es/SI116.png",
+            "title": "弱轉珠技無效 ‧ 水火木暗盾 ‧ 首消光追擊零化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2567",
+          "stage": "5{{雙血}}",
+          "damage": "21475",
+          "turn": "1(1)",
+          "hp": "434082360",
+          "def": "3700000",
+          "coin": "0",
+          "es": "3713",
+          "note": "",
+          "esjson": {
+            "img": "es/SI158.png|es/SI229.png|es/SI106.png",
+            "title": "[5回攻擊零化] ‧ 軌跡燃燒5000 ‧ 8+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2567",
+          "stage": "",
+          "damage": "39521",
+          "turn": "1",
+          "hp": "968254490",
+          "def": "3700000",
+          "coin": "6383",
+          "chest": "6000",
+          "es": "3246",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI326.png|es/SI229.png|es/SI188.png|es/SI251.png",
+            "title": "CD1 ‧ 首回心引爆減傷-1顆5% ‧ 4重燃燒20% ‧ 血弱70%-狂擊5倍-無視減傷"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "2568",
+      "title": "魔法閣的挑戰 1 - 2",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "6",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "581",
+          "stage": "1",
+          "damage": "63588",
+          "turn": "4(4)",
+          "hp": "153086900",
+          "def": "1200000",
+          "coin": "209",
+          "es": "2907",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png|es/SI215.png|es/SI251.png",
+            "title": "技能封鎖 ‧ 黑白符石 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "584",
+          "stage": "",
+          "damage": "15933",
+          "turn": "1(1)",
+          "hp": "149256380",
+          "def": "1100000",
+          "coin": "209",
+          "es": "1594",
+          "note": "",
+          "esjson": {
+            "img": "es/SI183.png",
+            "title": "始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2575",
+          "stage": "2{{雙血}}",
+          "damage": "21639",
+          "turn": "1(1)",
+          "hp": "287025630",
+          "def": "6500000",
+          "coin": "0",
+          "es": "3232",
+          "note": "",
+          "esjson": {
+            "img": "es/SI003.png|es/SI244.png",
+            "title": "木屬防禦75% ‧ 五屬追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2575",
+          "stage": "",
+          "damage": "37252",
+          "turn": "1",
+          "hp": "541053970",
+          "def": "6500000",
+          "coin": "5963",
+          "es": "4233",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI018.png|es/SI228.png|es/SI106.png|es/SI290.png",
+            "title": "CD1 ‧ 敵轉木 ‧ 八重黏附 ‧ 8+Combo追擊盾 ‧ 點燃盾90% · 燃敵液溶"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1531",
+          "stage": "3",
+          "damage": "13108",
+          "turn": "2(2)",
+          "hp": "267823520",
+          "def": "730000",
+          "coin": "624",
+          "es": "3387",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI165.png|es/SI124.png",
+            "title": "首殺盾 ‧ 2秒轉珠 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1535",
+          "stage": "",
+          "damage": "29454",
+          "turn": "1(1)",
+          "hp": "303697410",
+          "def": "700000",
+          "coin": "624",
+          "es": "895",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png|es/SI212.png",
+            "title": "3倍士氣高昂-無限回復"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1533",
+          "stage": "",
+          "damage": "13096",
+          "turn": "2(2)",
+          "hp": "273915780",
+          "def": "750000",
+          "coin": "624",
+          "es": "3393",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI221.png|es/SI124.png",
+            "title": "首殺盾 ‧ 3顆風化15000 ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1870",
+          "stage": "4{{雙血}}",
+          "damage": "97885",
+          "turn": "1(3)",
+          "hp": "328735410",
+          "def": "9300000",
+          "coin": "0",
+          "es": "2920",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI230.png|es/SI183.png",
+            "title": "首消23顆符石盾 ‧ 強化防禦盾 ‧ 始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1870",
+          "stage": "",
+          "damage": "34906",
+          "turn": "1",
+          "hp": "1437805210",
+          "def": "9300000",
+          "coin": "600",
+          "es": "2924",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI122.png|es/SI168.png|es/SI140.png|es/SI251.png",
+            "title": "CD1 ‧ 技能封鎖1回 ‧ 光引爆狂擊-龍脈吸收減傷 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2566",
+          "stage": "5",
+          "damage": "36528",
+          "turn": "1(1)",
+          "hp": "500000000",
+          "def": "4500000",
+          "coin": "5543",
+          "es": "3774",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI140.png|es/SI047.png|es/SI257.png|es/SI251.png|es/SI124.png",
+            "title": "CD1 ‧ 龍脈重置 ‧ 10顆轉敵屬-其他轉別屬4顆 ‧ 疊消敵屬盾20%-棄攻轉屬-無法控制-無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2568",
+          "stage": "6{{雙血}}",
+          "damage": "40930",
+          "turn": "1(1)",
+          "hp": "497082580",
+          "def": "8100000",
+          "coin": "0",
+          "es": "1938",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI303.png|es/SI047.png|es/SI068.png",
+            "title": "累積15+相剋符石盾 ‧ 攻後木縱橫輪轉 ‧ 3倍獵魔"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2568",
+          "stage": "",
+          "damage": "100",
+          "turn": "1(3)",
+          "hp": "969412360",
+          "def": "8100000",
+          "coin": "6383",
+          "chest": "6000",
+          "es": "3260",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI237.png|es/SI058.png|es/SI132.png",
+            "title": "CD3 ‧ 首回6顆三層石化10000倍 ‧ 弱轉珠技無效 ‧ 扣血100%"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "2570",
+      "title": "魔法閣的挑戰 1 - 3",
+      "note": "※通過【魔法閣的挑戰 1 - 3】—— 開放關卡【[魔魅之軍的行進](/pages/index/detail/detail?name2=魔魅之軍的行進)】※",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "25",
+        "battle": "7",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "1810",
+          "stage": "1",
+          "damage": "27605",
+          "turn": "1(1)",
+          "hp": "258307890",
+          "def": "1400000",
+          "coin": "600",
+          "es": "703",
+          "note": "",
+          "esjson": {
+            "img": "es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾-轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2050",
+          "stage": "2",
+          "damage": "50838",
+          "turn": "2(2)",
+          "hp": "424853630",
+          "def": "3600000",
+          "coin": "5543",
+          "es": "4213",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png|es/SI224.png",
+            "title": "軌跡黑白 ‧ 隱藏-結"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2569",
+          "stage": "3{{雙血}}",
+          "damage": "38719",
+          "turn": "1(1)",
+          "hp": "398056850",
+          "def": "6700000",
+          "coin": "0",
+          "es": "4395",
+          "note": "",
+          "esjson": {
+            "img": "es/SI058.png|es/SI099.png",
+            "title": "轉珠技無效 ‧ 首消≤5Combo盾-即殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2569",
+          "stage": "",
+          "damage": "105220",
+          "turn": "1(3)",
+          "hp": "692053140",
+          "def": "6700000",
+          "coin": "5963",
+          "es": "3863",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI250.png|es/SI221.png|es/SI322.png|es/SI156.png",
+            "title": "CD3 ‧ 攻前盾 ‧ 首攻圍城風化15000 ‧ 16+Combo盾 ‧ 回復力變0"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2042",
+          "stage": "4",
+          "damage": "32648",
+          "turn": "1(1)",
+          "hp": "507306520",
+          "def": "3400000",
+          "coin": "5543",
+          "es": "4010",
+          "note": "",
+          "esjson": {
+            "img": "es/SI301.png|es/SI220.png|es/SI139.png|es/SI143.png",
+            "title": "每回全水/3顆轉水凍結 ‧ 凍結敵盈 ‧ 首消水傷害零化-反擊100%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1869",
+          "stage": "5{{雙血}}",
+          "damage": "95639",
+          "turn": "3(3)",
+          "hp": "319536960",
+          "def": "6200000",
+          "coin": "0",
+          "es": "4234",
+          "note": "",
+          "esjson": {
+            "img": "es/SI300.png|es/SI450.png|es/SI236.png",
+            "title": "單擊2億盾 ‧ 五屬擊盾 ‧ 3顆追擊電擊-攻後引爆"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1869",
+          "stage": "",
+          "damage": "34238",
+          "turn": "1",
+          "hp": "1569308720",
+          "def": "6200000",
+          "coin": "600",
+          "es": "3560",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI122.png|es/SI314.png|es/SI156.png",
+            "title": "CD1 ‧ 1回禁錮 ‧ 首回木引爆減傷-1顆10% ‧ 回復力變0"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2573",
+          "stage": "6",
+          "damage": "20782",
+          "turn": "1(1)",
+          "hp": "580395470",
+          "def": "4300000",
+          "coin": "5543",
+          "es": "4335",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI004.png|es/SI107.png|es/ES569.png",
+            "title": "CD1 ‧ 光外防禦90% ‧ 9+Combo追擊盾 ‧ 六重黑洞"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2570",
+          "stage": "7{{雙血}}",
+          "damage": "36524",
+          "turn": "1(1)",
+          "hp": "473023550",
+          "def": "7900000",
+          "coin": "0",
+          "es": "3343",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png|es/SI015.png|es/SI260.png|es/SI183.png",
+            "title": "4回技能封鎖 ‧ 首消暗傷害吸收-反擊200% ‧ 暗起手始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "2570",
+          "stage": "",
+          "damage": "39111",
+          "turn": "1(2)",
+          "hp": "1380531350",
+          "def": "7900000",
+          "coin": "6383",
+          "chest": "6000",
+          "es": "3732",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI224.png|es/SI042.png|es/SI109.png",
+            "title": "CD2 ‧ 首回隱藏圍城 ‧ 暗禁消 ‧ 20+Combo追擊弱盾"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

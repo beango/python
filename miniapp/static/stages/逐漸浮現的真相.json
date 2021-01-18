@@ -1,0 +1,293 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1015",
+      "title": "前往中央區",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1015",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "5491720",
+          "def": "990",
+          "chest": "4000",
+          "coin": "920",
+          "es": "2252",
+          "note": "",
+          "esjson": {
+            "img": "es/SI200.png|es/SI239.png|es/SI124.png",
+            "title": "2顆5倍睡眠-轉 ‧ 無法控制"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1594",
+      "title": "欲言又止 {{回合上限2|10}}",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "2",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1191",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10000",
+          "def": "10",
+          "es": "1089",
+          "coin": "6383",
+          "note": "",
+          "esjson": {
+            "img": "es/SI125.png",
+            "title": "火屬技能回復"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1594",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "10000",
+          "def": "10",
+          "chest": "4000",
+          "es": "806",
+          "coin": "189",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png",
+            "title": "循環累積90+相剋符石盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1192",
+      "title": "克拉拉的背叛",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 克拉拉的背叛 ——開放關卡[敵人的基地](/pages/index/detail/detail?name2=%E6%95%B5%E4%BA%BA%E7%9A%84%E5%9F%BA%E5%9C%B0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1192",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "9298350",
+          "def": "5640",
+          "es": "1192",
+          "coin": "6383",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI156.png|es/SI229.png|es/SI251.png|es/SI124.png|es/SI212.png",
+            "title": "(98回回復力變0) ‧ 四角擴散燃燒10% ‧ 無法控制-無視減傷 ‧ 無限回復"
+          },
+          "jd": "R3 特性场景特性：10235"
+        }
+      ]
+    }
+  ]
+}

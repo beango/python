@@ -1,0 +1,162 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1563",
+      "title": "不會終結的詛咒",
+      "cj": [],
+      "data": [
+        {
+          "card": "839",
+          "stage": "1{{掉落*銅}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "893620",
+          "def": "1590",
+          "lv": "15",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "927150",
+          "def": "1870",
+          "lv": "15",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "893620",
+          "def": "1590",
+          "lv": "15",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1522",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3592160",
+          "def": "9720",
+          "coin": "0",
+          "es": "884",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI254.png|static/es/SI221.png",
+            "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
+          }
+        },
+        {
+          "card": "1522",
+          "stage": "",
+          "turn": "1",
+          "hp": "17305400",
+          "def": "9720",
+          "coin": "11",
+          "es": "1768",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI019.png|static/es/SI167.png|static/es/SI161.png|static/es/SI304.png|static/es/SI047.png|static/es/SI004.png",
+            "title": "敵轉光 ‧ 連擊趨狂 ‧ 命懸一線-首回心轉光-攻後隨機轉光 ‧ 光屬防禦90%"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "3{{掉落*銅}}",
+          "turn": "3{{初始CD*3}}",
+          "hp": "4826450",
+          "def": "4280",
+          "drop": "837",
+          "lv": "15",
+          "coin": "29",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          }
+        },
+        {
+          "card": "840",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4793830",
+          "def": "3980",
+          "drop": "839",
+          "lv": "15",
+          "coin": "29",
+          "es": "642",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI139.png",
+            "title": "越扣越強25%"
+          }
+        },
+        {
+          "card": "510",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "es": "1755",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png|static/es/SI067.png|static/es/SI121.png|static/es/SI123.png",
+            "title": "全神-(7回神攻2倍) ‧ 非全神-附加消除-全員技能重置 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1563",
+          "stage": "5{{三血}}{{掉落*黑金}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "20915870",
+          "def": "13590",
+          "coin": "0",
+          "es": "980",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI134.png|static/es/SI165.png|static/es/SI224.png",
+            "title": "(6回生命倒數) ‧ 2秒轉珠 ‧ 隱藏圍城-攻後隱藏4顆"
+          }
+        },
+        {
+          "card": "1563",
+          "stage": "",
+          "turn": "1",
+          "hp": "9186380",
+          "def": "13590",
+          "coin": "0",
+          "es": "1741",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI215.png|static/es/SI183.png",
+            "title": "黑白符石 ‧ 始終盾"
+          }
+        },
+        {
+          "card": "1563",
+          "stage": "",
+          "turn": "1",
+          "hp": "75215440",
+          "def": "13590",
+          "coin": "11",
+          "es": "1085",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI005.png|static/es/SI124.png|static/es/SI161.png|static/es/SI156.png",
+            "title": "暗屬防禦盾 ‧ 無法控制 ‧ 命懸一線 ‧ (5回回復力變0)"
+          }
+        }
+      ]
+    }
+  ]
+}

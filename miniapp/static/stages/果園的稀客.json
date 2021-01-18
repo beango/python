@@ -1,0 +1,232 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "137",
+      "title": "貧瘠之地的遊俠",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "5",
+        "battle": "5",
+        "exp": "70"
+      },
+      "data": [
+        {
+          "card": "030",
+          "stage": "",
+          "damage": "508",
+          "hp": "5056",
+          "coin": "34",
+          "drop": "029",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "060",
+          "stage": "",
+          "damage": "85",
+          "hp": "404",
+          "lv": "2",
+          "coin": "52",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "070",
+          "stage": "",
+          "damage": "135",
+          "hp": "1065",
+          "lv": "2",
+          "coin": "49",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "080",
+          "stage": "",
+          "damage": "423",
+          "hp": "1140",
+          "lv": "2",
+          "coin": "32",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "137",
+          "stage": "5",
+          "damage": "1417",
+          "hp": "6666",
+          "lv": "1",
+          "chest": "1000",
+          "coin": "64",
+          "note": "掉落率低",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "title": "預言的真相",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "5",
+        "battle": "5",
+        "exp": "86"
+      },
+      "data": [
+        {
+          "card": "030",
+          "stage": "",
+          "damage": "538",
+          "hp": "5393",
+          "coin": "36",
+          "drop": "029",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "060",
+          "stage": "",
+          "damage": "90",
+          "hp": "431",
+          "lv": "2",
+          "coin": "55",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "070",
+          "stage": "",
+          "damage": "143",
+          "hp": "1136",
+          "lv": "2",
+          "coin": "52",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "080",
+          "stage": "",
+          "damage": "448",
+          "hp": "1216",
+          "lv": "2",
+          "coin": "34",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "070",
+          "stage": "5",
+          "num": "2",
+          "damage": "119",
+          "hp": "1136",
+          "lv": "2",
+          "chest": "1000",
+          "coin": "43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "122",
+          "stage": "",
+          "damage": "649",
+          "hp": "6481",
+          "lv": "1",
+          "chest": "1000",
+          "coin": "72",
+          "note": "掉落率低",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "047",
+      "title": "綠龍巢穴",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "7",
+        "battle": "7",
+        "exp": "137"
+      },
+      "data": [
+        {
+          "card": "030",
+          "stage": "",
+          "damage": "628",
+          "hp": "6404",
+          "coin": "42",
+          "drop": "029",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "060",
+          "stage": "",
+          "damage": "105",
+          "hp": "512",
+          "lv": "2",
+          "coin": "64",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "070",
+          "stage": "",
+          "damage": "167",
+          "hp": "1349",
+          "lv": "2",
+          "coin": "61",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "080",
+          "stage": "",
+          "damage": "523",
+          "hp": "1444",
+          "lv": "2",
+          "coin": "40",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "047",
+          "stage": "7",
+          "damage": "1633",
+          "hp": "17759",
+          "lv": "1",
+          "chest": "1000",
+          "coin": "65",
+          "note": "掉落率低",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

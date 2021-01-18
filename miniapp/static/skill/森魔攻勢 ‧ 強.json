@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "森魔攻勢 ‧ 強",
+  "effect": "I. 引爆弱化符石、<br>&nbsp;&nbsp;&nbsp;電擊符石、心符石<br>⇒ 掉落木魔族強化符石<br>II. 若上述引爆符石 ≥15 粒<br>⇒ 1 回合內，<br>&nbsp;&nbsp;&nbsp;&nbsp;連擊 (Combo) 增加 5",
+  "turn": "31",
+  "minTurn": "5",
+  "pet": "2558"
+}

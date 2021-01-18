@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "蛇咬之舞",
+  "effect": "1 回合內<br>I. 任意移動符石而不會發動消除<br>II. 水、暗、心符石首批 1 粒<br>&nbsp;&nbsp;&nbsp;&nbsp;即可發動消除",
+  "turn": "20",
+  "minTurn": "9",
+  "pet": "2294"
+}

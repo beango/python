@@ -1,0 +1,307 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1750",
+      "title": "主線 ‧ 第八章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "turn": "3(3)",
+          "hp": "7968880",
+          "def": "930",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "5481320",
+          "def": "840",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "3820510",
+          "def": "970",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "5603730",
+          "def": "860",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1750",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "9517580",
+          "def": "2460",
+          "coin": "209",
+          "chest": "4000",
+          "es": "1100",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI221.png|es/SI188.png",
+            "title": "突擊65% ‧ 1-4顆風化趨狂3000 ‧ 血弱追擊"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1350",
+      "title": "主線 ‧ 第八章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1271",
+          "stage": "1",
+          "turn": "2(1)",
+          "hp": "9678800",
+          "def": "1720",
+          "coin": "902",
+          "es": "51",
+          "ws": "10140",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1271",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "9678800",
+          "def": "1720",
+          "coin": "902",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1696",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "17108900",
+          "def": "12540",
+          "coin": "249",
+          "es": "2271",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI219.png|es/SI251.png",
+            "title": "先攻-縱橫冰封 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1350",
+          "stage": "4",
+          "turn": "1(1)",
+          "hp": "15324200",
+          "def": "28800",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1862",
+          "note": "",
+          "esjson": {
+            "img": "es/SI305.png|es/SI047.png|es/SI216.png|es/SI124.png",
+            "title": "攻後暗縱橫輪轉 ‧ 復活變強3倍-無視減傷 ‧ 無法控制"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1694",
+      "title": "主線 ‧ 第八章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 **主線 ‧ 第八章第三話** 1 次——開放關卡 [機械城之傳 ‧ 主線第九章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E4%B9%9D%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "5",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "165",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "5298000",
+          "def": "1660",
+          "coin": "307",
+          "lv": "15",
+          "drop": "164",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "168",
+          "stage": "",
+          "turn": "3(3)",
+          "hp": "7844000",
+          "def": "1990",
+          "coin": "307",
+          "lv": "15",
+          "drop": "167",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "171",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "3148500",
+          "def": "1540",
+          "coin": "307",
+          "lv": "15",
+          "drop": "170",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "174",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "3068200",
+          "def": "1390",
+          "coin": "307",
+          "lv": "15",
+          "drop": "173",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1694",
+          "stage": "5{{雙血}}",
+          "turn": "1(1)",
+          "hp": "26714700",
+          "def": "17360",
+          "coin": "0",
+          "es": "2279",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI229.png|es/SI002.png|es/SI003.png",
+            "title": "先攻-四重攻後延伸燃燒20% ‧ 火木防禦盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1694",
+          "stage": "",
+          "turn": "1",
+          "hp": "7000000",
+          "def": "17360",
+          "coin": "309",
+          "chest": "8000",
+          "es": "2280",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI087.png|es/SI229.png",
+            "title": "CD2 ‧ 首消7Combo盾 ‧ 軌跡燃燒5000"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2113",
+      "title": "光速的軌跡",
+      "cj": [],
+      "data": [
+        {
+          "card": "835",
+          "stage": "1",
+          "damage": "2404",
+          "turn": "3",
+          "hp": "87672",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "damage": "788",
+          "hp": "80970",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "2",
+          "damage": "1602",
+          "turn": "2",
+          "hp": "84504",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "2404",
+          "turn": "3",
+          "hp": "87672",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2113",
+          "stage": "3",
+          "damage": "1532",
+          "turn": "1{{初始CD*1}}",
+          "hp": "128700",
+          "def": "2590",
+          "coin": "125",
+          "chest": "2000",
+          "es": "1674",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI103.png",
+            "title": "(5回轉珠減2秒) ‧ 5+Combo追擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2113",
+      "title": "染惡的獅子",
+      "cj": [],
+      "data": [
+        {
+          "card": "2113",
+          "stage": "1",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "98060",
+          "def": "2590",
+          "coin": "125",
+          "es": "3269",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI236.png|static/es/SI139.png",
+            "title": "突擊10%-首回攻後電擊1~3顆 ‧ 越扣越強20%"
+          }
+        },
+        {
+          "card": "2113",
+          "stage": "2{{雙血}}",
+          "damage": "1585",
+          "turn": "1{{初始CD*1}}",
+          "hp": "73020",
+          "def": "2590",
+          "coin": "0",
+          "es": "1607",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI221.png",
+            "title": "2秒轉珠 ‧ 風化-轉"
+          }
+        },
+        {
+          "card": "2113",
+          "stage": "",
+          "damage": "1749",
+          "turn": "1",
+          "hp": "156590",
+          "def": "2590",
+          "coin": "125",
+          "chest": "2000",
+          "es": "1156",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png|static/es/SI236.png",
+            "title": "7+Combo追擊盾 ‧ 電擊2顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2113",
+      "title": "信念的奇蹟",
+      "cj": [],
+      "data": [
+        {
+          "card": "2116",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "100",
+          "coin": "6",
+          "es": "3253",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png|static/es/SI157.png|static/es/SI161.png",
+            "title": "天惠星矢-超級技能回復-[7回增攻2倍] ‧ 自殺"
+          }
+        },
+        {
+          "card": "2113",
+          "stage": "2{{雙血}}",
+          "damage": "2026",
+          "turn": "1{{初始CD*1}}",
+          "hp": "142530",
+          "def": "2590",
+          "coin": "0",
+          "es": "3270",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png|static/es/SI183.png|static/es/SI263.png",
+            "title": "隨機3~6Combo追擊盾 ‧ 始終盾 ‧ 消Combo盾25%"
+          }
+        },
+        {
+          "card": "2113",
+          "stage": "",
+          "damage": "1977",
+          "turn": "1",
+          "hp": "155870",
+          "def": "2590",
+          "coin": "125",
+          "chest": "4000",
+          "es": "1585",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png|static/es/SI305.png|static/es/SI236.png",
+            "title": "首消暗追擊零化 ‧ 暗電擊2顆"
+          }
+        }
+      ]
+    }
+  ]
+}

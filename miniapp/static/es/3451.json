@@ -1,0 +1,7 @@
+{
+  "no": "3451",
+  "title": "突擊25% ‧ 首回弱符石還原 ‧ 強化盾-反擊100% ‧ 無法控制",
+  "effect": "首回合優先<font color=yellow>突擊</font> 1 次。<br><br>將場上的符石變回<font color=yellow>原始模樣</font><br>(種族標記會保留)<br><br>敵人只會受到<font color=yellow>強化符石</font>的攻擊傷害；若受到非強化符石的攻擊，敵人會反擊自身 <font color=yellow>100%</font> 攻擊傷害。<br><br>無視所有控制技能",
+  "content": "突擊,符石,強化盾,無法控制",
+  "icon": "es/SI160.png|es/SI268.png|es/SI254.png|es/SI260.png|es/SI124.png"
+}

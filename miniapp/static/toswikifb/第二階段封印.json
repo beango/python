@@ -1,0 +1,174 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "067",
+      "title": "古代修行者的貪婪",
+      "cj": [],
+      "data": [
+        {
+          "card": "067",
+          "stage": "5",
+          "damage": "702",
+          "hp": "16919",
+          "coin": "105",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "069",
+          "stage": "",
+          "damage": "706",
+          "hp": "16561",
+          "coin": "105",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "071",
+          "stage": "",
+          "damage": "702",
+          "hp": "16981",
+          "coin": "105",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "073",
+      "title": "始建以諾塔",
+      "cj": [],
+      "data": [
+        {
+          "card": "073",
+          "stage": "5",
+          "damage": "750",
+          "hp": "18208",
+          "coin": "111",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "075",
+          "stage": "",
+          "damage": "750",
+          "hp": "18047",
+          "coin": "111",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "title": "絕對不要放棄",
+      "cj": [],
+      "data": [
+        {
+          "card": "170",
+          "stage": "5",
+          "damage": "1006",
+          "hp": "6903",
+          "coin": "67",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "173",
+          "stage": "",
+          "damage": "1007",
+          "hp": "6835",
+          "coin": "67",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "131",
+      "title": "制止末日的決心",
+      "cj": [],
+      "data": [
+        {
+          "card": "131",
+          "stage": "5",
+          "damage": "2241",
+          "hp": "10871",
+          "coin": "106",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "134",
+          "stage": "",
+          "num": "2",
+          "damage": "1709",
+          "hp": "7695",
+          "coin": "76",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "288",
+      "title": "解開第二階段封印",
+      "cj": [],
+      "data": [
+        {
+          "card": "288",
+          "stage": "7",
+          "damage": "600",
+          "turn": "2",
+          "hp": "39000",
+          "def": "80",
+          "coin": "1250",
+          "note": "{{雙體共生}}",
+          "esjson": null
+        },
+        {
+          "card": "289",
+          "stage": "",
+          "damage": "1300",
+          "turn": "2",
+          "hp": "17000",
+          "def": "160",
+          "coin": "1250",
+          "note": "{{雙體共生}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "289",
+      "title": "破除第二封印法陣 {{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "288",
+          "stage": "7",
+          "damage": "600",
+          "turn": "2",
+          "hp": "39000",
+          "def": "80",
+          "coin": "1250",
+          "note": "{{雙體共生}}",
+          "esjson": null
+        },
+        {
+          "card": "289",
+          "stage": "",
+          "damage": "1300",
+          "turn": "2",
+          "hp": "17000",
+          "def": "160",
+          "coin": "1250",
+          "note": "{{雙體共生}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

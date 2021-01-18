@@ -1,0 +1,574 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/12 16:00",
+      "end": "2020/11/1 23:59",
+      "note": "19.4版本更新後開放<br>僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": [
+        {
+          "star": "3",
+          "id": "617",
+          "soul": "",
+          "m": "",
+          "num": "2"
+        },
+        {
+          "star": "6",
+          "id": "C08",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        },
+        {
+          "star": "9",
+          "id": "",
+          "soul": "",
+          "m": "1",
+          "num": "1"
+        },
+        {
+          "star": "12",
+          "id": "",
+          "soul": "150",
+          "m": "",
+          "num": ""
+        }
+      ]
+    }
+  ],
+  "cjtimes": 1,
+  "stages": [
+    {
+      "id": "2525",
+      "title": "首次出戰 初級",
+      "cj": [
+        "隊伍中有 3 個或以上的光屬性成員 (不包括隊伍技能)",
+        "戰鬥中不使用任何主動技 (包括合體技能)",
+        "於 6 回合內完成關卡"
+      ],
+      "data": [
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "985",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9130",
+          "def": "510",
+          "coin": "109",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "365",
+          "turn": "1",
+          "hp": "17950",
+          "def": "300",
+          "coin": "68",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "1002",
+          "turn": "1{{初始CD*1}}",
+          "hp": "23550",
+          "def": "3520",
+          "coin": "2648",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "1343",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2525",
+          "stage": "5",
+          "damage": "2621",
+          "turn": "1{{初始CD*1}}",
+          "hp": "403870",
+          "def": "8550",
+          "coin": "2183",
+          "lv": "1",
+          "chest": "500",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2525",
+      "title": "驚人的恢復力 中級",
+      "cj": [
+        "隊伍中有 3 個或以上的光屬性成員 (不包括隊伍技能)",
+        "隊長與戰友相同",
+        "於 7 回合內完成關卡"
+      ],
+      "data": [
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "2308",
+          "turn": "2{{初始CD*2}}",
+          "hp": "33830",
+          "def": "510",
+          "coin": "109",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "1351",
+          "turn": "1",
+          "hp": "49450",
+          "def": "300",
+          "coin": "108",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "1496",
+          "turn": "1{{初始CD*1}}",
+          "hp": "87240",
+          "def": "3520",
+          "coin": "4388",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "2183",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2500",
+          "stage": "5",
+          "damage": "3235",
+          "turn": "1{{初始CD*1}}",
+          "hp": "815430",
+          "def": "6870",
+          "coin": "2603",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2525",
+          "stage": "6",
+          "damage": "3998",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1236560",
+          "def": "8550",
+          "coin": "3023",
+          "lv": "1",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2525",
+      "title": "突破絕對領域 高級",
+      "cj": [
+        "隊伍中只有光屬性的成員  (不包括隊伍技能)",
+        "隊長及戰友都是神族",
+        "隊伍中只有人類成員"
+      ],
+      "data": [
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "4341",
+          "turn": "2{{初始CD*2}}",
+          "hp": "125300",
+          "def": "510",
+          "coin": "189",
+          "lv": "5",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "3017",
+          "turn": "1",
+          "hp": "143960",
+          "def": "300",
+          "coin": "188",
+          "lv": "5",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "2234",
+          "turn": "1{{初始CD*1}}",
+          "hp": "323120",
+          "def": "3520",
+          "coin": "7868",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "3863",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2387",
+          "stage": "6",
+          "damage": "6552",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5552310",
+          "def": "43900",
+          "coin": "3863",
+          "es": "3509",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI103.png",
+            "title": "隱藏-轉 ‧ 5+Combo追擊盾"
+          }
+        },
+        {
+          "card": "2500",
+          "stage": "7",
+          "damage": "7814",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6723840",
+          "def": "68700",
+          "coin": "4703",
+          "es": "1109",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png",
+            "title": "首消暗追擊零化"
+          }
+        },
+        {
+          "card": "2525",
+          "stage": "8",
+          "damage": "10445",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8283570",
+          "def": "85500",
+          "coin": "5123",
+          "lv": "1",
+          "soul": "1",
+          "craft": "1",
+          "chest": "1500",
+          "es": "4285",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/ES992.png|static/es/SI305.png|static/es/SI047.png|static/es/SI198.png",
+            "title": "突擊10% ‧ 絕對領域-200萬 ‧ 首回✞形轉暗 ‧ 1顆三連擊手印-轉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2525",
+      "title": "邪眼的破壞光線 超級 {{EXTRA}}",
+      "cj": [
+        "隊伍中只有光屬性的成員  (不包括隊伍技能)",
+        "隊伍中有 3 個或以上的獸類成員",
+        "隊伍中只有暗屬性的成員  (不包括隊伍技能)"
+      ],
+      "data": [
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "6480",
+          "turn": "2{{初始CD*2}}",
+          "hp": "187010",
+          "def": "510",
+          "coin": "249",
+          "lv": "15",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "4011",
+          "turn": "1",
+          "hp": "265610",
+          "def": "300",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "3335",
+          "turn": "1{{初始CD*1}}",
+          "hp": "482280",
+          "def": "3520",
+          "coin": "10478",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "5123",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2387",
+          "stage": "6",
+          "damage": "9779",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8287040",
+          "def": "43900",
+          "coin": "5123",
+          "es": "3510",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI104.png",
+            "title": "隱藏-轉 ‧ 6+Combo追擊盾"
+          }
+        },
+        {
+          "card": "2500",
+          "stage": "7",
+          "damage": "11663",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10035590",
+          "def": "68700",
+          "coin": "5963",
+          "es": "3699",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI215.png|static/es/SI117.png",
+            "title": "黑白符石 ‧ 首消暗追擊零化"
+          }
+        },
+        {
+          "card": "2525",
+          "stage": "8",
+          "damage": "15590",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12363540",
+          "def": "85500",
+          "coin": "6383",
+          "lv": "1",
+          "soul": "2",
+          "craft": "1",
+          "chest": "2000",
+          "es": "4286",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/ES993.png|static/es/SI305.png|static/es/SI047.png|static/es/SI198.png",
+            "title": "突擊65% ‧ 絕對領域-500萬 ‧ 首回✞形轉暗 ‧ 攻後暗橫縱輪轉 ‧ 2顆三連擊手印-轉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2525",
+      "title": "血紅之海 精英級 {{ELITE}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "550",
+          "stage": "",
+          "damage": "9672",
+          "turn": "2{{初始CD*2}}",
+          "hp": "279130",
+          "def": "510",
+          "coin": "309",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "5495",
+          "turn": "1",
+          "hp": "397930",
+          "def": "300",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "4978",
+          "turn": "1{{初始CD*1}}",
+          "hp": "719830",
+          "def": "3520",
+          "coin": "13088",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2535",
+          "stage": "1{{掉落*EVA}}",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2387",
+          "stage": "6",
+          "damage": "14597",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12368720",
+          "def": "43900",
+          "coin": "6383",
+          "es": "3511",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI105.png",
+            "title": "隱藏-轉 ‧ 7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "2500",
+          "stage": "7",
+          "damage": "17408",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14978500",
+          "def": "68700",
+          "coin": "7223",
+          "es": "3699",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI215.png|static/es/SI117.png",
+            "title": "黑白符石 ‧ 首消暗追擊零化"
+          }
+        },
+        {
+          "card": "2525",
+          "stage": "8{{掉落*EVA}}",
+          "damage": "23269",
+          "turn": "1{{初始CD*1}}",
+          "hp": "18453050",
+          "def": "85500",
+          "coin": "7643",
+          "lv": "1",
+          "es": "4288",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/ES995.png|static/es/SI305.png|static/es/SI047.png|static/es/SI198.png|static/es/SI216.png",
+            "title": "先攻 ‧ 絕對領域-2000萬 ‧ 首回✞形轉暗 ‧ 攻後暗橫縱輪轉 ‧ 2顆三連擊手印-轉 ‧ 復活⇒變強3倍⇒✞形轉暗弱化鎖定20%"
+          }
+        }
+      ]
+    }
+  ]
+}

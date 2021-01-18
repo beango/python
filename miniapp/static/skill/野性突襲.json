@@ -1,0 +1,10 @@
+{
+  "type": "skill",
+  "name": "野性突襲",
+  "effect": "I. 將所有符石轉化為<br>⇒ [board]固定數量及位置[/board]的<br>&nbsp;&nbsp;&nbsp;&nbsp;火神族強化符石及心符石<br>II. 隊長為「EVA 駕駛員」<br>⓵ 發動技能後自身 EP +2<br>⓶ 1 回合內，所有成員無視<br>&nbsp;「三屬盾」及「五屬盾」敵技",
+  "turn": "0",
+  "minTurn": "0",
+  "ep": "12",
+  "minEp": "6",
+  "pet": "2537"
+}

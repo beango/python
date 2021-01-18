@@ -1,0 +1,271 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "059",
+      "title": "染紅的火山",
+      "cj": [],
+      "data": [
+        {
+          "card": "026",
+          "damage": "1486",
+          "hp": "15134",
+          "drop": "025",
+          "lv": "3",
+          "coin": "96",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "068",
+          "damage": "385",
+          "hp": "3175",
+          "lv": "3",
+          "coin": "142",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "080",
+          "damage": "1198",
+          "hp": "3496",
+          "coin": "94",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "108",
+          "damage": "766",
+          "hp": "2713",
+          "coin": "49",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "252",
+          "damage": "6666",
+          "hp": "7000",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "276",
+          "damage": "300",
+          "hp": "10",
+          "lv": "1",
+          "coin": "200",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "058",
+          "stage": "6{{前置}}",
+          "damage": "221",
+          "hp": "1092",
+          "coin": "0",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "059",
+          "stage": "6",
+          "damage": "2066",
+          "hp": "8567",
+          "drop": "058",
+          "lv": "3",
+          "coin": "133",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "079",
+      "title": "灼炎之刃",
+      "cj": [],
+      "data": [
+        {
+          "card": "026",
+          "damage": "1548",
+          "hp": "15792",
+          "coin": "100",
+          "drop": "025",
+          "lv": "3",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "068",
+          "damage": "401",
+          "hp": "3313",
+          "coin": "148",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "080",
+          "damage": "1248",
+          "hp": "3648",
+          "coin": "98",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "108",
+          "damage": "798",
+          "hp": "2831",
+          "coin": "51",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "252",
+          "damage": "6666",
+          "hp": "7000",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "276",
+          "damage": "300",
+          "hp": "10",
+          "coin": "200",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "078",
+          "stage": "6{{前置}}",
+          "damage": "1194",
+          "hp": "3257",
+          "coin": "0",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "079",
+          "stage": "6",
+          "damage": "4001",
+          "hp": "17381",
+          "drop": "078",
+          "lv": "3",
+          "coin": "139",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "069",
+      "title": "鮮紅的舞台",
+      "cj": [],
+      "data": [
+        {
+          "card": "026",
+          "damage": "1734",
+          "hp": "17766",
+          "coin": "112",
+          "drop": "025",
+          "lv": "3",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "068",
+          "damage": "449",
+          "hp": "3727",
+          "coin": "166",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "080",
+          "damage": "1398",
+          "hp": "4104",
+          "coin": "110",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "108",
+          "damage": "894",
+          "hp": "3185",
+          "coin": "57",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "252",
+          "damage": "6666",
+          "hp": "7000",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "276",
+          "damage": "300",
+          "hp": "10",
+          "coin": "200",
+          "lv": "1",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "068",
+          "stage": "8",
+          "num": "2",
+          "damage": "273",
+          "hp": "2209",
+          "coin": "0",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "069",
+          "stage": "",
+          "damage": "1146",
+          "hp": "27601",
+          "coin": "165",
+          "drop": "068",
+          "lv": "3",
+          "note": "{{召喚小怪}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

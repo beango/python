@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "靈槍 Chastiefol 第五形態「增殖」",
+  "effect": "I. 將水符石轉化為<br>⇒ 木妖族強化符石<br>1 回合內<br>II. 每首批消除 1 粒木符石<br>⇒ 增加 1 連擊 (Combo)<br>⇒ 最多可增加 10 Combo",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2452"
+}

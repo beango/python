@@ -1,0 +1,56 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "711",
+      "title": "鮮紅結局",
+      "cj": [],
+      "data": [
+        {
+          "card": "712",
+          "stage": "1",
+          "turn": "1{{初始CD*2}}",
+          "hp": "99999",
+          "def": "100",
+          "coin": "",
+          "es": "531",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "魔族技能回復"
+          }
+        },
+        {
+          "card": "711",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8645400",
+          "def": "12490",
+          "es": "279",
+          "coin": "",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png",
+            "title": "7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "711",
+          "stage": "",
+          "turn": "1",
+          "hp": "23089500",
+          "def": "12490",
+          "es": "1111",
+          "coin": "",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png|static/es/SI301.png|static/es/SI047.png|static/es/SI113.png",
+            "title": "無視減傷 ‧ 隨機轉水 ‧ 首消水追擊零化"
+          }
+        }
+      ]
+    }
+  ]
+}

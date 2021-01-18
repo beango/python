@@ -1,0 +1,423 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2118",
+      "title": "使人麻痺的蠍毒",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1-2{{隨機*2}}",
+          "damage": "1228",
+          "hp": "126310",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "2520",
+          "turn": "2",
+          "hp": "118880",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "3750",
+          "turn": "3",
+          "hp": "136760",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "2498",
+          "turn": "2",
+          "hp": "131910",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "1312",
+          "hp": "119180",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2118",
+          "stage": "3",
+          "damage": "5263",
+          "turn": "2{{初始CD*2}}",
+          "hp": "836080",
+          "def": "2710",
+          "coin": "125",
+          "chest": "2000",
+          "es": "3280",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI203.png|static/es/SI015.png",
+            "title": "突擊10% ‧ 首回攻後施針-5針完殺 ‧ 首消暗傷害吸收"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2118",
+      "title": "十五星命點的死角",
+      "cj": [],
+      "data": [
+        {
+          "card": "360",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "es": "2015",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI396.png|static/es/SI161.png",
+            "title": "[7回水回2倍] ‧ 自殺"
+          }
+        },
+        {
+          "card": "2118",
+          "stage": "2{{雙血}}",
+          "damage": "5741",
+          "turn": "2{{初始CD*1}}",
+          "hp": "89700",
+          "def": "580",
+          "coin": "0",
+          "es": "3278",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI227.png",
+            "title": "3回全員禁錮 ‧ 迷惑符石"
+          }
+        },
+        {
+          "card": "2118",
+          "stage": "",
+          "damage": "2466",
+          "turn": "1",
+          "hp": "103650",
+          "def": "580",
+          "coin": "125",
+          "chest": "2000",
+          "es": "3280",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI203.png|static/es/SI015.png",
+            "title": "突擊10% ‧ 首回攻後施針-5針完殺 ‧ 首消暗傷害吸收"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2118",
+      "title": "貫徹信念實現夢想",
+      "cj": [],
+      "data": [
+        {
+          "card": "2101",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "es": "584",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI138.png",
+            "title": "龍脈回復"
+          }
+        },
+        {
+          "card": "2118",
+          "stage": "2{{雙血}}",
+          "damage": "3692",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7978030",
+          "def": "8970",
+          "coin": "0",
+          "es": "3280",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI203.png|static/es/SI015.png",
+            "title": "突擊10% ‧ 首回攻後施針-5針完殺 ‧ 首消暗傷害吸收"
+          }
+        },
+        {
+          "card": "2118",
+          "stage": "",
+          "damage": "5026",
+          "turn": "1",
+          "hp": "6732280",
+          "def": "8970",
+          "coin": "125",
+          "chest": "4000",
+          "es": "491",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png",
+            "title": "凍結圍城"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2118",
+      "title": "深紅的報復 {{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1{{隨機*2}}",
+          "damage": "5356",
+          "hp": "405490",
+          "def": "380",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "11016",
+          "turn": "2",
+          "hp": "398650",
+          "def": "270",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "14973",
+          "turn": "3",
+          "hp": "447560",
+          "def": "590",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "10790",
+          "turn": "2",
+          "hp": "403570",
+          "def": "410",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "5495",
+          "hp": "397930",
+          "def": "300",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "832",
+          "stage": "2",
+          "damage": "13905",
+          "turn": "2{{初始CD*3}}",
+          "hp": "6408740",
+          "def": "5470",
+          "coin": "674",
+          "es": "649",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水縱橫輪轉"
+          }
+        },
+        {
+          "card": "840",
+          "stage": "",
+          "damage": "14072",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6279050",
+          "def": "5630",
+          "coin": "674",
+          "es": "788",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI015.png",
+            "title": "攻後暗橫縱輪轉"
+          }
+        },
+        {
+          "card": "2128",
+          "stage": "3",
+          "damage": "8601",
+          "turn": "2{{初始CD*2}}",
+          "hp": "658700",
+          "def": "3480",
+          "coin": "13088",
+          "lv": "1",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png",
+            "title": "強化盾"
+          }
+        },
+        {
+          "card": "2111",
+          "stage": "4{{雙血}}",
+          "damage": "20594",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9680540",
+          "def": "52990",
+          "coin": "0",
+          "es": "3286",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI219.png|static/es/SI124.png",
+            "title": "突擊10% ‧ 攻後冰封2顆 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2111",
+          "stage": "",
+          "damage": "100",
+          "turn": "2",
+          "hp": "14918060",
+          "def": "52990",
+          "coin": "7223",
+          "es": "3292",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI220.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "CD2 ‧ 首回凍結圍城 ‧ 扣血100% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "831",
+          "stage": "5{{隨機*3}}",
+          "damage": "5356",
+          "hp": "405490",
+          "def": "380",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "11016",
+          "turn": "2",
+          "hp": "398650",
+          "def": "270",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "14973",
+          "turn": "3",
+          "hp": "447560",
+          "def": "590",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "10790",
+          "turn": "2",
+          "hp": "403570",
+          "def": "410",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "5495",
+          "hp": "397930",
+          "def": "300",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "690",
+          "stage": "6",
+          "damage": "13938",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8103650",
+          "def": "26580",
+          "coin": "9950",
+          "es": "1741",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI215.png|static/es/SI183.png",
+            "title": "黑白符石 ‧ 始終盾"
+          }
+        },
+        {
+          "card": "2118",
+          "stage": "7{{雙血}}{{掉落*聖鬥士星矢}}",
+          "damage": "12603",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9620740",
+          "def": "54820",
+          "coin": "0",
+          "es": "3279",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI227.png|static/es/SI118.png",
+            "title": "5回全員禁錮 ‧ 迷惑符石 ‧ 首消心追擊零化"
+          }
+        },
+        {
+          "card": "2118",
+          "stage": "",
+          "damage": "15488",
+          "turn": "1",
+          "hp": "17075830",
+          "def": "54820",
+          "coin": "7643",
+          "lv": "1",
+          "es": "3281",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI203.png|static/es/SI015.png|static/es/SI260.png",
+            "title": "突擊10% ‧ 首回攻後施針-3針完殺 ‧ 首消暗傷害吸收-反擊200%"
+          }
+        }
+      ]
+    }
+  ]
+}

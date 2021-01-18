@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "幸福的歸宿",
+  "effect": "將場上的符石轉化為<br>⇒ [board]固定數量及位置[/board]的<br>    光符石及心符石",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "2426"
+}

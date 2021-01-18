@@ -1,0 +1,267 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "585",
+      "title": "修復永恆之槍",
+      "cj": [],
+      "data": [
+        {
+          "card": "075",
+          "stage": "",
+          "turn": "1",
+          "hp": "939352",
+          "def": "1750",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "085",
+          "stage": "",
+          "hp": "962315",
+          "def": "2090",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "585",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2686230",
+          "def": "3190",
+          "coin": "269",
+          "es": "251",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "20擊盾"
+          }
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "65420",
+          "def": "1980",
+          "coin": "189",
+          "chest": "4000",
+          "es": "616",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI042.png",
+            "title": "(5回暗禁消)"
+          }
+        },
+        {
+          "card": "585",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2686230",
+          "def": "3190",
+          "coin": "269",
+          "es": "251",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "20擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1106",
+      "title": "揭露真面目",
+      "cj": [],
+      "data": [
+        {
+          "card": "488",
+          "stage": "",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1055",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6832980",
+          "def": "8180",
+          "coin": "5123",
+          "es": "841",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI156.png|static/es/SI131.png|static/es/SI213.png",
+            "title": "回復力變0 ‧ 扣血90% ‧ 軌跡靈化800"
+          }
+        },
+        {
+          "card": "1106",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9124360",
+          "def": "15130",
+          "coin": "0",
+          "es": "824",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI338.png",
+            "title": "(無限回消木減攻50%)"
+          }
+        },
+        {
+          "card": "1106",
+          "stage": "",
+          "turn": "1",
+          "hp": "18093110",
+          "def": "15130",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1266",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png|static/es/SI188.png",
+            "title": "首消6+Combo盾 ‧ 初怒-連擊"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1310",
+      "title": "憤怒的奧丁",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "",
+          "hp": "504682",
+          "def": "2060",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "735440",
+          "def": "2320",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "901347",
+          "def": "2890",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "472363",
+          "def": "3180",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1533",
+          "stage": "",
+          "turn": "1",
+          "hp": "482163",
+          "def": "3220",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1310",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "20787360",
+          "def": "87400",
+          "coin": "5580",
+          "chest": "8000",
+          "es": "324",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘10%"
+          }
+        }
+      ]
+    }
+  ]
+}

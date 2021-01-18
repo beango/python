@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "暗澹之繭",
+  "effect": "I. 將[board]外側 18 粒符石[/board]<br>⇒ 轉化為暗魔族符石<br>1 回合內<br>II. 敵方全體攻擊力減至 0 <br>III. 暗符石兼具心符石效果",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2467"
+}

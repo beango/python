@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "玄冥之吼",
+  "effect": "I. 將 [board]12 個固定位置[/board]的符石<br>⇒ 轉化為「光及暗」<br>&nbsp;&nbsp;&nbsp;&nbsp;獸族強化符石各 6 粒<br>II.「干戈雷芒 ‧ 渾沌」以外<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技能 CD ≥5 的獸類成員<br>⇒ CD -1",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2582"
+}

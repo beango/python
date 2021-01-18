@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "命運交織",
+  "effect": "I. 將場上的符石變回原始模樣<br>II. 引爆所有符石<br>⇒ 掉落[board]固定數量及位置[/board]的<br>&nbsp;&nbsp;&nbsp;&nbsp;「水及火」龍族強化符石<br>1 回合內<br>II. 龍類、人類、妖精類、魔族<br>⇒ 攻擊力 2 倍<br>III. 所有成員無視<br>&nbsp;&nbsp;&nbsp;「三屬盾」及「五屬盾」",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2567"
+}

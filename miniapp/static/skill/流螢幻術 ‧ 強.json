@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "流螢幻術 ‧ 強",
+  "effect": "3 回合內<br>I. 將 3 粒符石轉化為<br>⇒ 光人族強化符石<br>&nbsp;&nbsp;&nbsp;&nbsp;(心符石優先轉換)<br>II. 若首批消除場上所有光符石<br>⇒ 下回合開始時，<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;將最底 1 橫行的符石<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;轉化為光強化符石",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2484"
+}

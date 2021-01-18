@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "惡魔的幻象",
+  "effect": "I. 完全回復生命力<br>II. 隊中所有<br>&nbsp;&nbsp;「全知的惡魔 · 拉普拉斯」<br>⇒ 轉化為「幻象」形態",
+  "turn": "13",
+  "minTurn": "4",
+  "pet": "2480"
+}

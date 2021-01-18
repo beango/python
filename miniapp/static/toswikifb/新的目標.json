@@ -1,0 +1,192 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1415",
+      "title": "費雷的覺悟",
+      "cj": [],
+      "data": [
+        {
+          "card": "490",
+          "stage": "",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1415",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7695640",
+          "def": "3820",
+          "coin": "4380",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "585",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7703250",
+          "def": "4290",
+          "coin": "249",
+          "chest": "4000",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1121",
+      "title": "凱拉的異樣",
+      "cj": [],
+      "data": [
+        {
+          "card": "097",
+          "stage": "",
+          "hp": "836438",
+          "def": "1620",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "107",
+          "stage": "",
+          "hp": "804193",
+          "def": "1430",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "472363",
+          "def": "3180",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1121",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9459880",
+          "def": "13540",
+          "coin": "5123",
+          "chest": "4000",
+          "es": "814",
+          "ws": "10115",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI250.png",
+            "title": "越攻越強 ‧ 循環累積15+相剋符石盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1310",
+      "title": "奧丁的請求",
+      "cj": [],
+      "data": [
+        {
+          "card": "079",
+          "stage": "",
+          "hp": "941588",
+          "def": "2190",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "487",
+          "stage": "",
+          "hp": "709150",
+          "def": "1240",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1310",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "13206950",
+          "def": "87400",
+          "coin": "4980",
+          "chest": "8000",
+          "es": "1037",
+          "ws": "10118",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI068.png|static/es/SI122.png",
+            "title": "附加消除 ‧ 3倍獵魔-禁錮"
+          }
+        }
+      ]
+    }
+  ]
+}

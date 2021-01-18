@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "靈動之澤",
+  "effect": "I. 將 10 粒符石<br>⇒ 轉化為妖族符石<br>&nbsp;&nbsp;&nbsp;&nbsp;(非種族符石優先轉換)<br>1 回合內<br>II. 首批 2 粒相連的符石可發動消除",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2490"
+}

@@ -1,0 +1,7 @@
+{
+  "no": "3458",
+  "title": "CD1 ‧ 敵轉暗 ‧ 敵屬攻擊零化 ‧ 9+Combo追擊盾 ‧ 3顆暗風化15000",
+  "effect": "敵人首次攻擊變為 <font color=yellow>CD 1</font>。<br><br>首回合敵人會轉換為<font color=yellow>暗屬性</font>。<br><br>與敵人<font color=yellow>相同屬性的攻擊無法</font>對敵人造成攻擊傷害。<br><br><font color=yellow>9 連擊 (Combo) 或以上</font>才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。<br><br>每回合將<font color=yellow> 3 粒暗符石風化</font>。風化符石一經觸碰，即時停止移動符石，並對召喚師造成<font color=yellow> 15,000 點</font>傷害",
+  "content": "回合變更,轉屬,,攻擊零化,指定Combo盾,風化",
+  "icon": "es/SI159.png|es/SI020.png|es/SI158.png|es/SI107.png|es/SI221.png"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "惡魔的真象",
+  "effect": "I. 點擊元素法陣上的符石 2 次<br>⓵ 移除首次點選的符石<br>⓶ 掉落第 2 次點選的符石<br>II. 將所有符石轉化為<br>⇒ 魔族強化符石<br>1 回合內<br>III. 可任意移動符石<br>&nbsp;&nbsp;&nbsp;&nbsp;  而不會發動消除<br>IV. 魔族成員追打 1 次<br>V. 魔族成員<br>⇒ 無視「三屬盾」<br>&nbsp;&nbsp;&nbsp;&nbsp; 及「五屬盾」敵技<br>VI. 隊中所有<br>&nbsp;&nbsp;&nbsp;「全知的惡魔 · 拉普拉斯」<br>⇒ 轉化為「真實」形態",
+  "turn": "15",
+  "minTurn": "6",
+  "pet": "2480"
+}

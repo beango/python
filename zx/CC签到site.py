@@ -29,7 +29,6 @@ ip = ""
 expire_in = 0
 key = ""
 for item in cookie:
-    print(item.name + "==" + item.value)
     if item.name == "ip":
         ip = item.value
     if item.name == "expire_in":
@@ -47,7 +46,7 @@ headers={
     "X-Requested-With": "XMLHttpRequest",
     "Connection": "keep-alive",
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-    "Cookie1": "_ga=GA1.2.380391384.1579057478; uid=29458; email=6588617%40gmail.com; key="+key+"; ip="+ip+"; expire_in="+expire_in,
+    "Cookie": "_ga=GA1.2.380391384.1579057478; uid=29458; email=6588617%40gmail.com; key="+key+"; ip="+ip+"; expire_in="+expire_in,
     "Cookie1": "__cfduid=d08b3c34d430cf2144ee39de2f65327281593737708; crisp-client%2Fsession%2Ff24e0785-07d5-4a5f-961b-bde1c9b6245b=session_84dd69ee-be9e-43c2-b0b5-a2944d037865",
     "Pragma": "no-cache",
     "Cache-Control": "no-cache",
@@ -55,5 +54,6 @@ headers={
 }
 request = urllib.request.Request(url=inte, headers=headers, method='POST')
 response=urllib.request.urlopen(request)
+print(response.read())
 retdata = json.loads(response.read().decode())
 print(time.strftime('%Y.%m.%d %H:%M:%S',time.localtime(time.time())), "--->", retdata["msg"], retdata["ret"], "签到成功" if(retdata["ret"]!="1") else "签到失败")

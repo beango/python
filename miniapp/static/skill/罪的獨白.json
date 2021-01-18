@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "罪的獨白",
+  "effect": "I. 發動技能時，封鎖自身以外<br>&nbsp;&nbsp;&nbsp;可發動技能成員的技能<br>II. 自身攻擊力及回復力 5 倍<br>效果會在進入下一層數 (Wave) 時消失",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2542"
+}

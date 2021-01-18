@@ -1,0 +1,198 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "853",
+      "title": "招攬同伴",
+      "cj": [],
+      "data": [
+        {
+          "card": "071",
+          "stage": "",
+          "turn": "1",
+          "hp": "964158",
+          "def": "1720",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "hp": "825187",
+          "def": "1600",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "463",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4637220",
+          "def": "5450",
+          "coin": "421",
+          "es": "1280",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI002.png|static/es/SI221.png",
+            "title": "火外防禦75% ‧ 首回6顆-攻後2顆追擊風化"
+          }
+        },
+        {
+          "card": "853",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9645480",
+          "def": "10660",
+          "coin": "3672",
+          "chest": "4000",
+          "es": "666",
+          "ws": "10068",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI169.png|static/es/SI303.png|static/es/SI047.png",
+            "title": "(3回攻擊無效) ‧ 攻後心轉木"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1053",
+      "title": "因禍得福",
+      "cj": [],
+      "data": [
+        {
+          "card": "488",
+          "stage": "",
+          "hp": "806980",
+          "def": "1130",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "1005",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "1005",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1053",
+          "stage": "5",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8251780",
+          "def": "9130",
+          "coin": "5963",
+          "chest": "4000",
+          "es": "921",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI135.png|static/es/SI309.png|static/es/SI218.png",
+            "title": "中毒40% ‧ 首回攻後木心化血"
+          }
+        }
+      ]
+    },
+    {
+      "id": "840",
+      "title": "尋覓叛逆者",
+      "cj": [],
+      "data": [
+        {
+          "card": "838",
+          "stage": "1",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "474",
+          "note": "{{特性*離開*1}}",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "2",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "474",
+          "note": "{{特性*離開*1}}",
+          "esjson": null
+        },
+        {
+          "card": "840",
+          "stage": "3",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "474",
+          "note": "{{特性*離開*1}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

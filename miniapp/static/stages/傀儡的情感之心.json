@@ -1,0 +1,765 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "600",
+      "title": "爐心與機械 初級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}[[File:Owl.png|50px|link=]]：「聽說星宮支援的學者，派來了一位強大的戰將。」<br>",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "5",
+        "exp": "380"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "damage": "946",
+          "hp": "6868",
+          "coin": "29",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "568",
+          "hp": "3484",
+          "coin": "29",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "235",
+          "hp": "4519",
+          "coin": "29",
+          "lv": "1",
+          "item ": " 43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "487",
+          "hp": "5698",
+          "coin": "29",
+          "lv": "1",
+          "item ": " 43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "262",
+          "hp": "3556",
+          "coin": "29",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "600",
+          "stage": "5",
+          "damage": "1338",
+          "turn": "3",
+          "hp": "52428",
+          "def": "380",
+          "coin": "1343",
+          "item": "43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "title": "納默的戰偶 中級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{600|50}}{{600|_name}}：「……」<br>\n{{StoryDialog|B}}{{600|50}}{{600|_name}}：「……」<br>\n[[File:Owl.png|50px|link=]]：「他——『它』並不是人類，」<br>",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "6",
+        "exp": "780"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "damage": "4898",
+          "turn": "3(3)",
+          "hp": "35824",
+          "coin": "105",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "2924",
+          "turn": "2(2)",
+          "hp": "18152",
+          "coin": "105",
+          "lv": "2",
+          "item ": " 43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "1185",
+          "turn": "1(1)",
+          "hp": "23557",
+          "coin": "105",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "2501",
+          "turn": "2(2)",
+          "hp": "29714",
+          "coin": "105",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "1326",
+          "turn": "1(1)",
+          "hp": "18528",
+          "coin": "105",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "168",
+          "stage": "5",
+          "damage": "5358",
+          "turn": "3(3)",
+          "hp": "92843",
+          "coin": "157",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "165",
+          "stage": "",
+          "damage": "3992",
+          "hp": "87257",
+          "coin": "157",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "600",
+          "stage": "6",
+          "damage": "6373",
+          "turn": "3",
+          "hp": "249659",
+          "def": "380",
+          "coin": "2183",
+          "item": "43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "601",
+      "title": "重擊戰錘 高級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{601|50}}{{601|_name}}：「『警告，入侵者，即離開此域。』」<br>\n{{StoryDialog|B}}{{601|50}}{{601|_name}}：「『離開，或死。』」<br>",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "8",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "damage": "11242",
+          "turn": "3(3)",
+          "hp": "82306",
+          "coin": "227",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "6706",
+          "turn": "2(2)",
+          "hp": "41698",
+          "coin": "227",
+          "lv": "3",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "2710",
+          "turn": "1(1)",
+          "hp": "54118",
+          "coin": "227",
+          "lv": "3",
+          "es": "105",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI047.png",
+            "title": "心轉自身"
+          },
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "5734",
+          "turn": "2(2)",
+          "hp": "68266",
+          "coin": "227",
+          "lv": "3",
+          "es": "115",
+          "note": "",
+          "esjson": {
+            "img": "es/SI102.png",
+            "title": "4+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "3034",
+          "turn": "1(1)",
+          "hp": "42562",
+          "coin": "227",
+          "lv": "3",
+          "item ": " 43",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "653",
+          "stage": "4",
+          "damage": "13634",
+          "turn": "4(4)",
+          "hp": "18",
+          "coin": "1092",
+          "def ": " 1500000",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "169",
+          "stage": "7",
+          "damage": "8791",
+          "turn": "3(3)",
+          "hp": "252201",
+          "coin": "642",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "166",
+          "stage": "",
+          "damage": "6543",
+          "hp": "243044",
+          "coin": "642",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "601",
+          "stage": "8",
+          "damage": "10449",
+          "turn": "3",
+          "hp": "573212",
+          "def": "760",
+          "coin": "3863",
+          "item": "43",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "658",
+      "title": "巨蜂轟嗚  {{回合上限2|55}}",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "item": "43,10",
+        "battle": "20",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "1<br>2<br>4",
+          "damage": "4898",
+          "turn": "3(3)",
+          "hp": "35824",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "2924",
+          "turn": "2(2)",
+          "hp": "18152",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "1185",
+          "turn": "1(1)",
+          "hp": "23557",
+          "coin": "105",
+          "lv ": " 10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "2501",
+          "turn": "2(2)",
+          "hp": "29714",
+          "coin": "105",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "1326",
+          "turn": "1(1)",
+          "hp": "18528",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "646",
+          "stage": "7<br>8<br>10",
+          "damage": "11242",
+          "turn": "3(3)",
+          "hp": "82306",
+          "coin": "227",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "6706",
+          "turn": "2(2)",
+          "hp": "41698",
+          "coin": "227",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "2710",
+          "turn": "1(1)",
+          "hp": "54118",
+          "coin": "227",
+          "es": "105",
+          "lv ": " 10",
+          "note": "",
+          "esjson": {
+            "img": "es/SI047.png",
+            "title": "心轉自身"
+          },
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "5734",
+          "turn": "2(2)",
+          "hp": "68266",
+          "coin": "227",
+          "es": "115",
+          "note": "",
+          "esjson": {
+            "img": "es/SI102.png",
+            "title": "4+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "3034",
+          "turn": "1(1)",
+          "hp": "42562",
+          "coin": "227",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "646",
+          "stage": "13<br>15<br>18",
+          "damage": "15714",
+          "turn": "3(3)",
+          "hp": "115072",
+          "coin": "313",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "9372",
+          "turn": "2(2)",
+          "hp": "58296",
+          "coin": "313",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "3785",
+          "turn": "1(1)",
+          "hp": "75661",
+          "coin": "313",
+          "es": "105",
+          "note": "",
+          "esjson": {
+            "img": "es/SI047.png",
+            "title": "心轉自身"
+          },
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "8013",
+          "turn": "2(2)",
+          "hp": "95442",
+          "coin": "3130",
+          "es": "116",
+          "note": "",
+          "esjson": {
+            "img": "es/SI103.png",
+            "title": "5+Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "3034",
+          "turn": "1(1)",
+          "hp": "47684",
+          "coin": "253",
+          "es": "59",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png",
+            "title": "先攻"
+          },
+          "jd": ""
+        },
+        {
+          "card": "169",
+          "stage": "3",
+          "damage": "5229",
+          "turn": "3",
+          "hp": "158360",
+          "coin": "852",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "166",
+          "stage": "",
+          "damage": "1953",
+          "turn": "1",
+          "hp": "129540",
+          "coin": "852",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "152",
+          "stage": "5",
+          "damage": "2025",
+          "turn": "1",
+          "hp": "81380",
+          "coin": "242",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "154",
+          "stage": "",
+          "damage": "4769",
+          "turn": "2(2)",
+          "hp": "325660",
+          "coin": "730",
+          "es": "4",
+          "note": "",
+          "esjson": {
+            "img": "es/SI164.png",
+            "title": "召喚小怪"
+          },
+          "jd": ""
+        },
+        {
+          "card": "152",
+          "stage": "",
+          "damage": "2025",
+          "turn": "1",
+          "hp": "81380",
+          "coin": "242",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "282",
+          "stage": "6{{掉落*銀}}",
+          "damage": "900",
+          "hp": "15",
+          "coin": "300",
+          "lv": "1",
+          "def ": " 100000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "235",
+          "stage": "9",
+          "damage": "3918",
+          "turn": "1(1)",
+          "hp": "621570",
+          "def": "250",
+          "coin": "2562",
+          "es": "17",
+          "chest ": " 3000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI260.png",
+            "title": "反彈15%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "653",
+          "stage": "11",
+          "damage": "22352",
+          "turn": "5(5)",
+          "hp": "198100",
+          "def": "1000000",
+          "coin": "2562",
+          "es": "51",
+          "lv ": " 1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "282",
+          "stage": "12{{掉落*銀}}",
+          "damage": "900",
+          "hp": "15",
+          "coin": "300",
+          "lv": "1",
+          "def ": " 100000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "236",
+          "stage": "14",
+          "damage": "100",
+          "turn": "1(1)",
+          "hp": "1049810",
+          "def": "500",
+          "coin": "5123",
+          "es": "35",
+          "note": "",
+          "esjson": {
+            "img": "es/SI129.png",
+            "title": "扣血70%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "663",
+          "stage": "16",
+          "damage": "9643",
+          "turn": "2",
+          "hp": "684380",
+          "def": "210",
+          "coin": "2562",
+          "es": "48",
+          "note": "",
+          "esjson": {
+            "img": "es/SI212.png",
+            "title": "無限回復"
+          },
+          "jd": ""
+        },
+        {
+          "card": "662",
+          "stage": "",
+          "damage": "9243",
+          "turn": "2",
+          "hp": "709830",
+          "def": "280",
+          "coin": "2562",
+          "es": "48",
+          "note": "",
+          "esjson": {
+            "img": "es/SI212.png",
+            "title": "無限回復"
+          },
+          "jd": ""
+        },
+        {
+          "card": "668",
+          "stage": "17",
+          "damage": "4044",
+          "turn": "1(1)",
+          "hp": "1286980",
+          "def": "470",
+          "coin": "5123",
+          "es": "279",
+          "note": "",
+          "esjson": {
+            "img": "es/SI105.png",
+            "title": "7+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "372",
+          "stage": "19",
+          "damage": "13158",
+          "turn": "2(2)",
+          "hp": "1413570",
+          "def": "580",
+          "coin": "100",
+          "es": "107",
+          "note": "",
+          "esjson": {
+            "img": "es/SI047.png",
+            "title": "火轉相剋"
+          },
+          "jd": ""
+        },
+        {
+          "card": "658",
+          "stage": "20",
+          "damage": "25324",
+          "turn": "2(2)",
+          "hp": "2169820",
+          "def": "1520",
+          "coin": "5123",
+          "chest": "3000",
+          "es": "305",
+          "note": "",
+          "esjson": {
+            "img": "es/SI109.png",
+            "title": "20+Combo盾"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

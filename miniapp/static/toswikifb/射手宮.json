@@ -1,0 +1,254 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "322",
+      "title": "白熱化的戰況",
+      "cj": [],
+      "data": [
+        {
+          "card": "321",
+          "stage": "1",
+          "damage": "6923",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1000",
+          "def": "330",
+          "coin": "6",
+          "es": "302",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI094.png",
+            "title": "首消4Combo盾"
+          }
+        },
+        {
+          "card": "321",
+          "stage": "",
+          "damage": "6923",
+          "turn": "2{{初始CD*3}}",
+          "hp": "1000",
+          "def": "330",
+          "coin": "6",
+          "es": "301",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI093.png",
+            "title": "首消3Combo盾"
+          }
+        },
+        {
+          "card": "321",
+          "stage": "2",
+          "damage": "6923",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1000",
+          "def": "330",
+          "coin": "6",
+          "es": "301",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI093.png",
+            "title": "首消3Combo盾"
+          }
+        },
+        {
+          "card": "321",
+          "stage": "",
+          "damage": "6923",
+          "turn": "2{{初始CD*3}}",
+          "hp": "1000",
+          "def": "330",
+          "coin": "6",
+          "es": "303",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png",
+            "title": "首消5Combo盾"
+          }
+        },
+        {
+          "card": "321",
+          "stage": "",
+          "damage": "6923",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1000",
+          "def": "330",
+          "coin": "6",
+          "es": "302",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI094.png",
+            "title": "首消4Combo盾"
+          }
+        },
+        {
+          "card": "322",
+          "stage": "3",
+          "damage": "5085",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5000",
+          "def": "680",
+          "coin": "11",
+          "chest": "2000",
+          "es": "304",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png",
+            "title": "首消6Combo盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "839",
+      "title": "傾聽內心細語",
+      "cj": [],
+      "data": [
+        {
+          "card": "835",
+          "stage": "1",
+          "damage": "3940",
+          "turn": "3",
+          "hp": "3685630",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "2734",
+          "turn": "2",
+          "hp": "3477860",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "2",
+          "damage": "2734",
+          "turn": "2",
+          "hp": "3477860",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "2813",
+          "turn": "2",
+          "hp": "3129300",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "60004",
+          "stage": "3",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "chest": "2000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "425",
+      "title": "小宇宙的共鳴",
+      "cj": [],
+      "data": [
+        {
+          "card": "60004",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        },
+        {
+          "card": "425",
+          "stage": "2",
+          "damage": "20000",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6000000",
+          "def": "9400",
+          "coin": "300",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png",
+            "title": "強化盾"
+          }
+        },
+        {
+          "card": "425",
+          "stage": "3",
+          "damage": "20000",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6000000",
+          "def": "9400",
+          "coin": "300",
+          "es": "1874",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI181.png",
+            "title": "水屬高級拼圖盾"
+          }
+        },
+        {
+          "card": "425",
+          "stage": "4",
+          "damage": "20000",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6000000",
+          "def": "9400",
+          "coin": "300",
+          "es": "491",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png",
+            "title": "凍結圍城"
+          }
+        },
+        {
+          "card": "425",
+          "stage": "5",
+          "damage": "20000",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6000000",
+          "def": "9400",
+          "coin": "300",
+          "chest": "4000",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        }
+      ]
+    }
+  ]
+}

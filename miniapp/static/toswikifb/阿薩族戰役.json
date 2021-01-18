@@ -1,0 +1,261 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1415",
+      "title": "洞識埋伏的觸覺",
+      "cj": [],
+      "data": [
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "466574",
+          "def": "440",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1411",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "4380",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1415",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7363280",
+          "def": "7560",
+          "coin": "4380",
+          "chest": "4000",
+          "es": "1585",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png|static/es/SI305.png|static/es/SI236.png",
+            "title": "首消暗追擊零化 ‧ 暗電擊2顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "509",
+      "title": "索爾的實力",
+      "cj": [],
+      "data": [
+        {
+          "card": "837",
+          "stage": "1",
+          "turn": "3{{初始CD*2}}",
+          "hp": "2864820",
+          "def": "2490",
+          "coin": "208",
+          "es": "116",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI103.png",
+            "title": "5+Combo盾"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "3{{初始CD*4}}",
+          "hp": "2864820",
+          "def": "2490",
+          "coin": "208",
+          "es": "116",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI103.png",
+            "title": "5+Combo盾"
+          }
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "2864820",
+          "def": "2490",
+          "coin": "208",
+          "es": "116",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI103.png",
+            "title": "5+Combo盾"
+          }
+        },
+        {
+          "card": "509",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "400000",
+          "def": "7650",
+          "coin": "5963",
+          "chest": "4000",
+          "es": "323",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘20%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "452",
+      "title": "神鎚的踪影",
+      "cj": [],
+      "data": [
+        {
+          "card": "079",
+          "stage": "",
+          "hp": "941588",
+          "def": "2190",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "083",
+          "stage": "",
+          "hp": "976584",
+          "def": "2130",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1534",
+          "stage": "",
+          "turn": "1",
+          "hp": "490322",
+          "def": "3540",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "454",
+          "stage": "5",
+          "turn": "3{{初始CD*3}}",
+          "hp": "6358920",
+          "def": "5780",
+          "coin": "10",
+          "es": "1319",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "8顆風化"
+          }
+        },
+        {
+          "card": "452",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6293460",
+          "def": "5690",
+          "coin": "10",
+          "chest": "8000",
+          "es": "708",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI188.png",
+            "title": "附加消除重置 ‧ 越攻越強"
+          }
+        }
+      ]
+    }
+  ]
+}

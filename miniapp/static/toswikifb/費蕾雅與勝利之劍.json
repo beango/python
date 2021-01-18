@@ -1,0 +1,196 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1022",
+      "title": "費蕾雅的眼淚",
+      "cj": [],
+      "data": [
+        {
+          "card": "097",
+          "stage": "",
+          "turn": "1",
+          "hp": "953590",
+          "def": "1730",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "067",
+          "stage": "",
+          "turn": "3",
+          "hp": "836438",
+          "def": "1620",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "472363",
+          "def": "3180",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "508",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "5123",
+          "es": "1502",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI008.png|static/es/SI161.png",
+            "title": "(7回木攻2倍) ‧ 自殺"
+          }
+        },
+        {
+          "card": "1022",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14278950",
+          "def": "22890",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1461",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI047.png|static/es/SI011.png",
+            "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 首消水傷害吸收"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1022",
+      "title": "洛基的挑釁",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "",
+          "hp": "504682",
+          "def": "2060",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "966",
+          "stage": "",
+          "turn": "2",
+          "hp": "782415",
+          "def": "2470",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1022",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3865980",
+          "def": "22890",
+          "coin": "0",
+          "es": "1401",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI236.png|static/es/SI113.png|static/es/SI233.png",
+            "title": "水電擊2顆 ‧ 首消水追擊零化 ‧ 回復力減弱90%"
+          }
+        },
+        {
+          "card": "1022",
+          "stage": "",
+          "turn": "1",
+          "hp": "8743230",
+          "def": "22890",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1266",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png|static/es/SI188.png",
+            "title": "首消6+Combo盾 ‧ 初怒-連擊"
+          }
+        }
+      ]
+    },
+    {
+      "id": "520",
+      "title": "費雷的榮譽",
+      "cj": [],
+      "data": [
+        {
+          "card": "101",
+          "stage": "",
+          "hp": "841763",
+          "def": "1640",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "hp": "825187",
+          "def": "1600",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "520",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5365420",
+          "def": "12140",
+          "coin": "100",
+          "chest": "8000",
+          "es": "1712",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "3顆風化15000"
+          }
+        }
+      ]
+    }
+  ]
+}

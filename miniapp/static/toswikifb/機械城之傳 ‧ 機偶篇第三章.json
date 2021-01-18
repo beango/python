@@ -1,0 +1,161 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1747",
+      "title": "機偶篇 ‧ 第三章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1746",
+          "stage": "1",
+          "turn": "3{{初始CD*3}}",
+          "hp": "9688720",
+          "def": "80000",
+          "coin": "209",
+          "lv": "1",
+          "drop": "646",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1750",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9534100",
+          "def": "2460",
+          "coin": "209",
+          "lv": "1",
+          "drop": "650",
+          "es": "1911",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI274.png",
+            "title": "突擊10%-(3回致命步伐1000)"
+          }
+        },
+        {
+          "card": "1747",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9565320",
+          "def": "2580",
+          "coin": "209",
+          "lv": "1",
+          "drop": "647",
+          "es": "498",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "隨機縱向燃燒10%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1369",
+      "title": "機偶篇 ‧ 第三章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1370",
+          "stage": "1{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5680000",
+          "def": "17500",
+          "coin": "0",
+          "es": "323",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘20%"
+          }
+        },
+        {
+          "card": "1370",
+          "stage": "",
+          "turn": "1",
+          "hp": "12058700",
+          "def": "17500",
+          "coin": "6383",
+          "es": "1596",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI304.png|static/es/SI236.png|static/es/SI167.png",
+            "title": "首回全光電擊 ‧ 連擊"
+          }
+        },
+        {
+          "card": "1369",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6220000",
+          "def": "19300",
+          "coin": "0",
+          "es": "323",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘20%"
+          }
+        },
+        {
+          "card": "1369",
+          "stage": "",
+          "turn": "1",
+          "hp": "12536500",
+          "def": "19300",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "2170",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI169.png|static/es/SI221.png|static/es/SI254.png",
+            "title": "(5回攻擊無效) ‧ 攻後側行風化15000 ‧ 強化盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "title": "機偶篇 ‧ 第三章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1369",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1367",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    }
+  ]
+}

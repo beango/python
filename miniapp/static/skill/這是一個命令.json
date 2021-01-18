@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "這是一個命令",
+  "effect": "3 回合內<br>I. 水、火、木符石兼具<br>⇒ 光及暗符石效果<br>II.「綾波零與EVA零號機」及<br>&nbsp;&nbsp;&nbsp;&nbsp;「碇真嗣與渚薰與<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EVA13號機」<br>⇒ 攻擊力減至 0<br>III. 將減去攻擊力的 3 倍<br>⇒ 加至自身攻擊力",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2540"
+}

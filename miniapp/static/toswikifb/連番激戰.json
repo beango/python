@@ -1,0 +1,374 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "875",
+      "title": "逃出生天",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "1~4",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "712",
+      "title": "喚醒同伴",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "830",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "800000",
+          "def": "20500",
+          "coin": "0",
+          "es": "1599",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI139.png",
+            "title": "循環累積30+相剋符石盾 ‧ 越扣越強25%"
+          }
+        },
+        {
+          "card": "830",
+          "stage": "",
+          "turn": "1",
+          "hp": "9063480",
+          "def": "20500",
+          "coin": "7232",
+          "es": "284",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI212.png|static/es/SI188.png",
+            "title": "無限回復 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "712",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2400000",
+          "def": "24360",
+          "coin": "0",
+          "es": "1309",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI257.png|static/es/SI229.png",
+            "title": "突擊25% ‧ 25%盾 ‧ 攻後三重燃燒10%"
+          }
+        },
+        {
+          "card": "712",
+          "stage": "",
+          "turn": "1",
+          "hp": "15284900",
+          "def": "24360",
+          "coin": "7600",
+          "es": "1676",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI303.png|static/es/SI221.png|static/es/SI068.png",
+            "title": "附加消除 ‧ 首回全木風化3000 ‧ 獵魔"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1194",
+      "title": "阻止玩具們",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1195",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5054890",
+          "def": "18820",
+          "coin": "125",
+          "es": "1741",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI215.png|static/es/SI183.png",
+            "title": "黑白符石 ‧ 始終盾"
+          }
+        },
+        {
+          "card": "1193",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8392100",
+          "def": "20920",
+          "coin": "0",
+          "es": "342",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png",
+            "title": "強化盾-連續反擊50%"
+          }
+        },
+        {
+          "card": "1193",
+          "stage": "",
+          "turn": "1",
+          "hp": "4821850",
+          "def": "20920",
+          "coin": "125",
+          "es": "1113",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI303.png|static/es/SI047.png|static/es/SI115.png",
+            "title": "2秒轉珠 ‧ 隨機轉木 ‧ 首消木追擊零化"
+          }
+        },
+        {
+          "card": "1194",
+          "stage": "6{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7416250",
+          "def": "19150",
+          "coin": "0",
+          "es": "1900",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI025.png|static/es/SI181.png",
+            "title": "暗強化初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "1194",
+          "stage": "",
+          "turn": "1",
+          "hp": "18917000",
+          "def": "19150",
+          "coin": "125",
+          "es": "1750",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

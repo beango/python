@@ -1,0 +1,7 @@
+{
+  "no": "3478",
+  "title": "CD1 ‧ 先攻-二五直行電擊-電擊越強 ‧ 強化光暗盾-限 ‧ 無視減傷",
+  "effect": "敵人首次攻擊變為<font color=yellow> CD 1</font>。<br><br>首回合<font color=yellow>優先攻擊</font> 1 次，受此攻擊後，<font color=yellow>電擊 2 直行</font>的符石。<br><br>敵人攻擊次數愈多，電擊的符石愈多；如有符石被電擊而未被消除，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石。<br><br>需同時符合以下兩個條件，才會對敵人造成攻擊傷害：同時<font color=yellow>消除光強化及暗強化符石；不能首批消除水、火或木符石</font>。<br><br>無視所有減傷效果和意志技能",
+  "content": "回合變更,先攻,電擊,指定屬性盾,無視減傷",
+  "icon": "es/SI159.png|es/SI160.png|es/SI236.png|es/SI245.png|es/SI251.png"
+}

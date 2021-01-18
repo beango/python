@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "火光移魂",
+  "effect": "火符石轉化為光符石",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "8019",
+  "rpet": ""
+}

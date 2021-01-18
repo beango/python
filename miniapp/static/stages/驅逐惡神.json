@@ -1,0 +1,122 @@
+{
+  "openhis": [
+    {
+      "start": "2020/12/7",
+      "end": "2020/12/13",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
+  "cj": [],
+  "stages": [
+    {
+      "id": "2578",
+      "title": "生機重臨 困難",
+      "note": "<span style=\"font-size:12pt; color:yellow\">限時︰5 分鐘</span><br>",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sp": "1",
+        "battle": "20",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "628",
+          "stage": "1",
+          "damage": "20958",
+          "turn": "2(1)",
+          "hp": "13453850",
+          "def": "15900",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "463",
+          "stage": "",
+          "damage": "21036",
+          "turn": "2(2)",
+          "hp": "13275140",
+          "def": "16500",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "2578",
+          "stage": "20",
+          "damage": "27521",
+          "turn": "1(1)",
+          "hp": "863274290",
+          "def": "970000",
+          "coin": "",
+          "es": "4381",
+          "note": "",
+          "esjson": {
+            "img": "es/SI002.png|es/SI303.png|es/SI047.png|es/SI221.png|es/SI145.png",
+            "title": "火攻盾 ‧ 3顆轉木風化9000 ‧ 首消木傷害化血-受傷反饋100%"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "2578",
+      "title": "生機重臨 一般",
+      "note": "<span style=\"font-size:12pt; color:yellow\">限時︰5 分鐘</span><br>",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sp": "2",
+        "battle": "20",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "628",
+          "stage": "1",
+          "damage": "14041",
+          "turn": "2(1)",
+          "hp": "8982580",
+          "def": "15900",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "463",
+          "stage": "",
+          "damage": "14094",
+          "turn": "2(2)",
+          "hp": "8896930",
+          "def": "16500",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "2578",
+          "stage": "20",
+          "damage": "19637",
+          "turn": "1(1)",
+          "hp": "586308780",
+          "def": "970000",
+          "coin": "",
+          "es": "4380",
+          "note": "",
+          "esjson": {
+            "img": "es/SI002.png|es/SI303.png|es/SI047.png|es/SI221.png|es/SI145.png",
+            "title": "火外防禦75% ‧ 2顆轉木風化9000 ‧ 首消木傷害化血-受傷反饋100%"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

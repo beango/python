@@ -1,0 +1,261 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "387",
+      "title": "魔族的詛咒",
+      "cj": [],
+      "data": [
+        {
+          "card": "510",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        },
+        {
+          "card": "067",
+          "stage": "2~3{{隨機*2~3}}",
+          "turn": "1",
+          "hp": "953590",
+          "def": "1730",
+          "lv": "15",
+          "coin": "291",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "329",
+          "stage": "",
+          "turn": "3",
+          "hp": "836438",
+          "def": "1620",
+          "lv": "15",
+          "drop": "097",
+          "coin": "277",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "2",
+          "hp": "562974",
+          "def": "2630",
+          "lv": "15",
+          "coin": "566",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "387",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8297380",
+          "def": "4920",
+          "coin": "600",
+          "chest": "4000",
+          "es": "1462",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI228.png|static/es/SI131.png",
+            "title": "附加消除重置 ‧ 四角黏附 ‧ 扣血90%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "339",
+      "title": "虛假的指標",
+      "cj": [],
+      "data": [
+        {
+          "card": "077",
+          "stage": "",
+          "turn": "4",
+          "hp": "980982",
+          "def": "2140",
+          "lv": "15",
+          "coin": "283",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "lv": "15",
+          "coin": "566",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "472363",
+          "def": "3180",
+          "lv": "15",
+          "coin": "474",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "es": "35",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI129.png",
+            "title": "扣血70%"
+          }
+        },
+        {
+          "card": "066",
+          "stage": "",
+          "turn": "9{{初始CD*9}}",
+          "hp": "98651",
+          "def": "10",
+          "coin": "280",
+          "note": "{{特性*離開*9}}",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "es": "35",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI129.png",
+            "title": "扣血70%"
+          }
+        },
+        {
+          "card": "339",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3429350",
+          "def": "7180",
+          "coin": "493",
+          "chest": "4000",
+          "es": "494",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png",
+            "title": "四重凍結"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1110",
+      "title": "兩軍相會",
+      "cj": [],
+      "data": [
+        {
+          "card": "085",
+          "stage": "",
+          "turn": "4",
+          "hp": "962315",
+          "def": "2090",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1524690",
+          "def": "1520",
+          "coin": "209",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "1524690",
+          "def": "1520",
+          "coin": "209",
+          "es": "39",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png|static/es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          }
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1524690",
+          "def": "1520",
+          "coin": "209",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "585",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4597160",
+          "def": "3840",
+          "coin": "249",
+          "es": "876",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI254.png",
+            "title": "越攻越強 ‧ 強化盾-非強化傷害吸收"
+          }
+        },
+        {
+          "card": "1110",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8935240",
+          "def": "19240",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "860",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI345.png|static/es/SI122.png",
+            "title": "剋獸-防禦80%-獸側技能封鎖"
+          }
+        }
+      ]
+    }
+  ]
+}

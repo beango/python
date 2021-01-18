@@ -1,0 +1,410 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1562",
+      "title": "甦醒的過去 Extra - 1",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-3",
+          "damage": "19323",
+          "turn": "3",
+          "hp": "25769820",
+          "def": "26300",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "damage": "18698",
+          "turn": "3",
+          "hp": "26037530",
+          "def": "27900",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "damage": "19761",
+          "turn": "3",
+          "hp": "25439820",
+          "def": "26200",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1106",
+          "stage": "4",
+          "damage": "15488",
+          "turn": "1{{初始CD*1}}",
+          "hp": "318705360",
+          "def": "2780000",
+          "coin": "",
+          "es": "1379",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI338.png",
+            "title": "先攻 ‧ 疊加攻擊-木弱化鎖定20%"
+          }
+        },
+        {
+          "card": "1102",
+          "stage": "5",
+          "damage": "41282",
+          "turn": "1{{初始CD*1}}",
+          "hp": "285423580",
+          "def": "1974000",
+          "coin": "",
+          "es": "1385",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI219.png|static/es/SI229.png",
+            "title": "攻前盾 ‧ 首回凍結15顆 ‧ 攻後冰火轉化20%"
+          }
+        },
+        {
+          "card": "1110",
+          "stage": "6",
+          "damage": "24308",
+          "turn": "1{{初始CD*1}}",
+          "hp": "364128750",
+          "def": "2030000",
+          "coin": "",
+          "es": "884",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI254.png|static/es/SI221.png",
+            "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
+          }
+        },
+        {
+          "card": "1562",
+          "stage": "7{{雙血}}",
+          "damage": "30674",
+          "turn": "1{{初始CD*1}}",
+          "hp": "303781780",
+          "def": "3196500",
+          "coin": "",
+          "es": "1035",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI067.png|static/es/SI122.png",
+            "title": "附加消除 ‧ 3倍獵神-禁錮"
+          }
+        },
+        {
+          "card": "1562",
+          "stage": "",
+          "damage": "27549",
+          "turn": "1",
+          "hp": "597805630",
+          "def": "3196500",
+          "coin": "",
+          "es": "1194",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI224.png|static/es/SI106.png",
+            "title": "突擊60% ‧ 攻後隱藏12顆 ‧ 8+Combo追擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1625",
+      "title": "甦醒的過去 Extra - 2",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "1-3",
+          "damage": "6847",
+          "turn": "1",
+          "hp": "25431080",
+          "def": "16200",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "14236",
+          "turn": "2",
+          "hp": "37805290",
+          "def": "25800",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "damage": "6654",
+          "turn": "1",
+          "hp": "26408230",
+          "def": "17300",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "damage": "21083",
+          "turn": "3",
+          "hp": "46214730",
+          "def": "35500",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "damage": "14371",
+          "turn": "2",
+          "hp": "37153690",
+          "def": "26900",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1624",
+          "stage": "4",
+          "damage": "24492",
+          "turn": "1{{初始CD*1}}",
+          "hp": "368787230",
+          "def": "2563000",
+          "coin": "",
+          "es": "1685",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png|static/es/SI015.png|static/es/SI069.png",
+            "title": "首消全水盾 ‧ 首消暗傷害吸收 ‧ 獵人"
+          }
+        },
+        {
+          "card": "1625",
+          "stage": "5{{三血}}",
+          "damage": "10040",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5000000",
+          "def": "7123000",
+          "coin": "",
+          "es": "1402",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI217.png|static/es/SI188.png",
+            "title": "溢補盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "1625",
+          "stage": "",
+          "damage": "31836",
+          "turn": "1",
+          "hp": "471836980",
+          "def": "7123000",
+          "coin": "",
+          "es": "1403",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI302.png|static/es/SI236.png|static/es/SI114.png",
+            "title": "木光技能封鎖 ‧ 火電擊2顆 ‧ 首消火追擊零化"
+          }
+        },
+        {
+          "card": "1625",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "635975850",
+          "def": "7123000",
+          "coin": "",
+          "es": "2224",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI020.png|static/es/SI215.png|static/es/SI132.png|static/es/SI168.png|static/es/SI124.png",
+            "title": "敵轉暗 ‧ 黑白符石 ‧ CD3-同歸於盡 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6167",
+      "title": "甦醒的過去 Extra - 3",
+      "cj": [],
+      "data": [
+        {
+          "card": "646",
+          "stage": "1-3",
+          "damage": "29672",
+          "turn": "3{{初始CD*3}}",
+          "hp": "78870360",
+          "def": "93000",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "21448",
+          "turn": "2{{初始CD*2}}",
+          "hp": "53970530",
+          "def": "84000",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "10531",
+          "turn": "1{{初始CD*1}}",
+          "hp": "37253980",
+          "def": "97000",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "20694",
+          "turn": "2{{初始CD*2}}",
+          "hp": "55410830",
+          "def": "86000",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "10848",
+          "turn": "1{{初始CD*1}}",
+          "hp": "36408930",
+          "def": "90000",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1347",
+          "stage": "4",
+          "damage": "20369",
+          "turn": "1{{初始CD*1}}",
+          "hp": "349423690",
+          "def": "3980000",
+          "coin": "",
+          "es": "2173",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI047.png|static/es/SI188.png",
+            "title": "隨機轉火 ‧ 攻後火縱橫輪轉 ‧ 連擊趨狂"
+          }
+        },
+        {
+          "card": "1748",
+          "stage": "5",
+          "damage": "30698",
+          "turn": "2{{初始CD*2}}",
+          "hp": "194338760",
+          "def": "361000",
+          "coin": "",
+          "es": "895",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI212.png",
+            "title": "3倍士氣高昂-無限回復"
+          }
+        },
+        {
+          "card": "1746",
+          "stage": "",
+          "damage": "58136",
+          "turn": "3{{初始CD*3}}",
+          "hp": "195369780",
+          "def": "800000",
+          "coin": "",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "1349",
+          "stage": "6",
+          "damage": "19712",
+          "turn": "1{{初始CD*1}}",
+          "hp": "436408390",
+          "def": "4170000",
+          "coin": "",
+          "es": "2134",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI122.png|static/es/SI188.png",
+            "title": "同屬防禦90% ‧ 人類禁錮 ‧ 越戰越強-金"
+          }
+        },
+        {
+          "card": "6167",
+          "stage": "7{{三血}}",
+          "damage": "35416",
+          "turn": "1{{初始CD*1}}",
+          "hp": "382408580",
+          "def": "5950000",
+          "coin": "",
+          "es": "2470",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI224.png|static/es/SI014.png|static/es/SI260.png|static/es/SI251.png",
+            "title": "先攻-縱橫隱藏 ‧ 首消光傷害吸收-反擊100% ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "6167",
+          "stage": "",
+          "damage": "47123",
+          "turn": "1",
+          "hp": "157083970",
+          "def": "5950000",
+          "coin": "",
+          "es": "2455",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI304.png|static/es/SI168.png|static/es/SI124.png",
+            "title": "[4回攻擊零化] ‧ 光引爆追擊 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "6167",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "797052880",
+          "def": "5950000",
+          "coin": "",
+          "es": "2467",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 扣血100% ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

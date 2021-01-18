@@ -1,0 +1,979 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "726",
+      "title": "暴風雪中的倩影 初級",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "4",
+        "exp": "380"
+      },
+      "data": [
+        {
+          "card": "691",
+          "stage": "",
+          "damage": "595",
+          "hp": "8119",
+          "def": "110",
+          "coin": "29",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "692",
+          "stage": "",
+          "damage": "1099",
+          "hp": "5941",
+          "def": "240",
+          "coin": "29",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "693",
+          "stage": "",
+          "damage": "208",
+          "hp": "9748",
+          "def": "20",
+          "coin": "29",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "694",
+          "stage": "",
+          "damage": "622",
+          "hp": "7597",
+          "def": "130",
+          "coin": "29",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "695",
+          "stage": "",
+          "damage": "388",
+          "hp": "3169",
+          "def": "160",
+          "coin": "29",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "736",
+          "stage": "",
+          "damage": "500",
+          "hp": "16",
+          "coin": "600",
+          "lv": "1",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "726",
+          "stage": "4",
+          "damage": "1019",
+          "turn": "2",
+          "hp": "47317",
+          "def": "230",
+          "coin": "503",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "726",
+      "title": "被冰寒所包藏的心 中級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{726|50}}{{726|name}}：「那種從心中滿溢而出的感覺到底是什麼來的？」<br>\n{{726|50}}{{726|name}}：「溫暖但若得若失……」<br>\n{{726|50}}{{726|name}}：「如果我能得到更多，是否就會知道這是什麼的一回事？」<br/>\n{{StoryDialog|B}}{{726|50}}{{726|name}}：「那份感覺好像又快要消失不見了！」<br>\n{{636|50}}吹雪：「周遭的空氣變很重、很冷！」<br>\n{{638|50}}茂晴：「她的妖力正在增強……」<br>\n{{638|50}}茂晴：「『會是和那份執念有關嗎？』」<br/>\n{{StoryDialog|C}}{{726|50}}{{726|name}}：「不夠……我依然覺得不夠！」<br>",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "6",
+        "exp": "780"
+      },
+      "data": [
+        {
+          "card": "691",
+          "stage": "",
+          "damage": "1895",
+          "hp": "26139",
+          "def": "110",
+          "coin": "69",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "692",
+          "stage": "",
+          "damage": "3519",
+          "hp": "19121",
+          "def": "240",
+          "coin": "69",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "693",
+          "stage": "",
+          "damage": "648",
+          "hp": "31388",
+          "coin": "69",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "694",
+          "stage": "",
+          "damage": "1982",
+          "hp": "24457",
+          "def": "130",
+          "coin": "69",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "695",
+          "stage": "",
+          "damage": "1228",
+          "hp": "10189",
+          "def": "160",
+          "coin": "69",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "736",
+          "stage": "",
+          "damage": "1500",
+          "hp": "16",
+          "coin": "600",
+          "lv": "1",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "696",
+          "stage": "5",
+          "damage": "5211",
+          "turn": "3",
+          "hp": "154378",
+          "def": "170",
+          "coin": "125",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "726",
+          "stage": "6",
+          "damage": "4774",
+          "turn": "2",
+          "hp": "215251",
+          "def": "230",
+          "coin": "125",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "726",
+      "title": "冷與溫的交錯 高級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{638|50}}茂晴：「『到底是什麼令那女妖如此執著？』」<br>\n{{636|50}}吹雪：「小師弟？在發什麼呆了？」<br>\n{{638|50}}茂晴：「不，沒什麼，只是在想著整件事的因由。」<br/>\n{{StoryDialog|B}}{{726|50}}{{726|name}}：「那份感覺總是忽然在心中湧現，但又無法挽留……」<br>\n{{726|50}}{{726|name}}：「向來我只能感覺到冰冷，唯有那股感覺讓我感到一絲絲溫暖……」<br>\n{{726|50}}{{726|name}}：「我對它早已無法放手、欲罷不能……！」<br/>\n{{StoryDialog|C}}{{638|50}}茂晴：「是愛驅使她這樣做嗎？」<br>\n{{636|50}}吹雪：「愛也許真會使人盲目……」<br>",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "9",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "691",
+          "stage": "",
+          "damage": "4495",
+          "hp": "62179",
+          "coin": "149",
+          "lv": "3",
+          "chest": "3000",
+          "es": "397",
+          "note": "",
+          "esjson": {
+            "img": "es/SI011.png",
+            "title": "隨機轉水"
+          },
+          "jd": ""
+        },
+        {
+          "card": "692",
+          "stage": "",
+          "damage": "7779",
+          "hp": "45481",
+          "coin": "149",
+          "lv": "3",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "693",
+          "stage": "",
+          "damage": "98",
+          "hp": "74668",
+          "coin": "149",
+          "lv": "3",
+          "chest": "3000",
+          "es": "509",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png",
+            "title": "觸怒"
+          },
+          "jd": ""
+        },
+        {
+          "card": "694",
+          "stage": "",
+          "damage": "4702",
+          "hp": "58177",
+          "coin": "149",
+          "lv": "3",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "695",
+          "stage": "",
+          "damage": "2908",
+          "hp": "24229",
+          "coin": "149",
+          "lv": "3",
+          "chest": "3000",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "736",
+          "stage": "",
+          "damage": "3000",
+          "hp": "16",
+          "coin": "600",
+          "lv": "1",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "581",
+          "stage": "4",
+          "damage": "8019",
+          "hp": "264373",
+          "coin": "189",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "583",
+          "stage": "",
+          "damage": "7479",
+          "hp": "304323",
+          "coin": "189",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "696",
+          "stage": "8",
+          "damage": "7819",
+          "turn": "3",
+          "hp": "321474",
+          "def": "340",
+          "coin": "3863",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "726",
+          "stage": "9",
+          "damage": "5634",
+          "turn": "2",
+          "hp": "523140",
+          "def": "530",
+          "coin": "3863",
+          "chest": "3000",
+          "es": "490",
+          "note": "",
+          "esjson": {
+            "img": "es/SI219.png",
+            "title": "雙重凍結"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "727",
+      "title": "愛的真諦  {{回合上限2|60}}",
+      "note": "",
+      "story": "{{故事|{{StoryDialog|B}}{{636|50}}吹雪：「夠了！就算你再這樣做也不會得到你想要的愛情！」<br>\n{{638|50}}茂晴：「你所想要的感覺，只有是你真心喜愛的那人才可以給你……」<br>\n{{638|50}}茂晴：「那些曇花一現的愛情，你也不會想要吧？」<br>\n{{727|50}}{{727|name}}：「『愛情……？我一直在追求的就叫愛情嗎？』」<br/>\n{{StoryDialog|C}}{{727|50}}{{727|name}}：「自把他從風雪中救起，我心中才逐漸浮現『愛情』。」<br>\n{{727|50}}{{727|name}}：「只有他會對我不離不棄……」<br>",
+      "cj": [],
+      "info": {
+        "item": "52,10",
+        "battle": "14",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "691",
+          "stage": "1-2{{隨機*2~3}}",
+          "damage": "1895",
+          "hp": "26139",
+          "def": "110",
+          "coin": "69",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "692",
+          "stage": "",
+          "damage": "3519",
+          "hp": "19121",
+          "def": "240",
+          "coin": "69",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "693",
+          "stage": "",
+          "damage": "648",
+          "hp": "31388",
+          "coin": "69",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "694",
+          "stage": "",
+          "damage": "1982",
+          "hp": "24457",
+          "def": "130",
+          "coin": "69",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "695",
+          "stage": "",
+          "damage": "1228",
+          "hp": "10189",
+          "def": "160",
+          "coin": "69",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "453",
+          "stage": "3",
+          "damage": "4176",
+          "turn": "3",
+          "hp": "142942",
+          "def": "320",
+          "coin": "43",
+          "chest": "3000",
+          "es": "5",
+          "note": "",
+          "esjson": {
+            "img": "es/SI163.png",
+            "title": "雙體共生"
+          },
+          "jd": ""
+        },
+        {
+          "card": "458",
+          "stage": "",
+          "damage": "2534",
+          "hp": "138919",
+          "def": "350",
+          "coin": "43",
+          "es": "5",
+          "note": "",
+          "esjson": {
+            "img": "es/SI163.png",
+            "title": "雙體共生"
+          },
+          "jd": ""
+        },
+        {
+          "card": "691",
+          "stage": "4{{掉落*銀}}",
+          "num": "3",
+          "damage": "1895",
+          "hp": "26139",
+          "def": "110",
+          "coin": "69",
+          "lv": "10",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "696",
+          "stage": "5",
+          "damage": "7374",
+          "turn": "3",
+          "hp": "349253",
+          "def": "340",
+          "coin": "5123",
+          "es": "137",
+          "note": "",
+          "esjson": {
+            "img": "es/SI003.png",
+            "title": "木外防禦75%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "280",
+          "stage": "6{{掉落*銀}}",
+          "damage": "900",
+          "hp": "15",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "691",
+          "stage": "7{{隨機*3}}",
+          "damage": "4495",
+          "hp": "62179",
+          "coin": "149",
+          "es": "397",
+          "note": "",
+          "esjson": {
+            "img": "es/SI011.png",
+            "title": "隨機轉水"
+          },
+          "jd": ""
+        },
+        {
+          "card": "692",
+          "stage": "",
+          "damage": "7779",
+          "hp": "45481",
+          "coin": "149",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "693",
+          "stage": "",
+          "damage": "98",
+          "hp": "74668",
+          "coin": "149",
+          "es": "509",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png",
+            "title": "觸怒"
+          },
+          "jd": ""
+        },
+        {
+          "card": "694",
+          "stage": "",
+          "damage": "4702",
+          "hp": "58177",
+          "coin": "149",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "695",
+          "stage": "",
+          "damage": "2908",
+          "hp": "24229",
+          "coin": "149",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "526",
+          "stage": "8",
+          "damage": "7941",
+          "hp": "435203",
+          "coin": "746",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "530",
+          "stage": "",
+          "damage": "2897",
+          "hp": "402052",
+          "coin": "746",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "es/SI254.png",
+            "title": "強化盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "280",
+          "stage": "9{{掉落*銀}}",
+          "damage": "900",
+          "hp": "15",
+          "coin": "300",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "691",
+          "stage": "10{{掉落*銀}}",
+          "num": "2",
+          "damage": "7745",
+          "hp": "107229",
+          "coin": "249",
+          "lv": "10",
+          "es": "397",
+          "note": "",
+          "esjson": {
+            "img": "es/SI011.png",
+            "title": "隨機轉水"
+          },
+          "jd": ""
+        },
+        {
+          "card": "691",
+          "stage": "11{{隨機*3}}",
+          "damage": "7745",
+          "hp": "107229",
+          "coin": "249",
+          "chest": "3000",
+          "es": "397",
+          "note": "",
+          "esjson": {
+            "img": "es/SI011.png",
+            "title": "隨機轉水"
+          },
+          "jd": ""
+        },
+        {
+          "card": "692",
+          "stage": "",
+          "damage": "10409",
+          "hp": "78431",
+          "coin": "249",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "693",
+          "stage": "",
+          "damage": "196",
+          "hp": "128768",
+          "coin": "249",
+          "chest": "3000",
+          "es": "509",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png",
+            "title": "觸怒"
+          },
+          "jd": ""
+        },
+        {
+          "card": "694",
+          "stage": "",
+          "damage": "8102",
+          "hp": "100327",
+          "coin": "249",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "695",
+          "stage": "",
+          "damage": "5008",
+          "hp": "41779",
+          "coin": "249",
+          "chest": "3000",
+          "es": "51",
+          "note": "",
+          "esjson": {
+            "img": "es/SI251.png",
+            "title": "無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "622",
+          "stage": "12",
+          "damage": "100",
+          "turn": "2",
+          "hp": "731578",
+          "def": "430",
+          "coin": "376",
+          "chest": "3000",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "es/SI127.png",
+            "title": "扣血40%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "634",
+          "stage": "",
+          "damage": "100",
+          "turn": "2",
+          "hp": "703489",
+          "def": "420",
+          "coin": "376",
+          "es": "36",
+          "note": "",
+          "esjson": {
+            "img": "es/SI127.png",
+            "title": "扣血40%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "511",
+          "stage": "13",
+          "damage": "10965",
+          "turn": "1(1)",
+          "hp": "30",
+          "def": "80萬",
+          "coin": "871",
+          "es": "50",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png",
+            "title": "無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "727",
+          "stage": "14{{雙血}}",
+          "damage": "6351",
+          "turn": "1(1)",
+          "hp": "734879",
+          "def": "530",
+          "coin": "0",
+          "es": "491",
+          "note": "",
+          "esjson": {
+            "img": "es/SI219.png",
+            "title": "凍結圍城"
+          },
+          "jd": ""
+        },
+        {
+          "card": "727",
+          "stage": "",
+          "damage": "8042",
+          "turn": "2",
+          "hp": "1593215",
+          "def": "1060",
+          "coin": "5123",
+          "chest": "3000",
+          "es": "38",
+          "note": "",
+          "esjson": {
+            "img": "es/SI165.png",
+            "title": "2秒轉珠"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1126",
+      "title": "雪極界限  {{回合上限2|50}}",
+      "note": "極限突破關卡：隊伍中需包含成員{{MonsterLv|1126|99|40|cd=5|ref=4}}",
+      "story": "{{故事|{{StoryDialog}}{{727|50}}{{726|name}}：「冰雪是我的屏障，發揮力量吧！」<br/>",
+      "cj": [],
+      "info": {
+        "item": "52,20",
+        "battle": "6",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "691",
+          "stage": "1",
+          "damage": "12538",
+          "turn": "2(3)",
+          "hp": "4021840",
+          "def": "3570",
+          "coin": "169",
+          "es": "896",
+          "note": "",
+          "esjson": {
+            "img": "es/SI001.png",
+            "title": "水外防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "691",
+          "stage": "",
+          "damage": "12538",
+          "turn": "2(2)",
+          "hp": "4021840",
+          "def": "3570",
+          "coin": "169",
+          "es": "896",
+          "note": "",
+          "esjson": {
+            "img": "es/SI001.png",
+            "title": "水外防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "691",
+          "stage": "",
+          "damage": "12538",
+          "turn": "2(3)",
+          "hp": "4021840",
+          "def": "3570",
+          "coin": "169",
+          "es": "896",
+          "note": "",
+          "esjson": {
+            "img": "es/SI001.png",
+            "title": "水外防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "696",
+          "stage": "2",
+          "damage": "100",
+          "turn": "1(1)",
+          "hp": "9827650",
+          "def": "9590",
+          "chest": "3000",
+          "coin": "5123",
+          "es": "2171",
+          "note": "",
+          "esjson": {
+            "img": "es/SI301.png|es/SI047.png|es/SI139.png",
+            "title": "隨機轉水 ‧ 攻後水縱橫輪轉 ‧ 越扣越強20%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1432",
+          "stage": "3{{雙血}}",
+          "damage": "100",
+          "turn": "1(1)",
+          "hp": "5869250",
+          "def": "17360",
+          "coin": "0",
+          "es": "1551",
+          "note": "",
+          "esjson": {
+            "img": "es/SI256.png|es/SI131.png",
+            "title": "消心盾5% ‧ 扣血90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1432",
+          "stage": "",
+          "damage": "16703",
+          "turn": "1",
+          "hp": "16758060",
+          "def": "17360",
+          "coin": "4780",
+          "es": "2225",
+          "note": "",
+          "esjson": {
+            "img": "es/SI158.png|es/SI341.png|es/SI040.png",
+            "title": "弱化圍城-心弱化鎖定20% ‧ 木禁消"
+          },
+          "jd": ""
+        },
+        {
+          "card": "581",
+          "stage": "4",
+          "damage": "16542",
+          "turn": "2(2)",
+          "hp": "7329740",
+          "def": "7290",
+          "coin": "209",
+          "es": "2946",
+          "note": "",
+          "esjson": {
+            "img": "es/SI012.png|es/SI260.png",
+            "title": "首消火傷害吸收-反擊200%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1411",
+          "stage": "",
+          "damage": "5070",
+          "turn": "3(3)",
+          "hp": "7276950",
+          "def": "7480",
+          "coin": "3980",
+          "es": "38",
+          "note": "",
+          "esjson": {
+            "img": "es/SI165.png",
+            "title": "2秒轉珠"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1256",
+          "stage": "5",
+          "damage": "10544",
+          "turn": "1(1)",
+          "hp": "9250480",
+          "def": "10640",
+          "coin": "5543",
+          "es": "1600",
+          "note": "",
+          "esjson": {
+            "img": "es/SI233.png|es/SI161.png|es/SI183.png",
+            "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1126",
+          "stage": "6{{雙血}}",
+          "turn": "1(1)",
+          "damage": "{{突擊*15823*100%}}",
+          "hp": "13916240",
+          "def": "23280",
+          "coin": "0",
+          "es": "2271",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI219.png|es/SI251.png",
+            "title": "先攻-縱橫冰封 ‧ 無視減傷"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1126",
+          "stage": "",
+          "damage": "10257",
+          "turn": "1",
+          "hp": "25067150",
+          "def": "23280",
+          "chest": "3000",
+          "coin": "6383",
+          "es": "1931",
+          "note": "",
+          "esjson": {
+            "img": "es/SI165.png|es/SI105.png|es/SI031.png",
+            "title": "2秒轉珠 ‧ 7+Combo追擊盾 ‧ 首消全水盾"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

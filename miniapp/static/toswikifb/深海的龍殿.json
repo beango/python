@@ -1,0 +1,254 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "131",
+      "title": "銀河上的遊俠",
+      "cj": [],
+      "data": [
+        {
+          "card": "022",
+          "stage": "",
+          "damage": "321",
+          "hp": "3023",
+          "drop": "021",
+          "lv": "1",
+          "coin": "22",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "056",
+          "stage": "",
+          "damage": "55",
+          "hp": "242",
+          "lv": "2",
+          "coin": "34",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "066",
+          "stage": "",
+          "damage": "87",
+          "hp": "638",
+          "lv": "2",
+          "coin": "31",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "076",
+          "stage": "",
+          "damage": "273",
+          "hp": "683",
+          "drop": "076",
+          "lv": "2",
+          "coin": "20",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "246",
+          "stage": "",
+          "damage": "4444",
+          "hp": "600",
+          "lv": "1",
+          "coin": "200",
+          "note": "掉落率低",
+          "esjson": null
+        },
+        {
+          "card": "270",
+          "stage": "",
+          "damage": "100",
+          "hp": "5",
+          "lv": "1",
+          "coin": "100",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "131",
+          "stage": "5",
+          "damage": "943",
+          "hp": "4227",
+          "lv": "1",
+          "chest": "1000",
+          "coin": "40",
+          "note": "掉落率低",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "title": "過去的摧毀",
+      "cj": [],
+      "data": [
+        {
+          "card": "022",
+          "stage": "",
+          "damage": "350",
+          "hp": "3359",
+          "drop": "021",
+          "lv": "1",
+          "coin": "24",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "056",
+          "stage": "",
+          "damage": "60",
+          "hp": "269",
+          "lv": "2",
+          "coin": "37",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "066",
+          "stage": "",
+          "damage": "95",
+          "hp": "709",
+          "lv": "2",
+          "coin": "34",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "076",
+          "stage": "",
+          "damage": "298",
+          "hp": "759",
+          "drop": "076",
+          "lv": "2",
+          "coin": "22",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "246",
+          "stage": "",
+          "damage": "4444",
+          "hp": "600",
+          "lv": "1",
+          "coin": "200",
+          "note": "掉落率低",
+          "esjson": null
+        },
+        {
+          "card": "270",
+          "stage": "",
+          "damage": "100",
+          "hp": "5",
+          "lv": "1",
+          "coin": "100",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "066",
+          "stage": "5",
+          "num": "2",
+          "damage": "71",
+          "hp": "496",
+          "lv": "2",
+          "coin": "25",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "116",
+          "stage": "",
+          "damage": "448",
+          "hp": "4304",
+          "lv": "1",
+          "coin": "48",
+          "note": "掉落率低",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "041",
+      "title": "水龍之出沒",
+      "cj": [],
+      "data": [
+        {
+          "card": "022",
+          "stage": "",
+          "damage": "437",
+          "hp": "4367",
+          "drop": "021",
+          "lv": "1",
+          "coin": "30",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "056",
+          "stage": "",
+          "damage": "75",
+          "hp": "350",
+          "lv": "2",
+          "coin": "46",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "066",
+          "stage": "",
+          "damage": "119",
+          "hp": "922",
+          "lv": "2",
+          "coin": "43",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "076",
+          "stage": "",
+          "damage": "373",
+          "hp": "987",
+          "lv": "2",
+          "coin": "28",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "246",
+          "stage": "",
+          "damage": "4444",
+          "hp": "600",
+          "lv": "1",
+          "coin": "200",
+          "note": "掉落率低",
+          "esjson": null
+        },
+        {
+          "card": "270",
+          "stage": "",
+          "damage": "100",
+          "hp": "5",
+          "lv": "1",
+          "coin": "100",
+          "note": "稀有出現",
+          "esjson": null
+        },
+        {
+          "card": "041",
+          "stage": "7",
+          "damage": "1224",
+          "hp": "12957",
+          "lv": "1",
+          "coin": "49",
+          "note": "掉落率低",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

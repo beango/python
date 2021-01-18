@@ -1,0 +1,9 @@
+{
+  "type": "skill",
+  "name": "騎士王神劍 - 王者之劍",
+  "effect": "將場上[board]固定位置[/board]的符石轉化為光符石",
+  "turn": "19",
+  "minTurn": "10",
+  "pet": "1094",
+  "rpet": ""
+}

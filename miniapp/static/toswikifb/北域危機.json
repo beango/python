@@ -1,0 +1,317 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1051",
+      "title": "詭譎的真相",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1146",
+          "stage": "",
+          "turn": "2",
+          "hp": "683415",
+          "def": "1970",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "472363",
+          "def": "3180",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1051",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8249470",
+          "def": "7620",
+          "coin": "5123",
+          "chest": "4000",
+          "es": "497",
+          "ws": "10114",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI122.png",
+            "title": "隱身-隱攻封鎖4回"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1527",
+      "title": "可疑的弗麗嘉",
+      "cj": [],
+      "data": [
+        {
+          "card": "067",
+          "stage": "",
+          "turn": "1",
+          "hp": "953590",
+          "def": "1730",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "069",
+          "stage": "",
+          "turn": "1",
+          "hp": "941876",
+          "def": "1780",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "071",
+          "stage": "",
+          "turn": "1",
+          "hp": "964158",
+          "def": "1720",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "097",
+          "stage": "",
+          "turn": "3",
+          "hp": "836438",
+          "def": "1620",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "turn": "3",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "101",
+          "stage": "",
+          "turn": "3",
+          "hp": "841763",
+          "def": "1640",
+          "coin": "186",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1531",
+          "stage": "",
+          "turn": "1",
+          "hp": "472363",
+          "def": "3180",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1533",
+          "stage": "",
+          "turn": "1",
+          "hp": "482163",
+          "def": "3220",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2483450",
+          "def": "2630",
+          "coin": "566",
+          "es": "649",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水縱橫輪轉"
+          }
+        },
+        {
+          "card": "1528",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2508730",
+          "def": "2790",
+          "coin": "566",
+          "es": "791",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png|static/es/SI224.png",
+            "title": "攻後木橫縱輪轉 ‧ 隱藏-結"
+          }
+        },
+        {
+          "card": "1527",
+          "stage": "6",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8392360",
+          "def": "2580",
+          "coin": "566",
+          "chest": "4000",
+          "es": "45",
+          "note": "{{特性*離開*1}}",
+          "esjson": {
+            "img": "static/es/SI122.png",
+            "title": "技能封鎖"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1106",
+      "title": "被圍困的奧丁",
+      "cj": [],
+      "data": [
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "730588",
+          "def": "3080",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1124",
+          "stage": "3",
+          "turn": "1{{初始CD*3}}",
+          "hp": "4892160",
+          "def": "5000",
+          "coin": "5123",
+          "es": "51",
+          "ws": "10121",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          }
+        },
+        {
+          "card": "1106",
+          "stage": "6{{雙血}}",
+          "turn": "1",
+          "hp": "13523410",
+          "def": "18290",
+          "coin": "0",
+          "es": "1052",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI001.png|static/es/SI254.png|static/es/SI305.png|static/es/SI047.png",
+            "title": "水屬防禦90% ‧ 強化盾 ‧ 首回水轉暗 ‧ 隨機轉暗"
+          }
+        },
+        {
+          "card": "1106",
+          "stage": "",
+          "turn": "1",
+          "hp": "9321360",
+          "def": "18290",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1096",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI227.png|static/es/SI106.png",
+            "title": "技能封鎖 ‧ 迷惑符石 ‧ 8+Combo追擊盾"
+          }
+        }
+      ]
+    }
+  ]
+}

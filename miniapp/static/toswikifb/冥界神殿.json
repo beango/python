@@ -1,0 +1,406 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "145",
+      "title": "將暗影擊敗",
+      "cj": [],
+      "data": [
+        {
+          "card": "065",
+          "damage": "7440",
+          "hp": "67630",
+          "def": "3000",
+          "coin": "375",
+          "turn": "3",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "095",
+          "damage": "2230",
+          "hp": "44827",
+          "def": "240",
+          "coin": "372",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "115",
+          "damage": "4587",
+          "hp": "58927",
+          "def": "720",
+          "coin": "249",
+          "lv": "12",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "333",
+          "damage": "4830",
+          "hp": "183650",
+          "turn": "2{{初始CD*2}}",
+          "def": "3660",
+          "coin": "",
+          "drop": "105",
+          "lv": "12",
+          "note": "{{無法控制}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "338",
+          "damage": "2390",
+          "hp": "162360",
+          "def": "485",
+          "coin": "",
+          "drop": "075",
+          "lv": "12",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "343",
+          "damage": "9500",
+          "hp": "148400",
+          "def": "2800",
+          "coin": "493",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "460",
+          "damage": "100",
+          "hp": "135600",
+          "turn": "1",
+          "def": "1200",
+          "coin": "",
+          "note": "{{扣血30%}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "460",
+          "stage": "6",
+          "damage": "100",
+          "turn": "1",
+          "hp": "435600",
+          "def": "3200",
+          "coin": "367",
+          "note": "{{扣血50%}}",
+          "esjson": null
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "num": "2",
+          "damage": "2230",
+          "hp": "44827",
+          "def": "24",
+          "coin": "372",
+          "lv": "12",
+          "note": "{{連擊}}",
+          "esjson": null
+        },
+        {
+          "card": "145",
+          "stage": "7",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "789015",
+          "def": "582",
+          "coin": "1098",
+          "drop": "143",
+          "lv": "1",
+          "note": "{{扣血70%}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "040",
+      "title": "魔獸的無盡慾望",
+      "cj": [],
+      "data": [
+        {
+          "card": "065",
+          "damage": "7440",
+          "hp": "67630",
+          "def": "3000",
+          "turn": "3",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "095",
+          "damage": "2230",
+          "hp": "44287",
+          "def": "240",
+          "coin": "372",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "115",
+          "damage": "4587",
+          "hp": "58927",
+          "def": "720",
+          "coin": "249",
+          "lv": "3",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "333",
+          "damage": "4830",
+          "hp": "183650",
+          "def": "3660",
+          "coin": "367",
+          "drop": "105",
+          "lv": "3",
+          "turn": "2{{初始CD*2}}",
+          "note": "{{無法控制}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "338",
+          "damage": "2390",
+          "hp": "162360",
+          "def": "485",
+          "coin": "501",
+          "drop": "075",
+          "lv": "3",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "343",
+          "damage": "9500",
+          "hp": "148400",
+          "def": "2800",
+          "coin": "493",
+          "drop": "085",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "460",
+          "damage": "100",
+          "hp": "135600",
+          "def": "1200",
+          "turn": "1",
+          "drop": "095",
+          "lv": "3",
+          "note": "{{扣血30%}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "190",
+          "stage": "6",
+          "damage": "10910",
+          "hp": "652110",
+          "def": "330",
+          "coin": "1706",
+          "turn": "2{{初始CD*2}}",
+          "note": "{{妖精剋制 ‧ 攻*atk=10910}}",
+          "esjson": null
+        },
+        {
+          "card": "160",
+          "stage": "",
+          "damage": "8670",
+          "hp": "752800",
+          "def": "776",
+          "coin": "730",
+          "turn": "2",
+          "note": "{{光轉自身}}",
+          "esjson": null
+        },
+        {
+          "card": "040",
+          "stage": "7",
+          "damage": "11030",
+          "hp": "2063180",
+          "def": "272",
+          "coin": "871",
+          "soul": "1",
+          "turn": "1{{初始CD*1}}",
+          "drop": "037",
+          "lv": "1",
+          "note": "{{10%盾}}",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "220",
+      "title": "管治亡靈的冥神",
+      "cj": [],
+      "data": [
+        {
+          "card": "065",
+          "damage": "7440",
+          "hp": "67630",
+          "def": "3000",
+          "coin": "375",
+          "turn": "3",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "095",
+          "damage": "2230",
+          "hp": "44827",
+          "def": "240",
+          "coin": "372",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "115",
+          "damage": "4587",
+          "hp": "17678",
+          "def": "720",
+          "coin": "249",
+          "lv": "3",
+          "note": "{{5+Combo盾}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "333",
+          "damage": "4830",
+          "hp": "183650",
+          "def": "3660",
+          "turn": "2{{初始CD*2}}",
+          "coin": "367",
+          "drop": "105",
+          "lv": "3",
+          "note": "{{無法控制}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "338",
+          "damage": "2390",
+          "hp": "162360",
+          "def": "485",
+          "drop": "075",
+          "coin": "501",
+          "lv": "3",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "343",
+          "damage": "9500",
+          "hp": "148400",
+          "def": "2800",
+          "coin": "493",
+          "drop": "085",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "460",
+          "damage": "100",
+          "hp": "135600",
+          "def": "1200",
+          "turn": "1",
+          "coin": "367",
+          "drop": "095",
+          "lv": "3",
+          "note": "{{扣血40%}}",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "453",
+          "stage": "5",
+          "damage": "2310",
+          "hp": "781000",
+          "def": "2600",
+          "turn": "1",
+          "coin": "367",
+          "drop": "",
+          "note": "{{風化 ‧ 後}}",
+          "esjson": null
+        },
+        {
+          "card": "455",
+          "stage": "",
+          "damage": "2310",
+          "hp": "631000",
+          "def": "2310",
+          "turn": "1",
+          "coin": "367",
+          "drop": "",
+          "note": "{{風化 ‧ 後}}",
+          "esjson": null
+        },
+        {
+          "card": "465",
+          "stage": "9",
+          "damage": "5510",
+          "hp": "1028000",
+          "def": "1320",
+          "turn": "1{{初始CD*1}}",
+          "coin": "501",
+          "drop": "115",
+          "lv": "7",
+          "note": "{{先攻}}",
+          "esjson": null
+        },
+        {
+          "card": "463",
+          "stage": "",
+          "damage": "8380",
+          "hp": "1032500",
+          "def": "1320",
+          "turn": "2",
+          "coin": "501",
+          "note": "{{強化盾}}",
+          "esjson": null
+        },
+        {
+          "card": "220",
+          "stage": "10",
+          "damage": "100",
+          "hp": "2568700",
+          "def": "417",
+          "turn": "1{{初始CD*1}}",
+          "coin": "5123",
+          "chest": "3000",
+          "soul": "1",
+          "note": "{{扣血80%}}",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "潛龍吐息",
+  "effect": "I. 消除所有附加效果<br>1 回合內<br>II. 隊長及戰友攻擊力 2 倍，<br>&nbsp;&nbsp;&nbsp;&nbsp;消除的效果愈多<br>⇒ 隊長及戰友攻擊力提升愈多<br>⇒ 最大提升至 6 倍",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2312"
+}

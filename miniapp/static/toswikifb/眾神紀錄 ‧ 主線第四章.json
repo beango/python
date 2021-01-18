@@ -1,0 +1,191 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "193",
+      "title": "眾神紀錄 ‧ 主線第四章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "193",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "15690000",
+          "def": "43000",
+          "coin": "63",
+          "es": "650",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "攻後火縱橫輪轉"
+          }
+        },
+        {
+          "card": "193",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "23710000",
+          "def": "43000",
+          "coin": "0",
+          "es": "3361",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI012.png|static/es/SI229.png|static/es/SI251.png",
+            "title": "100%減傷盾-越攻越弱 ‧ 首消火傷害吸收 ‧ 雙重燃燒20% ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "193",
+          "stage": "",
+          "turn": "1",
+          "hp": "10120000",
+          "def": "43000",
+          "coin": "63",
+          "chest": "4000",
+          "es": "3233",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI003.png|static/es/SI248.png",
+            "title": "木屬防禦90% ‧ 強化五屬追擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "title": "眾神紀錄 ‧ 主線第四章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "193",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "20780000",
+          "def": "86000",
+          "coin": "63",
+          "es": "252",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "隱藏-結"
+          }
+        },
+        {
+          "card": "193",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*2}}",
+          "hp": "14710000",
+          "def": "86000",
+          "coin": "0",
+          "es": "1876",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI021.png|static/es/SI181.png",
+            "title": "水強化初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "193",
+          "stage": "",
+          "turn": "1",
+          "hp": "26820000",
+          "def": "86000",
+          "coin": "63",
+          "chest": "4000",
+          "es": "3362",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI250.png|static/es/SI254.png|static/es/SI132.png",
+            "title": "CD2 ‧ 附加盾 ‧ 強化盾 ‧ 扣血100%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "834",
+      "title": "眾神紀錄 ‧ 主線第四章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1-4",
+          "hp": "4800000",
+          "def": "12000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "4500000",
+          "def": "15000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "5600000",
+          "def": "18000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "5400000",
+          "def": "15000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "hp": "4200000",
+          "def": "11000",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "834",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "17000000",
+          "def": "37000",
+          "coin": "624",
+          "chest": "8000",
+          "es": "1106",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI114.png",
+            "title": "首消火追擊零化"
+          }
+        },
+        {
+          "card": "832",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "18200000",
+          "def": "42000",
+          "coin": "624",
+          "chest": "8000",
+          "es": "1476",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI236.png",
+            "title": "火電擊2顆"
+          }
+        }
+      ]
+    }
+  ]
+}

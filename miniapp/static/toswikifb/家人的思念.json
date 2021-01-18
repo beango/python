@@ -1,0 +1,337 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "509",
+      "title": "他們的決鬥",
+      "cj": [],
+      "data": [
+        {
+          "card": "837",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "208",
+          "ws": "10116",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "208",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "862453",
+          "def": "3120",
+          "coin": "208",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "838",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3629840",
+          "def": "7420",
+          "coin": "624",
+          "es": "52",
+          "ws": "10117",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "攻前盾"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "3629840",
+          "def": "7420",
+          "coin": "624",
+          "es": "52",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "攻前盾"
+          }
+        },
+        {
+          "card": "509",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8145630",
+          "def": "20260",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "845",
+          "ws": "10118",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "強化盾 ‧ 越戰越強-金 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1123",
+      "title": "保衛家園",
+      "cj": [],
+      "data": [
+        {
+          "card": "071",
+          "stage": "",
+          "turn": "1",
+          "hp": "964158",
+          "def": "1720",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "1",
+          "hp": "730588",
+          "def": "3080",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1123",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7650290",
+          "def": "9820",
+          "coin": "5123",
+          "chest": "4000",
+          "es": "604",
+          "ws": "10068",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "軌跡黏附"
+          }
+        }
+      ]
+    },
+    {
+      "id": "581",
+      "title": "賭命的指揮",
+      "cj": [],
+      "data": [
+        {
+          "card": "508",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "es": "1496",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI006.png|static/es/SI161.png",
+            "title": "(7回水攻2倍) ‧ 自殺"
+          }
+        },
+        {
+          "card": "1006",
+          "stage": "2-3{{隨機*2-3}}",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1008",
+          "stage": "",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "581",
+          "stage": "4",
+          "turn": "4{{初始CD*4}}",
+          "hp": "9373490",
+          "def": "5890",
+          "coin": "249",
+          "es": "51",
+          "ws": "10017",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png",
+            "title": "無視減傷"
+          }
+        },
+        {
+          "card": "582",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2587890",
+          "def": "5660",
+          "coin": "249",
+          "chest": "4000",
+          "es": "45",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png",
+            "title": "技能封鎖"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1125",
+      "title": "洛基與費雷的合作",
+      "cj": [],
+      "data": [
+        {
+          "card": "075",
+          "stage": "",
+          "turn": "1",
+          "hp": "939352",
+          "def": "1750",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "508",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "es": "1523",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI067.png|static/es/SI161.png",
+            "title": "(7回神攻2倍) ‧ 自殺"
+          }
+        },
+        {
+          "card": "1415",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4216350",
+          "def": "4720",
+          "coin": "4380",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "1415",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "4216350",
+          "def": "4720",
+          "coin": "4380",
+          "es": "912",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "首消全光盾"
+          }
+        },
+        {
+          "card": "1125",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10825630",
+          "def": "20100",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "684",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI224.png|static/es/SI250.png",
+            "title": "無法控制 ‧ 首回隱藏6顆 ‧ 同屬防禦90% ‧ 攻後隱藏2顆"
+          }
+        }
+      ]
+    }
+  ]
+}

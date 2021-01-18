@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "攻擊模式",
+  "effect": "I. 將敵方全體轉為木屬性，<br>&nbsp;&nbsp;&nbsp;持續 2 回合<br>II. 將最頂及最底橫行符石<br>⇒ 轉化為神族強化符石<br>III. 將中間 3 橫行符石<br>⇒ 分別轉化為直行<br>&nbsp;[board]「五屬及心」神族強化符石[/board]<br>1 回合內<br>IV. 首批掉落的 10 粒符石<br>⇒ 必定為火強化符石<br>V. 若隊中有 ≥3 個<br>&nbsp;&nbsp;&nbsp;「EVA 駕駛員」<br>⇒ 刷新「絕對領域」",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2518"
+}

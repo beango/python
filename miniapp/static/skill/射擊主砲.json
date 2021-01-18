@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "射擊主砲",
+  "effect": "I. 引爆火屬性神族及<br>&nbsp;&nbsp;&nbsp;木屬性神族成員直行符石<br>⇒ 掉落相應屬性神族符石<br><br>1 回合內<br>II. 自身、<br>&nbsp;&nbsp;「明日香與EVA改2號機」、<br>&nbsp;&nbsp;「明日香與EVA改2號機<br>&nbsp;&nbsp;&nbsp;&nbsp;(獸化第4形態)」、<br>&nbsp;&nbsp;「真理與EVA8號機β」<br>⇒ 以 50 % 攻擊力追打 3 次<br>III. 隊中每有 1 個<br>&nbsp;&nbsp;&nbsp;&nbsp;「明日香與EVA改2號機」、<br>&nbsp;&nbsp;&nbsp;&nbsp;「明日香與EVA改2號機<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (獸化第4形態)」、<br>&nbsp;&nbsp;&nbsp;「真理與EVA8號機β」<br>⇒ 額外增加 1 回合效果<br>⇒ 最多可持續 5 回合",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2539"
+}

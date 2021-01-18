@@ -1,0 +1,310 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1413",
+      "title": "悄然追逐",
+      "cj": [],
+      "data": [
+        {
+          "card": "081",
+          "stage": "",
+          "turn": "4",
+          "hp": "998342",
+          "def": "2280",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1533",
+          "stage": "",
+          "turn": "1",
+          "hp": "482163",
+          "def": "3220",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1011",
+          "stage": "3",
+          "turn": "2",
+          "hp": "2372140",
+          "def": "4710",
+          "coin": "1020",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "1011",
+          "stage": "",
+          "turn": "2",
+          "hp": "2372140",
+          "def": "4710",
+          "coin": "1020",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4870570",
+          "def": "8980",
+          "coin": "4380",
+          "es": "149",
+          "ws": "10066",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "25%盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1415",
+      "title": "魔族領域",
+      "cj": [],
+      "data": [
+        {
+          "card": "085",
+          "stage": "",
+          "hp": "962315",
+          "def": "2090",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1535",
+          "stage": "",
+          "turn": "1",
+          "hp": "465217",
+          "def": "3490",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "673420",
+          "def": "3120",
+          "coin": "1005",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1015",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4516290",
+          "def": "6930",
+          "coin": "1220",
+          "es": "39",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png|static/es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "673420",
+          "def": "3120",
+          "coin": "1005",
+          "chest": "4000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "1412",
+      "title": "擊倒魔族",
+      "cj": [],
+      "data": [
+        {
+          "card": "1008",
+          "stage": "1",
+          "turn": "2{{初始CD*3}}",
+          "hp": "1216830",
+          "def": "2030",
+          "coin": "1005",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1252630",
+          "def": "2140",
+          "coin": "1005",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "1241370",
+          "def": "1700",
+          "coin": "1005",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "2~4{{隨機*3}}",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1533",
+          "stage": "",
+          "turn": "1",
+          "hp": "482163",
+          "def": "3220",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1535",
+          "stage": "",
+          "turn": "1",
+          "hp": "465217",
+          "def": "3490",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1415",
+          "stage": "5",
+          "turn": "2{{初始CD*1}}",
+          "hp": "3836420",
+          "def": "6790",
+          "coin": "4380",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3903760",
+          "def": "7080",
+          "coin": "4380",
+          "es": "1244",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png",
+            "title": "首消木傷害吸收"
+          }
+        },
+        {
+          "card": "1412",
+          "stage": "6",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5067130",
+          "def": "11250",
+          "coin": "4580",
+          "chest": "8000",
+          "es": "112",
+          "ws": "10093",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI216.png",
+            "title": "復活變強"
+          }
+        }
+      ]
+    }
+  ]
+}

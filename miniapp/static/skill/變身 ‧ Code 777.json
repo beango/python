@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "變身 ‧ Code 777",
+  "effect": "I. 變身<br>II. 自身陷入 7 回合殞命輪迴<br>7 回合內<br>III. 自身攻擊力及回復力 3.7 倍<br>IV. 每回合刷新「絕對領域」<br>(III、IV 效果會在死亡後消失)",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2536"
+}

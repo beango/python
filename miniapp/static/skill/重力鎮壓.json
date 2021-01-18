@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "重力鎮壓",
+  "effect": "2 回合內<br>I. 敵人全體無法行動<br>II. 效果期間，<br>&nbsp;&nbsp;&nbsp;&nbsp;於每回合結束時<br>⇒ 消耗敵方現有 10% 當前生命力",
+  "turn": "20",
+  "minTurn": "9",
+  "pet": "2589"
+}

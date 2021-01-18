@@ -1,0 +1,74 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "873",
+      "title": "寧死不屈",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "1~19",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "20",
+          "turn": "1{{初始CD*1}}",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

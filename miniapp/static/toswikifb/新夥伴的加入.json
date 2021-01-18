@@ -1,0 +1,219 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "969",
+      "title": "與凱拉的旅途",
+      "cj": [],
+      "data": [
+        {
+          "card": "079",
+          "stage": "",
+          "hp": "941588",
+          "def": "2190",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "969",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8617450",
+          "def": "8900",
+          "coin": "1215",
+          "chest": "4000",
+          "es": "1622",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI229.png|static/es/SI188.png",
+            "title": "附加消除 ‧ 雙重擴散燃燒10% ‧ 越攻越強"
+          }
+        }
+      ]
+    },
+    {
+      "id": "971",
+      "title": "莫名的敵意",
+      "cj": [],
+      "data": [
+        {
+          "card": "966",
+          "stage": "",
+          "turn": "1",
+          "hp": "839250",
+          "def": "1550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "970",
+          "stage": "",
+          "turn": "2",
+          "hp": "857480",
+          "def": "1890",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "3",
+          "hp": "583039",
+          "def": "2790",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "967",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8245690",
+          "def": "8350",
+          "coin": "1215",
+          "chest": "4000",
+          "es": "38",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png",
+            "title": "2秒轉珠"
+          }
+        },
+        {
+          "card": "971",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8305170",
+          "def": "8490",
+          "coin": "1215",
+          "es": "634",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png",
+            "title": "(5回7+Combo發動攻回)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "507",
+      "title": "提爾的幫助",
+      "cj": [],
+      "data": [
+        {
+          "card": "968",
+          "stage": "",
+          "turn": "3",
+          "hp": "916630",
+          "def": "2360",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "972",
+          "stage": "",
+          "turn": "2",
+          "hp": "821720",
+          "def": "1710",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "507",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9065340",
+          "def": "16280",
+          "coin": "0",
+          "es": "1465",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI012.png|static/es/SI188.png",
+            "title": "首回隱藏9顆 ‧ 首消火傷害吸收 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "507",
+          "stage": "",
+          "turn": "1",
+          "hp": "17081860",
+          "def": "16280",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1466",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png|static/es/SI047.png|static/es/SI229.png",
+            "title": "命懸一線 ‧ 首回心轉火-隨機轉火 ‧ 擴散燃燒20%"
+          }
+        }
+      ]
+    }
+  ]
+}

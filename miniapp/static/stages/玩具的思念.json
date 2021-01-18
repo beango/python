@@ -1,0 +1,247 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1192",
+      "title": "克拉拉的執念",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "30",
+        "battle": "4",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1192",
+          "stage": "4{{雙血}}",
+          "turn": "1(1)",
+          "hp": "13821650",
+          "def": "27890",
+          "coin": "0",
+          "es": "1619",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI306.png|es/SI221.png|es/SI003.png",
+            "title": "突擊14482 ‧ 首回隨機5顆-攻後3顆心風化3000 ‧ 木屬防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1192",
+          "stage": "",
+          "turn": "1",
+          "hp": "25671400",
+          "def": "27890",
+          "coin": "6383",
+          "chest": "10000",
+          "es": "1748",
+          "note": "",
+          "esjson": {
+            "img": "es/SI031.png|es/SI033.png|es/SI012.png",
+            "title": "15+15+水木幻變盾 ‧ 首消火傷害吸收"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1625",
+      "title": "那溫暖的懷抱",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "30",
+        "battle": "5",
+        "exp": "4500"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1624",
+          "stage": "4",
+          "turn": "1(1)",
+          "hp": "15780640",
+          "def": "7800",
+          "coin": "155",
+          "es": "1685",
+          "note": "",
+          "esjson": {
+            "img": "es/SI031.png|es/SI015.png|es/SI069.png",
+            "title": "首消全水盾 ‧ 首消暗傷害吸收 ‧ 獵人"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1625",
+          "stage": "5{{三血}}",
+          "turn": "1(1)",
+          "hp": "500000",
+          "def": "30400",
+          "coin": "0",
+          "es": "1402",
+          "note": "",
+          "esjson": {
+            "img": "es/SI217.png|es/SI188.png",
+            "title": "溢補盾 ‧ 越攻越強"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1625",
+          "stage": "",
+          "turn": "1",
+          "hp": "10932630",
+          "def": "30400",
+          "coin": "0",
+          "es": "1403",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png|es/SI302.png|es/SI236.png|es/SI114.png",
+            "title": "木光技能封鎖 ‧ 火電擊2顆 ‧ 首消火追擊零化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1625",
+          "stage": "",
+          "turn": "1(3)",
+          "hp": "82961400",
+          "def": "30400",
+          "coin": "185",
+          "chest": "10000",
+          "es": "2224",
+          "attr": "暗",
+          "note": "",
+          "esjson": {
+            "img": "es/SI020.png|es/SI215.png|es/SI132.png|es/SI168.png|es/SI124.png",
+            "title": "敵轉暗 ‧ 黑白符石 ‧ CD3-同歸於盡 ‧ 無法控制"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

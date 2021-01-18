@@ -1,0 +1,162 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1990",
+      "title": "眾神紀錄 ‧ 主線第七章下部第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "832",
+          "stage": "1",
+          "turn": "2{{初始CD*1}}",
+          "hp": "13632820",
+          "def": "42000",
+          "coin": "624",
+          "es": "3176",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI143.png",
+            "title": "首消水傷害吸收-反擊50%"
+          }
+        },
+        {
+          "card": "1155",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "13497410",
+          "def": "18200",
+          "coin": "1220",
+          "es": "566",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "六重軌跡隱藏"
+          }
+        },
+        {
+          "card": "709",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "24269130",
+          "def": "40500",
+          "coin": "572",
+          "es": "3374",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI146.png|static/es/SI183.png",
+            "title": "首消光傷害吸收-反擊100% ‧ 光起手始終盾"
+          }
+        },
+        {
+          "card": "1990",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "32393620",
+          "def": "76500",
+          "coin": "155",
+          "chest": "4000",
+          "es": "2827",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI282.png|static/es/SI104.png|static/es/SI003.png",
+            "title": "突擊10%-左右暴風輪轉 ‧ 6+Combo追擊盾 ‧ 木屬防禦90%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "579",
+      "title": "眾神紀錄 ‧ 主線第七章下部第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1149",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "13287030",
+          "def": "17800",
+          "coin": "1220",
+          "es": "3177",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI144.png",
+            "title": "首消火傷害吸收-反擊50%"
+          }
+        },
+        {
+          "card": "838",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "14726330",
+          "def": "43000",
+          "coin": "624",
+          "es": "3402",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI229.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 雙重燃燒20% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "689",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "26892970",
+          "def": "56200",
+          "coin": "8950",
+          "es": "3279",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI227.png|static/es/SI118.png",
+            "title": "5回全員禁錮 ‧ 迷惑符石 ‧ 首消心追擊零化"
+          }
+        },
+        {
+          "card": "1990",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "32358870",
+          "def": "76500",
+          "coin": "155",
+          "es": "2828",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI282.png|static/es/SI105.png|static/es/SI003.png",
+            "title": "突擊10%-左右暴風 ‧ 7+Combo追擊盾 ‧ 木屬防禦盾"
+          }
+        },
+        {
+          "card": "579",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "27983620",
+          "def": "157000",
+          "coin": "0",
+          "es": "1583",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI116.png|static/es/SI304.png|static/es/SI236.png",
+            "title": "首消光追擊零化 ‧ 光電擊3顆"
+          }
+        },
+        {
+          "card": "579",
+          "stage": "",
+          "turn": "1",
+          "hp": "39263740",
+          "def": "157000",
+          "coin": "5580",
+          "chest": "8000",
+          "es": "2563",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI235.png|static/es/SI181.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "強化初級拼圖盾-限 ‧ 扣血100% ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

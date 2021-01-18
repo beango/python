@@ -1,0 +1,574 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/19",
+      "end": "2020/11/1",
+      "note": "僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": [
+        {
+          "star": "3",
+          "id": "617",
+          "soul": "",
+          "m": "",
+          "num": "2"
+        },
+        {
+          "star": "6",
+          "id": "C05",
+          "soul": "",
+          "m": "",
+          "num": "1"
+        },
+        {
+          "star": "9",
+          "id": "",
+          "soul": "",
+          "m": "1",
+          "num": "1"
+        },
+        {
+          "star": "12",
+          "id": "",
+          "soul": "150",
+          "m": "",
+          "num": ""
+        }
+      ]
+    }
+  ],
+  "cjtimes": 1,
+  "stages": [
+    {
+      "id": "2526",
+      "title": "半透明的驅幹 初級",
+      "cj": [
+        "隊伍中有 3 個或以上的水屬性成員 (不包括隊伍技能)",
+        "戰鬥中不使用任何主動技 (包括合體技能)",
+        "於 6 回合內完成關卡"
+      ],
+      "data": [
+        {
+          "card": "547",
+          "stage": "",
+          "damage": "1339",
+          "turn": "3",
+          "hp": "9870",
+          "def": "540",
+          "coin": "69",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "732",
+          "turn": "2",
+          "hp": "18010",
+          "def": "270",
+          "coin": "68",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "1002",
+          "turn": "1",
+          "hp": "23550",
+          "def": "3520",
+          "coin": "2648",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "1343",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2526",
+          "stage": "5",
+          "damage": "2606",
+          "turn": "1{{初始CD*1}}",
+          "hp": "410980",
+          "def": "8420",
+          "coin": "2183",
+          "lv": "1",
+          "chest": "500",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2526",
+      "title": "伸縮自如的觸手 中級",
+      "cj": [
+        "隊伍中有 3 個或以上的水屬性成員 (不包括隊伍技能)",
+        "隊長與戰友相同",
+        "於 7 回合內完成關卡"
+      ],
+      "data": [
+        {
+          "card": "547",
+          "stage": "",
+          "damage": "3549",
+          "turn": "3",
+          "hp": "36560",
+          "def": "540",
+          "coin": "109",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "2711",
+          "turn": "2",
+          "hp": "49670",
+          "def": "270",
+          "coin": "108",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "1496",
+          "turn": "1",
+          "hp": "87240",
+          "def": "3520",
+          "coin": "4388",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "2183",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2501",
+          "stage": "5",
+          "damage": "3292",
+          "turn": "1{{初始CD*1}}",
+          "hp": "798270",
+          "def": "6960",
+          "coin": "2603",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2526",
+          "stage": "6",
+          "damage": "4964",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1262620",
+          "def": "8420",
+          "coin": "3023",
+          "lv": "1",
+          "chest": "1000",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2526",
+      "title": "高熱鞭子 高級",
+      "cj": [
+        "隊伍中只有水屬性的成員  (不包括隊伍技能)",
+        "隊長及戰友都是魔族",
+        "隊伍中只有龍類成員"
+      ],
+      "data": [
+        {
+          "card": "547",
+          "stage": "",
+          "damage": "5745",
+          "turn": "3",
+          "hp": "135420",
+          "def": "540",
+          "coin": "189",
+          "lv": "5",
+          "es": "909",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png",
+            "title": "首消全水盾"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "6047",
+          "turn": "2",
+          "hp": "144280",
+          "def": "270",
+          "lv": "5",
+          "coin": "188",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "2234",
+          "turn": "1",
+          "hp": "323120",
+          "def": "3520",
+          "lv": "1",
+          "coin": "7868",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "3863",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2382",
+          "stage": "6",
+          "damage": "6564",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5597440",
+          "def": "47400",
+          "coin": "3863",
+          "es": "3183",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI094.png|static/es/SI188.png",
+            "title": "首消4Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "2501",
+          "stage": "7",
+          "damage": "7898",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6660290",
+          "def": "69600",
+          "coin": "4703",
+          "es": "1106",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI114.png",
+            "title": "首消火追擊零化"
+          }
+        },
+        {
+          "card": "2526",
+          "stage": "8",
+          "damage": "10395",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8380080",
+          "def": "84200",
+          "coin": "5123",
+          "lv": "1",
+          "soul": "1",
+          "craft": "1",
+          "chest": "1500",
+          "es": "4289",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/ES992.png|static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI012.png",
+            "title": "突擊10% ‧ 絕對領域-200萬 ‧ 雙重燃燒10% ‧ 燃燒轉火 ‧ 首消火傷害零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2526",
+      "title": "如刀的鋒利切割 超級 {{EXTRA}}",
+      "cj": [
+        "隊伍中只有水屬性的成員  (不包括隊伍技能)",
+        "隊伍中有 3 個或以上的神族成員",
+        "隊伍中只有木屬性的成員  (不包括隊伍技能)"
+      ],
+      "data": [
+        {
+          "card": "547",
+          "stage": "",
+          "damage": "8574",
+          "turn": "3",
+          "hp": "202120",
+          "def": "540",
+          "coin": "249",
+          "lv": "15",
+          "es": "909",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png",
+            "title": "首消全水盾"
+          }
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "8040",
+          "turn": "2",
+          "hp": "266090",
+          "def": "270",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "3335",
+          "turn": "1",
+          "hp": "482280",
+          "def": "3520",
+          "lv": "1",
+          "coin": "10478",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "5123",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2382",
+          "stage": "6",
+          "damage": "9798",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8354390",
+          "def": "47400",
+          "coin": "5123",
+          "es": "3184",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI095.png|static/es/SI188.png",
+            "title": "首消5Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "2501",
+          "stage": "7",
+          "damage": "11789",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9940730",
+          "def": "69600",
+          "coin": "5963",
+          "es": "3688",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI270.png|static/es/SI302.png|static/es/SI047.png|static/es/SI114.png",
+            "title": "雙重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化"
+          }
+        },
+        {
+          "card": "2526",
+          "stage": "8",
+          "damage": "15515",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12507580",
+          "def": "84200",
+          "coin": "6383",
+          "lv": "1",
+          "soul": "2",
+          "craft": "1",
+          "chest": "2000",
+          "es": "4290",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/ES993.png|static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI012.png|static/es/SI251.png",
+            "title": "突擊65% ‧ 絕對領域-500萬 ‧ 三重燃燒10% ‧ 燃燒轉火 ‧ 首消火傷害零化 ‧ 無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2526",
+      "title": "接觸面溶解 精英級 {{ELITE}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "11016",
+          "turn": "2",
+          "hp": "398650",
+          "def": "270",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "547",
+          "stage": "",
+          "damage": "12798",
+          "turn": "3",
+          "hp": "301680",
+          "def": "540",
+          "coin": "309",
+          "es": "909",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png",
+            "title": "首消全水盾"
+          }
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "4978",
+          "turn": "1",
+          "hp": "719830",
+          "def": "3520",
+          "coin": "13088",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2535",
+          "stage": "1{{掉落*EVA}}",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2382",
+          "stage": "6",
+          "damage": "14624",
+          "turn": "2{{初始CD*2}}",
+          "hp": "12469250",
+          "def": "47400",
+          "coin": "6383",
+          "es": "3185",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI096.png|static/es/SI188.png",
+            "title": "首消6Combo盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "2501",
+          "stage": "7",
+          "damage": "17596",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14836920",
+          "def": "69600",
+          "coin": "7223",
+          "es": "3690",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI270.png|static/es/SI302.png|static/es/SI047.png|static/es/SI114.png",
+            "title": "四重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化"
+          }
+        },
+        {
+          "card": "2526",
+          "stage": "8{{掉落*EVA}}",
+          "damage": "23158",
+          "turn": "1{{初始CD*1}}",
+          "hp": "18668040",
+          "def": "84200",
+          "coin": "7643",
+          "lv": "1",
+          "es": "4292",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/ES995.png|static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI144.png|static/es/SI251.png",
+            "title": "先攻 ‧ 絕對領域-2000萬 ‧ 二五直行燃燒20% ‧ 燃燒轉火 ‧ 首消火傷害零化-受傷反饋100% ‧ 無視減傷"
+          }
+        }
+      ]
+    }
+  ]
+}

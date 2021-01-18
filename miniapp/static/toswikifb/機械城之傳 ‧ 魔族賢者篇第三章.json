@@ -1,0 +1,156 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1815",
+      "title": "魔族賢者篇 ‧ 第三章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1369",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1366",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1815",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "600",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1346",
+      "title": "魔族賢者篇 ‧ 第三章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "646",
+          "stage": "1-3",
+          "hp": "7968880",
+          "def": "930",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "hp": "5481320",
+          "def": "840",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "hp": "3820510",
+          "def": "970",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "5603730",
+          "def": "860",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1751",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9552800",
+          "def": "5580",
+          "coin": "249",
+          "es": "572",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI219.png",
+            "title": "突擊65% ‧ 攻後雙重冰封"
+          }
+        },
+        {
+          "card": "1346",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10100020",
+          "def": "37100",
+          "coin": "0",
+          "es": "2314",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI156.png|static/es/SI301.png|static/es/SI047.png|static/es/SI011.png",
+            "title": "回復力變0 ‧ 隨機轉水 ‧ 首消水傷害吸收"
+          }
+        },
+        {
+          "card": "1346",
+          "stage": "",
+          "turn": "1",
+          "hp": "15847280",
+          "def": "37100",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "2317",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI158.png|static/es/SI188.png",
+            "title": "附加消除重置 ‧ [5回減攻80%] ‧ 越戰越強-金"
+          }
+        }
+      ]
+    }
+  ]
+}

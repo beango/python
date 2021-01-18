@@ -1,0 +1,368 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1752",
+      "title": "主線 ‧ 終章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "hp": "7968880",
+          "def": "930",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "hp": "5481320",
+          "def": "840",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "hp": "3820510",
+          "def": "970",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "5603730",
+          "def": "860",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1744",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12758000",
+          "def": "16970",
+          "coin": "309",
+          "es": "703",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾-轉"
+          }
+        },
+        {
+          "card": "1350",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14734000",
+          "def": "40800",
+          "coin": "0",
+          "es": "2414",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI015.png|static/es/SI260.png",
+            "title": "軌跡隱藏 ‧ 首消暗傷害吸收-反擊100%"
+          }
+        },
+        {
+          "card": "1350",
+          "stage": "",
+          "turn": "1",
+          "hp": "25945000",
+          "def": "40800",
+          "coin": "7223",
+          "es": "635",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI106.png",
+            "title": "(5回8+Combo發動攻回)"
+          }
+        },
+        {
+          "card": "1752",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7500000",
+          "def": "84000",
+          "coin": "0",
+          "es": "1740",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI260.png|static/es/SI124.png",
+            "title": "20擊盾-非技傷連續反擊50% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1752",
+          "stage": "",
+          "turn": "1",
+          "hp": "37824100",
+          "def": "84000",
+          "coin": "369",
+          "chest": "10000",
+          "es": "2424",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI121.png|static/es/SI132.png",
+            "title": "機械外技能重置-[攻擊零化1回] ‧ 扣血100%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6167",
+      "title": "主線 ‧ 終章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1747",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9112000",
+          "def": "2580",
+          "coin": "11",
+          "es": "2429",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI012.png",
+            "title": "技能重置 ‧ 攻後火縱橫輪轉"
+          }
+        },
+        {
+          "card": "1346",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7347600",
+          "def": "37100",
+          "coin": "125",
+          "es": "2216",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI001.png|static/es/SI188.png",
+            "title": "突擊10%-水圍城-每回隨機轉水 ‧ 消水縮時0.2-1秒 ‧ 首消水傷害零化 ‧ 血弱50%-雙轉水-3倍狂擊"
+          }
+        },
+        {
+          "card": "1751",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9568000",
+          "def": "5580",
+          "coin": "11",
+          "es": "488",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI225.png",
+            "title": "射擊-上"
+          }
+        },
+        {
+          "card": "1751",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "9568000",
+          "def": "5580",
+          "coin": "11",
+          "es": "489",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI225.png",
+            "title": "射擊-下"
+          }
+        },
+        {
+          "card": "1347",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "15789200",
+          "def": "39800",
+          "coin": "125",
+          "es": "2173",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI047.png|static/es/SI188.png",
+            "title": "隨機轉火 ‧ 攻後火縱橫輪轉 ‧ 連擊趨狂"
+          }
+        },
+        {
+          "card": "1748",
+          "stage": "5",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9834000",
+          "def": "3610",
+          "coin": "11",
+          "es": "895",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI212.png",
+            "title": "3倍士氣高昂-無限回復"
+          }
+        },
+        {
+          "card": "1746",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "9795000",
+          "def": "80000",
+          "coin": "11",
+          "es": "853",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "1349",
+          "stage": "6",
+          "turn": "1{{初始CD*1}}",
+          "hp": "23631400",
+          "def": "41700",
+          "coin": "125",
+          "es": "2134",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI122.png|static/es/SI188.png",
+            "title": "同屬防禦90% ‧ 人類禁錮 ‧ 越戰越強-金"
+          }
+        },
+        {
+          "card": "6167",
+          "stage": "7{{三血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "38263000",
+          "def": "59500",
+          "coin": "0",
+          "es": "2470",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI224.png|static/es/SI014.png|static/es/SI260.png|static/es/SI251.png",
+            "title": "先攻-縱橫隱藏 ‧ 首消光傷害吸收-反擊100% ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "6167",
+          "stage": "",
+          "turn": "1",
+          "hp": "15715800",
+          "def": "59500",
+          "coin": "0",
+          "es": "2455",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI304.png|static/es/SI168.png|static/es/SI124.png",
+            "title": "[4回攻擊零化] ‧ 光引爆追擊 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "6167",
+          "stage": "",
+          "turn": "1",
+          "hp": "79365000",
+          "def": "59500",
+          "coin": "11",
+          "es": "2467",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI132.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 扣血100% ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "599",
+      "title": "主線 ‧ 終章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "601",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "coin": "125",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "605",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "coin": "125",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "597",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "coin": "125",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "603",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "coin": "125",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "599",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "coin": "125",
+          "chest": "8000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    }
+  ]
+}

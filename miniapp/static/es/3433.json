@@ -1,0 +1,7 @@
+{
+  "no": "3433",
+  "title": "首消光傷害吸收 ‧ 2秒轉珠",
+  "effect": "首批消除<font color=yellow>光屬性</font>的連擊 (Combo) 時，敵人會回復相等於該回合召喚師所造成傷害的血量。<br><br>移動符石時間會縮短至 <font color=yellow>2 秒</font>",
+  "content": "傷害吸收,時間改變",
+  "icon": "es/SI014.png|es/SI165.png"
+}

@@ -1,0 +1,179 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "376",
+      "title": "持有聖劍的男人",
+      "cj": [],
+      "data": [
+        {
+          "card": "835",
+          "stage": "1",
+          "damage": "4728",
+          "turn": "3",
+          "hp": "4791310",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "3280",
+          "turn": "2",
+          "hp": "4521210",
+          "def": "340",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "2",
+          "damage": "4728",
+          "turn": "3",
+          "hp": "4791310",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "4728",
+          "turn": "3",
+          "hp": "4791310",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "376",
+          "stage": "3",
+          "damage": "30000",
+          "turn": "9{{初始CD*9}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "100",
+          "chest": "2000",
+          "es": "255",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI036.png",
+            "title": "單次5+心符石盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2112",
+      "title": "危機中的一線光芒",
+      "cj": [],
+      "data": [
+        {
+          "card": "2112",
+          "stage": "1",
+          "damage": "6708",
+          "turn": "2{{初始CD*1}}",
+          "hp": "6709780",
+          "def": "8990",
+          "coin": "125",
+          "es": "651",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI013.png",
+            "title": "攻後木縱橫輪轉"
+          }
+        },
+        {
+          "card": "2112",
+          "stage": "2{{雙血}}",
+          "damage": "5952",
+          "turn": "2{{初始CD*1}}",
+          "hp": "3053260",
+          "def": "8990",
+          "coin": "0",
+          "es": "884",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI254.png|static/es/SI221.png",
+            "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
+          }
+        },
+        {
+          "card": "2112",
+          "stage": "",
+          "damage": "7349",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8305790",
+          "def": "8990",
+          "coin": "125",
+          "chest": "2000",
+          "es": "711",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI251.png",
+            "title": "無法控制-無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2112",
+      "title": "一切都是為了雅典娜",
+      "cj": [],
+      "data": [
+        {
+          "card": "374",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "100",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        },
+        {
+          "card": "2112",
+          "stage": "2{{雙血}}",
+          "damage": "7002",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4853260",
+          "def": "8990",
+          "coin": "0",
+          "es": "3282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI303.png|static/es/SI221.png|static/es/SI047.png|static/es/SI254.png|static/es/SI188.png",
+            "title": "攻後木風化3000縱橫輪轉 ‧ 強化盾 ‧ 血弱20%-狂擊固防5倍"
+          }
+        },
+        {
+          "card": "2112",
+          "stage": "",
+          "damage": "7349",
+          "turn": "1",
+          "hp": "6591950",
+          "def": "8990",
+          "coin": "125",
+          "chest": "4000",
+          "es": "1886",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI303.png|static/es/SI181.png",
+            "title": "木屬高級拼圖盾"
+          }
+        }
+      ]
+    }
+  ]
+}

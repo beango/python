@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "符紋秘術",
+  "effect": "I. [board]將最底 1 橫行的符石[/board]<br>⇒ 轉化為光及心符石各 3 粒<br>II. 將最左及最右方各 1 直行的<br>&nbsp;&nbsp;&nbsp;&nbsp;4 粒符石轉化為暗符石<br>III. 技能發動回合若有擊斃敵人<br>⇒ 於回合結束時完全回復生命力<br>IV. 若隊伍中有「冥魂判守 ‧ 阿努比斯」<br>⇒ I, II [board]效果所轉化的符石[/board]<br>&nbsp;&nbsp;&nbsp;&nbsp;加冕為神族強化符石",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "1920"
+}

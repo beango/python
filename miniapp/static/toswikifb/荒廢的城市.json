@@ -1,0 +1,386 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "875",
+      "title": "被破壞的火車站",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "871",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2436890",
+          "def": "620",
+          "coin": "902",
+          "chest": "4000",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "7017890",
+          "def": "4690",
+          "coin": "902",
+          "es": "39",
+          "chest": "4000",
+          "lv": "15",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png|static/es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          }
+        },
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2436890",
+          "def": "620",
+          "coin": "902",
+          "chest": "4000",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "1595",
+      "title": "被隔離的城鎮",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "3",
+          "damage": "15917",
+          "turn": "2{{初始CD*1}}",
+          "hp": "4839140",
+          "def": "3580",
+          "coin": "902",
+          "chest": "4000",
+          "lv": "15",
+          "es": "794",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "↘形燃燒10%"
+          }
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "15917",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4839140",
+          "def": "3580",
+          "coin": "902",
+          "chest": "4000",
+          "lv": "15",
+          "es": "795",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "↙形燃燒10%"
+          }
+        },
+        {
+          "card": "1595",
+          "stage": "4",
+          "damage": "9476",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9165260",
+          "def": "4790",
+          "coin": "189",
+          "chest": "4000",
+          "lv": "15",
+          "es": "1582",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI116.png|static/es/SI304.png|static/es/SI236.png",
+            "title": "首消光追擊零化 ‧ 光電擊2顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "873",
+      "title": "拯救倖存者",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "871",
+          "stage": "5",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4328540",
+          "def": "620",
+          "chest": "8000",
+          "lv": "15",
+          "coin": "902",
+          "es": "649",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水縱橫輪轉"
+          }
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9631580",
+          "def": "4820",
+          "chest": "8000",
+          "lv": "15",
+          "coin": "902",
+          "es": "1242",
+          "note": "{{特性*離開*3}}",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "首消水傷害吸收"
+          }
+        },
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "4328540",
+          "def": "620",
+          "chest": "8000",
+          "lv": "15",
+          "coin": "902",
+          "es": "784",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水橫縱輪轉"
+          }
+        }
+      ]
+    }
+  ]
+}

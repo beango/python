@@ -1,0 +1,236 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1752",
+      "title": "主線 ‧ 第六章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "649",
+          "stage": "1",
+          "hp": "1751490",
+          "def": "860",
+          "coin": "11",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "1751490",
+          "def": "860",
+          "coin": "11",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "1751490",
+          "def": "860",
+          "coin": "11",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1749",
+          "stage": "2",
+          "turn": "2(2)",
+          "hp": "8691870",
+          "def": "2170",
+          "coin": "11",
+          "es": "279",
+          "ws": "10073",
+          "note": "",
+          "esjson": {
+            "img": "es/SI105.png",
+            "title": "7+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1749",
+          "stage": "",
+          "turn": "2(3)",
+          "hp": "8691870",
+          "def": "2170",
+          "coin": "11",
+          "es": "279",
+          "note": "",
+          "esjson": {
+            "img": "es/SI105.png",
+            "title": "7+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1752",
+          "stage": "3",
+          "turn": "2(2)",
+          "hp": "10",
+          "def": "10",
+          "coin": "11",
+          "chest": "4000",
+          "es": "832",
+          "note": "",
+          "esjson": {
+            "img": "es/SI161.png",
+            "title": "命懸一線 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "title": "主線 ‧ 第六章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "2",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "1370",
+          "stage": "1{{雙血}}",
+          "turn": "2(2)",
+          "hp": "8051460",
+          "def": "15970",
+          "coin": "0",
+          "es": "1823",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI236.png",
+            "title": "突擊65% ‧ 攻後電擊2顆"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1370",
+          "stage": "",
+          "turn": "1",
+          "hp": "15754860",
+          "def": "15970",
+          "coin": "7643",
+          "es": "2353",
+          "note": "",
+          "esjson": {
+            "img": "es/SI305.png|es/SI236.png|es/SI117.png",
+            "title": "首回全暗電擊 ‧ 首消暗追擊零化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1367",
+          "stage": "2{{雙血}}",
+          "turn": "2(2)",
+          "hp": "8161450",
+          "def": "17340",
+          "coin": "0",
+          "es": "1758",
+          "note": "",
+          "esjson": {
+            "img": "es/SI012.png|es/SI229.png|es/SI124.png",
+            "title": "首消火傷害吸收-雙重燃燒10% ‧ 無法控制"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1367",
+          "stage": "",
+          "turn": "1",
+          "hp": "15829970",
+          "def": "17340",
+          "coin": "7643",
+          "chest": "4000",
+          "es": "1623",
+          "note": "",
+          "esjson": {
+            "img": "es/SI123.png|es/SI229.png|es/SI188.png",
+            "title": "附加消除 ‧ 三重擴散燃燒10% ‧ 越攻越強"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1750",
+      "title": "主線 ‧ 第六章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 **主線 ‧ 第六章第三話** 1 次——開放關卡 [機械城之傳 ‧ 主線第七章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E4%B8%83%E7%AB%A0)",
+        "通過 **主線 ‧ 第六章第三話** 1 次——開放關卡 [機械城之傳 ‧ 機偶篇第二章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E6%A9%9F%E5%81%B6%E7%AF%87%E7%AC%AC%E4%BA%8C%E7%AB%A0)",
+        "通過 **主線 ‧ 第六章第三話** 1 次——開放關卡 [機械城之傳 ‧ 魔族賢者篇第二章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E9%AD%94%E6%97%8F%E8%B3%A2%E8%80%85%E7%AF%87%E7%AC%AC%E4%BA%8C%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "20",
+        "battle": "5",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1368",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "es": "2069",
+          "note": "",
+          "esjson": {
+            "img": "es/SI008.png|es/SI161.png",
+            "title": "[7回木攻2倍] ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1750",
+          "stage": "5{{雙血}}",
+          "turn": "1(1)",
+          "hp": "7659810",
+          "def": "2460",
+          "coin": "0",
+          "es": "1916",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI274.png",
+            "title": "突擊10%-(98回致命步伐500)"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1750",
+          "stage": "",
+          "turn": "1",
+          "hp": "13186580",
+          "def": "2460",
+          "coin": "249",
+          "chest": "8000",
+          "es": "679",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png|es/SI122.png",
+            "title": "重覆隊員禁錮 ‧ 越攻越強"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

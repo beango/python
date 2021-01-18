@@ -1,0 +1,10 @@
+{
+  "type": "skill",
+  "name": "殲滅",
+  "effect": "I. 發動技能及每回合開始時<br>⇒ 扣除自身總生命力 50%<br>&nbsp;&nbsp;&nbsp;&nbsp;(最多扣至 1 血)<br>II. 自身攻擊力及回復力 2.5 倍<br>III.「EVA 駕駛員」<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不會被封鎖主動技能<br>效果持續至生命力為 1",
+  "turn": "0",
+  "minTurn": "0",
+  "ep": "12",
+  "minEp": "6",
+  "pet": "2537"
+}

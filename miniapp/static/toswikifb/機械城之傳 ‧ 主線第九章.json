@@ -1,0 +1,245 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1744",
+      "title": "主線 ‧ 第九章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1369",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png",
+            "title": "技能回復"
+          }
+        },
+        {
+          "card": "650",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "175",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3068200",
+          "def": "1390",
+          "coin": "642",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1750",
+          "stage": "3",
+          "turn": "2{{初始CD*1}}",
+          "hp": "9638000",
+          "def": "2460",
+          "coin": "209",
+          "lv": "1",
+          "drop": "650",
+          "es": "592",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI015.png",
+            "title": "攻後轉橫暗"
+          }
+        },
+        {
+          "card": "1750",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9638000",
+          "def": "2460",
+          "coin": "209",
+          "lv": "1",
+          "drop": "650",
+          "es": "597",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI015.png",
+            "title": "攻後轉直暗"
+          }
+        },
+        {
+          "card": "1744",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "30000000",
+          "def": "16970",
+          "coin": "249",
+          "chest": "4000",
+          "es": "1681",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI181.png|static/es/SI188.png",
+            "title": "首回二五直行隱藏-25%隱藏符石5顆 ‧ 初級拼圖盾-限 ‧ 越攻越強"
+          }
+        }
+      ]
+    },
+    {
+      "id": "670",
+      "title": "主線 ‧ 第九章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "667",
+          "stage": "1{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5800000",
+          "def": "19800",
+          "coin": "0",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        },
+        {
+          "card": "667",
+          "stage": "",
+          "hp": "9200000",
+          "def": "19800",
+          "coin": "6383",
+          "es": "518",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "雙重擴散燃燒10%"
+          }
+        },
+        {
+          "card": "670",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6300000",
+          "def": "21000",
+          "coin": "0",
+          "es": "634",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png",
+            "title": "(5回7+Combo發動攻回)"
+          }
+        },
+        {
+          "card": "670",
+          "stage": "",
+          "hp": "9400000",
+          "def": "21000",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "600",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI256.png|static/es/SI129.png",
+            "title": "消心盾2% ‧ 扣血70%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "667",
+      "title": "主線 ‧ 第九章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1369",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "chest": "7900",
+          "es": "712",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI235.png",
+            "title": "強化符石-結"
+          }
+        },
+        {
+          "card": "670",
+          "stage": "2{{雙血}}",
+          "turn": "2{{初始CD*2}}",
+          "hp": "14720000",
+          "def": "21000",
+          "coin": "0",
+          "es": "1276",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI254.png|static/es/SI260.png|static/es/SI067.png",
+            "title": "光屬技能封鎖 ‧ 強化盾-反擊100% ‧ 3倍獵神"
+          }
+        },
+        {
+          "card": "670",
+          "stage": "",
+          "hp": "21090000",
+          "def": "21000",
+          "coin": "6383",
+          "es": "1743",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI233.png|static/es/SI161.png|static/es/SI215.png|static/es/SI183.png",
+            "title": "(5回回復力減弱90%) ‧ 命懸一線 ‧ 黑白符石 ‧ 始終盾"
+          }
+        },
+        {
+          "card": "667",
+          "stage": "3{{雙血}}",
+          "turn": "2{{初始CD*2}}",
+          "hp": "13940000",
+          "def": "19800",
+          "coin": "0",
+          "es": "920",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI302.png|static/es/SI047.png|static/es/SI229.png",
+            "title": "首回隨機轉火 ‧ 攻後火橫縱輪轉 ‧ 軌跡燃燒1000"
+          }
+        },
+        {
+          "card": "667",
+          "stage": "",
+          "hp": "20830000",
+          "def": "19800",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "2148",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI122.png|static/es/SI229.png",
+            "title": "同屬防禦90% ‧ 龍類禁錮 ‧ ✕形燃燒10%"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "579",
+      "title": "眾神紀錄 ‧ 惡夢夜幕第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "",
+          "hp": "16660000",
+          "def": "12000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "turn": "2",
+          "hp": "16150000",
+          "def": "15000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "turn": "3",
+          "hp": "18020000",
+          "def": "18000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "turn": "2",
+          "hp": "17680000",
+          "def": "15000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "hp": "15640000",
+          "def": "11000",
+          "coin": "248",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1149",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "39805410",
+          "def": "17800",
+          "coin": "1220",
+          "es": "3406",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI229.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 軌跡燃燒5000 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1147",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "40628630",
+          "def": "20400",
+          "coin": "1220",
+          "es": "1594",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI183.png",
+            "title": "始終盾"
+          }
+        },
+        {
+          "card": "944",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "187215340",
+          "def": "89000",
+          "coin": "8575",
+          "es": "3716",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png|static/es/SI146.png|static/es/SI124.png",
+            "title": "左右燃燒50% ‧ 首消光傷害吸收-連續反擊50% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "579",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "95360470",
+          "def": "157000",
+          "coin": "0",
+          "es": "1583",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI116.png|static/es/SI304.png|static/es/SI236.png",
+            "title": "首消光追擊零化 ‧ 光電擊3顆"
+          }
+        },
+        {
+          "card": "579",
+          "stage": "",
+          "turn": "1",
+          "hp": "269551360",
+          "def": "157000",
+          "coin": "5580",
+          "chest": "4000",
+          "es": "2998",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI005.png|static/es/SI087.png|static/es/SI230.png",
+            "title": "CD1 ‧ 暗攻盾 ‧ 首消7Combo盾 ‧ 強化防禦盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "943",
+      "title": "眾神紀錄 ‧ 惡夢夜幕第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-4",
+          "turn": "2",
+          "hp": "12175120",
+          "def": "6000",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "11414170",
+          "def": "5900",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "13316540",
+          "def": "7000",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "12936060",
+          "def": "6200",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "11033690",
+          "def": "6400",
+          "coin": "746",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "1990",
+      "title": "眾神紀錄 ‧ 惡夢夜幕第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1184",
+          "stage": "1{{雙血}}",
+          "turn": "1{{初始CD*2}}",
+          "hp": "128257400",
+          "def": "95640",
+          "coin": "0",
+          "es": "3249",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI165.png|static/es/SI105.png|static/es/SI251.png",
+            "title": "先攻-(3回轉珠減3秒) ‧ 7+Combo追擊盾 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1184",
+          "stage": "",
+          "turn": "1",
+          "hp": "78690200",
+          "def": "95640",
+          "coin": "6803",
+          "es": "3233",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI003.png|static/es/SI248.png",
+            "title": "木屬防禦90% ‧ 強化五屬追擊盾"
+          }
+        },
+        {
+          "card": "853",
+          "stage": "2",
+          "turn": "3{{初始CD*3}}",
+          "hp": "93197800",
+          "def": "72600",
+          "coin": "4232",
+          "es": "2905",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI232.png|static/es/SI251.png",
+            "title": "技能封鎖 ‧ 化血圍城-心化血符石 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "943",
+          "stage": "3{{雙血}}",
+          "turn": "1{{初始CD*2}}",
+          "hp": "153893400",
+          "def": "120000",
+          "coin": "0",
+          "es": "3359",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI313.png|static/es/SI326.png|static/es/SI251.png",
+            "title": "攻前盾 ‧ 首攻火心引爆狂擊減傷 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "943",
+          "stage": "",
+          "turn": "1",
+          "hp": "308348900",
+          "def": "120000",
+          "coin": "8575",
+          "es": "3358",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI181.png|static/es/SI013.png|static/es/SI251.png",
+            "title": "CD1 ‧ 敵屬初級拼圖盾-限 ‧ 首消木傷害吸收 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "854",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "82190530",
+          "def": "83100",
+          "coin": "4232",
+          "es": "2875",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI306.png|static/es/SI236.png|static/es/SI250.png|static/es/SI043.png",
+            "title": "心禁消 ‧ 心電擊4顆 ‧ 循環累積30+同屬符石盾"
+          }
+        },
+        {
+          "card": "1990",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "202143890",
+          "def": "149000",
+          "coin": "0",
+          "es": "3252",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI122.png|static/es/SI236.png|static/es/SI124.png",
+            "title": "先攻-3回全員禁錮 ‧ 攻後電擊3顆 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1990",
+          "stage": "",
+          "turn": "1",
+          "hp": "596304580",
+          "def": "149000",
+          "coin": "185",
+          "chest": "8000",
+          "es": "2887",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI121.png|static/es/SI123.png|static/es/SI282.png|static/es/SI132.png",
+            "title": "CD2 ‧ 附加消除重置 ‧ 左右暴風 ‧ 扣血100%"
+          }
+        }
+      ]
+    }
+  ]
+}

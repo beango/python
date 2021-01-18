@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "連綿夢魘",
+  "effect": "I. 敵方全體進入睡眠狀態<br>II. 使受影響目標無法行動，<br>&nbsp;&nbsp;&nbsp;&nbsp;持續 3 回合<br>III. 效果持續期間<br>⇒ 敵人所受傷害 1.5 倍<br>IV. 首批消除心符石<br>⇒ 會令敵方甦醒",
+  "turn": "22",
+  "minTurn": "8",
+  "pet": "7018"
+}

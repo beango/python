@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "十字標記",
+  "effect": "將 14 個[board]固定位置[/board]的符石轉化為暗神族符石",
+  "turn": "22",
+  "minTurn": "8",
+  "pet": "9018"
+}

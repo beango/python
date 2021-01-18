@@ -1,0 +1,337 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "831",
+      "title": "劇毒的花海",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1-5",
+          "damage": "1420",
+          "hp": "3630270",
+          "def": "310",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "3260",
+          "turn": "2",
+          "hp": "2875060",
+          "def": "280",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "4707",
+          "turn": "3",
+          "hp": "4097310",
+          "def": "350",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "3223",
+          "turn": "2",
+          "hp": "3640840",
+          "def": "340",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "1455",
+          "hp": "3071290",
+          "def": "260",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2109",
+      "title": "被絕望纏身的惡夢",
+      "cj": [],
+      "data": [
+        {
+          "card": "2103",
+          "stage": "1",
+          "damage": "4822",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4587060",
+          "def": "6820",
+          "coin": "125",
+          "es": "385",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "軌跡燃燒800"
+          }
+        },
+        {
+          "card": "2101",
+          "stage": "2",
+          "damage": "3116",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5267830",
+          "def": "7360",
+          "coin": "125",
+          "es": "493",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png",
+            "title": "三重凍結"
+          }
+        },
+        {
+          "card": "2105",
+          "stage": "3",
+          "damage": "7863",
+          "turn": "3{{初始CD*3}}",
+          "hp": "4705430",
+          "def": "8290",
+          "coin": "125",
+          "es": "1419",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png|static/es/SI260.png",
+            "title": "初級拼圖盾-限-連續反擊50%"
+          }
+        },
+        {
+          "card": "2109",
+          "stage": "4",
+          "damage": "2563",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6328730",
+          "def": "5410",
+          "coin": "125",
+          "chest": "2000",
+          "es": "1097",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI227.png|static/es/SI105.png",
+            "title": "5回技能封鎖 ‧ 迷惑符石 ‧ 7+Combo追擊盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2121",
+      "title": "一輝生命的呼喚",
+      "cj": [],
+      "data": [
+        {
+          "card": "2121",
+          "stage": "1",
+          "damage": "3368",
+          "turn": "2{{初始CD*2}}",
+          "hp": "524060",
+          "def": "2670",
+          "coin": "125",
+          "es": "3262",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI183.png|static/es/SI305.png|static/es/SI047.png|static/es/SI124.png",
+            "title": "始終盾 ‧ 攻後暗縱橫輪轉 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2121",
+          "stage": "2{{雙血}}",
+          "damage": "6698",
+          "turn": "1{{初始CD*3}}",
+          "hp": "69780",
+          "def": "2670",
+          "coin": "0",
+          "es": "52",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "攻前盾"
+          }
+        },
+        {
+          "card": "2121",
+          "stage": "",
+          "damage": "2540",
+          "turn": "1",
+          "hp": "350130",
+          "def": "2670",
+          "coin": "125",
+          "chest": "2000",
+          "es": "2420",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI227.png|static/es/SI015.png",
+            "title": "迷惑符石 ‧ 首消暗傷害吸收 ‧ 雙重暗幻變"
+          }
+        }
+      ]
+    },
+    {
+      "id": "322",
+      "title": "團結一致突破屏障",
+      "cj": [],
+      "data": [
+        {
+          "card": "326",
+          "stage": "1",
+          "damage": "20000",
+          "turn": "6{{初始CD*6}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "11",
+          "es": "267",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI034.png",
+            "title": "單次6+光符石盾"
+          }
+        },
+        {
+          "card": "328",
+          "stage": "",
+          "damage": "20000",
+          "turn": "6{{初始CD*6}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "11",
+          "es": "270",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI035.png",
+            "title": "單次6+暗符石盾"
+          }
+        },
+        {
+          "card": "320",
+          "stage": "2",
+          "damage": "20000",
+          "turn": "6{{初始CD*6}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "11",
+          "es": "258",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI031.png",
+            "title": "單次6+水符石盾"
+          }
+        },
+        {
+          "card": "322",
+          "stage": "",
+          "damage": "20000",
+          "turn": "6{{初始CD*6}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "11",
+          "es": "261",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI032.png",
+            "title": "單次6+火符石盾"
+          }
+        },
+        {
+          "card": "324",
+          "stage": "",
+          "damage": "20000",
+          "turn": "6{{初始CD*6}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "11",
+          "chest": "2000",
+          "es": "264",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI033.png",
+            "title": "單次6+木符石盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2121",
+      "title": "永植心中的鼓舞",
+      "cj": [],
+      "data": [
+        {
+          "card": "2116",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "es": "3253",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI125.png|static/es/SI157.png|static/es/SI161.png",
+            "title": "天惠星矢-超級技能回復-[7回增攻2倍] ‧ 自殺"
+          }
+        },
+        {
+          "card": "2121",
+          "stage": "2{{三血}}",
+          "damage": "12873",
+          "turn": "1{{初始CD*1}}",
+          "hp": "46870360",
+          "def": "59420",
+          "coin": "0",
+          "es": "1670",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI110.png",
+            "title": "(98回3秒轉珠) ‧ 首消隨機3~6Combo追擊盾-轉"
+          }
+        },
+        {
+          "card": "2121",
+          "stage": "",
+          "damage": "8271",
+          "turn": "1",
+          "hp": "37870680",
+          "def": "59420",
+          "coin": "0",
+          "es": "1750",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2121",
+          "stage": "",
+          "damage": "100",
+          "turn": "2",
+          "hp": "62057320",
+          "def": "59420",
+          "coin": "125",
+          "es": "582",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI108.png|static/es/SI132.png",
+            "title": "缺10+完殺"
+          }
+        }
+      ]
+    }
+  ]
+}

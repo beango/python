@@ -1,0 +1,311 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1102",
+      "title": "躁動的一夜",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "2",
+          "hp": "731458",
+          "def": "2020",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "turn": "1",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "432862",
+          "def": "580",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "3",
+          "damage": "4083",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "damage": "4083",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "damage": "4083",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1102",
+          "stage": "4{{雙血}}",
+          "damage": "12398",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6025290",
+          "def": "27840",
+          "coin": "0",
+          "es": "649",
+          "ws": "10115",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水縱橫輪轉"
+          }
+        },
+        {
+          "card": "1102",
+          "stage": "",
+          "damage": "9063",
+          "turn": "1",
+          "hp": "9840540",
+          "def": "27840",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "1111",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI251.png|static/es/SI301.png|static/es/SI047.png|static/es/SI113.png",
+            "title": "無視減傷 ‧ 隨機轉水 ‧ 首消水追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1310",
+      "title": "他唯一的任性",
+      "cj": [],
+      "data": [
+        {
+          "card": "490",
+          "stage": "",
+          "turn": "1",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "turn": "2",
+          "hp": "825455",
+          "def": "2940",
+          "coin": "188",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1310",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8476490",
+          "def": "87400",
+          "coin": "4980",
+          "chest": "4000",
+          "es": "1152",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI236.png",
+            "title": "越攻越強 ‧ 電擊2顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1108",
+      "title": "守候在身旁的人",
+      "cj": [],
+      "data": [
+        {
+          "card": "489",
+          "stage": "",
+          "hp": "759384",
+          "def": "2080",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "turn": "1",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1108",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*2}}",
+          "hp": "6518590",
+          "def": "17840",
+          "coin": "0",
+          "es": "1399",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI181.png|static/es/SI250.png|static/es/SI122.png",
+            "title": "首回隱藏12顆 ‧ 隱身-隱攻封鎖4回 ‧ 高級拼圖盾-限"
+          }
+        },
+        {
+          "card": "1108",
+          "stage": "",
+          "turn": "1",
+          "hp": "17382430",
+          "def": "17840",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1192",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI156.png|static/es/SI229.png|static/es/SI251.png|static/es/SI124.png|static/es/SI212.png",
+            "title": "(98回回復力變0) ‧ 四角擴散燃燒10% ‧ 無法控制-無視減傷 ‧ 無限回復"
+          }
+        }
+      ]
+    }
+  ]
+}

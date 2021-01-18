@@ -1,0 +1,234 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1532",
+      "title": "稍息的時間",
+      "cj": [],
+      "data": [
+        {
+          "card": "069",
+          "stage": "",
+          "turn": "1",
+          "hp": "941876",
+          "def": "1780",
+          "coin": "291",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "330",
+          "stage": "",
+          "turn": "3",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "277",
+          "lv": "15",
+          "drop": "099",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "330",
+          "stage": "1",
+          "turn": "3{{初始CD*3}}",
+          "hp": "832490",
+          "def": "3190",
+          "coin": "307",
+          "es": "193",
+          "note": "{{特性*離開*5}}",
+          "esjson": {
+            "img": "static/es/SI216.png",
+            "title": "反擊2000"
+          }
+        },
+        {
+          "card": "1532",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "624",
+          "es": "1508",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI010.png|static/es/SI161.png",
+            "title": "(7回暗攻2倍) ‧ 自殺"
+          }
+        },
+        {
+          "card": "1532",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7287360",
+          "def": "3980",
+          "coin": "624",
+          "chest": "4000",
+          "es": "1112",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png|static/es/SI302.png|static/es/SI047.png|static/es/SI114.png",
+            "title": "首回三重燃燒10% ‧ 隨機轉火 ‧ 首消火追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "576",
+      "title": "危機重重",
+      "cj": [],
+      "data": [
+        {
+          "card": "069",
+          "stage": "1-2",
+          "turn": "1",
+          "hp": "941876",
+          "def": "1780",
+          "coin": "291",
+          "lv": "15",
+          "ws": "10007",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "330",
+          "stage": "",
+          "turn": "3",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "277",
+          "lv": "15",
+          "drop": "099",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "069",
+          "stage": "3-4",
+          "turn": "1",
+          "hp": "941876",
+          "def": "1780",
+          "coin": "291",
+          "lv": "15",
+          "ws": "10008",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "786022",
+          "def": "1590",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "330",
+          "stage": "",
+          "turn": "3",
+          "hp": "828752",
+          "def": "1660",
+          "coin": "277",
+          "lv": "15",
+          "drop": "099",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "576",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6542880",
+          "def": "6660",
+          "coin": "2562",
+          "chest": "4000",
+          "es": "1243",
+          "ws": "10008",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png",
+            "title": "首消火傷害吸收"
+          }
+        }
+      ]
+    },
+    {
+      "id": "449",
+      "title": "緊急戰事",
+      "cj": [],
+      "data": [
+        {
+          "card": "079",
+          "stage": "",
+          "hp": "941588",
+          "def": "2190",
+          "coin": "283",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "3",
+          "hp": "549826",
+          "def": "2580",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1532",
+          "stage": "",
+          "turn": "1",
+          "hp": "468925",
+          "def": "3160",
+          "coin": "474",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "449",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9325870",
+          "def": "16380",
+          "coin": "100",
+          "chest": "8000",
+          "es": "884",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI254.png|static/es/SI221.png",
+            "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
+          }
+        }
+      ]
+    }
+  ]
+}

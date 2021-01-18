@@ -1,0 +1,69 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "715",
+      "title": "以生命作代價",
+      "cj": [],
+      "data": [
+        {
+          "card": "713",
+          "stage": "1{{雙血}}",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4825690",
+          "def": "13980",
+          "coin": "0",
+          "es": "282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越攻越強"
+          }
+        },
+        {
+          "card": "713",
+          "stage": "",
+          "turn": "1",
+          "hp": "7315880",
+          "def": "13980",
+          "coin": "6100",
+          "es": "1538",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI306.png|static/es/SI228.png",
+            "title": "心位置黏附"
+          }
+        },
+        {
+          "card": "715",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5063710",
+          "def": "13760",
+          "coin": "0",
+          "es": "1490",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI227.png|static/es/SI034.png",
+            "title": "迷惑符石 ‧ 首消全光盾"
+          }
+        },
+        {
+          "card": "715",
+          "stage": "",
+          "turn": "1",
+          "hp": "8204130",
+          "def": "13760",
+          "coin": "6100",
+          "es": "1085",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI005.png|static/es/SI124.png|static/es/SI161.png|static/es/SI156.png",
+            "title": "暗屬防禦盾 ‧ 無法控制 ‧ 命懸一線 ‧ (5回回復力變0)"
+          }
+        }
+      ]
+    }
+  ]
+}

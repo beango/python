@@ -1,0 +1,799 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "337",
+      "title": "月下的王族",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "7",
+        "exp": "1180"
+      },
+      "data": [
+        {
+          "card": "016",
+          "damage": "10868",
+          "turn": "3",
+          "hp": "32萬",
+          "drop": "013",
+          "lv": "1",
+          "coin": "",
+          "note": "{{強化盾}},稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "damage": "7741",
+          "hp": "41515",
+          "lv": "3",
+          "coin": "271",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "085",
+          "damage": "7829",
+          "hp": "41107",
+          "lv": "3",
+          "coin": "271",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "damage": "2335",
+          "hp": "37801",
+          "lv": "3",
+          "coin": "315",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3698",
+          "hp": "66000",
+          "lv": "3",
+          "coin": "201",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3698",
+          "hp": "33000",
+          "lv": "3",
+          "coin": "201",
+          "note": "{{首消4Combo盾}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "115",
+          "damage": "3699",
+          "hp": "69000",
+          "lv": "3",
+          "coin": "201",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "283",
+          "damage": "900",
+          "hp": "15",
+          "lv": "1",
+          "coin": "300",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "332",
+          "damage": "5萬",
+          "turn": "4(4)",
+          "hp": "12",
+          "drop": "103",
+          "lv": "3",
+          "coin": "10",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "342",
+          "damage": "8089",
+          "hp": "67053",
+          "drop": "083",
+          "lv": "3",
+          "coin": "53",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "073",
+          "stage": "7",
+          "num": "2",
+          "damage": "2312",
+          "turn": "2(2)",
+          "hp": "58607",
+          "lv": "3",
+          "coin": "324",
+          "note": "{{首消4Combo盾}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "337",
+          "stage": "",
+          "damage": "8203",
+          "turn": "3(3)",
+          "hp": "34萬",
+          "drop": "073",
+          "lv": "1",
+          "coin": "301",
+          "note": "{{妖精剋制 ‧ 攻*atk=8203}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "342",
+      "title": "聖光加護的長槍",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "7",
+        "exp": "1197"
+      },
+      "data": [
+        {
+          "card": "016",
+          "damage": "10868",
+          "turn": "3",
+          "hp": "32萬",
+          "drop": "013",
+          "lv": "1",
+          "coin": "",
+          "note": "{{強化盾}},稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "damage": "7827",
+          "hp": "41515",
+          "lv": "3",
+          "coin": "274",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "085",
+          "damage": "7916",
+          "hp": "41107",
+          "lv": "3",
+          "coin": "274",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "damage": "2335",
+          "hp": "38168",
+          "lv": "3",
+          "coin": "318",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3735",
+          "hp": "66000",
+          "lv": "3",
+          "coin": "203",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3735",
+          "hp": "33000",
+          "lv": "3",
+          "coin": "203",
+          "note": "{{首消4Combo盾}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "115",
+          "damage": "3736",
+          "hp": "69000",
+          "lv": "3",
+          "coin": "203",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "283",
+          "damage": "900",
+          "hp": "15",
+          "lv": "1",
+          "coin": "300",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "332",
+          "damage": "5萬",
+          "turn": "4(4)",
+          "hp": "12",
+          "drop": "103",
+          "coin": "10",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "337",
+          "damage": "4027",
+          "hp": "73034",
+          "drop": "073",
+          "lv": "3",
+          "coin": "69",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "342",
+          "damage": "8089",
+          "hp": "67053",
+          "drop": "083",
+          "lv": "3",
+          "coin": "53",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "342",
+          "stage": "7",
+          "damage": "4100",
+          "turn": "2(2)",
+          "hp": "54萬",
+          "drop": "083",
+          "lv": "1",
+          "coin": "17",
+          "note": "{{神族剋制 ‧ 攻*atk=4100}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "343",
+          "stage": "",
+          "damage": "8200",
+          "turn": "3(3)",
+          "hp": "36萬",
+          "drop": "085",
+          "lv": "1",
+          "coin": "17",
+          "note": "{{神族剋制 ‧ 防}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "title": "怒獅的咆哮",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "7",
+        "exp": "1214"
+      },
+      "data": [
+        {
+          "card": "016",
+          "damage": "10868",
+          "turn": "3",
+          "hp": "32萬",
+          "drop": "013",
+          "lv": "1",
+          "coin": "",
+          "note": "{{強化盾}},稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "damage": "7827",
+          "hp": "41515",
+          "lv": "3",
+          "coin": "277",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "085",
+          "damage": "8003",
+          "hp": "41107",
+          "lv": "3",
+          "coin": "277",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "damage": "2335",
+          "hp": "37801",
+          "lv": "3",
+          "coin": "321",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3735",
+          "hp": "66000",
+          "lv": "3",
+          "coin": "205",
+          "note": "{{首消4Combo盾}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "115",
+          "damage": "3736",
+          "hp": "69000",
+          "lv": "3",
+          "coin": "205",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "283",
+          "damage": "900",
+          "hp": "15",
+          "lv": "1",
+          "coin": "300",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "332",
+          "damage": "5萬",
+          "turn": "4(4)",
+          "hp": "12",
+          "drop": "103",
+          "lv": "3",
+          "coin": "10",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "337",
+          "damage": "4027",
+          "hp": "73034",
+          "drop": "073",
+          "lv": "3",
+          "coin": "69",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "342",
+          "damage": "8089",
+          "hp": "67053",
+          "drop": "083",
+          "lv": "3",
+          "coin": "53",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "157",
+          "stage": "7",
+          "damage": "5236",
+          "turn": "3(3)",
+          "hp": "67萬",
+          "chest": "2500",
+          "coin": "730",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "title": "狂暴的獸王",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "7",
+        "exp": "1231"
+      },
+      "data": [
+        {
+          "card": "016",
+          "damage": "10868",
+          "turn": "3",
+          "hp": "32萬",
+          "drop": "013",
+          "lv": "1",
+          "coin": "",
+          "note": "{{強化盾}},稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "damage": "7999",
+          "hp": "41515",
+          "lv": "3",
+          "coin": "280",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "085",
+          "damage": "8090",
+          "hp": "41107",
+          "lv": "3",
+          "coin": "280",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "damage": "2335",
+          "hp": "37801",
+          "lv": "3",
+          "coin": "324",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3735",
+          "hp": "66000",
+          "lv": "3",
+          "coin": "207",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3809",
+          "hp": "33000",
+          "lv": "3",
+          "coin": "207",
+          "note": "{{首消4Combo盾}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "115",
+          "damage": "3736",
+          "hp": "69000",
+          "lv": "3",
+          "coin": "207",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "283",
+          "damage": "900",
+          "hp": "15",
+          "lv": "1",
+          "coin": "300",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "332",
+          "damage": "5萬",
+          "turn": "4(4)",
+          "hp": "12",
+          "drop": "103",
+          "lv": "3",
+          "coin": "10",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "337",
+          "damage": "4027",
+          "hp": "73034",
+          "drop": "073",
+          "lv": "3",
+          "coin": "69",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "342",
+          "damage": "8089",
+          "hp": "67053",
+          "drop": "083",
+          "lv": "3",
+          "coin": "53",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "187",
+          "stage": "7",
+          "damage": "24068",
+          "turn": "3",
+          "hp": "68萬",
+          "chest": "2500",
+          "coin": "40",
+          "note": "{{獸類剋制 ‧ 防}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "title": "雷神轟鳴",
+      "note": "※ STAGE CLEARED 會獲得 ![魔法石](toswikiapic/Gift-魔法石.png) 1粒※",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "17",
+        "battle": "10",
+        "exp": "1530"
+      },
+      "data": [
+        {
+          "card": "016",
+          "damage": "10868",
+          "turn": "3",
+          "hp": "32萬",
+          "drop": "013",
+          "lv": "1",
+          "coin": "",
+          "note": "{{強化盾}},稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "083",
+          "damage": "8085",
+          "hp": "41515",
+          "lv": "3",
+          "coin": "283",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "085",
+          "damage": "8177",
+          "hp": "41107",
+          "lv": "3",
+          "coin": "283",
+          "note": "{{反彈15%}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "093",
+          "damage": "2335",
+          "hp": "39269",
+          "lv": "3",
+          "coin": "327",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3735",
+          "hp": "66000",
+          "lv": "3",
+          "coin": "209",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3735",
+          "hp": "33000",
+          "lv": "3",
+          "coin": "209",
+          "note": "{{首消5Combo盾}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "113",
+          "damage": "3735",
+          "hp": "33000",
+          "lv": "3",
+          "coin": "209",
+          "note": "{{首消4Combo盾}}",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "115",
+          "damage": "3846",
+          "hp": "69000",
+          "lv": "3",
+          "coin": "209",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "283",
+          "damage": "900",
+          "hp": "15",
+          "lv": "1",
+          "coin": "300",
+          "note": "稀有出現",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "332",
+          "damage": "5萬",
+          "turn": "4(4)",
+          "hp": "12",
+          "drop": "103",
+          "lv": "3",
+          "coin": "10",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "337",
+          "damage": "4027",
+          "hp": "73034",
+          "drop": "073",
+          "lv": "3",
+          "coin": "69",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "342",
+          "damage": "8089",
+          "hp": "67053",
+          "drop": "083",
+          "lv": "3",
+          "coin": "53",
+          "note": "",
+          "esjson": null,
+          "stage": "",
+          "jd": ""
+        },
+        {
+          "card": "052",
+          "stage": "5",
+          "damage": "99999",
+          "turn": "7(7)",
+          "hp": "35萬",
+          "coin": "875",
+          "note": "{{獸類剋制 ‧ 防}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "208",
+          "stage": "10",
+          "damage": "7000",
+          "turn": "1",
+          "hp": "86萬",
+          "def": "1000",
+          "chest": "2500",
+          "coin": "125",
+          "note": "{{扣血40%}} {{Texttip2*(註)*敵人持有扣血百分比的技能時，除非是特殊情況 (如被暗蛋魅惑而攻擊自己)，否則只會造成隊伍總生命力固定百分比 (40%) 的傷害，不使用自己的攻擊力 (7000)}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

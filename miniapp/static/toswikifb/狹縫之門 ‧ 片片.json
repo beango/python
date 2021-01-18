@@ -1,0 +1,52 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/12 16:00",
+      "end": "2020/11/8 23:59",
+      "note": "19.4版本限定關卡<br>僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2535",
+      "title": "溫泉企鵝",
+      "cj": [],
+      "data": [
+        {
+          "card": "2535",
+          "stage": "1~5{{掉落*EVA}}",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "2535",
+          "stage": "",
+          "damage": "100",
+          "turn": "1",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    }
+  ]
+}

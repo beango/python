@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "束縛之力",
+  "effect": "2 回合內<br>I. 束縛敵方全體<br>⇒ 使受影響目標無法行動<br>II. 敵人受到的傷害 1.5 倍<br>III. 觸碰電擊符石時<br>&nbsp;&nbsp;&nbsp;&nbsp;仍可移動符石",
+  "turn": "20",
+  "minTurn": "9",
+  "pet": "2293"
+}

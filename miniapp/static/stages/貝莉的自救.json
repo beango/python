@@ -1,0 +1,127 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1330",
+      "title": "染血的斗篷",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png)※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 染血的斗篷 1 次  ——開放關卡[渴望時間回溯](/pages/index/detail/detail?name2=%E6%B8%B4%E6%9C%9B%E6%99%82%E9%96%93%E5%9B%9E%E6%BA%AF)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "4",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1592",
+          "stage": "1~2",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3(3)",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1192",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "100",
+          "def": "10",
+          "coin": "5123",
+          "es": "530",
+          "note": "",
+          "esjson": {
+            "img": "es/SI125.png",
+            "title": "妖精技能回復"
+          },
+          "jd": ""
+        },
+        {
+          "card": "713",
+          "stage": "4{{雙血}}",
+          "turn": "1(1)",
+          "hp": "397800",
+          "def": "13980",
+          "coin": "0",
+          "es": "667",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png|es/SI221.png|es/SI217.png",
+            "title": "1-4顆追擊風化20% ‧ 溢補盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "713",
+          "stage": "",
+          "hp": "10487600",
+          "def": "13980",
+          "coin": "6100",
+          "chest": "8000",
+          "es": "1263",
+          "note": "",
+          "esjson": {
+            "img": "es/SI256.png|es/SI131.png|es/SI228.png",
+            "title": "消心盾5% ‧ 扣血90% ‧ 雙重黏附"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

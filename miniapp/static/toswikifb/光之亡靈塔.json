@@ -1,0 +1,83 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "072",
+      "title": "光明之寺",
+      "cj": [],
+      "data": [
+        {
+          "card": "072",
+          "stage": "3",
+          "num": "3",
+          "damage": "65",
+          "hp": "427",
+          "lv": "1",
+          "chest": "300",
+          "coin": "22",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "title": "天狼之鳴",
+      "cj": [],
+      "data": [
+        {
+          "card": "112",
+          "stage": "3",
+          "num": "3",
+          "damage": "122",
+          "hp": "365",
+          "lv": "1",
+          "chest": "300",
+          "coin": "19",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "title": "銀月之魔塔",
+      "cj": [],
+      "data": [
+        {
+          "card": "092",
+          "stage": "4",
+          "num": "3",
+          "damage": "57",
+          "hp": "276",
+          "lv": "1",
+          "coin": "23",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "102",
+          "stage": "5{{前置}}",
+          "damage": "42",
+          "hp": "121",
+          "coin": "0",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "103",
+          "stage": "5",
+          "damage": "338",
+          "hp": "732",
+          "drop": "102",
+          "lv": "1",
+          "chest": "300",
+          "coin": "14",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    }
+  ]
+}

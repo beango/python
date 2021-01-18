@@ -1,0 +1,401 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "832",
+      "title": "紛飛的惡魔之花",
+      "cj": [],
+      "data": [
+        {
+          "card": "835",
+          "stage": "1",
+          "damage": "6807",
+          "turn": "3",
+          "hp": "8097310",
+          "def": "350",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "2355",
+          "hp": "7071290",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "831",
+          "stage": "2",
+          "damage": "2220",
+          "hp": "7630270",
+          "def": "310",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "4860",
+          "turn": "2",
+          "hp": "6875060",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "832",
+          "stage": "3",
+          "damage": "6789",
+          "turn": "2{{初始CD*2}}",
+          "hp": "10382400",
+          "def": "3190",
+          "coin": "29",
+          "es": "784",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水橫縱輪轉"
+          }
+        },
+        {
+          "card": "832",
+          "stage": "",
+          "damage": "6789",
+          "turn": "2{{初始CD*1}}",
+          "hp": "10382400",
+          "def": "3190",
+          "coin": "29",
+          "chest": "2000",
+          "es": "649",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI011.png",
+            "title": "攻後水縱橫輪轉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2114",
+      "title": "蠶噬一切的黑玫塊",
+      "cj": [],
+      "data": [
+        {
+          "card": "2114",
+          "stage": "1",
+          "damage": "1706",
+          "turn": "1{{初始CD*1}}",
+          "hp": "972630",
+          "def": "5940",
+          "coin": "125",
+          "es": "701",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾"
+          }
+        },
+        {
+          "card": "2114",
+          "stage": "2",
+          "damage": "1706",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1538020",
+          "def": "5940",
+          "coin": "125",
+          "chest": "2000",
+          "es": "3294",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI201.png|static/es/SI113.png|static/es/SI251.png",
+            "title": "突擊10% ‧ 隨機轉黑玫瑰4顆 ‧ 首消水追擊零化 ‧ 無視減傷"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2114",
+      "title": "嗜血的白玫瑰",
+      "cj": [],
+      "data": [
+        {
+          "card": "364",
+          "stage": "1",
+          "damage": "100",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "es": "584",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI138.png",
+            "title": "龍脈回復"
+          }
+        },
+        {
+          "card": "2114",
+          "stage": "2{{雙血}}",
+          "damage": "987",
+          "turn": "2{{初始CD*2}}",
+          "hp": "860870",
+          "def": "5940",
+          "coin": "0",
+          "es": "1750",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI188.png|static/es/SI124.png",
+            "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2114",
+          "stage": "",
+          "damage": "2699",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1590440",
+          "def": "5940",
+          "coin": "125",
+          "chest": "4000",
+          "es": "3296",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI201.png|static/es/SI124.png",
+            "title": "隨機轉白玫瑰1顆-玫瑰轉紅引爆完殺 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2114",
+      "title": "天地間的美之戰士 {{EXTRA}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "831",
+          "stage": "1{{隨機*2}}",
+          "damage": "5356",
+          "turn": "1",
+          "hp": "405490",
+          "def": "380",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "11016",
+          "turn": "2",
+          "hp": "398650",
+          "def": "270",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "14973",
+          "turn": "3",
+          "hp": "447560",
+          "def": "590",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "10790",
+          "turn": "2",
+          "hp": "403570",
+          "def": "410",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "5495",
+          "turn": "1",
+          "hp": "397930",
+          "def": "300",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "686",
+          "stage": "2",
+          "damage": "14809",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7083580",
+          "def": "30570",
+          "coin": "8450",
+          "es": "341",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png",
+            "title": "強化盾-反擊100%"
+          }
+        },
+        {
+          "card": "2128",
+          "stage": "3",
+          "damage": "8601",
+          "turn": "2{{初始CD*2}}",
+          "hp": "568700",
+          "def": "3480",
+          "coin": "13088",
+          "lv": "1",
+          "es": "1",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png",
+            "title": "強化盾"
+          }
+        },
+        {
+          "card": "2112",
+          "stage": "4{{雙血}}",
+          "damage": "19730",
+          "turn": "2{{初始CD*1}}",
+          "hp": "9715600",
+          "def": "51780",
+          "coin": "0",
+          "es": "3282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI303.png|static/es/SI221.png|static/es/SI047.png|static/es/SI254.png|static/es/SI188.png",
+            "title": "攻後木風化3000縱橫輪轉 ‧ 強化盾 ‧ 血弱20%-狂擊固防5倍"
+          }
+        },
+        {
+          "card": "2112",
+          "stage": "",
+          "damage": "6379",
+          "turn": "1",
+          "hp": "14539840",
+          "def": "51780",
+          "coin": "7223",
+          "es": "3284",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI058.png|static/es/SI013.png|static/es/SI260.png",
+            "title": "CD1 ‧ 弱轉珠技無效 ‧ 首消木傷害吸收-反擊200%"
+          }
+        },
+        {
+          "card": "831",
+          "stage": "5{{隨機*3}}",
+          "damage": "5356",
+          "turn": "1",
+          "hp": "405490",
+          "def": "380",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "11016",
+          "turn": "2",
+          "hp": "398650",
+          "def": "270",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "835",
+          "stage": "",
+          "damage": "14973",
+          "turn": "3",
+          "hp": "447560",
+          "def": "590",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "837",
+          "stage": "",
+          "damage": "10790",
+          "turn": "2",
+          "hp": "403570",
+          "def": "410",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "",
+          "damage": "5495",
+          "turn": "1",
+          "hp": "397930",
+          "def": "300",
+          "coin": "308",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2117",
+          "stage": "6",
+          "damage": "10822",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8348080",
+          "def": "50930",
+          "coin": "6803",
+          "es": "1097",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI227.png|static/es/SI105.png",
+            "title": "5回技能封鎖 ‧ 迷惑符石 ‧ 7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "2114",
+          "stage": "7{{雙血}}{{掉落*聖鬥士星矢}}",
+          "damage": "12059",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9657080",
+          "def": "52490",
+          "coin": "0",
+          "es": "3295",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI201.png|static/es/SI113.png|static/es/SI251.png",
+            "title": "突擊65% ‧ 隨機轉黑玫瑰8顆 ‧ 首消水追擊零化 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "2114",
+          "stage": "",
+          "damage": "15367",
+          "turn": "1",
+          "hp": "17129140",
+          "def": "52490",
+          "coin": "7643",
+          "lv": "1",
+          "es": "3298",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI201.png|static/es/SI124.png",
+            "title": "隨機轉白玫瑰3顆-玫瑰轉紅引爆完殺 ‧ 無法控制"
+          }
+        }
+      ]
+    }
+  ]
+}

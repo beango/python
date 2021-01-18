@@ -1,0 +1,98 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1192",
+      "title": "克拉拉的祈願",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) + 10把 ![布蘭克之匙](toswikiapic/yaoshi.png)※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界<nowiki>通過 克拉拉的祈願 1 次  ——開放關卡 待開放 </nowiki>"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "5",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1592",
+          "stage": "1~4",
+          "turn": "",
+          "hp": "",
+          "def": "890",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "630",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "520",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "610",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "570",
+          "coin": "",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1192",
+          "stage": "5",
+          "turn": "1(1)",
+          "hp": "100",
+          "def": "10",
+          "coin": "",
+          "chest": "8000",
+          "es": "321",
+          "note": "",
+          "esjson": {
+            "img": "es/SI161.png",
+            "title": "自殘50%"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

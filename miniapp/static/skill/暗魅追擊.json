@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "暗魅追擊",
+  "effect": "I. 將 12 粒符石轉化為<br>⇒ 妖族強化符石<br>&nbsp;&nbsp;&nbsp;(非種族符石優先轉換)<br>1 回合內<br>II. 自身攻擊力減至 0 <br>III. 左旁成員追打 6 次",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2495"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "破冰魅術",
+  "effect": "I. 引爆所有凍結符石<br>II. 將固定 15 個位置的符石<br>⇒ 轉化為暗強化符石<br>III. 每首批消除 1 組暗符石<br>⇒ 額外增加 1 連擊 (Ex. Combo)<br>⇒ 最多可增加 15 Ex. Combo",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2576"
+}

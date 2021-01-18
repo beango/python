@@ -1,0 +1,235 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1595",
+      "title": "堆填區的黑影",
+      "cj": [],
+      "data": [
+        {
+          "card": "489",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "987130",
+          "def": "150",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1013",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2321470",
+          "def": "680",
+          "coin": "920",
+          "es": "1061",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI221.png",
+            "title": "突擊65%-底行風化 ‧ 攻後風化"
+          }
+        },
+        {
+          "card": "489",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "987130",
+          "def": "150",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "584",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "2589400",
+          "def": "640",
+          "coin": "189",
+          "lv": "1",
+          "drop": "489",
+          "es": "341",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png",
+            "title": "強化盾-反擊100%"
+          }
+        },
+        {
+          "card": "1414",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3605780",
+          "def": "780",
+          "coin": "3780",
+          "lv": "1",
+          "drop": "1012",
+          "es": "353",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI069.png|static/es/SI122.png",
+            "title": "獵人-技能封鎖"
+          }
+        },
+        {
+          "card": "1595",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "189",
+          "chest": "4000",
+          "es": "1380",
+          "note": "{{特性*離開*1}}",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI140.png",
+            "title": "隱藏圍城 ‧ 龍脈重置"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1596",
+      "title": "神秘的少女",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1593",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1594",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1595",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1596",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3470",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1596",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5619580",
+          "def": "3740",
+          "coin": "189",
+          "es": "1824",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI236.png",
+            "title": "突擊65% ‧ 攻後電擊3顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "title": "尋找倖存者",
+      "cj": [],
+      "data": [
+        {
+          "card": "1008",
+          "turn": "3",
+          "hp": "417329",
+          "def": "960",
+          "coin": "905",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1012",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1014",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "note": "",
+          "esjson": null,
+          "stage": ""
+        },
+        {
+          "card": "1411",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5378980",
+          "def": "1640",
+          "coin": "4380",
+          "es": "1461",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI047.png|static/es/SI011.png",
+            "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 首消水傷害吸收"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "",
+          "turn": "4{{初始CD*4}}",
+          "hp": "8945530",
+          "def": "1390",
+          "coin": "4380",
+          "es": "1202",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI244.png|static/es/SI038.png",
+            "title": "水外四屬盾-限"
+          }
+        }
+      ]
+    }
+  ]
+}

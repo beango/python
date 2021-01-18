@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "機式銳擊",
+  "effect": "I. 完全回復生命力<br>II. 將水、火、木符石<br>⇒ 轉化為強化符石<br>1 回合內<br>III. 機械族成員追打<br>⇒ 光及暗屬性攻擊 1 次<br>IV. 發動技能時，<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;若我方生命力為 1<br>⇒ 迴避敵人首次攻擊",
+  "turn": "18",
+  "minTurn": "7",
+  "pet": "2573"
+}

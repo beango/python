@@ -1,0 +1,180 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "196",
+      "title": "眾神紀錄 ‧ 主線第六章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-4",
+          "turn": "2",
+          "hp": "6820800",
+          "def": "6000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "6394500",
+          "def": "5900",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "7460250",
+          "def": "7000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "7247100",
+          "def": "6200",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "6181350",
+          "def": "6400",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "1626",
+      "title": "眾神紀錄 ‧ 主線第六章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1526",
+          "stage": "1-4",
+          "turn": "2",
+          "hp": "6820800",
+          "def": "6000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1527",
+          "stage": "",
+          "turn": "2",
+          "hp": "6394500",
+          "def": "5900",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1528",
+          "stage": "",
+          "turn": "2",
+          "hp": "7460250",
+          "def": "7000",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "2",
+          "hp": "7247100",
+          "def": "6200",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "2",
+          "hp": "6181350",
+          "def": "6400",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "619",
+      "title": "眾神紀錄 ‧ 主線第六章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "518",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14687030",
+          "def": "32000",
+          "coin": "249",
+          "es": "279",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png",
+            "title": "7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "744",
+          "stage": "2",
+          "turn": "1{{初始CD*3}}",
+          "hp": "18371650",
+          "def": "57000",
+          "coin": "249",
+          "es": "1489",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI227.png|static/es/SI033.png",
+            "title": "迷惑符石 ‧ 首消全木盾"
+          }
+        },
+        {
+          "card": "619",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "16986410",
+          "def": "49000",
+          "coin": "249",
+          "chest": "8000",
+          "es": "3375",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI147.png|static/es/SI183.png",
+            "title": "首消暗傷害吸收-反擊100% ‧ 暗起手始終盾"
+          }
+        }
+      ]
+    }
+  ]
+}

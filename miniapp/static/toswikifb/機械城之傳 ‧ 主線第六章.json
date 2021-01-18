@@ -1,0 +1,198 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1752",
+      "title": "主線 ‧ 第六章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "649",
+          "stage": "1",
+          "hp": "1751490",
+          "def": "860",
+          "coin": "11",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "1751490",
+          "def": "860",
+          "coin": "11",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "1751490",
+          "def": "860",
+          "coin": "11",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1749",
+          "stage": "2",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8691870",
+          "def": "2170",
+          "coin": "11",
+          "es": "279",
+          "ws": "10073",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png",
+            "title": "7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "1749",
+          "stage": "",
+          "turn": "2{{初始CD*3}}",
+          "hp": "8691870",
+          "def": "2170",
+          "coin": "11",
+          "es": "279",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI105.png",
+            "title": "7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "1752",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "11",
+          "chest": "4000",
+          "es": "832",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "命懸一線 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "title": "主線 ‧ 第六章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1370",
+          "stage": "1{{雙血}}",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8051460",
+          "def": "15970",
+          "coin": "0",
+          "es": "1823",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI236.png",
+            "title": "突擊65% ‧ 攻後電擊2顆"
+          }
+        },
+        {
+          "card": "1370",
+          "stage": "",
+          "turn": "1",
+          "hp": "15754860",
+          "def": "15970",
+          "coin": "7643",
+          "es": "2353",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI305.png|static/es/SI236.png|static/es/SI117.png",
+            "title": "首回全暗電擊 ‧ 首消暗追擊零化"
+          }
+        },
+        {
+          "card": "1367",
+          "stage": "2{{雙血}}",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8161450",
+          "def": "17340",
+          "coin": "0",
+          "es": "1758",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI012.png|static/es/SI229.png|static/es/SI124.png",
+            "title": "首消火傷害吸收-雙重燃燒10% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1367",
+          "stage": "",
+          "turn": "1",
+          "hp": "15829970",
+          "def": "17340",
+          "coin": "7643",
+          "chest": "4000",
+          "es": "1623",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI229.png|static/es/SI188.png",
+            "title": "附加消除 ‧ 三重擴散燃燒10% ‧ 越攻越強"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1750",
+      "title": "主線 ‧ 第六章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1368",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "7643",
+          "es": "2069",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI008.png|static/es/SI161.png",
+            "title": "[7回木攻2倍] ‧ 自殺"
+          }
+        },
+        {
+          "card": "1750",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7659810",
+          "def": "2460",
+          "coin": "0",
+          "es": "1916",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI274.png",
+            "title": "突擊10%-(98回致命步伐500)"
+          }
+        },
+        {
+          "card": "1750",
+          "stage": "",
+          "turn": "1",
+          "hp": "13186580",
+          "def": "2460",
+          "coin": "249",
+          "chest": "8000",
+          "es": "679",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png|static/es/SI122.png",
+            "title": "重覆隊員禁錮 ‧ 越攻越強"
+          }
+        }
+      ]
+    }
+  ]
+}

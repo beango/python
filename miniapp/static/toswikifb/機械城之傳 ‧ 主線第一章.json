@@ -1,0 +1,167 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "830",
+      "title": "主線 ‧ 第一章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "164",
+          "stage": "1-2",
+          "hp": "824650",
+          "def": "2160",
+          "coin": "183",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "170",
+          "stage": "",
+          "turn": "1",
+          "hp": "859240",
+          "def": "2050",
+          "coin": "183",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "830",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "10",
+          "coin": "7235",
+          "chest": "4000",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "title": "主線 ‧ 第一章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "164",
+          "stage": "",
+          "hp": "824650",
+          "def": "2160",
+          "coin": "183",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "170",
+          "stage": "",
+          "turn": "1",
+          "hp": "859240",
+          "def": "2050",
+          "coin": "183",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "173",
+          "stage": "1",
+          "hp": "817530",
+          "def": "2140",
+          "coin": "183",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "166",
+          "stage": "3",
+          "turn": "2{{初始CD*3}}",
+          "hp": "5603730",
+          "def": "8840",
+          "coin": "852",
+          "es": "5",
+          "ws": "10091",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "雙體共生"
+          }
+        },
+        {
+          "card": "166",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "8405590",
+          "def": "8840",
+          "coin": "852",
+          "chest": "4000",
+          "es": "5",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "雙體共生"
+          }
+        }
+      ]
+    },
+    {
+      "id": "650",
+      "title": "主線 ‧ 第一章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "650",
+          "stage": "4",
+          "turn": "1{{初始CD*2}}",
+          "hp": "2530870",
+          "def": "3980",
+          "coin": "249",
+          "chest": "8000",
+          "es": "59",
+          "ws": "10242",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "646",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "5801350",
+          "def": "9070",
+          "coin": "249",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2530870",
+          "def": "3980",
+          "coin": "249",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        }
+      ]
+    }
+  ]
+}

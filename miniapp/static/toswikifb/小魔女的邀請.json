@@ -1,0 +1,129 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1533",
+      "title": "魔族的陷阱",
+      "cj": [],
+      "data": [
+        {
+          "card": "1533",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "474",
+          "note": "{{特性*離開*1}}",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "2",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "626",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "626",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1526",
+          "stage": "",
+          "turn": "3",
+          "hp": "562974",
+          "def": "2630",
+          "coin": "626",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1051",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9475260",
+          "def": "8760",
+          "coin": "7223",
+          "es": "1391",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI221.png|static/es/SI124.png|static/es/SI105.png",
+            "title": "突擊30% ‧ 首回4顆-每回3顆風化3000 ‧ 無法控制 ‧ 7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "581",
+          "stage": "4",
+          "turn": "2{{初始CD*3}}",
+          "hp": "5824870",
+          "def": "6500000",
+          "coin": "309",
+          "es": "1035",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI067.png|static/es/SI122.png",
+            "title": "附加消除 ‧ 3倍獵神-禁錮"
+          }
+        },
+        {
+          "card": "1411",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5669250",
+          "def": "7340",
+          "coin": "4980",
+          "es": "1461",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI047.png|static/es/SI011.png",
+            "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 首消水傷害吸收"
+          }
+        },
+        {
+          "card": "1102",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14732250",
+          "def": "27840",
+          "coin": "0",
+          "es": "1566",
+          "ws": "10011",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI301.png|static/es/SI047.png|static/es/SI113.png",
+            "title": "附加消除重置 ‧ 隨機轉水 ‧ 首消水追擊零化"
+          }
+        },
+        {
+          "card": "1102",
+          "stage": "",
+          "turn": "1",
+          "hp": "38978210",
+          "def": "27840",
+          "coin": "7643",
+          "chest": "10000",
+          "es": "1679",
+          "attr": "暗",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI020.png|static/es/SI067.png|static/es/SI004.png|static/es/SI254.png|static/es/SI236.png",
+            "title": "敵轉暗 ‧ 3倍獵神 ‧ 光外防禦90% ‧ 強化盾-非強化傷害吸收 ‧ 攻後電擊疊狂"
+          }
+        }
+      ]
+    }
+  ]
+}

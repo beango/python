@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "封印解除",
+  "effect": "I. 解除所有神族成員<br>&nbsp;&nbsp;&nbsp;被封鎖的技能<br>&nbsp;&nbsp;&nbsp;(此技能無視封鎖技能)<br>1 回合內<br>II. 全隊攻擊力 2 倍<br>III. 連擊 (Combo) 數目固定為 13",
+  "turn": "19",
+  "minTurn": "7",
+  "pet": "2541"
+}

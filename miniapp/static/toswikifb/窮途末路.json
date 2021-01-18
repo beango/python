@@ -1,0 +1,337 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "874",
+      "title": "智破重圍",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4839140",
+          "def": "3580",
+          "coin": "902",
+          "chest": "4000",
+          "lv": "15",
+          "es": "852",
+          "ws": "10248",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5061380",
+          "def": "4550",
+          "coin": "902",
+          "chest": "4000",
+          "lv": "15",
+          "es": "1319",
+          "note": "{{特性*離開*1}}",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "8顆風化"
+          }
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4839140",
+          "def": "3580",
+          "coin": "902",
+          "chest": "4000",
+          "lv": "15",
+          "es": "852",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "首殺盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "461",
+      "title": "怪物的由來",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "461",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8321120",
+          "def": "6320",
+          "coin": "501",
+          "chest": "4000",
+          "es": "945",
+          "note": "復活 5 次後攻擊為{{特性*atk=2492}}|ws=10265",
+          "esjson": {
+            "img": "static/es/SI211.png",
+            "title": "五次受攻盾50%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1194",
+      "title": "被逼到絕境",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "871",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4987320",
+          "def": "620",
+          "coin": "902",
+          "chest": "8000",
+          "lv": "15",
+          "es": "282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越攻越強"
+          }
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2624140",
+          "def": "550",
+          "coin": "902",
+          "chest": "8000",
+          "lv": "15",
+          "es": "59",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png",
+            "title": "先攻"
+          }
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4983560",
+          "def": "580",
+          "coin": "902",
+          "chest": "8000",
+          "lv": "15",
+          "es": "208",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI216.png",
+            "title": "垂死反擊2000"
+          }
+        },
+        {
+          "card": "875",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9886540",
+          "def": "19150",
+          "coin": "1502",
+          "chest": "8000",
+          "lv": "15",
+          "es": "1538",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI306.png|static/es/SI228.png",
+            "title": "心位置黏附"
+          }
+        },
+        {
+          "card": "1194",
+          "stage": "6",
+          "turn": "1",
+          "hp": "5061780",
+          "def": "19150",
+          "coin": "6383",
+          "chest": "8000",
+          "lv": "15",
+          "es": "602",
+          "ws": "10229",
+          "note": "{{特性*離開*2}}",
+          "esjson": {
+            "img": "static/es/SI256.png|static/es/SI128.png",
+            "title": "消心盾5% ‧ 扣血50%"
+          }
+        }
+      ]
+    }
+  ]
+}

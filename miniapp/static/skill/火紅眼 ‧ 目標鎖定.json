@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "火紅眼 ‧ 目標鎖定",
+  "effect": "1 回合內<br>I. 自身攻擊力 3 倍<br>II. 自身對人類目標<br>&nbsp;&nbsp;&nbsp;&nbsp;攻擊力額外 2 倍<br>III. 若敵人身上有附加效果時<br>⇒ 自身攻擊力額外 1.5 倍",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2293"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "青之魅術",
+  "effect": "2 回合內<br>I. 木屬性及妖精類<br>⇒ 攻擊力及回復力 1.8 倍<br>II. 若隊中所有成員的<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;回復力基值相同時<br>⓵ 延長移動符石時間 4 秒<br>⓶ 觸碰電擊符石時仍可移動符石<br>III. 若有擊斃敵人時<br>⇒ 該回合不會扣減<br>&nbsp;&nbsp;&nbsp;&nbsp;技能持續回合",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2571"
+}

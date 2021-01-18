@@ -1,0 +1,457 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1596",
+      "title": "前往工場",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "107",
+          "stage": "",
+          "turn": "2",
+          "hp": "804193",
+          "def": "1430",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "turn": "2",
+          "hp": "825187",
+          "def": "1600",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "turn": "2",
+          "hp": "813624",
+          "def": "1480",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "115",
+          "stage": "",
+          "turn": "2",
+          "hp": "790634",
+          "def": "1630",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7804560",
+          "def": "3490",
+          "coin": "189",
+          "es": "615",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI041.png",
+            "title": "(5回光禁消)"
+          }
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7693640",
+          "def": "3740",
+          "coin": "189",
+          "es": "1483",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI304.png|static/es/SI236.png",
+            "title": "光電擊3顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "873",
+      "title": "照輝城市的彩虹",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "871",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4658420",
+          "def": "620",
+          "coin": "902",
+          "es": "132",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI257.png",
+            "title": "5消以上攻擊零化"
+          }
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7087200",
+          "def": "730",
+          "coin": "902",
+          "es": "853",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4589170",
+          "def": "690",
+          "coin": "902",
+          "es": "682",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "？形隱藏 ‧ 15%隱藏5顆符石"
+          }
+        }
+      ]
+    },
+    {
+      "id": "872",
+      "title": "未完的危機",
+      "cj": [],
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "871",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5897800",
+          "def": "620",
+          "coin": "902",
+          "lv": "",
+          "es": "918",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI301.png|static/es/SI047.png|static/es/SI188.png",
+            "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 血弱追擊"
+          }
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5715740",
+          "def": "550",
+          "coin": "902",
+          "lv": "",
+          "es": "204",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "風化-轉"
+          }
+        },
+        {
+          "card": "873",
+          "stage": "5",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6347070",
+          "def": "730",
+          "coin": "902",
+          "lv": "",
+          "es": "252",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "隱藏-結"
+          }
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6485690",
+          "def": "690",
+          "coin": "902",
+          "lv": "",
+          "es": "853",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 喪伴狂蠻50倍"
+          }
+        },
+        {
+          "card": "872",
+          "stage": "6",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9301880",
+          "def": "580",
+          "coin": "902",
+          "lv": "",
+          "es": "1106",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI114.png",
+            "title": "首消火追擊零化"
+          }
+        }
+      ]
+    }
+  ]
+}

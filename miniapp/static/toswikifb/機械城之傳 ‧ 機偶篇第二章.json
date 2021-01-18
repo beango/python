@@ -1,0 +1,157 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1746",
+      "title": "機偶篇 ‧ 第二章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1746",
+          "stage": "4",
+          "turn": "1{{初始CD*3}}",
+          "hp": "9691540",
+          "def": "5880",
+          "coin": "249",
+          "es": "74",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI131.png",
+            "title": "扣血90%"
+          }
+        },
+        {
+          "card": "1749",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8203790",
+          "def": "2170",
+          "coin": "249",
+          "chest": "4000",
+          "es": "1708",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "2顆風化15000"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1752",
+      "title": "機偶篇 ‧ 第二章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "11",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1370",
+      "title": "機偶篇 ‧ 第二章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1369",
+          "stage": "1",
+          "turn": "2{{初始CD*2}}",
+          "hp": "8512230",
+          "def": "14420",
+          "coin": "6383",
+          "es": "1394",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI225.png|static/es/SI131.png",
+            "title": "縱橫射擊 ‧ 扣血90%"
+          }
+        },
+        {
+          "card": "1368",
+          "stage": "2{{雙血}}",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7963420",
+          "def": "20240",
+          "coin": "0",
+          "es": "514",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "雙重黏附"
+          }
+        },
+        {
+          "card": "1368",
+          "stage": "",
+          "turn": "1",
+          "hp": "9314270",
+          "def": "20240",
+          "coin": "6383",
+          "es": "1113",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI303.png|static/es/SI047.png|static/es/SI115.png",
+            "title": "2秒轉珠 ‧ 隨機轉木 ‧ 首消木追擊零化"
+          }
+        },
+        {
+          "card": "1366",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8721980",
+          "def": "18830",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1600",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI233.png|static/es/SI161.png|static/es/SI183.png",
+            "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
+          }
+        },
+        {
+          "card": "1370",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8361350",
+          "def": "15970",
+          "coin": "0",
+          "es": "352",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI235.png|static/es/SI181.png",
+            "title": "強化初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "1370",
+          "stage": "",
+          "turn": "1",
+          "hp": "10255490",
+          "def": "15970",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1618",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI236.png|static/es/SI188.png",
+            "title": "無法控制 ‧ 首回攻後暗電擊2顆 ‧ 血弱50%-狂蠻"
+          }
+        }
+      ]
+    }
+  ]
+}

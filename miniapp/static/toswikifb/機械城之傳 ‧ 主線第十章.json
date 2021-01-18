@@ -1,0 +1,185 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "670",
+      "title": "主線 ‧ 第十章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1367",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "667",
+          "stage": "2{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "25069000",
+          "def": "19800",
+          "coin": "0",
+          "es": "1008",
+          "ws": "10162",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI165.png|static/es/SI229.png",
+            "title": "突擊65% ‧ 2秒轉珠 ‧ 首攻隨機側行燃燒10%"
+          }
+        },
+        {
+          "card": "667",
+          "stage": "",
+          "hp": "13188700",
+          "def": "19800",
+          "coin": "6383",
+          "es": "1781",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI017.png|static/es/SI302.png|static/es/SI047.png|static/es/SI114.png|static/es/SI121.png",
+            "title": "敵轉火-首回隨機轉火 ‧ 首消火追擊零化 ‧ 水外技能重置"
+          }
+        },
+        {
+          "card": "670",
+          "stage": "3{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "27648000",
+          "def": "21000",
+          "coin": "0",
+          "es": "2414",
+          "ws": "10162",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI015.png|static/es/SI260.png",
+            "title": "軌跡隱藏 ‧ 首消暗傷害吸收-反擊100%"
+          }
+        },
+        {
+          "card": "670",
+          "stage": "",
+          "hp": "13950000",
+          "def": "21000",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "2276",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI107.png|static/es/SI043.png",
+            "title": "隱藏圍城 ‧ 9+Combo追擊盾 ‧ 心禁消"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "title": "主線 ‧ 第十章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1370",
+          "stage": "1",
+          "turn": "1",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1367",
+          "stage": "2",
+          "turn": "1",
+          "hp": "10",
+          "def": "10",
+          "coin": "6383",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "853",
+      "title": "主線 ‧ 第十章第三話",
+      "cj": [],
+      "data": [
+        {
+          "card": "107",
+          "stage": "",
+          "hp": "965420",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "109",
+          "stage": "",
+          "hp": "943170",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "111",
+          "stage": "",
+          "hp": "983660",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "113",
+          "stage": "",
+          "hp": "979350",
+          "def": "40",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "115",
+          "stage": "",
+          "hp": "937310",
+          "def": "40",
+          "coin": "249",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "853",
+          "stage": "4",
+          "turn": "3{{初始CD*3}}",
+          "hp": "12363250",
+          "def": "18970",
+          "coin": "4232",
+          "chest": "8000",
+          "es": "1917",
+          "note": "{{特性*離開*2}}",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI274.png",
+            "title": "突擊10%-(98回致命步伐1000)"
+          }
+        }
+      ]
+    }
+  ]
+}

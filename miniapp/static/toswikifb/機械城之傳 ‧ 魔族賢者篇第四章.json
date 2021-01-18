@@ -1,0 +1,185 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1812",
+      "title": "魔族賢者篇 ‧ 第四章第一話",
+      "cj": [],
+      "data": [
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "15000000",
+          "def": "84000",
+          "coin": "369",
+          "es": "321",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png",
+            "title": "自殘50%"
+          }
+        },
+        {
+          "card": "1812",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10",
+          "def": "10",
+          "coin": "600",
+          "chest": "4000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1347",
+      "title": "魔族賢者篇 ‧ 第四章第二話",
+      "cj": [],
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "hp": "7968880",
+          "def": "930",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "hp": "5481320",
+          "def": "840",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "hp": "3820510",
+          "def": "970",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "hp": "5603730",
+          "def": "860",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "hp": "3710000",
+          "def": "900",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1752",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "15000000",
+          "def": "84000",
+          "coin": "369",
+          "es": "577",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI161.png",
+            "title": "先攻 ‧ 自殺"
+          }
+        },
+        {
+          "card": "1747",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9510000",
+          "def": "2580",
+          "coin": "309",
+          "es": "467",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "縱向燃燒10%-1"
+          }
+        },
+        {
+          "card": "1747",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9510000",
+          "def": "2580",
+          "coin": "309",
+          "es": "472",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "縱向燃燒10%-6"
+          }
+        },
+        {
+          "card": "1697",
+          "stage": "6",
+          "turn": "1{{初始CD*1}}",
+          "hp": "17080000",
+          "def": "12100",
+          "coin": "329",
+          "es": "211",
+          "ws": "10091",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI216.png",
+            "title": "垂死反擊5000"
+          }
+        },
+        {
+          "card": "1347",
+          "stage": "7{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "13847000",
+          "def": "39800",
+          "coin": "0",
+          "es": "1816",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI229.png",
+            "title": "突擊65% ‧ 攻後四重燃燒10%"
+          }
+        },
+        {
+          "card": "1347",
+          "stage": "",
+          "turn": "1",
+          "hp": "26796000",
+          "def": "39800",
+          "coin": "7643",
+          "chest": "8000",
+          "es": "1931",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI105.png|static/es/SI031.png",
+            "title": "2秒轉珠 ‧ 7+Combo追擊盾 ‧ 首消全水盾"
+          }
+        }
+      ]
+    }
+  ]
+}

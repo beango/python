@@ -1,0 +1,333 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/26",
+      "end": "2020/11/1",
+      "note": "僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": [],
+      "cs_jltj": "成功通过 地狱级 关卡 5 次",
+      "cs_jl": "2399",
+      "cs_jlsl": "1"
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2531",
+      "title": "承受悲慟的噩耗 入門級",
+      "cj": [],
+      "data": [
+        {
+          "card": "561",
+          "stage": "1",
+          "damage": "6806",
+          "turn": "1{{初始CD*1}}",
+          "hp": "1600000",
+          "def": "12000",
+          "coin": "2147",
+          "es": "2435",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI102.png",
+            "title": "技能重置 ‧ 4+Combo追擊盾"
+          }
+        },
+        {
+          "card": "958",
+          "stage": "2",
+          "damage": "15197",
+          "turn": "2{{初始CD*2}}",
+          "hp": "3000000",
+          "def": "8000",
+          "coin": "8050",
+          "es": "66",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png",
+            "title": "初級拼圖盾"
+          }
+        },
+        {
+          "card": "960",
+          "stage": "3",
+          "damage": "7437",
+          "turn": "1{{初始CD*1}}",
+          "hp": "2300000",
+          "def": "10000",
+          "coin": "9050",
+          "es": "2935",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI048.png",
+            "title": "首消隨機11~15符石追擊盾"
+          }
+        },
+        {
+          "card": "1263",
+          "stage": "4",
+          "damage": "6218",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5800000",
+          "def": "16000",
+          "coin": "4283",
+          "es": "910",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI032.png",
+            "title": "首消全火盾"
+          }
+        },
+        {
+          "card": "965",
+          "stage": "5",
+          "damage": "8421",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3500000",
+          "def": "27000",
+          "coin": "16625",
+          "es": "3529",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI094.png",
+            "title": "隱藏-轉 ‧ 首消4Combo盾"
+          }
+        },
+        {
+          "card": "1657",
+          "stage": "6",
+          "damage": "23973",
+          "turn": "3{{初始CD*3}}",
+          "hp": "7400000",
+          "def": "19000",
+          "coin": "249",
+          "es": "3904",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI327.png",
+            "title": "首消多種減傷盾20%"
+          }
+        },
+        {
+          "card": "1436",
+          "stage": "7",
+          "damage": "17664",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6200000",
+          "def": "22000",
+          "coin": "4580",
+          "es": "866",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI236.png",
+            "title": "電擊2顆"
+          }
+        },
+        {
+          "card": "1841",
+          "stage": "8",
+          "damage": "9779",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9800000",
+          "def": "30000",
+          "coin": "600",
+          "es": "77",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI244.png",
+            "title": "五屬盾"
+          }
+        },
+        {
+          "card": "2531",
+          "stage": "9{{雙血}}",
+          "damage": "11572",
+          "turn": "1{{初始CD*1}}",
+          "hp": "8500000",
+          "def": "55000",
+          "coin": "0",
+          "es": "4310",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ES995.png|static/es/SI117.png|static/es/SI215.png",
+            "title": "絕對領域-2000萬 ‧ 首消暗追擊零化 ‧ 六重軌跡黑白"
+          }
+        },
+        {
+          "card": "2531",
+          "stage": "",
+          "damage": "12859",
+          "turn": "1",
+          "hp": "15500000",
+          "def": "55000",
+          "coin": "6383",
+          "lv": "1",
+          "chest": "5000",
+          "es": "4307",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/ES995.png|static/es/SI104.png|static/es/SI198.png",
+            "title": "CD2 ‧ 絕對領域-2000萬 ‧ 6+Combo追擊盾 ‧ 固定2格手印符石-轉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2531",
+      "title": "承受悲慟的噩耗 戰慄級",
+      "cj": [],
+      "data": [
+        {
+          "card": "561",
+          "stage": "1",
+          "damage": "13612",
+          "turn": "1{{初始CD*1}}",
+          "hp": "16000000",
+          "def": "120000",
+          "coin": "2537",
+          "es": "2437",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI104.png",
+            "title": "技能重置 ‧ 6+Combo追擊盾"
+          }
+        },
+        {
+          "card": "958",
+          "stage": "2",
+          "damage": "30395",
+          "turn": "2{{初始CD*2}}",
+          "hp": "30000000",
+          "def": "80000",
+          "coin": "11050",
+          "es": "68",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png",
+            "title": "初級拼圖盾-限"
+          }
+        },
+        {
+          "card": "960",
+          "stage": "3",
+          "damage": "14874",
+          "turn": "1{{初始CD*1}}",
+          "hp": "23000000",
+          "def": "100000",
+          "coin": "12050",
+          "es": "2938",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI048.png",
+            "title": "首消隨機16~20符石追擊盾"
+          }
+        },
+        {
+          "card": "1263",
+          "stage": "4",
+          "damage": "32436",
+          "turn": "2{{初始CD*2}}",
+          "hp": "58000000",
+          "def": "160000",
+          "coin": "5543",
+          "es": "3544",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI032.png|static/es/SI183.png",
+            "title": "首消全火盾 ‧ 火起手始終盾"
+          }
+        },
+        {
+          "card": "965",
+          "stage": "5",
+          "damage": "16843",
+          "turn": "1{{初始CD*1}}",
+          "hp": "35000000",
+          "def": "270000",
+          "coin": "21125",
+          "es": "3531",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png|static/es/SI096.png",
+            "title": "隱藏-轉 ‧ 首消6Combo盾"
+          }
+        },
+        {
+          "card": "1657",
+          "stage": "6",
+          "damage": "47946",
+          "turn": "3{{初始CD*3}}",
+          "hp": "74000000",
+          "def": "190000",
+          "coin": "309",
+          "es": "3905",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI328.png",
+            "title": "首消多種減傷盾25%"
+          }
+        },
+        {
+          "card": "1436",
+          "stage": "7",
+          "damage": "35329",
+          "turn": "2{{初始CD*2}}",
+          "hp": "62000000",
+          "def": "220000",
+          "coin": "5180",
+          "es": "3736",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI236.png|static/es/SI139.png|static/es/SI124.png",
+            "title": "上下電擊 ‧ 越扣越強50%-100% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1841",
+          "stage": "8",
+          "damage": "19559",
+          "turn": "1{{初始CD*1}}",
+          "hp": "98000000",
+          "def": "300000",
+          "coin": "600",
+          "es": "320",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI248.png",
+            "title": "強化五屬盾"
+          }
+        },
+        {
+          "card": "2531",
+          "stage": "9{{雙血}}{{掉落*EVA}}",
+          "damage": "23144",
+          "turn": "1{{初始CD*1}}",
+          "hp": "85000000",
+          "def": "550000",
+          "coin": "0",
+          "es": "4313",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ES996.png|static/es/SI117.png|static/es/ES1369.png|static/es/SI058.png",
+            "title": "絕對領域-5000萬 ‧ 首消暗追擊零化 ‧ 回復顛倒 ‧ 轉珠技無效"
+          }
+        },
+        {
+          "card": "2531",
+          "stage": "",
+          "damage": "25718",
+          "turn": "1",
+          "hp": "155000000",
+          "def": "550000",
+          "coin": "7643",
+          "lv": "1",
+          "es": "4309",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/ES996.png|static/es/SI106.png|static/es/SI198.png",
+            "title": "CD1 ‧ 絕對領域-5000萬 ‧ 8+Combo追擊盾 ‧ 固定4格手印符石-轉"
+          }
+        }
+      ]
+    }
+  ]
+}

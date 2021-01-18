@@ -1,0 +1,363 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1015",
+      "title": "敵營潛行",
+      "cj": [],
+      "data": [
+        {
+          "card": "1014",
+          "stage": "1",
+          "turn": "1{{初始CD*3}}",
+          "hp": "1925180",
+          "def": "1630",
+          "coin": "805",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "2",
+          "turn": "1{{初始CD*2}}",
+          "hp": "2881470",
+          "def": "1630",
+          "coin": "805",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1{{初始CD*2}}",
+          "hp": "2881470",
+          "def": "1630",
+          "coin": "805",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1{{初始CD*2}}",
+          "hp": "2881470",
+          "def": "1630",
+          "coin": "805",
+          "es": "178",
+          "note": "",
+          "esjson": {
+            "img": "static/es/ICON119.png",
+            "title": "越戰越強-銅"
+          }
+        },
+        {
+          "card": "1015",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5307010",
+          "def": "3240",
+          "coin": "1020",
+          "chest": "4000",
+          "es": "16",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越戰越強-金"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1415",
+      "title": "聲東擊西",
+      "cj": [],
+      "data": [
+        {
+          "card": "1014",
+          "stage": "1",
+          "turn": "1{{初始CD*1}}",
+          "hp": "865950",
+          "def": "1630",
+          "coin": "1005",
+          "es": "645",
+          "ws": "10002",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png",
+            "title": "(5回轉珠減2秒)"
+          }
+        },
+        {
+          "card": "490",
+          "stage": "2",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "ws": "10002",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1015",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3296350",
+          "def": "3240",
+          "coin": "1020",
+          "es": "1594",
+          "ws": "10003",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI183.png",
+            "title": "始終盾"
+          }
+        },
+        {
+          "card": "490",
+          "stage": "4",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "lv": "15",
+          "ws": "10003",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1415",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7459260",
+          "def": "7490",
+          "coin": "4380",
+          "chest": "4000",
+          "es": "1011",
+          "ws": "10003",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI188.png|static/es/SI224.png",
+            "title": "突擊65% ‧ 越戰越強-金 ‧ 攻後隱藏9顆"
+          }
+        }
+      ]
+    },
+    {
+      "id": "585",
+      "title": "落入陷阱",
+      "cj": [],
+      "data": [
+        {
+          "card": "490",
+          "stage": "1",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "490",
+          "stage": "2",
+          "turn": "1{{初始CD*2}}",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1415",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4293580",
+          "def": "7110",
+          "coin": "4980",
+          "es": "39",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI164.png|static/es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          }
+        },
+        {
+          "card": "490",
+          "stage": "",
+          "turn": "1{{初始CD*2}}",
+          "hp": "686230",
+          "def": "1980",
+          "coin": "189",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1015",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "6291780",
+          "def": "4290",
+          "coin": "1220",
+          "es": "926",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI305.png|static/es/SI047.png|static/es/SI215.png",
+            "title": "首回隨機轉暗 ‧ 攻後暗橫縱輪轉 ‧ 黑白符石"
+          }
+        },
+        {
+          "card": "585",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6354220",
+          "def": "4170",
+          "coin": "249",
+          "chest": "4000",
+          "es": "1109",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png",
+            "title": "首消暗追擊零化"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1124",
+      "title": "骨龍的阻撓",
+      "cj": [],
+      "data": [
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "2",
+          "hp": "458356",
+          "def": "720",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1529",
+          "stage": "",
+          "turn": "3",
+          "hp": "578936",
+          "def": "2560",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1530",
+          "stage": "",
+          "turn": "3",
+          "hp": "552432",
+          "def": "2620",
+          "coin": "566",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1415",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7692540",
+          "def": "5280",
+          "coin": "4380",
+          "es": "642",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI139.png",
+            "title": "越扣越強25%"
+          }
+        },
+        {
+          "card": "1414",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "3707890",
+          "def": "5160",
+          "coin": "4380",
+          "es": "45",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png",
+            "title": "技能封鎖"
+          }
+        },
+        {
+          "card": "1124",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4126280",
+          "def": "8930",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1628",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI236.png|static/es/SI216.png|static/es/SI251.png",
+            "title": "無法控制 ‧ 攻後電擊2顆 ‧ 復活變強3倍-無視減傷"
+          }
+        }
+      ]
+    }
+  ]
+}

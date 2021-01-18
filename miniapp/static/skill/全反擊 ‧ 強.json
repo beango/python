@@ -1,0 +1,10 @@
+{
+  "type": "skill",
+  "name": "全反擊 ‧ 強",
+  "effect": "1 回合內<br>I. 自身不能發動攻擊<br>II. 所受傷害不會使你死亡<br>&nbsp;&nbsp;&nbsp;(包括「喋血屠刀」、<br>&nbsp;&nbsp;「一擊必殺」等扣除<br>&nbsp;&nbsp;&nbsp;召喚師指定 % 生命力的<br>&nbsp;&nbsp;&nbsp;敵技所造成的傷害)<br>III. 以所受傷害 2000 倍<br>⇒ 對敵方攻擊者進行<br>&nbsp;&nbsp;&nbsp;&nbsp;相剋屬性反擊<br>&nbsp;&nbsp;&nbsp;(此傷害無視防禦力及<br>&nbsp;&nbsp;&nbsp;「強化突破」敵技)<br>IV. 下回合，將本回合<br>&nbsp;&nbsp;&nbsp;&nbsp; 所受傷害的 5 倍<br>⇒ 加至自身攻擊力<br>⇒ 最多加至 56000 <br><br>註：「全反擊」技能在面對「扣除召喚師指定 % 生命力」以外「防禦崩壞」敵技時，仍會因生命力不足而導致死亡。",
+  "turn": "0",
+  "minTurn": "0",
+  "ep": "13",
+  "minEp": "7",
+  "pet": "2455"
+}

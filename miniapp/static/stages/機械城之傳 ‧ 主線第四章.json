@@ -1,0 +1,156 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "830",
+      "title": "主線 ‧ 第四章第一話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "667",
+          "stage": "1{{雙血}}",
+          "turn": "1(2)",
+          "hp": "8805440",
+          "def": "15410",
+          "coin": "0",
+          "es": "147",
+          "ws": "10091",
+          "note": "",
+          "esjson": {
+            "img": "es/SI257.png",
+            "title": "20%盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "667",
+          "stage": "",
+          "hp": "15073120",
+          "def": "15410",
+          "coin": "6383",
+          "es": "1766",
+          "note": "",
+          "esjson": {
+            "img": "es/SI017.png|es/SI167.png|es/SI161.png|es/SI302.png|es/SI047.png|es/SI002.png",
+            "title": "敵轉火 ‧ 連擊趨狂 ‧ 命懸一線-首回心轉火-攻後隨機轉火 ‧ 火屬防禦90%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "670",
+          "stage": "2{{雙血}}",
+          "turn": "3(3)",
+          "hp": "9084580",
+          "def": "14820",
+          "coin": "0",
+          "es": "1246",
+          "ws": "10009",
+          "note": "",
+          "esjson": {
+            "img": "es/SI015.png",
+            "title": "首消暗傷害吸收"
+          },
+          "jd": ""
+        },
+        {
+          "card": "670",
+          "stage": "",
+          "hp": "15328940",
+          "def": "14820",
+          "coin": "6383",
+          "es": "819",
+          "note": "",
+          "esjson": {
+            "img": "es/SI107.png",
+            "title": "9+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "830",
+          "stage": "3",
+          "turn": "1(1)",
+          "hp": "12408560",
+          "def": "21620",
+          "coin": "7685",
+          "chest": "4000",
+          "es": "2441",
+          "note": "",
+          "esjson": {
+            "img": "es/SI121.png|es/SI244.png",
+            "title": "技能重置 ‧ 五屬盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "650",
+      "title": "主線 ‧ 第四章第二話",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": []
+    },
+    {
+      "id": "1370",
+      "title": "主線 ‧ 第四章第三話",
+      "note": "",
+      "story": "",
+      "cj": [
+        "虛影世界通過 **主線 ‧ 第四章第三話** 1 次——開放關卡[機械城之傳 ‧ 主線第五章](/pages/index/detail/detail?name2=%E6%A9%9F%E6%A2%B0%E5%9F%8E%E4%B9%8B%E5%82%B3%20%E2%80%A7%20%E4%B8%BB%E7%B7%9A%E7%AC%AC%E4%BA%94%E7%AB%A0)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "2",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "1367",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "5123",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1370",
+          "stage": "2",
+          "turn": "1(1)",
+          "hp": "10",
+          "def": "10",
+          "coin": "5123",
+          "chest": "8000",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "es/SI214.png|es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

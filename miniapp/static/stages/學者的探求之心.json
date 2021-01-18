@@ -1,0 +1,346 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "598",
+      "title": "爐心與學者 初級",
+      "note": "",
+      "story": "{{故事|'''【進入關卡】'''<br>\n{{Owl}}：「學者一直追求著無窮的知識。」<br>\n{{Owl}}：「她追尋著神龍所留下的踪跡。」<br>",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "5",
+        "exp": "380"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "damage": "946",
+          "hp": "6868",
+          "lv": "1",
+          "chest": "2000",
+          "coin": "29",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "568",
+          "hp": "3484",
+          "lv": "1",
+          "chest": "2000",
+          "coin": "29",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "235",
+          "hp": "4519",
+          "lv": "1",
+          "chest": "2000",
+          "coin": "29",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "487",
+          "hp": "5698",
+          "lv": "1",
+          "chest": "2000",
+          "coin": "29",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "262",
+          "hp": "3556",
+          "lv": "1",
+          "chest": "2000",
+          "coin": "29",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "598",
+          "stage": "5",
+          "damage": "989",
+          "turn": "2",
+          "hp": "46875",
+          "def": "160",
+          "item": "42",
+          "chest": "2000",
+          "coin": "1343",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "598",
+      "title": "反抗命運 中級",
+      "note": "",
+      "story": "{{故事|'''【進入關卡】'''<br>\n{{Owl}}：「要小心翼翼地前進！」<br>\n{{Owl}}：「學者擁有很高的智慧，說不定早就埋伏了數個陷阱……」<br><br>\n'''【擊敗BOSS】'''<br>",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "6",
+        "exp": "780"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "damage": "4898",
+          "turn": "3(3)",
+          "hp": "35824",
+          "lv": "2",
+          "chest": "2500",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "2924",
+          "turn": "2(2)",
+          "hp": "18152",
+          "lv": "2",
+          "chest": "2500",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "1185",
+          "hp": "23557",
+          "lv": "2",
+          "chest": "2500",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "2501",
+          "hp": "29714",
+          "lv": "2",
+          "chest": "2500",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "1326",
+          "hp": "18528",
+          "lv": "2",
+          "chest": "2500",
+          "coin": "105",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "165",
+          "stage": "5",
+          "damage": "3992",
+          "hp": "87257",
+          "chest": "2500",
+          "coin": "157",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "174",
+          "stage": "",
+          "damage": "1924",
+          "turn": "1",
+          "hp": "90846",
+          "chest": "2500",
+          "coin": "157",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "598",
+          "stage": "6",
+          "damage": "4714",
+          "turn": "2",
+          "hp": "223217",
+          "def": "160",
+          "item": "42",
+          "chest": "2500",
+          "coin": "2183",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "599",
+      "title": "追求知識 高級",
+      "note": "※ {{PAGENAME}} 首次通關（STAGE CLEARED）會獲得 ![魔法石](toswikiapic/Gift-魔法石.png) 1粒 ※",
+      "story": "{{故事|'''【進入關卡】'''<br>\n{{Owl}}：「單純的力量不能令人心悅誠服。」<br>\n{{Owl}}：「但力量結合智慧卻能教人拜服。」<br><br>\n'''【BOSS前】'''<br>\n{{599|50}}阿涅茜：「神龍之力是強大而神秘的存在。」<br>\n{{599|50}}阿涅茜：「為了瞭解它，我可費了不少心神！」<br><br>\n'''【擊敗BOSS】'''<br>\n{{599|50}}阿涅茜：「看來你對神龍之力也很有興趣呢！」<br>",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "8",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "646",
+          "stage": "",
+          "damage": "11242",
+          "turn": "3(1)",
+          "hp": "82306",
+          "lv": "3",
+          "chest": "3000",
+          "coin": "227",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "647",
+          "stage": "",
+          "damage": "6706",
+          "turn": "2(1)",
+          "hp": "41698",
+          "lv": "3",
+          "chest": "3000",
+          "coin": "227",
+          "note": "{{無視減傷}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "648",
+          "stage": "",
+          "damage": "2710",
+          "hp": "54118",
+          "lv": "3",
+          "chest": "3000",
+          "coin": "227",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "649",
+          "stage": "",
+          "damage": "5734",
+          "hp": "68266",
+          "lv": "3",
+          "chest": "3000",
+          "coin": "227",
+          "note": "{{4+Combo盾}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "650",
+          "stage": "",
+          "damage": "3034",
+          "hp": "42562",
+          "lv": "3",
+          "chest": "3000",
+          "coin": "227",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "652",
+          "stage": "4",
+          "damage": "4852",
+          "turn": "1(1)",
+          "hp": "298518",
+          "def": "120",
+          "chest": "3000",
+          "coin": "1092",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "166",
+          "stage": "7",
+          "damage": "6543",
+          "hp": "243044",
+          "chest": "3000",
+          "coin": "642",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "175",
+          "stage": "",
+          "damage": "3257",
+          "turn": "1",
+          "hp": "248927",
+          "chest": "3000",
+          "coin": "642",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "599",
+          "stage": "8",
+          "damage": "7728",
+          "hp": "529864",
+          "turn": "2",
+          "def": "320",
+          "item": "42",
+          "chest": "3000",
+          "coin": "3863",
+          "note": "{{風化 ‧ 先}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "657",
+      "title": "未知的領域",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "item": "42,10",
+        "battle": "15",
+        "exp": "0"
+      },
+      "data": []
+    }
+  ]
+}

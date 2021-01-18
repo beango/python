@@ -1,0 +1,257 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1592",
+      "title": "對話時間",
+      "cj": [],
+      "data": [
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "4",
+          "turn": "2{{初始CD*2}}",
+          "hp": "7295680",
+          "def": "4790",
+          "lv": "15",
+          "coin": "189",
+          "es": "1315",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "4顆風化"
+          }
+        },
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "2{{初始CD*1}}",
+          "hp": "7248340",
+          "def": "4490",
+          "lv": "15",
+          "coin": "189",
+          "chest": "4000",
+          "es": "645",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png",
+            "title": "(5回轉珠減2秒)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "556",
+      "title": "人類與魔族",
+      "cj": [],
+      "data": [
+        {
+          "card": "486",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "2020",
+          "lv": "15",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "488",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "1130",
+          "lv": "15",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "489",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "2080",
+          "lv": "15",
+          "coin": "",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1006",
+          "stage": "",
+          "turn": "2",
+          "hp": "",
+          "def": "580",
+          "lv": "15",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1012",
+          "stage": "",
+          "turn": "",
+          "hp": "",
+          "def": "720",
+          "lv": "15",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "556",
+          "stage": "4{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "200000",
+          "def": "14270",
+          "es": "1402",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI217.png|static/es/SI188.png",
+            "title": "溢補盾 ‧ 越攻越強"
+          }
+        },
+        {
+          "card": "556",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10595870",
+          "def": "14270",
+          "coin": "",
+          "chest": "4000",
+          "es": "1987",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI303.png|static/es/SI047.png|static/es/SI032.png",
+            "title": "附加消除-隨機轉木 ‧ 攻後木縱橫輪轉 ‧ 首消全火盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1195",
+      "title": "暗夜的偷襲者",
+      "cj": [],
+      "data": [
+        {
+          "card": "1592",
+          "stage": "",
+          "turn": "1",
+          "hp": "941730",
+          "def": "3270",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1593",
+          "stage": "",
+          "turn": "3",
+          "hp": "2326910",
+          "def": "4690",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1594",
+          "stage": "",
+          "turn": "2",
+          "hp": "1614920",
+          "def": "3550",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1595",
+          "stage": "",
+          "turn": "2",
+          "hp": "1594630",
+          "def": "3490",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1596",
+          "stage": "",
+          "turn": "1",
+          "hp": "936560",
+          "def": "3740",
+          "coin": "189",
+          "lv": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1195",
+          "stage": "5{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "4831920",
+          "def": "18820",
+          "es": "878",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI227.png|static/es/SI242.png",
+            "title": "先攻 ‧ 迷惑符石 ‧ 三屬盾"
+          }
+        },
+        {
+          "card": "1195",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": " 9365270",
+          "def": "18820",
+          "coin": "6383",
+          "chest": "8000",
+          "es": "1774",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI020.png|static/es/SI305.png|static/es/SI047.png|static/es/SI117.png",
+            "title": "敵轉暗-首回隨機轉暗 ‧ 首消暗追擊零化"
+          }
+        }
+      ]
+    }
+  ]
+}

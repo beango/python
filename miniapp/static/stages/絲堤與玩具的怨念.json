@@ -1,0 +1,295 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "1624",
+      "title": "玩具的聚集",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "4",
+          "turn": "1(1)",
+          "hp": "4968770",
+          "def": "690",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1624",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "9151450",
+          "def": "7800",
+          "coin": "155",
+          "chest": "4000",
+          "es": "39",
+          "note": "",
+          "esjson": {
+            "img": "es/SI164.png|es/SI165.png",
+            "title": "召喚小怪 ‧ 2秒轉珠"
+          },
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "1(1)",
+          "hp": "4968770",
+          "def": "690",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1191",
+      "title": "破壞力量來源",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "3",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "1~3",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "chest": "4000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "260",
+      "title": "制止所有陰謀",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 [未完的危機](/pages/index/detail/detail?name2=%E6%B2%BB%E7%99%92%E7%9A%84%E9%9B%A8%E6%B0%B4) 及 [制止所有陰謀](/pages/index/detail/detail?name2=%E7%B5%B2%E5%A0%A4%E8%88%87%E7%8E%A9%E5%85%B7%E7%9A%84%E6%80%A8%E5%BF%B5) —— 開放關卡 [玩具的思念](/pages/index/detail/detail?name2=%E7%8E%A9%E5%85%B7%E7%9A%84%E6%80%9D%E5%BF%B5)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "3",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "256",
+          "stage": "1",
+          "turn": "6(6)",
+          "hp": "1000",
+          "def": "10",
+          "coin": "400",
+          "chest": "4000",
+          "es": "260",
+          "note": "",
+          "esjson": {
+            "img": "es/SI031.png",
+            "title": "單次12+水符石盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "turn": "6(6)",
+          "hp": "1000",
+          "def": "10",
+          "coin": "400",
+          "chest": "4000",
+          "es": "263",
+          "note": "",
+          "esjson": {
+            "img": "es/SI032.png",
+            "title": "單次12+火符石盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "258",
+          "stage": "2",
+          "turn": "6(6)",
+          "hp": "1000",
+          "def": "10",
+          "coin": "400",
+          "chest": "4000",
+          "es": "266",
+          "note": "",
+          "esjson": {
+            "img": "es/SI033.png",
+            "title": "單次12+木符石盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "259",
+          "stage": "",
+          "turn": "6(6)",
+          "hp": "1000",
+          "def": "10",
+          "coin": "400",
+          "chest": "4000",
+          "es": "269",
+          "note": "",
+          "esjson": {
+            "img": "es/SI034.png",
+            "title": "單次12+光符石盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "260",
+          "stage": "3",
+          "turn": "6(6)",
+          "hp": "1000",
+          "def": "10",
+          "coin": "400",
+          "chest": "4000",
+          "es": "226",
+          "note": "",
+          "esjson": {
+            "img": "es/SI035.png",
+            "title": "單次15+暗符石盾"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
+}

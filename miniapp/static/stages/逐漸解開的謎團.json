@@ -1,0 +1,374 @@
+{
+  "openhis": [],
+  "cj": [],
+  "stages": [
+    {
+      "id": "874",
+      "title": "地下水道之行",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "871",
+          "stage": "4",
+          "turn": "1(1)",
+          "hp": "4732610",
+          "def": "620",
+          "lv": "15",
+          "coin": "902",
+          "es": "572",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI219.png",
+            "title": "突擊65% ‧ 攻後雙重冰封"
+          },
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "1(3)",
+          "hp": "6192580",
+          "def": "550",
+          "lv": "15",
+          "coin": "902",
+          "chest": "4000",
+          "es": "894",
+          "note": "",
+          "esjson": {
+            "img": "es/SI188.png|es/SI212.png",
+            "title": "2倍士氣高昂-無限回復"
+          },
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2(2)",
+          "hp": "4695270",
+          "def": "580",
+          "lv": "15",
+          "coin": "902",
+          "es": "711",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI251.png",
+            "title": "無法控制-無視減傷"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "872",
+      "title": "與傑克會合",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "4",
+        "exp": "1125"
+      },
+      "data": [
+        {
+          "card": "871",
+          "stage": "",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "4",
+          "turn": "3(2)",
+          "hp": "30",
+          "def": "5000000",
+          "es": "594",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI012.png",
+            "title": "攻後轉直火"
+          },
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "3(1)",
+          "hp": "30",
+          "def": "5000000",
+          "es": "65",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI121.png",
+            "title": "技能重置"
+          },
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "3(3)",
+          "hp": "30",
+          "def": "5000000",
+          "es": "594",
+          "coin": "902",
+          "chest": "4000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI012.png",
+            "title": "攻後轉直火"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1195",
+      "title": "搜集零件",
+      "note": "※ 首次通關 可獲得1粒 ![魔法石](toswikiapic/Gift-魔法石.png) ※ <br>",
+      "story": "",
+      "cj": [
+        "虛影世界通過 搜集零件 **2** 次——開放關卡[連番激戰](/pages/index/detail/detail?name2=%E9%80%A3%E7%95%AA%E6%BF%80%E6%88%B0)",
+        "擊倒 ![1195](zhs/1195i.png) 1 次——開放關卡[無法回頭的路](/pages/index/detail/detail?name2=%E7%84%A1%E6%B3%95%E5%9B%9E%E9%A0%AD%E7%9A%84%E8%B7%AF)"
+      ],
+      "info": {
+        "sta": "25",
+        "battle": "6",
+        "exp": "2500"
+      },
+      "data": [
+        {
+          "card": "714",
+          "stage": "1",
+          "turn": "1(1)",
+          "hp": "100",
+          "def": "10",
+          "coin": "7600",
+          "es": "832",
+          "note": "",
+          "esjson": {
+            "img": "es/SI161.png",
+            "title": "命懸一線 ‧ 自殺"
+          },
+          "jd": ""
+        },
+        {
+          "card": "871",
+          "stage": "2~5",
+          "turn": "1",
+          "hp": "923870",
+          "def": "620",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "turn": "2",
+          "hp": "1716850",
+          "def": "580",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "873",
+          "stage": "",
+          "turn": "1",
+          "hp": "951360",
+          "def": "730",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "874",
+          "stage": "",
+          "turn": "3",
+          "hp": "2431220",
+          "def": "550",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "turn": "2",
+          "hp": "1723980",
+          "def": "690",
+          "coin": "902",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1195",
+          "stage": "6{{雙血}}",
+          "turn": "1(1)",
+          "hp": "7619570",
+          "def": "18820",
+          "es": "926",
+          "coin": "0",
+          "note": "",
+          "esjson": {
+            "img": "es/SI305.png|es/SI047.png|es/SI215.png",
+            "title": "首回隨機轉暗 ‧ 攻後暗橫縱輪轉 ‧ 黑白符石"
+          },
+          "jd": "R6 特性场景特性：10205"
+        },
+        {
+          "card": "1195",
+          "stage": "",
+          "turn": "1",
+          "hp": "10935800",
+          "def": "18820",
+          "es": "320",
+          "coin": "6383",
+          "chest": "8000",
+          "note": "",
+          "esjson": {
+            "img": "es/SI248.png",
+            "title": "強化五屬盾"
+          },
+          "jd": "R6 特性场景特性：10205"
+        }
+      ]
+    }
+  ]
+}

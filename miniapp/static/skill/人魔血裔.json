@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "人魔血裔",
+  "effect": "I. 引爆所有符石<br>⓵ 魔族成員直行掉落魔族符石<br>⓶ 人類成員直行掉落人族符石<br>1 回合內<br>II. 自身攻擊力減至 0<br>III. 所受傷害減至 100<br>&nbsp;&nbsp;&nbsp;&nbsp;(包括「喋血屠刀」、<br>&nbsp;&nbsp;「一擊必殺」等扣除召喚師<br>&nbsp;&nbsp;&nbsp;&nbsp;指定 % 生命力的敵技<br>&nbsp;&nbsp;&nbsp;&nbsp;所造成的傷害)",
+  "turn": "19",
+  "minTurn": "8",
+  "pet": "2566"
+}

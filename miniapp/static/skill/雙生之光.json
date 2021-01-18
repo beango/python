@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "雙生之光",
+  "effect": "I. 將 9 個[board]固定位置[/board]的符石<br>⇒ 轉化為光強化符石<br>II.「泯月闇咒 · 喰月狼」<br>⇒ 主動技能 CD 減少 1",
+  "turn": "17",
+  "minTurn": "3",
+  "pet": "2447"
+}

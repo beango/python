@@ -1,0 +1,275 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "1100",
+      "title": "殺不盡的敵人",
+      "cj": [],
+      "data": [
+        {
+          "card": "582",
+          "stage": "3",
+          "turn": "2{{初始CD*2}}",
+          "hp": "4823700",
+          "def": "2340",
+          "coin": "249",
+          "es": "574",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI229.png",
+            "title": "突擊65% ‧ 攻後雙重燃燒10%"
+          }
+        },
+        {
+          "card": "583",
+          "stage": "",
+          "turn": "3{{初始CD*3}}",
+          "hp": "5096900",
+          "def": "3590",
+          "coin": "249",
+          "es": "52",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png",
+            "title": "攻前盾"
+          }
+        },
+        {
+          "card": "1104",
+          "stage": "5",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7349960",
+          "def": "5270",
+          "coin": "5963",
+          "es": "674",
+          "ws": "10002",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI124.png|static/es/SI251.png|static/es/SI261.png|static/es/SI167.png",
+            "title": "無法控制-無視減傷 ‧ 不倒意志60%-完全回復-狂怒2倍-連擊"
+          }
+        },
+        {
+          "card": "1100",
+          "stage": "6{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6457820",
+          "def": "20530",
+          "coin": "0",
+          "es": "1600",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI233.png|static/es/SI161.png|static/es/SI183.png",
+            "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
+          }
+        },
+        {
+          "card": "1100",
+          "stage": "",
+          "turn": "1",
+          "hp": "19848260",
+          "def": "20530",
+          "coin": "15400",
+          "chest": "4000",
+          "es": "710",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png|static/es/SI260.png",
+            "title": "附加消除重置 ‧ 反彈15%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1562",
+      "title": "救出北域主神",
+      "cj": [],
+      "data": [
+        {
+          "card": "581",
+          "stage": "1",
+          "turn": "1{{初始CD*2}}",
+          "hp": "27280",
+          "def": "5620",
+          "coin": "249",
+          "es": "1283",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI087.png",
+            "title": "首消7Combo盾"
+          }
+        },
+        {
+          "card": "585",
+          "stage": "",
+          "turn": "2{{初始CD*3}}",
+          "hp": "4749560",
+          "def": "4730",
+          "coin": "249",
+          "es": "566",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "六重軌跡隱藏"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "2",
+          "turn": "1{{初始CD*1}}",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1415",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "2816580",
+          "def": "2890",
+          "coin": "4380",
+          "es": "682",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "？形隱藏 ‧ 15%隱藏5顆符石"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "turn": "1{{初始CD*1}}",
+          "hp": "420589",
+          "def": "390",
+          "coin": "905",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "339",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "5631290",
+          "def": "3220",
+          "coin": "413",
+          "es": "704",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI123.png",
+            "title": "附加消除重置"
+          }
+        },
+        {
+          "card": "343",
+          "stage": "",
+          "turn": "2{{初始CD*2}}",
+          "hp": "5592830",
+          "def": "3170",
+          "coin": "413",
+          "es": "866",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI236.png",
+            "title": "電擊2顆"
+          }
+        },
+        {
+          "card": "1562",
+          "stage": "4",
+          "turn": "1{{初始CD*1}}",
+          "hp": "12986540",
+          "def": "35360",
+          "coin": "185",
+          "chest": "4000",
+          "es": "1275",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI254.png|static/es/SI260.png|static/es/SI067.png",
+            "title": "光屬技能封鎖 ‧ 強化盾-傷害吸收-反擊100% ‧ 3倍獵神"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1562",
+      "title": "決戰弗麗嘉",
+      "cj": [],
+      "data": [
+        {
+          "card": "1106",
+          "stage": "3",
+          "turn": "1{{初始CD*1}}",
+          "hp": "6291580",
+          "def": "18290",
+          "coin": "6383",
+          "es": "1379",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI338.png",
+            "title": "先攻 ‧ 疊加攻擊-木弱化鎖定20%"
+          }
+        },
+        {
+          "card": "1102",
+          "stage": "6",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9892630",
+          "def": "27840",
+          "coin": "6383",
+          "es": "1385",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI219.png|static/es/SI229.png",
+            "title": "攻前盾 ‧ 首回凍結15顆 ‧ 攻後冰火轉化20%"
+          }
+        },
+        {
+          "card": "1110",
+          "stage": "9",
+          "turn": "1{{初始CD*1}}",
+          "hp": "3419470",
+          "def": "19240",
+          "coin": "6383",
+          "es": "884",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI158.png|static/es/SI254.png|static/es/SI221.png",
+            "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
+          }
+        },
+        {
+          "card": "1562",
+          "stage": "10{{雙血}}",
+          "turn": "1{{初始CD*1}}",
+          "hp": "7326550",
+          "def": "35360",
+          "coin": "0",
+          "es": "1035",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI123.png|static/es/SI067.png|static/es/SI122.png",
+            "title": "附加消除 ‧ 3倍獵神-禁錮"
+          }
+        },
+        {
+          "card": "1562",
+          "stage": "",
+          "turn": "1",
+          "hp": "20658740",
+          "def": "35360",
+          "coin": "185",
+          "chest": "8000",
+          "es": "1194",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI224.png|static/es/SI106.png",
+            "title": "突擊60% ‧ 攻後隱藏12顆 ‧ 8+Combo追擊盾"
+          }
+        }
+      ]
+    }
+  ]
+}

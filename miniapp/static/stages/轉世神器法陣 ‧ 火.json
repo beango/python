@@ -1,0 +1,370 @@
+{
+  "openhis": [
+    {
+      "start": "2014/01/19 19:00",
+      "end": "2015/12/31 13:00",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
+  "cj": [],
+  "stages": [
+    {
+      "id": "028",
+      "title": "尋找線索",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "8",
+        "battle": "5",
+        "exp": "380"
+      },
+      "data": [
+        {
+          "card": "086",
+          "stage": "",
+          "damage": "377",
+          "hp": "2341",
+          "coin": "161",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "088",
+          "stage": "",
+          "damage": "379",
+          "hp": "2339",
+          "coin": "161",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "damage": "938",
+          "hp": "6708",
+          "coin": "26",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "523",
+          "stage": "",
+          "damage": "510",
+          "hp": "8071",
+          "coin": "121",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "771",
+          "stage": "",
+          "damage": "487",
+          "hp": "6787",
+          "coin": "38",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "772",
+          "stage": "",
+          "damage": "820",
+          "hp": "10243",
+          "coin": "38",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "783",
+          "stage": "",
+          "damage": "501",
+          "hp": "14",
+          "coin": "5000",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "028",
+          "stage": "5",
+          "damage": "1521",
+          "hp": "47520",
+          "def": "110",
+          "coin": "38",
+          "chest": "2000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "777",
+      "title": "寶玉與神器",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "12",
+        "battle": "6",
+        "exp": "780"
+      },
+      "data": [
+        {
+          "card": "087",
+          "stage": "",
+          "damage": "917",
+          "hp": "18877",
+          "coin": "162",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "970",
+          "hp": "18512",
+          "coin": "162",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "damage": "2768",
+          "hp": "23068",
+          "coin": "106",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "523",
+          "stage": "",
+          "damage": "1420",
+          "hp": "22761",
+          "coin": "316",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "771",
+          "stage": "",
+          "damage": "1547",
+          "hp": "21847",
+          "coin": "98",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "772",
+          "stage": "",
+          "damage": "2620",
+          "hp": "32983",
+          "coin": "98",
+          "lv": "2",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "783",
+          "stage": "",
+          "damage": "501",
+          "hp": "14",
+          "coin": "5000",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "777",
+          "stage": "6",
+          "damage": "6316",
+          "turn": "3",
+          "hp": "231690",
+          "def": "190",
+          "coin": "5980",
+          "chest": "2500",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "758",
+      "title": "善解人意的二國主",
+      "note": "※ {{PAGENAME}} 首次通關（STAGE CLEARED）會獲得 ![魔法石](toswikiapic/Gift-魔法石.png) 1粒 ※",
+      "story": "{{故事|【BOSS前】<br>\n{{Owl}}：就如于小雪所說，神器轉世是一個重要的線索。<br>\n{{Owl}}：接下來的寶玉，是由東皇鐘的轉世——夏柔持有。<br>\n{{Owl}}：或許她會知道得更多！\n\n【擊敗BOSS】<br>\n{{758|50}}{{758|_name}}：「請原諒我的無禮。」<br>",
+      "cj": [],
+      "info": {
+        "sta": "15",
+        "battle": "8",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "087",
+          "stage": "",
+          "damage": "1597",
+          "hp": "33397",
+          "coin": "282",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "1690",
+          "hp": "32752",
+          "coin": "282",
+          "lv": "3",
+          "note": "{{連擊}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "099",
+          "stage": "",
+          "damage": "6258",
+          "hp": "45428",
+          "coin": "186",
+          "lv": "3",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "524",
+          "stage": "",
+          "damage": "3365",
+          "hp": "43043",
+          "coin": "602",
+          "lv": "3",
+          "drop": "523",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "771",
+          "stage": "",
+          "damage": "3667",
+          "hp": "51967",
+          "coin": "218",
+          "lv": "3",
+          "note": "{{隨機轉化**90}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "772",
+          "stage": "",
+          "damage": "6220",
+          "hp": "78463",
+          "coin": "218",
+          "lv": "3",
+          "note": "{{心轉自身}}",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "783",
+          "stage": "",
+          "damage": "501",
+          "hp": "14",
+          "coin": "5000",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "512",
+          "stage": "4",
+          "damage": "6779",
+          "turn": "3",
+          "hp": "337730",
+          "def": "310",
+          "coin": "591",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "756",
+          "stage": "7",
+          "damage": "6269",
+          "turn": "2",
+          "hp": "409830",
+          "def": "260",
+          "coin": "5898",
+          "chest": "3000",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "758",
+          "stage": "8",
+          "damage": "5028",
+          "hp": "189550",
+          "def": "290",
+          "coin": "7138",
+          "chest": "3000",
+          "note": "{{溢補盾}}",
+          "esjson": null,
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "759",
+      "title": "東皇鐘的指引  {{回合上限2|60}}",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "item": "63,10",
+        "battle": "20",
+        "exp": "0"
+      },
+      "data": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "巨蟒凶勢",
+  "effect": "I. 引爆風化符石，<br>&nbsp;&nbsp;&nbsp;成功引爆後<br>⇒ 延遲敵方全體行動 2 回合<br>1 回合內<br>II. 將移動符石時觸碰的<br>&nbsp;&nbsp;&nbsp;&nbsp;首 8 粒符石轉化為<br>⇒ 自身屬性獸族符石",
+  "turn": "16",
+  "minTurn": "5",
+  "pet": "2506"
+}

@@ -1,0 +1,7 @@
+{
+  "no": "3474",
+  "title": "CD1 ‧ 剋屬強化初級拼圖盾-限 ‧ 技能封鎖1回 ‧ 首回火引爆增攻 ‧ 無視減傷",
+  "effect": "敵人首次攻擊變為 <font color=yellow>CD 1</font> 。<br><br>需以指定的形狀消除<font color=yellow>克制敵人屬性的強化符石</font>  (<font color=yellow>不可</font> 連同形狀外旁邊的符石消除) 才會對敵人造成攻擊傷害。<br><br>首回合<font color=yellow>封鎖所有成員的主動技能 1 回合</font> 。<br><br>首回合<font color=yellow>引爆</font> 所有<font color=yellow>火符石</font> <br>⇒ 以永久提升攻擊力。<br><br>無視所有減傷效果和意志技能{{Cal|滅珠增傷|{{{atk|}}}}}",
+  "content": "回合變更,拼圖盾,技能封鎖,引爆,無視減傷",
+  "icon": "es/SI159.png|es/SI235.png|es/SI181.png|es/SI122.png|es/SI313.png|es/SI251.png"
+}

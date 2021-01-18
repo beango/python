@@ -1,0 +1,222 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "975",
+      "title": "成為歷史的夢想",
+      "cj": [],
+      "data": [
+        {
+          "card": "967",
+          "stage": "1-3",
+          "damage": "4388",
+          "turn": "1",
+          "hp": "50340",
+          "def": "8250",
+          "coin": "25",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "969",
+          "stage": "",
+          "damage": "13836",
+          "turn": "3",
+          "hp": "53190",
+          "def": "9640",
+          "coin": "25",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "971",
+          "stage": "",
+          "damage": "8150",
+          "turn": "2",
+          "hp": "50870",
+          "def": "8070",
+          "coin": "25",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "973",
+          "stage": "",
+          "damage": "4402",
+          "turn": "1",
+          "hp": "49720",
+          "def": "8230",
+          "coin": "25",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "975",
+          "stage": "",
+          "damage": "8193",
+          "turn": "2",
+          "hp": "47800",
+          "def": "9310",
+          "coin": "25",
+          "item": "141",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2307",
+      "title": "瑪那的根源",
+      "cj": [],
+      "data": [
+        {
+          "card": "477",
+          "stage": "1",
+          "damage": "14308",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9572140",
+          "def": "31800",
+          "coin": "40",
+          "item": "141",
+          "es": "1313",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png",
+            "title": "2顆風化"
+          }
+        },
+        {
+          "card": "478",
+          "stage": "2",
+          "damage": "13926",
+          "turn": "1{{初始CD*1}}",
+          "hp": "10305460",
+          "def": "29500",
+          "coin": "40",
+          "item": "141",
+          "es": "2363",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI228.png",
+            "title": "技能重置 ‧ 雙重黏附"
+          }
+        },
+        {
+          "card": "476",
+          "stage": "3",
+          "damage": "14687",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9870520",
+          "def": "34600",
+          "coin": "40",
+          "item": "141",
+          "es": "491",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI219.png",
+            "title": "凍結圍城"
+          }
+        },
+        {
+          "card": "2307",
+          "stage": "4",
+          "damage": "16203",
+          "turn": "1{{初始CD*1}}",
+          "hp": "14223490",
+          "def": "63900",
+          "coin": "125",
+          "item": "141",
+          "es": "2277",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI229.png|static/es/SI002.png|static/es/SI003.png",
+            "title": "先攻-雙重攻後延伸燃燒10% ‧ 火木防禦盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2307",
+      "title": "突破的研究結果",
+      "cj": [],
+      "data": [
+        {
+          "card": "297",
+          "stage": "1",
+          "damage": "26706",
+          "turn": "1{{初始CD*1}}",
+          "hp": "20000000",
+          "def": "2",
+          "coin": "11",
+          "item": "141",
+          "es": "3177",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI144.png",
+            "title": "首消火傷害吸收-反擊50%"
+          }
+        },
+        {
+          "card": "294",
+          "stage": "2",
+          "damage": "26284",
+          "turn": "1{{初始CD*1}}",
+          "hp": "20000000",
+          "def": "2",
+          "coin": "11",
+          "item": "141",
+          "es": "3176",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI143.png",
+            "title": "首消水傷害吸收-反擊50%"
+          }
+        },
+        {
+          "card": "2307",
+          "stage": "3",
+          "damage": "30318",
+          "turn": "2",
+          "hp": "15306500",
+          "def": "1",
+          "coin": "125",
+          "item": "141",
+          "es": "1941",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI227.png|static/es/SI031.png|static/es/SI032.png",
+            "title": "15+15+水火符石幻變盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2307",
+      "title": "強奪的成果",
+      "cj": [],
+      "data": [
+        {
+          "card": "2307",
+          "stage": "1",
+          "damage": "300000",
+          "turn": "1{{初始CD*9}}",
+          "hp": "800000",
+          "def": "63900",
+          "coin": "125",
+          "item": "141",
+          "es": "984",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI217.png|static/es/SI306.png|static/es/SI047.png",
+            "title": "溢補盾 ‧ 心形轉心-其他轉敵屬 ‧ 隨機轉心"
+          }
+        }
+      ]
+    }
+  ]
+}

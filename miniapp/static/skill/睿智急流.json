@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "睿智急流",
+  "effect": "將 5 至 8 粒符石<br>⇒ 轉化為水強化符石<br>&nbsp;&nbsp;&nbsp;&nbsp;(心符石優先轉換)",
+  "turn": "12",
+  "minTurn": "3",
+  "pet": "2545"
+}

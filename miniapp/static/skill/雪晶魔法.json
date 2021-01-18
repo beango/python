@@ -1,0 +1,8 @@
+{
+  "type": "skill",
+  "name": "雪晶魔法",
+  "effect": "I. 引爆所有凍結符石<br>II. 自身攻擊力減至 1<br>III. 連擊 (Ex. Combo、Combo) 時<br>⇒ 攻擊力提升 39%<br>效果持續至沒有達成 ≥4 連擊 (Combo)",
+  "turn": "17",
+  "minTurn": "6",
+  "pet": "2196"
+}

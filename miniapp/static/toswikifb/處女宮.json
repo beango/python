@@ -1,0 +1,287 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2120",
+      "title": "孤高的戰士",
+      "cj": [],
+      "data": [
+        {
+          "card": "833",
+          "stage": "1",
+          "damage": "2100",
+          "turn": "2",
+          "hp": "99070",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "2100",
+          "turn": "2",
+          "hp": "99070",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "839",
+          "stage": "2",
+          "damage": "1094",
+          "hp": "99320",
+          "def": "260",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "833",
+          "stage": "",
+          "damage": "2100",
+          "turn": "2",
+          "hp": "99070",
+          "def": "280",
+          "coin": "10",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2120",
+          "stage": "3",
+          "damage": "4864",
+          "turn": "2{{初始CD*2}}",
+          "hp": "387790",
+          "def": "920",
+          "coin": "125",
+          "chest": "2000",
+          "es": "3273",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png|static/es/SI256.png|static/es/SI422.png",
+            "title": "擴散燃燒10% ‧ 消心盾5% ‧ 5倍獵魔"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "title": "被粉碎的鳳凰",
+      "cj": [],
+      "data": [
+        {
+          "card": "1010",
+          "stage": "1",
+          "damage": "1548",
+          "turn": "2{{初始CD*2}}",
+          "hp": "16220",
+          "def": "440",
+          "coin": "15",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "1014",
+          "stage": "",
+          "damage": "869",
+          "turn": "1{{初始CD*1}}",
+          "hp": "13170",
+          "def": "380",
+          "coin": "15",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1010",
+          "stage": "",
+          "damage": "1548",
+          "turn": "2{{初始CD*3}}",
+          "hp": "16220",
+          "def": "440",
+          "coin": "15",
+          "es": "513",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png",
+            "title": "黏附"
+          }
+        },
+        {
+          "card": "181",
+          "stage": "2",
+          "damage": "3157",
+          "turn": "4{{初始CD*4}}",
+          "hp": "25090",
+          "def": "620",
+          "coin": "40",
+          "es": "467",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "縱向燃燒10%-1"
+          }
+        },
+        {
+          "card": "181",
+          "stage": "",
+          "damage": "3157",
+          "turn": "4{{初始CD*2}}",
+          "hp": "25090",
+          "def": "620",
+          "coin": "40",
+          "es": "472",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI229.png",
+            "title": "縱向燃燒10%-6"
+          }
+        },
+        {
+          "card": "1415",
+          "stage": "3",
+          "damage": "1219",
+          "turn": "1{{初始CD*1}}",
+          "hp": "41730",
+          "def": "950",
+          "coin": "2000",
+          "chest": "2000",
+          "es": "1061",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI221.png",
+            "title": "突擊65%-底行風化 ‧ 攻後風化"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "",
+          "damage": "2306",
+          "turn": "2{{初始CD*2}}",
+          "hp": "42650",
+          "def": "1030",
+          "coin": "2000",
+          "es": "282",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI188.png",
+            "title": "越攻越強"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2120",
+      "title": "喪失的記憶",
+      "cj": [],
+      "data": [
+        {
+          "card": "2120",
+          "stage": "1",
+          "damage": "2273",
+          "turn": "2{{初始CD*2}}",
+          "hp": "580640",
+          "def": "2170",
+          "coin": "125",
+          "es": "566",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI224.png",
+            "title": "六重軌跡隱藏"
+          }
+        },
+        {
+          "card": "2120",
+          "stage": "2{{雙血}}",
+          "damage": "1262",
+          "turn": "1{{初始CD*1}}",
+          "hp": "438730",
+          "def": "2170",
+          "coin": "0",
+          "es": "3275",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI014.png|static/es/SI251.png",
+            "title": "100%減傷盾-越攻越弱 ‧ 首消光傷害吸收 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "2120",
+          "stage": "",
+          "damage": "1159",
+          "turn": "1",
+          "hp": "754610",
+          "def": "2170",
+          "coin": "125",
+          "chest": "2000",
+          "es": "1741",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI215.png|static/es/SI183.png",
+            "title": "黑白符石 ‧ 始終盾"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2119",
+      "title": "消失於混沌的鳳凰",
+      "cj": [],
+      "data": [
+        {
+          "card": "2119",
+          "stage": "1",
+          "damage": "3307",
+          "turn": "2{{初始CD*2}}",
+          "hp": "124160",
+          "def": "1730",
+          "coin": "125",
+          "es": "1490",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI227.png|static/es/SI034.png",
+            "title": "迷惑符石 ‧ 首消全光盾"
+          }
+        },
+        {
+          "card": "2119",
+          "stage": "2{{雙血}}",
+          "damage": "1733",
+          "turn": "1{{初始CD*1}}",
+          "hp": "98790",
+          "def": "1730",
+          "coin": "0",
+          "es": "818",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI104.png",
+            "title": "6+Combo追擊盾"
+          }
+        },
+        {
+          "card": "2119",
+          "stage": "",
+          "damage": "1580",
+          "turn": "1",
+          "hp": "136210",
+          "def": "1730",
+          "coin": "125",
+          "chest": "4000",
+          "es": "1109",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI117.png",
+            "title": "首消暗追擊零化"
+          }
+        }
+      ]
+    }
+  ]
+}

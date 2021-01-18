@@ -1,0 +1,676 @@
+{
+  "openhis": [],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2363",
+      "title": "初嘗佳釀 初級",
+      "cj": [],
+      "data": [
+        {
+          "card": "1115",
+          "stage": "",
+          "damage": "1260",
+          "turn": "3",
+          "hp": "11650",
+          "def": "780",
+          "coin": "505",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1273",
+          "stage": "",
+          "damage": "706",
+          "turn": "2",
+          "hp": "7180",
+          "def": "560",
+          "coin": "502",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1443",
+          "stage": "",
+          "damage": "810",
+          "turn": "2",
+          "hp": "13121",
+          "def": "40",
+          "coin": "109",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2372",
+          "stage": "",
+          "damage": "1464",
+          "turn": "3",
+          "hp": "18000",
+          "def": "2000",
+          "coin": "20000",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2363",
+          "stage": "5",
+          "damage": "6318",
+          "turn": "1{{初始CD*1}}",
+          "hp": "492870",
+          "def": "7900",
+          "coin": "125",
+          "item": "153",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        }
+      ]
+    },
+    {
+      "id": "2363",
+      "title": "因釀闖禍 中級",
+      "cj": [],
+      "data": [
+        {
+          "card": "1115",
+          "stage": "",
+          "damage": "6042",
+          "turn": "3",
+          "hp": "170800",
+          "def": "780",
+          "coin": "905",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1273",
+          "stage": "",
+          "damage": "3908",
+          "turn": "2",
+          "hp": "198500",
+          "def": "560",
+          "coin": "902",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1443",
+          "stage": "",
+          "damage": "4292",
+          "turn": "2",
+          "hp": "144712",
+          "def": "40",
+          "coin": "189",
+          "lv": "2",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2369",
+          "stage": "",
+          "damage": "2692",
+          "turn": "1",
+          "hp": "200000",
+          "def": "3500",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2372",
+          "stage": "",
+          "damage": "8422",
+          "turn": "3",
+          "hp": "188000",
+          "def": "2000",
+          "coin": "20000",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1470",
+          "stage": "5",
+          "damage": "19895",
+          "turn": "2{{初始CD*2}}",
+          "hp": "9356730",
+          "def": "55000",
+          "coin": "3443",
+          "item": "153",
+          "es": "2987",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI228.png|static/es/SI304.png|static/es/SI047.png|static/es/SI014.png",
+            "title": "突擊65%-雙重黏附 ‧ 攻後縱橫轉光 ‧ 首消光傷害吸收"
+          }
+        },
+        {
+          "card": "2363",
+          "stage": "6",
+          "damage": "9431",
+          "turn": "1{{初始CD*1}}",
+          "hp": "9899520",
+          "def": "79000",
+          "coin": "3863",
+          "item": "153",
+          "lv": "1",
+          "es": "2826",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI282.png|static/es/SI103.png|static/es/SI003.png",
+            "title": "突擊10%-左右暴風輪轉 ‧ 5+Combo追擊盾 ‧ 木屬防禦75%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2363",
+      "title": "尋找山熊的蜂蜜 高級",
+      "cj": [],
+      "data": [
+        {
+          "card": "1115",
+          "stage": "",
+          "damage": "13623",
+          "turn": "3",
+          "hp": "590310",
+          "def": "780",
+          "coin": "1505",
+          "lv": "5",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1273",
+          "stage": "",
+          "damage": "8706",
+          "turn": "2",
+          "hp": "519440",
+          "def": "560",
+          "coin": "1502",
+          "lv": "5",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1443",
+          "stage": "",
+          "damage": "8392",
+          "turn": "2",
+          "hp": "393872",
+          "def": "40",
+          "coin": "309",
+          "lv": "5",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2369",
+          "stage": "",
+          "damage": "5996",
+          "turn": "1",
+          "hp": "600000",
+          "def": "3500",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2372",
+          "stage": "",
+          "damage": "18761",
+          "turn": "3",
+          "hp": "688000",
+          "def": "2000",
+          "coin": "20000",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "1692",
+          "stage": "4",
+          "damage": "8924",
+          "turn": "1{{初始CD*1}}",
+          "hp": "16327120",
+          "def": "62000",
+          "coin": "249",
+          "item": "153",
+          "es": "3752",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI165.png|static/es/SI221.png",
+            "title": "4秒轉珠 ‧ 3顆追擊風化3000"
+          }
+        },
+        {
+          "card": "1470",
+          "stage": "7",
+          "damage": "30236",
+          "turn": "2{{初始CD*2}}",
+          "hp": "20843690",
+          "def": "55000",
+          "coin": "5963",
+          "item": "153",
+          "es": "2988",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI228.png|static/es/SI304.png|static/es/SI047.png|static/es/SI014.png|static/es/SI260.png",
+            "title": "先攻-三重黏附 ‧ 攻後縱橫轉光 ‧ 首消光傷害吸收-反擊50%"
+          }
+        },
+        {
+          "card": "2363",
+          "stage": "8",
+          "damage": "12468",
+          "turn": "1{{初始CD*1}}",
+          "hp": "24280530",
+          "def": "79000",
+          "coin": "6383",
+          "lv": "1",
+          "item": "153",
+          "es": "3798",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI282.png|static/es/SI244.png|static/es/SI124.png",
+            "title": "突擊65% ‧ 左右暴風 ‧ 五屬追擊盾 ‧ 無法控制"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2363",
+      "title": "最完美的作品 {{RL3|80}}",
+      "cj": [],
+      "data": [
+        {
+          "card": "2369",
+          "stage": "1{{掉落*時空之門}}",
+          "damage": "5996",
+          "turn": "1",
+          "hp": "600000",
+          "def": "3500",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2369",
+          "stage": "",
+          "damage": "5996",
+          "turn": "1",
+          "hp": "600000",
+          "def": "3500",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2028",
+          "stage": "2",
+          "damage": "32587",
+          "turn": "2{{初始CD*2}}",
+          "hp": "72019500",
+          "def": "38200",
+          "coin": "3863",
+          "es": "3733",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI254.png|static/es/SI260.png|static/es/SI268.png|static/es/SI251.png",
+            "title": "強化盾-反擊100% ‧ 每回符石還原 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "548",
+          "stage": "3",
+          "damage": "43805",
+          "turn": "3{{初始CD*3}}",
+          "hp": "58203650",
+          "def": "20000",
+          "coin": "169",
+          "es": "291",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        },
+        {
+          "card": "549",
+          "stage": "",
+          "damage": "27369",
+          "turn": "2{{初始CD*2}}",
+          "hp": "56917540",
+          "def": "18000",
+          "coin": "169",
+          "es": "291",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI163.png",
+            "title": "能力繼承"
+          }
+        },
+        {
+          "card": "1858",
+          "stage": "4",
+          "damage": "16034",
+          "turn": "1{{初始CD*1}}",
+          "hp": "80436740",
+          "def": "39700",
+          "coin": "600",
+          "es": "703",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI110.png",
+            "title": "首消隨機3~5Combo追擊盾-轉"
+          }
+        },
+        {
+          "card": "1856",
+          "stage": "5{{雙血}}",
+          "damage": "19780",
+          "turn": "1{{初始CD*1}}",
+          "hp": "126852010",
+          "def": "53400",
+          "coin": "0",
+          "es": "3258",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI181.png|static/es/SI216.png|static/es/SI124.png",
+            "title": "剋屬初級拼圖盾-限 ‧ 反擊50% ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1856",
+          "stage": "",
+          "damage": "20318",
+          "turn": "1",
+          "hp": "207283950",
+          "def": "53400",
+          "coin": "600",
+          "es": "3255",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI304.png|static/es/SI047.png|static/es/SI041.png|static/es/SI315.png|static/es/SI124.png",
+            "title": "CD2 ‧ 首回外側轉光 ‧ 光禁消 ‧ 光引爆狂擊減傷 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2369",
+          "stage": "6{{掉落*時空之門}}",
+          "damage": "5996",
+          "turn": "1",
+          "hp": "600000",
+          "def": "3500",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2369",
+          "stage": "",
+          "damage": "5996",
+          "turn": "1",
+          "hp": "600000",
+          "def": "3500",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null
+        },
+        {
+          "card": "2088",
+          "stage": "7",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "278054300",
+          "def": "48850",
+          "coin": "5123",
+          "es": "3018",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI228.png|static/es/SI131.png|static/es/SI261.png|static/es/SI132.png",
+            "title": "四重黏附 ‧ 扣血90% ‧ 不倒意志50%-回血100%-完殺"
+          }
+        },
+        {
+          "card": "2180",
+          "stage": "8",
+          "damage": "18709",
+          "turn": "1",
+          "hp": "156857230",
+          "def": "40630",
+          "coin": "4283",
+          "es": "3468",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI266.png|static/es/SI096.png|static/es/SI183.png|static/es/SI251.png",
+            "title": "CD2 ‧ 縱橫霧化 ‧ 首消6Combo盾 ‧ 始終盾 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1841",
+          "stage": "9{{雙血}}",
+          "damage": "409",
+          "turn": "1{{初始CD*1}}",
+          "hp": "318052360",
+          "def": "72810",
+          "coin": "0",
+          "es": "3559",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI233.png|static/es/SI135.png|static/es/SI290.png",
+            "title": "攻後回復力衰弱25% ‧ 中毒90% ‧ 點燃盾90%"
+          }
+        },
+        {
+          "card": "1841",
+          "stage": "",
+          "damage": "25036",
+          "turn": "1",
+          "hp": "459467280",
+          "def": "72810",
+          "coin": "600",
+          "es": "3560",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI122.png|static/es/SI314.png|static/es/SI156.png",
+            "title": "CD1 ‧ 1回禁錮 ‧ 首回木引爆減傷-1顆10% ‧ 回復力變0"
+          }
+        },
+        {
+          "card": "2056",
+          "stage": "10",
+          "damage": "19735",
+          "turn": "1{{初始CD*1}}",
+          "hp": "203682410",
+          "def": "45820",
+          "coin": "5123",
+          "es": "3024",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI301.png|static/es/SI221.png|static/es/SI105.png",
+            "title": "先攻-4顆水風化15000 ‧ 7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "2038",
+          "stage": "11",
+          "damage": "86705",
+          "turn": "1{{初始CD*3}}",
+          "hp": "382483690",
+          "def": "69780",
+          "coin": "5543",
+          "es": "3669",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI303.png|static/es/SI270.png|static/es/SI145.png",
+            "title": "攻前盾 ‧ 四重木幻變-轉木 ‧ 首消木傷害吸收-反彈200%"
+          }
+        },
+        {
+          "card": "1854",
+          "stage": "12{{雙血}}",
+          "damage": "19826",
+          "turn": "1{{初始CD*1}}",
+          "hp": "320572830",
+          "def": "73300",
+          "coin": "0",
+          "es": "2914",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI121.png|static/es/SI236.png|static/es/SI105.png",
+            "title": "神外技能重置 ‧ 電擊3顆 ‧ 7+Combo追擊盾"
+          }
+        },
+        {
+          "card": "1854",
+          "stage": "",
+          "damage": "30168",
+          "turn": "1",
+          "hp": "511838960",
+          "def": "73300",
+          "coin": "600",
+          "es": "3276",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI343.png|static/es/SI250.png|static/es/SI014.png|static/es/SI251.png",
+            "title": "魔攻無效 ‧ 100%減傷盾-越攻越弱 ‧ 首消光傷害吸收 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "1413",
+          "stage": "13",
+          "damage": "30870",
+          "turn": "2{{初始CD*2}}",
+          "hp": "269758000",
+          "def": "25000",
+          "coin": "4380",
+          "es": "3399",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI250.png|static/es/SI228.png|static/es/SI124.png",
+            "title": "首殺盾 ‧ 三重黏附 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "1414",
+          "stage": "",
+          "damage": "32697",
+          "turn": "2{{初始CD*1}}",
+          "hp": "263639780",
+          "def": "26000",
+          "coin": "4380",
+          "es": "428",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI156.png",
+            "title": "回復力變0"
+          }
+        },
+        {
+          "card": "2068",
+          "stage": "14",
+          "damage": "21379",
+          "turn": "1{{初始CD*1}}",
+          "hp": "549780250",
+          "def": "54280",
+          "coin": "5963",
+          "es": "3279",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI122.png|static/es/SI227.png|static/es/SI118.png",
+            "title": "5回全員禁錮 ‧ 迷惑符石 ‧ 首消心追擊零化"
+          }
+        },
+        {
+          "card": "2183",
+          "stage": "15{{雙血}}",
+          "damage": "27628",
+          "turn": "1{{初始CD*1}}",
+          "hp": "370852670",
+          "def": "86930",
+          "coin": "0",
+          "es": "3799",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI282.png|static/es/SI248.png|static/es/SI124.png",
+            "title": "突擊65% ‧ 左右暴風 ‧ 強化五屬追擊盾 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2183",
+          "stage": "",
+          "damage": "35802",
+          "turn": "1",
+          "hp": "720879360",
+          "def": "86930",
+          "coin": "7223",
+          "es": "3358",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI181.png|static/es/SI013.png|static/es/SI251.png",
+            "title": "CD1 ‧ 敵屬初級拼圖盾-限 ‧ 首消木傷害吸收 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "2085",
+          "stage": "16",
+          "damage": "53086",
+          "turn": "2{{初始CD*2}}",
+          "hp": "565208690",
+          "def": "78290",
+          "coin": "6383",
+          "es": "3101",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI048.png|static/es/SI238.png|static/es/SI183.png|static/es/SI251.png",
+            "title": "首消23顆符石盾 ‧ 強化防禦90% ‧ 始終盾 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "2363",
+          "stage": "17{{雙血}}{{掉落*時空之門}}",
+          "damage": "29295",
+          "turn": "1{{初始CD*1}}",
+          "hp": "405839780",
+          "def": "92000",
+          "coin": "0",
+          "es": "3797",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI221.png|static/es/SI269.png|static/es/SI257.png|static/es/SI124.png",
+            "title": "攻後風化圍城15000 ‧ 六重壁之地型 ‧ 20%盾 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2363",
+          "stage": "",
+          "damage": "34204",
+          "turn": "1",
+          "hp": "827469310",
+          "def": "92000",
+          "coin": "7643",
+          "lv": "1",
+          "es": "3801",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI228.png|static/es/SI183.png|static/es/SI058.png",
+            "title": "CD1 ‧ 軌跡黏附 ‧ 始終盾 ‧ 弱轉珠技無效"
+          }
+        }
+      ]
+    }
+  ]
+}

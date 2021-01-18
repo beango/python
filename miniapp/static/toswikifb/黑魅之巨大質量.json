@@ -1,0 +1,152 @@
+{
+  "openhis": [
+    {
+      "start": "2020/10/14 22:00",
+      "end": "2020/10/18 23:59",
+      "note": "僅開放台港澳新馬泰緬越菲尼地區",
+      "cj": []
+    },
+    {
+      "start": "2020/10/28 22:00",
+      "end": "2020/11/1 23:59",
+      "note": "僅開放台港澳新馬泰緬越菲尼地區<br>關卡次數、成就、首次通關獎勵不重置",
+      "cj": []
+    }
+  ],
+  "cjtimes": 0,
+  "stages": [
+    {
+      "id": "2530",
+      "title": "籠罩大地 地獄級",
+      "cj": [
+        "隊伍中只有光屬性的成員  (不包括隊伍技能)",
+        "隊長及戰友都是神族",
+        "隊伍中有 3 種或以上屬性的成員  (不包括隊伍技能)"
+      ],
+      "data": [
+        {
+          "card": "2535",
+          "stage": "1{{掉落*EVA}}",
+          "damage": "100",
+          "turn": "2{{初始CD*2}}",
+          "hp": "100",
+          "def": "10",
+          "coin": "125",
+          "lv": "1",
+          "es": "2473",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI214.png|static/es/SI161.png",
+            "title": "生命回復 ‧ 自殺"
+          }
+        },
+        {
+          "card": "957",
+          "stage": "2",
+          "damage": "24308",
+          "turn": "1{{初始CD*1}}",
+          "hp": "218509400",
+          "def": "321850",
+          "coin": "150",
+          "es": "3886",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI160.png|static/es/SI302.png|static/es/SI047.png|static/es/SI144.png|static/es/SI254.png",
+            "title": "先攻-雙直行轉火 ‧ 攻後火橫縱輪轉 ‧ 首消火傷害零化-反擊100% ‧ 強化盾"
+          }
+        },
+        {
+          "card": "956",
+          "stage": "3",
+          "damage": "49015",
+          "turn": "2{{初始CD*2}}",
+          "hp": "178052690",
+          "def": "306980",
+          "coin": "150",
+          "es": "3376",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI148.png|static/es/SI183.png",
+            "title": "首消心傷害吸收-反擊100% ‧ 心起手始終盾"
+          }
+        },
+        {
+          "card": "2083",
+          "stage": "4{{雙血}}",
+          "damage": "30741",
+          "turn": "1{{初始CD*1}}",
+          "hp": "294976440",
+          "def": "782560",
+          "coin": "0",
+          "es": "4256",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI036.png|static/es/SI161.png|static/es/SI124.png",
+            "title": "首消全心盾 ‧ 回復顛倒 ‧ 無法控制"
+          }
+        },
+        {
+          "card": "2083",
+          "stage": "",
+          "damage": "41963",
+          "turn": "1",
+          "hp": "457153980",
+          "def": "782560",
+          "coin": "125",
+          "es": "3985",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/SI198.png|static/es/SI120.png|static/es/SI251.png",
+            "title": "CD1 ‧ 手印符石 ‧ 五屬Combo同等盾 ‧ 無視減傷"
+          }
+        },
+        {
+          "card": "961",
+          "stage": "5",
+          "damage": "56873",
+          "turn": "2{{初始CD*2}}",
+          "hp": "329782360",
+          "def": "671590",
+          "coin": "275",
+          "es": "4029",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI232.png|static/es/SI218.png|static/es/SI251.png|static/es/SI038.png",
+            "title": "首回化血圍城-心化血 ‧ 無視減傷 ‧ 水禁消"
+          }
+        },
+        {
+          "card": "6411",
+          "stage": "6",
+          "damage": "24726",
+          "turn": "1{{初始CD*1}}",
+          "hp": "500000000",
+          "def": "923570",
+          "coin": "125",
+          "es": "4302",
+          "note": "",
+          "esjson": {
+            "img": "static/es/SI161.png|static/es/SI237.png|static/es/SI188.png",
+            "title": "首回自殘20%-攻後自殘16% ‧ 4顆三層石化 ‧ 石化敵盈"
+          }
+        },
+        {
+          "card": "2530",
+          "stage": "7{{掉落*EVA}}",
+          "damage": "100",
+          "turn": "2",
+          "hp": "789705230",
+          "def": "923570",
+          "coin": "125",
+          "lv": "1",
+          "es": "4305",
+          "note": "<font color=yellow>技能錯誤地多了回復力降至 10% 效果。請召喚師多加留意。</font>[https://www.facebook.com/tos.engineer/posts/659301228075152]",
+          "esjson": {
+            "img": "static/es/SI159.png|static/es/ES997.png|static/es/SI267.png|static/es/SI168.png|static/es/SI257.png",
+            "title": "CD3 ‧ 絕對領域-1億 ‧ 1種邪惡能量符石50% ‧ 同歸於盡 ‧ 雙重附加盾"
+          }
+        }
+      ]
+    }
+  ]
+}
