@@ -3,5 +3,6 @@
   "title": "隨機轉木 ‧ 首消木傷害吸收-反擊100%",
   "effect": "每回合移動符石前，敵人會隨機將 1 種符石轉化為木符石。<br>消除木屬性的連擊 (Combo) 時 (只計算首批消除的符石)，敵人會回復相等於該回合召喚師所造成傷害的血量，並反擊自身 100% 攻擊傷害",
   "content": "符石轉化,傷害吸收,反擊傷害",
-  "icon": "es/SI303.png|es/SI047.png|es/SI013.png|es/SI260.png"
+  "icon": "es/SI303.png|es/SI047.png|es/SI013.png|es/SI260.png",
+  "tcicon": "es/SI303.png|es/SI047.png|es/SI013.png|es/SI260.png"
 }

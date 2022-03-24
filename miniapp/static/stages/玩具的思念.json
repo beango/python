@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "1192",
@@ -85,9 +90,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI306.png|es/SI221.png|es/SI003.png",
+            "tcicon": "es/SI160.png|es/SI306.png|es/SI221.png|es/SI003.png",
             "title": "突擊14482 ‧ 首回隨機5顆-攻後3顆心風化3000 ‧ 木屬防禦90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1192i.png"
         },
         {
           "card": "1192",
@@ -101,9 +108,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png|es/SI033.png|es/SI012.png",
+            "tcicon": "es/SI031.png|es/SI033.png|es/SI012.png",
             "title": "15+15+水木幻變盾 ‧ 首消火傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1192i.png"
         }
       ]
     },
@@ -129,7 +138,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -141,7 +151,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -153,7 +164,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -165,7 +177,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -177,7 +190,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "1624",
@@ -190,9 +204,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png|es/SI015.png|es/SI069.png",
+            "tcicon": "es/SI031.png|es/SI015.png|es/SI069.png",
             "title": "首消全水盾 ‧ 首消暗傷害吸收 ‧ 獵人"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1624i.png"
         },
         {
           "card": "1625",
@@ -205,9 +221,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png|es/SI188.png",
+            "tcicon": "es/SI217.png|es/SI188.png",
             "title": "溢補盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1625i.png"
         },
         {
           "card": "1625",
@@ -220,9 +238,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI302.png|es/SI236.png|es/SI114.png",
+            "tcicon": "es/SI122.png|es/SI302.png|es/SI236.png|es/SI114.png",
             "title": "木光技能封鎖 ‧ 火電擊2顆 ‧ 首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1625i.png"
         },
         {
           "card": "1625",
@@ -237,9 +257,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI020.png|es/SI215.png|es/SI132.png|es/SI168.png|es/SI124.png",
+            "tcicon": "es/SI020.png|es/SI215.png|es/SI132.png|es/SI168.png|es/SI124.png",
             "title": "敵轉暗 ‧ 黑白符石 ‧ CD3-同歸於盡 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1625i.png"
         }
       ]
     }

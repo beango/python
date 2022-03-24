@@ -3,5 +3,6 @@
   "title": "回復力變0 ‧ 扣血90% ‧ 軌跡靈化800",
   "effect": "敵人會令召喚師的回復力變 0，而且每回合扣除召喚師 90% 生命力 (無視所有減傷效果和意志技能)。<br>此外，敵人會靈化移動符石時所觸碰的符石，每觸碰 1 粒被靈化的符石，召喚師回復 800 點生命力",
   "content": "回復力減弱,固定傷害,靈化",
-  "icon": "es/SI156.png|es/SI131.png|es/SI213.png"
+  "icon": "es/SI156.png|es/SI131.png|es/SI213.png",
+  "tcicon": "es/SI156.png|es/SI131.png|es/SI213.png"
 }

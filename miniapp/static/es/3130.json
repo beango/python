@@ -3,5 +3,6 @@
   "title": "攻擊無效 ‧ 首回縱橫隱藏 ‧ 首消光傷害吸收-反擊100%",
   "effect": "所有攻擊傷害無效 (包括所有技能)。<br>首回合隨機將 1 橫行及 1 直行的符石轉化為隱藏符石。<br>首批消除光屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 100% 攻擊傷害",
   "content": "攻擊無效,隱藏符石,傷害吸收,反擊",
-  "icon": "es/SI257.png|es/SI224.png|es/SI014.png|es/SI260.png"
+  "icon": "es/SI257.png|es/SI224.png|es/SI014.png|es/SI260.png",
+  "tcicon": "es/SI257.png|es/SI224.png|es/SI014.png|es/SI260.png"
 }

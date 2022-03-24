@@ -3,5 +3,6 @@
   "title": "無法控制-無視減傷",
   "effect": "敵人會無視所有控制技能、減傷效果和意志技能",
   "content": "無法控制,無視減傷",
-  "icon": "es/SI124.png|es/SI251.png"
+  "icon": "es/SI124.png|es/SI251.png",
+  "tcicon": "es/SI124.png|es/SI251.png"
 }

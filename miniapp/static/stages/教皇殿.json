@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/27 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[雙魚宮]]」（除 {{EXTRA}} 以外）全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -23,7 +31,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -35,7 +44,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -47,7 +57,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -59,7 +70,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -70,7 +82,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         }
       ]
     },
@@ -98,9 +111,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "軌跡燃燒800"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2103i.png"
         },
         {
           "card": "2101",
@@ -114,9 +129,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png",
+            "tcicon": "es/SI219.png",
             "title": "三重凍結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2101i.png"
         },
         {
           "card": "2105",
@@ -130,9 +147,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI181.png|es/SI260.png",
+            "tcicon": "es/SI181.png|es/SI260.png",
             "title": "初級拼圖盾-限-連續反擊50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2105i.png"
         },
         {
           "card": "2109",
@@ -147,9 +166,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI227.png|es/SI105.png",
+            "tcicon": "es/SI122.png|es/SI227.png|es/SI105.png",
             "title": "5回技能封鎖 ‧ 迷惑符石 ‧ 7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2109i.png"
         }
       ]
     },
@@ -177,9 +198,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png|es/SI305.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI183.png|es/SI305.png|es/SI047.png|es/SI124.png",
             "title": "始終盾 ‧ 攻後暗縱橫輪轉 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2121i.png"
         },
         {
           "card": "2121",
@@ -193,9 +216,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "攻前盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2121i.png"
         },
         {
           "card": "2121",
@@ -210,9 +235,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI227.png|es/SI015.png",
+            "tcicon": "es/SI227.png|es/SI015.png",
             "title": "迷惑符石 ‧ 首消暗傷害吸收 ‧ 雙重暗幻變"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2121i.png"
         }
       ]
     },
@@ -240,9 +267,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "單次6+光符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/326i.png"
         },
         {
           "card": "328",
@@ -256,9 +285,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png",
+            "tcicon": "es/SI035.png",
             "title": "單次6+暗符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "320",
@@ -272,9 +303,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png",
+            "tcicon": "es/SI031.png",
             "title": "單次6+水符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/320i.png"
         },
         {
           "card": "322",
@@ -288,9 +321,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI032.png",
+            "tcicon": "es/SI032.png",
             "title": "單次6+火符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/322i.png"
         },
         {
           "card": "324",
@@ -305,9 +340,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI033.png",
+            "tcicon": "es/SI033.png",
             "title": "單次6+木符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/324i.png"
         }
       ]
     },
@@ -335,9 +372,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png|es/SI157.png|es/SI161.png",
+            "tcicon": "es/SI125.png|es/SI157.png|es/SI161.png",
             "title": "天惠星矢-超級技能回復-[7回增攻2倍] ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2116i.png"
         },
         {
           "card": "2121",
@@ -351,9 +390,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI110.png",
+            "tcicon": "es/SI165.png|es/SI110.png",
             "title": "(98回3秒轉珠) ‧ 首消隨機3~6Combo追擊盾-轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2121i.png"
         },
         {
           "card": "2121",
@@ -367,9 +408,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI188.png|es/SI124.png",
             "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2121i.png"
         },
         {
           "card": "2121",
@@ -383,9 +426,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI108.png|es/SI132.png",
+            "tcicon": "es/SI108.png|es/SI132.png",
             "title": "缺10+完殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2121i.png"
         }
       ]
     }

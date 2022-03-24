@@ -3,5 +3,6 @@
   "title": "敵轉暗 ‧ (5回轉珠減2秒) ‧ 連擊 ‧ 無視減傷",
   "effect": "首回合敵人會轉變換為暗屬性。<br>5 回合內，敵人會令移動符石時間縮短 2 秒 (移動符石時間最多減至 1 秒)。敵人會在 1 回合內連續攻擊 2 次 (無視所有減傷效果和意志技能)",
   "content": "時間改變,屬性轉換,連擊,無視減傷",
-  "icon": "es/SI020.png|es/SI165.png|es/SI167.png|es/SI251.png"
+  "icon": "es/SI020.png|es/SI165.png|es/SI167.png|es/SI251.png",
+  "tcicon": "es/SI020.png|es/SI165.png|es/SI167.png|es/SI251.png"
 }

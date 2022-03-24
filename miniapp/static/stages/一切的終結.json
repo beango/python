@@ -24,7 +24,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "487",
@@ -36,7 +37,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/487i.png"
         },
         {
           "card": "488",
@@ -48,7 +50,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/488i.png"
         },
         {
           "card": "489",
@@ -60,7 +63,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "490",
@@ -72,7 +76,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1006",
@@ -84,7 +89,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1008",
@@ -96,7 +102,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1010",
@@ -108,7 +115,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -120,7 +128,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -132,7 +141,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1526",
@@ -144,7 +154,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1527",
@@ -156,7 +167,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1528",
@@ -168,7 +180,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1529",
@@ -180,7 +193,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1530",
@@ -192,7 +206,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1100",
@@ -205,9 +220,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI254.png|es/SI251.png",
+            "tcicon": "es/SI123.png|es/SI254.png|es/SI251.png",
             "title": "附加消除 ‧ 強化盾-非強化傷害吸收 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1100i.png"
         },
         {
           "card": "1100",
@@ -220,9 +237,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI107.png|es/SI124.png",
+            "tcicon": "es/SI165.png|es/SI107.png|es/SI124.png",
             "title": "2秒轉珠 ‧ 9+Combo追擊盾 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1100i.png"
         },
         {
           "card": "1562",
@@ -235,9 +254,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI216.png",
+            "tcicon": "es/SI229.png|es/SI216.png",
             "title": "無法控制 ‧ 復活變強3次-滅火狂燒"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1562i.png"
         }
       ]
     }

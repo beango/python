@@ -33,7 +33,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/067i.png"
         },
         {
           "card": "077",
@@ -46,7 +47,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/077i.png"
         },
         {
           "card": "087",
@@ -59,7 +61,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/087i.png"
         },
         {
           "card": "1146",
@@ -72,7 +75,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1146i.png"
         },
         {
           "card": "1501",
@@ -85,7 +89,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1501i.png"
         },
         {
           "card": "1506",
@@ -99,7 +104,8 @@
           "chest": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1506i.png"
         }
       ]
     },
@@ -126,7 +132,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/067i.png"
         },
         {
           "card": "077",
@@ -139,7 +146,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/077i.png"
         },
         {
           "card": "087",
@@ -152,7 +160,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/087i.png"
         },
         {
           "card": "1146",
@@ -165,7 +174,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1146i.png"
         },
         {
           "card": "1501",
@@ -178,7 +188,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1501i.png"
         },
         {
           "card": "1411",
@@ -192,7 +203,8 @@
           "chest": "",
           "note": "{{先攻}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         }
       ]
     },
@@ -219,7 +231,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/067i.png"
         },
         {
           "card": "077",
@@ -232,7 +245,8 @@
           "note": "{{強化盾}}",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/077i.png"
         },
         {
           "card": "087",
@@ -245,7 +259,8 @@
           "note": "{{連擊}}",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/087i.png"
         },
         {
           "card": "1146",
@@ -258,7 +273,8 @@
           "note": "{{攻後轉水4}}",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1146i.png"
         },
         {
           "card": "1501",
@@ -271,7 +287,8 @@
           "note": "{{隨機轉水}}",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1501i.png"
         },
         {
           "card": "1158",
@@ -285,7 +302,8 @@
           "chest": "",
           "note": "{{雙重腐蝕}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1158i.png"
         },
         {
           "card": "1156",
@@ -299,7 +317,8 @@
           "chest": "",
           "note": "{{強化盾 ‧ 反擊100%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1156i.png"
         },
         {
           "card": "1157",
@@ -313,7 +332,8 @@
           "chest": "",
           "note": "{{水屬技能封鎖 ‧ 水鎖定 ‧ 消除減攻20% ‧ 人類剋制 ‧ 攻*atk=7063}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1157i.png"
         }
       ]
     },

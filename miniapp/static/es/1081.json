@@ -3,5 +3,6 @@
   "title": "水屬防禦盾 ‧ (消水減攻90%) ‧ 首回心轉水-攻後隨機轉水",
   "effect": "敵人會令水屬性的攻擊傷害無效。<br>首回合敵人會將心符石轉化為水符石，並對召喚師施加永久的負面狀態：每回合消除水符石時，全隊攻擊力減至 10%。其後每回合隨機將 1 種符石轉化為水符石",
   "content": "屬性針對(攻擊力),攻擊力減弱,符石轉換",
-  "icon": "es/SI001.png|es/SI336.png|es/SI301.png|es/SI047.png"
+  "icon": "es/SI001.png|es/SI336.png|es/SI301.png|es/SI047.png",
+  "tcicon": "es/SI001.png|es/SI336.png|es/SI301.png|es/SI047.png"
 }

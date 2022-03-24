@@ -3,5 +3,6 @@
   "title": "附加消除 ‧ 3倍獵神-禁錮",
   "effect": "首回合敵人會消除召喚師所有附加效果，並永久封鎖神族成員的主動技能及其攻擊。召喚師隊伍中有神族成員時，敵人攻擊力提升{{Cal|剋制|{{{atk|}}}}}",
   "content": "附加消除,禁錮,種族針對(攻擊力)",
-  "icon": "es/SI123.png|es/SI067.png|es/SI122.png"
+  "icon": "es/SI123.png|es/SI067.png|es/SI122.png",
+  "tcicon": "es/SI123.png|es/SI067.png|es/SI122.png"
 }

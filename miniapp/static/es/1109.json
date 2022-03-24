@@ -3,5 +3,6 @@
   "title": "首消暗追擊零化",
   "effect": "消除暗屬性的連擊 (Combo) 會令全隊攻擊無效，消除的暗屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石",
   "content": "連擊零化",
-  "icon": "es/SI117.png"
+  "icon": "es/SI117.png",
+  "tcicon": "es/SI117.png"
 }

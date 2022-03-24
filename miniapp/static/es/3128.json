@@ -3,5 +3,6 @@
   "title": "攻擊無效 ‧ 龍脈重置 ‧ 機械外超級技能重置",
   "effect": "所有攻擊傷害無效 (包括所有技能)。<br>清空龍脈儀的能量、重置機械族以外成員的主動技能 CD、EP 及累積戰鬥回合數",
   "content": "攻擊無效,龍脈重置,技能重置",
-  "icon": "es/SI257.png|es/SI140.png|es/SI121.png"
+  "icon": "es/SI257.png|es/SI140.png|es/SI121.png",
+  "tcicon": "es/SI257.png|es/SI140.png|es/SI121.png"
 }

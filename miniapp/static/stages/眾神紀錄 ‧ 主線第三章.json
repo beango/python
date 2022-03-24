@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI047.png",
+            "tcicon": "es/SI304.png|es/SI047.png",
             "title": "攻後轉光4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1153i.png"
         },
         {
           "card": "1147",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png",
+            "tcicon": "es/SI301.png|es/SI047.png",
             "title": "攻後轉水4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1147i.png"
         },
         {
           "card": "706",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI011.png|es/SI165.png",
+            "tcicon": "es/SI160.png|es/SI011.png|es/SI165.png",
             "title": "突擊25% ‧ 攻後轉直水 ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/706i.png"
         },
         {
           "card": "1990",
@@ -71,9 +77,11 @@
           "note": "{{特性*離開*6}}",
           "esjson": {
             "img": "es/SI304.png|es/SI047.png|es/SI236.png",
+            "tcicon": "es/SI304.png|es/SI047.png|es/SI236.png",
             "title": "首回隨機轉光 ‧ 攻後光縱橫輪轉 ‧ 攻後電擊趨狂"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1990i.png"
         }
       ]
     },
@@ -100,9 +108,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI254.png",
+            "tcicon": "es/SI188.png|es/SI254.png",
             "title": "越攻越強 ‧ 強化盾-非強化傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/193i.png"
         },
         {
           "card": "193",
@@ -115,9 +125,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png|es/SI229.png|es/SI124.png",
+            "tcicon": "es/SI012.png|es/SI229.png|es/SI124.png",
             "title": "首消火傷害吸收-雙重燃燒10% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/193i.png"
         },
         {
           "card": "193",
@@ -131,9 +143,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "✕形燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/193i.png"
         }
       ]
     },
@@ -162,9 +176,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "1271",
@@ -177,9 +193,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "833",
@@ -192,9 +210,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI047.png",
+            "tcicon": "es/SI047.png",
             "title": "心轉自身"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "837",
@@ -207,9 +227,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI304.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI304.png|es/SI047.png|es/SI124.png",
             "title": "首殺盾 ‧ 攻後光縱橫輪轉 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "833",
@@ -222,9 +244,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI047.png",
+            "tcicon": "es/SI047.png",
             "title": "心轉自身"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "1271",
@@ -237,9 +261,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "1271",
@@ -252,9 +278,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "688",
@@ -267,9 +295,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI221.png|es/SI254.png",
+            "tcicon": "es/SI160.png|es/SI221.png|es/SI254.png",
             "title": "突擊25% ‧ 三重風化-先 ‧ 強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/688i.png"
         },
         {
           "card": "688",
@@ -283,9 +313,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI022.png|es/SI181.png|es/SI251.png",
+            "tcicon": "es/SI122.png|es/SI022.png|es/SI181.png|es/SI251.png",
             "title": "人類禁錮 ‧ 火強化初級拼圖盾-限 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/688i.png"
         }
       ]
     }

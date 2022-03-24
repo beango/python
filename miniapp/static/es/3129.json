@@ -3,5 +3,6 @@
   "title": "攻擊無效 ‧ 始終盾 ‧ 無視減傷",
   "effect": "所有攻擊傷害無效 (包括所有技能)。<br>每回合以指定位置 (綠色漩渦) 的符石開始轉珠及在指定位置 (紅色漩渦) 結束轉珠，才會發動攻擊和回復。(達成條件前，無法進行回復)。<br>無視所有減傷效果和意志技能",
   "content": "攻擊無效,始終盾,無視減傷",
-  "icon": "es/SI257.png|es/SI183.png|es/SI251.png"
+  "icon": "es/SI257.png|es/SI183.png|es/SI251.png",
+  "tcicon": "es/SI257.png|es/SI183.png|es/SI251.png"
 }

@@ -1,5 +1,229 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2020/3/6 22:00",
+      "end": "2020/3/9 23:59",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "C219",
+          "soul": "",
+          "m": "",
+          "num": "1",
+          "tcimg": null
+        }
+      ],
+      "cishujl": [
+        {
+          "cs_jltj": "成功通过 [地獄級]() 3 次",
+          "cs_jl": "![2029](zhs/2029i.png) * 1(技能等级 7) "
+        }
+      ]
+    },
+    {
+      "start": "2021/1/12 22:00",
+      "end": "2021/1/15 23:59",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "C219",
+          "soul": "",
+          "m": "",
+          "num": "1",
+          "tcimg": null
+        }
+      ],
+      "cishujl": [
+        {
+          "cs_jltj": "成功通过 [地獄級]() 3 次",
+          "cs_jl": "![2029](zhs/2029i.png) * 1(技能等级 7) "
+        }
+      ]
+    }
+  ],
   "cj": [],
-  "stages": []
+  "stages": [
+    {
+      "id": "2029",
+      "title": "文化象徵的破繭 地獄級",
+      "note": "",
+      "story": "",
+      "cj": [
+        "<span style=\"font-size:12pt; font-weight:800; color:#FF5733;\">2021/1/12 關卡成就|</span> <br>隊伍中只有水屬性的成員 (不包括隊伍技能)<br>隊伍中只有機械族成員<br>隊伍中有 3 種或以上屬性的成員 (不包括隊伍技能)",
+        "<span style=\"font-size:12pt; font-weight:800; color:#FF5733;\">2020/3/6 關卡成就|</span> <br>隊伍中只有水屬性的成員 (不包括隊伍技能)<br>隊伍中只有機械族成員<br>隊伍中有 3 種或以上屬性的成員 (不包括隊伍技能)"
+      ],
+      "info": {
+        "sta": "50",
+        "battle": "5",
+        "exp": "5000"
+      },
+      "data": [
+        {
+          "card": "1880",
+          "stage": "1",
+          "damage": "100",
+          "turn": "2(2)",
+          "hp": "43765850",
+          "def": "8880",
+          "coin": "1343",
+          "es": "855",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI129.png|es/SI188.png",
+            "tcicon": "/2021/01/14/AxhpjFyqQX2Kdvl.png|/2021/01/14/NsrWXcV1B8ipRzH.png|/2021/01/14/OU398cpBhrmSdQ5.png",
+            "title": "無法控制 ‧ 扣血70% ‧ 喪伴狂硬50倍-完殺"
+          },
+          "jd": "",
+          "cardtcimg": null
+        },
+        {
+          "card": "1880",
+          "stage": "",
+          "damage": "100",
+          "turn": "2(1)",
+          "hp": "43765850",
+          "def": "8880",
+          "coin": "1343",
+          "es": "855",
+          "note": "",
+          "esjson": {
+            "img": "es/SI124.png|es/SI129.png|es/SI188.png",
+            "tcicon": "/2021/01/14/AxhpjFyqQX2Kdvl.png|/2021/01/14/NsrWXcV1B8ipRzH.png|/2021/01/14/OU398cpBhrmSdQ5.png",
+            "title": "無法控制 ‧ 扣血70% ‧ 喪伴狂硬50倍-完殺"
+          },
+          "jd": "",
+          "cardtcimg": null
+        },
+        {
+          "card": "1879",
+          "stage": "2",
+          "damage": "17955",
+          "turn": "1(1)",
+          "hp": "68654170",
+          "def": "16350",
+          "coin": "1563",
+          "es": "279",
+          "note": "",
+          "esjson": {
+            "img": "es/SI105.png",
+            "tcicon": "/2021/01/14/twzG9fvQp3CJR8F.png",
+            "title": "7+Combo追擊盾"
+          },
+          "jd": "",
+          "cardtcimg": null
+        },
+        {
+          "card": "1878",
+          "stage": "",
+          "damage": "52964",
+          "turn": "3(3)",
+          "hp": "70946310",
+          "def": "17200",
+          "coin": "1563",
+          "es": "3407",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI257.png|es/SI124.png",
+            "tcicon": "/2021/01/14/ABcwpyaori28uLU.png|/2021/01/14/5JHBjEFNVvDoUx3.png|/2021/01/14/AxhpjFyqQX2Kdvl.png",
+            "title": "首殺盾 ‧ 50%盾 ‧ 無法控制"
+          },
+          "jd": "",
+          "cardtcimg": null
+        },
+        {
+          "card": "1881",
+          "stage": "3{{雙血}}",
+          "damage": "76259",
+          "turn": "1(2)",
+          "hp": "158743290",
+          "def": "71850",
+          "coin": "0",
+          "es": "1086",
+          "note": "",
+          "esjson": {
+            "img": "es/SI004.png|es/SI005.png|es/SI246.png",
+            "tcicon": "/2021/01/14/xQwSH2EX6A3b9ho.png|/2021/01/14/ZopPb1GJf9Rkvas.png|/2021/01/14/x8pMziKrB26Doaf.png",
+            "title": "光暗防禦95% ‧ 三屬強化盾-限"
+          },
+          "jd": "",
+          "cardtcimg": null
+        },
+        {
+          "card": "1881",
+          "stage": "",
+          "damage": "34563",
+          "turn": "1",
+          "hp": "260897320",
+          "def": "71850",
+          "coin": "600",
+          "es": "2982",
+          "note": "",
+          "esjson": {
+            "img": "es/SI221.png|es/SI254.png|es/SI013.png",
+            "tcicon": "/2021/01/14/eGZXMC9Hz32j6p5.png|/2021/01/14/uFUJfQaWmHtjiI7.png|/2021/01/14/Nkdu5Y8rMA6EDB9.png",
+            "title": "首回9顆風化15000-每回3顆 ‧ 強化盾 ‧ 首消木傷害吸收"
+          },
+          "jd": "",
+          "cardtcimg": null
+        },
+        {
+          "card": "1346",
+          "stage": "4",
+          "damage": "13203",
+          "turn": "1(1)",
+          "hp": "132521630",
+          "def": "28670",
+          "coin": "6803",
+          "es": "3351",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI301.png|es/SI047.png|es/SI006.png|es/SI188.png",
+            "tcicon": "/2021/01/14/cFf1UaJ4hj5TKWA.png|/2021/01/14/tWDjX2hsOAMNJYm.png|/2021/01/14/rdVPqTimDgQzKGI.png|/2021/01/14/OTGv89rMsoDC4ck.png|/2021/01/14/OU398cpBhrmSdQ5.png",
+            "title": "CD1 ‧ 外側轉水 ‧ (消水減攻99%) ‧ 越戰越強-金"
+          },
+          "jd": "",
+          "cardtcimg": "/2021/01/14/wNK9f6dh2igxMcA.png"
+        },
+        {
+          "card": "2029",
+          "stage": "5{{雙血}}{{掉落*白金}}",
+          "damage": "28512",
+          "turn": "1(1)",
+          "hp": "206831020",
+          "def": "58740",
+          "coin": "0",
+          "es": "3722",
+          "note": "",
+          "esjson": {
+            "img": "es/SI236.png|es/SI302.png|es/SI047.png|es/SI114.png|es/SI124.png",
+            "tcicon": "/2021/01/14/HqO7FQgCxWwEkML.png|/2021/01/14/uCoKynJL1Ttc3MA.png|/2021/01/14/rdVPqTimDgQzKGI.png|/2021/01/14/qMlT5bBjYOJLvta.png|/2021/01/14/AxhpjFyqQX2Kdvl.png",
+            "title": "3顆電擊-轉火 ‧ 首消火追擊零化 ‧ 無法控制"
+          },
+          "jd": "",
+          "cardtcimg": "/2021/01/14/vmwybFkQfzNr5hL.png"
+        },
+        {
+          "card": "2029",
+          "stage": "",
+          "damage": "8314",
+          "turn": "2",
+          "hp": "395206360",
+          "def": "58740",
+          "coin": "7643",
+          "lv": "1",
+          "es": "3169",
+          "note": "",
+          "esjson": {
+            "img": "es/SI012.png|es/SI188.png|es/SI225.png",
+            "tcicon": "/2021/01/14/89QHibCda7mLOFq.png|/2021/01/14/OU398cpBhrmSdQ5.png|/2021/01/14/vwx9YyZ7zWbAFEL.png",
+            "title": "首消火攻擊零化 ‧ 越戰越強-金 ‧ 縱橫化零射擊"
+          },
+          "jd": "",
+          "cardtcimg": "/2021/01/14/vmwybFkQfzNr5hL.png"
+        }
+      ]
+    }
+  ]
 }

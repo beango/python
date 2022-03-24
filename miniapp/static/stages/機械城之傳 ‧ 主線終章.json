@@ -23,7 +23,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/646i.png"
         },
         {
           "card": "647",
@@ -34,7 +35,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/647i.png"
         },
         {
           "card": "648",
@@ -45,7 +47,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/648i.png"
         },
         {
           "card": "649",
@@ -56,7 +59,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/649i.png"
         },
         {
           "card": "650",
@@ -67,7 +71,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "1744",
@@ -80,9 +85,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾-轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1744i.png"
         },
         {
           "card": "1350",
@@ -95,9 +102,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI015.png|es/SI260.png",
+            "tcicon": "es/SI224.png|es/SI015.png|es/SI260.png",
             "title": "軌跡隱藏 ‧ 首消暗傷害吸收-反擊100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1350i.png"
         },
         {
           "card": "1350",
@@ -110,9 +119,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI106.png",
+            "tcicon": "es/SI106.png",
             "title": "(5回8+Combo發動攻回)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1350i.png"
         },
         {
           "card": "1752",
@@ -125,9 +136,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI260.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI260.png|es/SI124.png",
             "title": "20擊盾-非技傷連續反擊50% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1752i.png"
         },
         {
           "card": "1752",
@@ -141,9 +154,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI121.png|es/SI132.png",
+            "tcicon": "es/SI158.png|es/SI121.png|es/SI132.png",
             "title": "機械外技能重置-[攻擊零化1回] ‧ 扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1752i.png"
         }
       ]
     },
@@ -170,9 +185,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI012.png",
+            "tcicon": "es/SI121.png|es/SI012.png",
             "title": "技能重置 ‧ 攻後火縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1747i.png"
         },
         {
           "card": "1346",
@@ -185,9 +202,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI001.png|es/SI188.png",
+            "tcicon": "es/SI160.png|es/SI001.png|es/SI188.png",
             "title": "突擊10%-水圍城-每回隨機轉水 ‧ 消水縮時0.2-1秒 ‧ 首消水傷害零化 ‧ 血弱50%-雙轉水-3倍狂擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1346i.png"
         },
         {
           "card": "1751",
@@ -200,9 +219,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI225.png",
+            "tcicon": "es/SI225.png",
             "title": "射擊-上"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1751i.png"
         },
         {
           "card": "1751",
@@ -215,9 +236,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI225.png",
+            "tcicon": "es/SI225.png",
             "title": "射擊-下"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1751i.png"
         },
         {
           "card": "1347",
@@ -230,9 +253,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI302.png|es/SI047.png|es/SI188.png",
+            "tcicon": "es/SI302.png|es/SI047.png|es/SI188.png",
             "title": "隨機轉火 ‧ 攻後火縱橫輪轉 ‧ 連擊趨狂"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1347i.png"
         },
         {
           "card": "1748",
@@ -245,9 +270,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI212.png",
+            "tcicon": "es/SI188.png|es/SI212.png",
             "title": "3倍士氣高昂-無限回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1748i.png"
         },
         {
           "card": "1746",
@@ -260,9 +287,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1746i.png"
         },
         {
           "card": "1349",
@@ -275,9 +304,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI122.png|es/SI188.png",
+            "tcicon": "es/SI250.png|es/SI122.png|es/SI188.png",
             "title": "同屬防禦90% ‧ 人類禁錮 ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1349i.png"
         },
         {
           "card": "6167",
@@ -290,9 +321,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI224.png|es/SI014.png|es/SI260.png|es/SI251.png",
+            "tcicon": "es/SI160.png|es/SI224.png|es/SI014.png|es/SI260.png|es/SI251.png",
             "title": "先攻-縱橫隱藏 ‧ 首消光傷害吸收-反擊100% ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/6167i.png"
         },
         {
           "card": "6167",
@@ -305,9 +338,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI304.png|es/SI168.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI304.png|es/SI168.png|es/SI124.png",
             "title": "[4回攻擊零化] ‧ 光引爆追擊 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/6167i.png"
         },
         {
           "card": "6167",
@@ -320,9 +355,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI132.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI132.png|es/SI124.png",
             "title": "弱化鎖定圍城20% ‧ 扣血100% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/6167i.png"
         }
       ]
     },
@@ -348,9 +385,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/601i.png"
         },
         {
           "card": "605",
@@ -362,9 +401,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/605i.png"
         },
         {
           "card": "597",
@@ -376,9 +417,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/597i.png"
         },
         {
           "card": "603",
@@ -390,9 +433,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/603i.png"
         },
         {
           "card": "599",
@@ -405,9 +450,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/599i.png"
         }
       ]
     }

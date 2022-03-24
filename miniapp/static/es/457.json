@@ -3,5 +3,6 @@
   "title": "獵光外",
   "effect": "召喚師隊伍中有光屬性以外成員時，敵人攻擊力提升{{Cal|以外剋制|atk|{{{atk|}}}}}",
   "content": "屬性針對(攻擊力)",
-  "icon": "es/SI157.png"
+  "icon": "es/SI157.png",
+  "tcicon": "es/SI157.png"
 }

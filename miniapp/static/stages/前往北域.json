@@ -24,20 +24,40 @@
       },
       "data": [
         {
-          "card": "837",
+          "card": "831",
           "stage": "1",
+          "damage": "18252",
+          "turn": "2(1)",
+          "hp": "48697850",
+          "def": "120000",
+          "coin": "188",
+          "es": "593",
+          "note": "",
+          "esjson": {
+            "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
+            "title": "攻後轉直水"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
+        },
+        {
+          "card": "837",
+          "stage": "",
           "damage": "29736",
           "turn": "3(3)",
           "hp": "50368630",
           "def": "160000",
-          "coin": "",
+          "coin": "188",
           "es": "3378",
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI251.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI251.png|es/SI124.png",
             "title": "首殺盾 ‧ 無視減傷 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "831",
@@ -46,14 +66,16 @@
           "turn": "2(2)",
           "hp": "48697850",
           "def": "120000",
-          "coin": "",
+          "coin": "188",
           "es": "593",
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後轉直水"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "836",
@@ -62,14 +84,16 @@
           "turn": "4(4)",
           "hp": "98632140",
           "def": "370000",
-          "coin": "",
+          "coin": "624",
           "es": "1744",
           "note": "",
           "esjson": {
             "img": "es/SI181.png|es/SI251.png",
+            "tcicon": "es/SI181.png|es/SI251.png",
             "title": "初級拼圖盾 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/836i.png"
         },
         {
           "card": "834",
@@ -78,14 +102,16 @@
           "turn": "1(1)",
           "hp": "97965350",
           "def": "360000",
-          "coin": "",
+          "coin": "624",
           "es": "3185",
           "note": "",
           "esjson": {
             "img": "es/SI096.png|es/SI188.png",
+            "tcicon": "es/SI096.png|es/SI188.png",
             "title": "首消6Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         }
       ]
     },
@@ -121,14 +147,16 @@
           "turn": "1(1)",
           "hp": "41038540",
           "def": "42000",
-          "coin": "",
+          "coin": "905",
           "es": "1",
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1008",
@@ -137,14 +165,16 @@
           "turn": "3(3)",
           "hp": "39546810",
           "def": "98000",
-          "coin": "",
+          "coin": "905",
           "es": "1",
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1010",
@@ -153,14 +183,16 @@
           "turn": "2(2)",
           "hp": "42463930",
           "def": "57000",
-          "coin": "",
+          "coin": "905",
           "es": "1",
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -169,14 +201,16 @@
           "turn": "2(2)",
           "hp": "41863240",
           "def": "83000",
-          "coin": "",
+          "coin": "905",
           "es": "1",
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -185,14 +219,16 @@
           "turn": "1(1)",
           "hp": "39317560",
           "def": "40000",
-          "coin": "",
+          "coin": "905",
           "es": "1",
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         }
       ]
     },
@@ -228,14 +264,16 @@
           "turn": "2(2)",
           "hp": "47399850",
           "def": "140000",
-          "coin": "",
+          "coin": "1932",
           "es": "285",
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "隱藏-轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/551i.png"
         },
         {
           "card": "546",
@@ -244,14 +282,16 @@
           "turn": "3(3)",
           "hp": "62076250",
           "def": "350000",
-          "coin": "",
+          "coin": "189",
           "es": "911",
           "note": "",
           "esjson": {
             "img": "es/SI033.png",
+            "tcicon": "es/SI033.png",
             "title": "首消全木盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/546i.png"
         },
         {
           "card": "1121",
@@ -260,14 +300,16 @@
           "turn": "2(2)",
           "hp": "137396150",
           "def": "270000",
-          "coin": "",
+          "coin": "5123",
           "es": "1594",
           "note": "",
           "esjson": {
             "img": "es/SI183.png",
+            "tcicon": "es/SI183.png",
             "title": "始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1121i.png"
         },
         {
           "card": "552",
@@ -276,14 +318,16 @@
           "turn": "1(1)",
           "hp": "92563240",
           "def": "230000",
-          "coin": "",
+          "coin": "5543",
           "es": "1770",
           "note": "",
           "esjson": {
             "img": "es/SI016.png|es/SI301.png|es/SI047.png|es/SI113.png",
+            "tcicon": "es/SI016.png|es/SI301.png|es/SI047.png|es/SI113.png",
             "title": "敵轉水-首回隨機轉水 ‧ 首消水追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/552i.png"
         },
         {
           "card": "1316",
@@ -292,30 +336,34 @@
           "turn": "3(3)",
           "hp": "145084430",
           "def": "390000",
-          "coin": "",
+          "coin": "5963",
           "es": "2286",
           "note": "",
           "esjson": {
             "img": "es/SI219.png|es/SI165.png|es/SI001.png",
+            "tcicon": "es/SI219.png|es/SI165.png|es/SI001.png",
             "title": "凍結3顆 ‧ 2秒轉珠 ‧ 水屬防禦75%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1316i.png"
         },
         {
           "card": "1655",
           "stage": "5",
-          "damage": "63984",
+          "damage": "23783",
           "turn": "1(1)",
           "hp": "164210590",
           "def": "560000",
-          "coin": "",
+          "coin": "309",
           "es": "2314",
           "note": "",
           "esjson": {
             "img": "es/SI156.png|es/SI301.png|es/SI047.png|es/SI011.png",
+            "tcicon": "es/SI156.png|es/SI301.png|es/SI047.png|es/SI011.png",
             "title": "回復力變0 ‧ 隨機轉水 ‧ 首消水傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1655i.png"
         }
       ]
     }

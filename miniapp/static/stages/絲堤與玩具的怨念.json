@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "875",
@@ -84,7 +89,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "1624",
@@ -98,9 +104,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI164.png|es/SI165.png",
+            "tcicon": "es/SI164.png|es/SI165.png",
             "title": "召喚小怪 ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1624i.png"
         },
         {
           "card": "875",
@@ -112,7 +120,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         }
       ]
     },
@@ -139,7 +148,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -152,7 +162,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -165,7 +176,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -178,7 +190,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -191,7 +204,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         }
       ]
     },
@@ -221,9 +235,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png",
+            "tcicon": "es/SI031.png",
             "title": "單次12+水符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/256i.png"
         },
         {
           "card": "257",
@@ -237,9 +253,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI032.png",
+            "tcicon": "es/SI032.png",
             "title": "單次12+火符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/257i.png"
         },
         {
           "card": "258",
@@ -253,9 +271,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI033.png",
+            "tcicon": "es/SI033.png",
             "title": "單次12+木符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/258i.png"
         },
         {
           "card": "259",
@@ -269,9 +289,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "單次12+光符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/259i.png"
         },
         {
           "card": "260",
@@ -285,9 +307,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png",
+            "tcicon": "es/SI035.png",
             "title": "單次15+暗符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/260i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "雙重擴散燃燒10% ‧ 越燒越強 ‧ 無視減傷",
   "effect": "首回合隨機燃燒 2 個位置，<br>其後每回合<br>額外燃燒 2 個位置，<br>每觸碰被燃燒的位置，<br>將扣除召喚師 10% 生命力。<br><br>敵人的攻擊力<br>隨燃燒位置數量提升。<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "燃燒,越燒越強,無視減傷",
-  "icon": "es/SI229.png|es/SI188.png|es/SI251.png"
+  "icon": "es/SI229.png|es/SI188.png|es/SI251.png",
+  "tcicon": "es/SI229.png|es/SI188.png|es/SI251.png"
 }

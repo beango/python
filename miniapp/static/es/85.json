@@ -3,5 +3,6 @@
   "title": "逢二回復3000",
   "effect": "每 2 回合敵人會讓召喚師增加 3,000 點生命力",
   "content": "生命回復",
-  "icon": "es/SI214.png"
+  "icon": "es/SI214.png",
+  "tcicon": "es/SI214.png"
 }

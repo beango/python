@@ -3,5 +3,6 @@
   "title": "附加消除重置 ‧ 2秒轉珠",
   "effect": "首回合敵人會消除召喚師所有附加效果，其技能 CD 將被重置。<br>移動符石時間會縮短至 2 秒",
   "content": "附加消除重置,時間改變",
-  "icon": "es/SI121.png|es/SI123.png|es/SI165.png"
+  "icon": "es/SI121.png|es/SI123.png|es/SI165.png",
+  "tcicon": "es/SI121.png|es/SI123.png|es/SI165.png"
 }

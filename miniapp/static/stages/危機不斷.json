@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "1006",
@@ -38,9 +39,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI336.png",
+            "tcicon": "es/SI336.png",
             "title": "水弱化鎖定10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "486",
@@ -52,7 +55,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "1007",
@@ -67,9 +71,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png",
+            "tcicon": "es/SI165.png",
             "title": "2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1007i.png"
         },
         {
           "card": "581",
@@ -84,9 +90,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI106.png",
+            "tcicon": "es/SI106.png",
             "title": "8+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/581i.png"
         },
         {
           "card": "1411",
@@ -103,9 +111,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI250.png",
+            "tcicon": "es/SI188.png|es/SI250.png",
             "title": "越攻越強 ‧ 循環累積15+相剋符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         }
       ]
     },
@@ -133,9 +143,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "攻後木縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1596",
@@ -149,9 +161,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後暗橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "1593",
@@ -165,9 +179,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1595",
@@ -181,9 +197,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1592",
@@ -198,9 +216,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI113.png",
+            "tcicon": "es/SI113.png",
             "title": "首消水追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         }
       ]
     },
@@ -230,7 +250,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -242,7 +263,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -254,7 +276,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -266,7 +289,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -278,7 +302,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "713",
@@ -292,9 +317,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI160.png|es/SI309.png|es/SI228.png",
+            "tcicon": "es/SI160.png|es/SI309.png|es/SI228.png",
             "title": "突擊65% ‧ 首回攻後木化血 ‧ 首攻隨機側行黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/713i.png"
         }
       ]
     }

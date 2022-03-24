@@ -25,7 +25,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1859i.png"
         },
         {
           "card": "1860",
@@ -38,7 +39,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1860i.png"
         },
         {
           "card": "1861",
@@ -51,7 +53,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1861i.png"
         },
         {
           "card": "1862",
@@ -64,7 +67,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1862i.png"
         },
         {
           "card": "1863",
@@ -77,7 +81,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1863i.png"
         }
       ]
     },
@@ -106,9 +111,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2306i.png"
         }
       ]
     },
@@ -135,7 +142,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2309i.png"
         }
       ]
     },
@@ -162,7 +170,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2389i.png"
         }
       ]
     },
@@ -188,7 +197,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2385i.png"
         },
         {
           "card": "2383",
@@ -200,7 +210,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2383i.png"
         },
         {
           "card": "2497",
@@ -212,7 +223,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2497i.png"
         },
         {
           "card": "2381",
@@ -224,7 +236,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2381i.png"
         },
         {
           "card": "2306",
@@ -236,7 +249,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2306i.png"
         }
       ]
     }

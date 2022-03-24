@@ -3,5 +3,6 @@
   "title": "突擊65% ‧ 隨機轉黑玫瑰8顆 ‧ 首消水追擊零化 ‧ 無視減傷",
   "effect": "首回合敵人會優先突擊 1 次。<br>每回合隨機將 8 粒符石轉化為黑玫瑰符石。<br>首批消除水屬性的連擊 (Combo) 會令全隊攻擊無效，首批消除的水屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。<br>無視所有減傷效果和意志技能",
   "content": "突擊,黑玫瑰符石,連擊零化,無視減傷",
-  "icon": "es/SI160.png|es/SI201.png|es/SI113.png|es/SI251.png"
+  "icon": "es/SI160.png|es/SI201.png|es/SI113.png|es/SI251.png",
+  "tcicon": "es/SI160.png|es/SI201.png|es/SI113.png|es/SI251.png"
 }

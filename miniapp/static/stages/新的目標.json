@@ -23,7 +23,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1014",
@@ -35,7 +36,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1530",
@@ -47,7 +49,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1415",
@@ -60,9 +63,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "585",
@@ -76,9 +81,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         }
       ]
     },
@@ -103,7 +110,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/097i.png"
         },
         {
           "card": "107",
@@ -114,7 +122,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "1531",
@@ -126,7 +135,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "1121",
@@ -141,9 +151,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI250.png",
+            "tcicon": "es/SI188.png|es/SI250.png",
             "title": "越攻越強 ‧ 循環累積15+相剋符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1121i.png"
         }
       ]
     },
@@ -170,7 +182,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "109",
@@ -181,7 +194,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "487",
@@ -192,7 +206,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/487i.png"
         },
         {
           "card": "1532",
@@ -204,7 +219,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "1310",
@@ -219,9 +235,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI068.png|es/SI122.png",
+            "tcicon": "es/SI123.png|es/SI068.png|es/SI122.png",
             "title": "附加消除 ‧ 3倍獵魔-禁錮"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1310i.png"
         }
       ]
     }

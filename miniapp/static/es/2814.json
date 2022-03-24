@@ -3,5 +3,6 @@
   "title": "龍脈重置-CD1 ‧ 化血圍城-暗化血 ‧ 扣血100% ‧ 無法控制",
   "effect": "首回合敵人會清空龍脈儀的能量，攻擊頻率變為 CD 1。<br>首回合鎖定場上所有符石，其後每回合鎖定場上的暗符石；如有鎖定的符石未被消除時，敵人回復相等於該回合召喚師所造成傷害的血量。<br>敵人發動攻擊時會扣除召喚師 100% 生命力 (無視所有減傷效果和意志技能)。<br>敵人無視所有控制技能",
   "content": "龍脈重置",
-  "icon": "es/SI140.png|es/SI159.png|es/SI232.png|es/SI311.png|es/SI132.png|es/SI124.png"
+  "icon": "es/SI140.png|es/SI159.png|es/SI232.png|es/SI311.png|es/SI132.png|es/SI124.png",
+  "tcicon": "es/SI140.png|es/SI159.png|es/SI232.png|es/SI311.png|es/SI132.png|es/SI124.png"
 }

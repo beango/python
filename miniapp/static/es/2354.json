@@ -3,5 +3,6 @@
   "title": "黑白符石 ‧ 越攻越強 ‧ 首消暗傷害吸收",
   "effect": "所有符石變為黑白色。<br>敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃 2 次。<br>消除暗屬性的連擊 (Combo) 時 (只計算首批消除的符石)，敵人會回復相等於該回合召喚師所造成傷害的血量{{Cal|越攻越強|{{{atk|}}}}}",
   "content": "黑白符石,越攻越強,傷害吸收",
-  "icon": "es/SI215.png|es/SI188.png|es/SI015.png"
+  "icon": "es/SI215.png|es/SI188.png|es/SI015.png",
+  "tcicon": "es/SI215.png|es/SI188.png|es/SI015.png"
 }

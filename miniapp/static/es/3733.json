@@ -3,5 +3,6 @@
   "title": "強化盾-反擊100% ‧ 每回符石還原 ‧ 無視減傷",
   "effect": "敵人只會受到<br>強化符石的攻擊傷害；<br>若受到非強化符石的攻擊，<br>敵人反擊自身100% 攻擊傷害<br><br>每回合將場上的符石<br>⇒ 變回原始模樣<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "強化盾,符石還原,無視減傷",
-  "icon": "es/SI254.png|es/SI260.png|es/SI268.png|es/SI251.png"
+  "icon": "es/SI254.png|es/SI260.png|es/SI268.png|es/SI251.png",
+  "tcicon": "es/SI254.png|es/SI260.png|es/SI268.png|es/SI251.png"
 }

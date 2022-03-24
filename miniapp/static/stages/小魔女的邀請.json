@@ -25,7 +25,8 @@
           "coin": "474",
           "note": "{{特性*離開*1}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1533i.png"
         },
         {
           "card": "1526",
@@ -37,7 +38,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1526",
@@ -49,7 +51,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1526",
@@ -61,7 +64,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1051",
@@ -74,9 +78,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png",
+            "tcicon": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png",
             "title": "突擊30% ‧ 首回4顆-每回3顆風化3000 ‧ 無法控制 ‧ 7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1051i.png"
         },
         {
           "card": "581",
@@ -89,9 +95,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI067.png|es/SI122.png",
+            "tcicon": "es/SI123.png|es/SI067.png|es/SI122.png",
             "title": "附加消除 ‧ 3倍獵神-禁錮"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/581i.png"
         },
         {
           "card": "1411",
@@ -104,9 +112,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png|es/SI011.png",
+            "tcicon": "es/SI301.png|es/SI047.png|es/SI011.png",
             "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 首消水傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         },
         {
           "card": "1102",
@@ -120,9 +130,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI301.png|es/SI047.png|es/SI113.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI301.png|es/SI047.png|es/SI113.png",
             "title": "附加消除重置 ‧ 隨機轉水 ‧ 首消水追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1102i.png"
         },
         {
           "card": "1102",
@@ -137,9 +149,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI020.png|es/SI067.png|es/SI004.png|es/SI254.png|es/SI236.png",
+            "tcicon": "es/SI020.png|es/SI067.png|es/SI004.png|es/SI254.png|es/SI236.png",
             "title": "敵轉暗 ‧ 3倍獵神 ‧ 光外防禦90% ‧ 強化盾-非強化傷害吸收 ‧ 攻後電擊疊狂"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1102i.png"
         }
       ]
     }

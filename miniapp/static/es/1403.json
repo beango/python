@@ -3,5 +3,6 @@
   "title": "木光技能封鎖 ‧ 火電擊2顆 ‧ 首消火追擊零化",
   "effect": "首回合敵人會永久封鎖木及光屬性成員的主動技能。<br>每回合移動符石前，敵人會電擊 2 粒火符石；如有符石被電擊而未被消除時，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石。<br>消除火屬性的連擊 (Combo) 會令全隊攻擊無效，消除的火屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石",
   "content": "技能封鎖,電擊符石,連擊零化",
-  "icon": "es/SI122.png|es/SI302.png|es/SI236.png|es/SI114.png"
+  "icon": "es/SI122.png|es/SI302.png|es/SI236.png|es/SI114.png",
+  "tcicon": "es/SI122.png|es/SI302.png|es/SI236.png|es/SI114.png"
 }

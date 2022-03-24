@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "1592",
@@ -84,7 +89,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -96,7 +102,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -108,7 +115,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -120,7 +128,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -132,7 +141,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "107",
@@ -144,7 +154,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "109",
@@ -156,7 +167,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "111",
@@ -168,7 +180,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/111i.png"
         },
         {
           "card": "113",
@@ -180,7 +193,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/113i.png"
         },
         {
           "card": "115",
@@ -192,7 +206,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/115i.png"
         },
         {
           "card": "1595",
@@ -206,9 +221,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI041.png",
+            "tcicon": "es/SI041.png",
             "title": "(5回光禁消)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -222,9 +239,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI236.png",
+            "tcicon": "es/SI304.png|es/SI236.png",
             "title": "光電擊3顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         }
       ]
     },
@@ -250,7 +269,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -262,7 +282,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -274,7 +295,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -286,7 +308,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -298,7 +321,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "871",
@@ -312,9 +336,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png",
+            "tcicon": "es/SI257.png",
             "title": "5消以上攻擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "873",
@@ -328,9 +354,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "875",
@@ -344,9 +372,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "？形隱藏 ‧ 15%隱藏5顆符石"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         }
       ]
     },
@@ -374,7 +404,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -386,7 +417,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -398,7 +430,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -410,7 +443,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -422,7 +456,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "871",
@@ -437,9 +472,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png|es/SI188.png",
+            "tcicon": "es/SI301.png|es/SI047.png|es/SI188.png",
             "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 血弱追擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "874",
@@ -454,9 +491,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "風化-轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "873",
@@ -471,9 +510,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "隱藏-結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "875",
@@ -488,9 +529,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "872",
@@ -505,9 +548,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI114.png",
+            "tcicon": "es/SI114.png",
             "title": "首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         }
       ]
     }

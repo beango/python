@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "872",
@@ -88,9 +93,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "874",
@@ -105,9 +112,11 @@
           "note": "{{特性*離開*1}}",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "8顆風化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "872",
@@ -122,9 +131,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         }
       ]
     },
@@ -150,7 +161,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -162,7 +174,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -174,7 +187,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -186,7 +200,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -198,7 +213,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "461",
@@ -212,9 +228,11 @@
           "note": "復活 5 次後攻擊為{{特性*atk=2492}}|ws=10265",
           "esjson": {
             "img": "es/SI211.png",
+            "tcicon": "es/SI211.png",
             "title": "五次受攻盾50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/461i.png"
         }
       ]
     },
@@ -244,7 +262,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -256,7 +275,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -268,7 +288,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -280,7 +301,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -292,7 +314,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "871",
@@ -307,9 +330,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "874",
@@ -324,9 +349,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "872",
@@ -341,9 +368,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI216.png",
+            "tcicon": "es/SI216.png",
             "title": "垂死反擊2000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "875",
@@ -358,9 +387,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI306.png|es/SI228.png",
+            "tcicon": "es/SI306.png|es/SI228.png",
             "title": "心位置黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "1194",
@@ -376,9 +407,11 @@
           "note": "{{特性*離開*2}}",
           "esjson": {
             "img": "es/SI256.png|es/SI128.png",
+            "tcicon": "es/SI256.png|es/SI128.png",
             "title": "消心盾5% ‧ 扣血50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1194i.png"
         }
       ]
     }

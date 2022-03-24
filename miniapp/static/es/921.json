@@ -3,5 +3,6 @@
   "title": "中毒40% ‧ 首回攻後木心化血",
   "effect": "敵人會令全隊中毒，在每回合扣除召喚師 40% 生命力，直至敵人死亡<br>首回合及當受到敵人攻擊時，敵人會鎖定場上的心符石及木符石；如有鎖定的符石未被消除時，敵人回復相等於該回合召喚師所造成傷害的血量",
   "content": "中毒,化血符石",
-  "icon": "es/SI135.png|es/SI309.png|es/SI218.png"
+  "icon": "es/SI135.png|es/SI309.png|es/SI218.png",
+  "tcicon": "es/SI135.png|es/SI309.png|es/SI218.png"
 }

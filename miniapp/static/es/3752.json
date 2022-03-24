@@ -3,5 +3,6 @@
   "title": "4秒轉珠 ‧ 3顆追擊風化3000",
   "effect": "移動符石時間變為 4 秒。<br><br>每回合移動符石前，<br>隨機將 3 粒符石風化；<br>敵人攻擊次數<br>隨風化符石數量提升；<br>風化符石一經觸碰，<br>即時停止移動符石，<br>對召喚師造成 3,000 點傷害。",
   "content": "時間變更,風化",
-  "icon": "es/SI165.png|es/SI221.png"
+  "icon": "es/SI165.png|es/SI221.png",
+  "tcicon": "es/SI165.png|es/SI221.png"
 }

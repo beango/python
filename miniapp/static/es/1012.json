@@ -3,5 +3,6 @@
   "title": "狂擊10倍 ‧ 無視減傷",
   "effect": "敵人攻擊提升，並無視所有減傷效果和意志技能",
   "content": "傷害提升,無視減傷",
-  "icon": "es/SI157.png|es/SI251.png"
+  "icon": "es/SI157.png|es/SI251.png",
+  "tcicon": "es/SI157.png|es/SI251.png"
 }

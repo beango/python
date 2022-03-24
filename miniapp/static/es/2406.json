@@ -3,5 +3,6 @@
   "title": "[3回減攻99%] ‧ 越戰越強-金",
   "effect": "3 回合內，全隊攻擊力減至 1%。<br> 敵人生命力愈低時，攻擊力會大幅提升，達到一定血量時並會連撃 2 次{{Cal|越戰越強|金|{{{atk|}}}}}",
   "content": "攻擊力減弱,越戰越強(敵人技能)",
-  "icon": "es/SI158.png|es/SI188.png"
+  "icon": "es/SI158.png|es/SI188.png",
+  "tcicon": "es/SI158.png|es/SI188.png"
 }

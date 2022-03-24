@@ -26,7 +26,8 @@
           "coin": "8",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/097i.png"
         },
         {
           "card": "099",
@@ -38,7 +39,8 @@
           "coin": "8",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/099i.png"
         },
         {
           "card": "101",
@@ -50,7 +52,8 @@
           "coin": "8",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/101i.png"
         },
         {
           "card": "094",
@@ -64,9 +67,11 @@
           "note": "{{特性*離開*1}}",
           "esjson": {
             "img": "es/SI257.png",
+            "tcicon": "es/SI257.png",
             "title": "攻擊傷害無效"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/094i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "攻後(1回轉珠減2秒)",
   "effect": "當受到敵人攻擊後，1 回合內移動符石時間減少 2 秒",
   "content": "時間改變",
-  "icon": "es/SI165.png"
+  "icon": "es/SI165.png",
+  "tcicon": "es/SI165.png"
 }

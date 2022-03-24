@@ -3,5 +3,6 @@
   "title": "火外防禦75%",
   "effect": "火屬性以外的攻擊傷害減至 25%",
   "content": "屬性針對(攻擊力)",
-  "icon": "es/SI002.png"
+  "icon": "es/SI002.png",
+  "tcicon": "es/SI002.png"
 }

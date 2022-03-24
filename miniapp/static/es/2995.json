@@ -3,5 +3,6 @@
   "title": "光攻盾 ‧ 首消光暗Combo同等盾 ‧ 非全光-超級技能重置",
   "effect": "只有光屬性的攻擊才會對敵人造成傷害。<br>首批消除相同連擊 (Combo) 數目的光及暗符石，才能對敵人造成攻擊傷害。<br>隊伍中有光屬性以外成員時，將所有成員的主動技能 CD、EP 及累積戰鬥回合數重置",
   "content": "屬性防禦盾,同等盾,技能重置",
-  "icon": "es/SI004.png|es/SI112.png|es/SI121.png"
+  "icon": "es/SI004.png|es/SI112.png|es/SI121.png",
+  "tcicon": "es/SI004.png|es/SI112.png|es/SI121.png"
 }

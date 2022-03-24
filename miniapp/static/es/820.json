@@ -3,5 +3,6 @@
   "title": "(無限回消水減攻50%)",
   "effect": "首回合敵人會對召喚師施加永久的負面狀態：每回合消除水符石時，全隊攻擊力減少 50%",
   "content": "攻擊力減弱",
-  "icon": "es/SI336.png"
+  "icon": "es/SI336.png",
+  "tcicon": "es/SI336.png"
 }

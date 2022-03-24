@@ -32,7 +32,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/092i.png"
         },
         {
           "card": "094",
@@ -44,7 +45,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/094i.png"
         },
         {
           "card": "103",
@@ -56,7 +58,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/103i.png"
         },
         {
           "card": "527",
@@ -68,7 +71,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/527i.png"
         },
         {
           "card": "774",
@@ -80,7 +84,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/774i.png"
         },
         {
           "card": "775",
@@ -92,7 +97,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/775i.png"
         },
         {
           "card": "783",
@@ -103,7 +109,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/783i.png"
         },
         {
           "card": "036",
@@ -117,7 +124,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/036i.png"
         }
       ]
     },
@@ -143,7 +151,8 @@
           "chest": "2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/093i.png"
         },
         {
           "card": "095",
@@ -155,7 +164,8 @@
           "chest": "2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "103",
@@ -167,7 +177,8 @@
           "chest": "2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/103i.png"
         },
         {
           "card": "527",
@@ -179,7 +190,8 @@
           "chest": "2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/527i.png"
         },
         {
           "card": "774",
@@ -191,7 +203,8 @@
           "chest": "2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/774i.png"
         },
         {
           "card": "775",
@@ -203,7 +216,8 @@
           "chest": "2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/775i.png"
         },
         {
           "card": "783",
@@ -214,7 +228,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/783i.png"
         },
         {
           "card": "779",
@@ -228,7 +243,8 @@
           "chest": "2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/779i.png"
         }
       ]
     },
@@ -253,7 +269,8 @@
           "lv": "3",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/093i.png"
         },
         {
           "card": "095",
@@ -265,7 +282,8 @@
           "lv": "3",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "103",
@@ -277,7 +295,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/103i.png"
         },
         {
           "card": "528",
@@ -289,7 +308,8 @@
           "drop": "527",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/528i.png"
         },
         {
           "card": "774",
@@ -300,7 +320,8 @@
           "lv": "3",
           "note": "{{先攻}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/774i.png"
         },
         {
           "card": "775",
@@ -311,7 +332,8 @@
           "lv": "3",
           "note": "{{強化盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/775i.png"
         },
         {
           "card": "783",
@@ -322,7 +344,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/783i.png"
         },
         {
           "card": "514",
@@ -333,7 +356,8 @@
           "coin": "591",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/514i.png"
         },
         {
           "card": "780",
@@ -345,7 +369,8 @@
           "chest": "3000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/780i.png"
         },
         {
           "card": "762",
@@ -359,7 +384,8 @@
           "chest": "3000",
           "note": "{{扣血70%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/762i.png"
         }
       ]
     },

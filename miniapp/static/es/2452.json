@@ -3,5 +3,6 @@
   "title": "技能重置 ‧ 首回化血圍城",
   "effect": "首回合所有成員的主動技能 CD 及累積戰鬥回合數重置。<br>首回合鎖定場上所有符石；如有鎖定的符石未被消除時，敵人回復相等於該回合召喚師所造成傷害的血量",
   "content": "技能重置,化血符石",
-  "icon": "es/SI121.png|es/SI232.png"
+  "icon": "es/SI121.png|es/SI232.png",
+  "tcicon": "es/SI121.png|es/SI232.png"
 }

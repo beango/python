@@ -3,5 +3,6 @@
   "title": "累積30+火符石盾",
   "effect": "召喚師需累積消除 30 粒火符石，才會對敵人造成攻擊傷害",
   "content": "累積數量符石盾",
-  "icon": "es/SI032.png"
+  "icon": "es/SI032.png",
+  "tcicon": "es/SI032.png"
 }

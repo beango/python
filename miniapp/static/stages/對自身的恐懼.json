@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI094.png|es/SI188.png",
+            "tcicon": "es/SI094.png|es/SI188.png",
             "title": "首消4Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2328i.png"
         },
         {
           "card": "2328",
@@ -44,9 +46,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI095.png|es/SI188.png",
+            "tcicon": "es/SI095.png|es/SI188.png",
             "title": "首消5Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2328i.png"
         },
         {
           "card": "2328",
@@ -61,9 +65,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI096.png|es/SI188.png",
+            "tcicon": "es/SI096.png|es/SI188.png",
             "title": "首消6Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2328i.png"
         }
       ]
     },
@@ -90,7 +96,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2499i.png"
         }
       ]
     },
@@ -119,9 +126,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "攻後木縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         },
         {
           "card": "1413",
@@ -136,9 +145,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "攻後木橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         },
         {
           "card": "1641",
@@ -153,9 +164,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png|es/SI047.png|es/SI135.png",
+            "tcicon": "es/SI257.png|es/SI047.png|es/SI135.png",
             "title": "20%盾 ‧ 心轉自身 ‧ 中毒70%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1641i.png"
         },
         {
           "card": "2038",
@@ -170,9 +183,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png|es/SI244.png|es/SI058.png",
+            "tcicon": "es/SI228.png|es/SI244.png|es/SI058.png",
             "title": "三重黏附 ‧ 五屬盾 ‧ 弱轉珠技無效"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2038i.png"
         },
         {
           "card": "2498",
@@ -187,9 +202,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI303.png|es/SI221.png|es/SI115.png|es/SI124.png",
+            "tcicon": "es/SI159.png|es/SI303.png|es/SI221.png|es/SI115.png|es/SI124.png",
             "title": "CD1 ‧ 全木風化15000 ‧ 首消木追擊零化 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2498i.png"
         }
       ]
     },
@@ -218,9 +235,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI122.png|es/SI257.png",
+            "tcicon": "es/SI250.png|es/SI122.png|es/SI257.png",
             "title": "同屬防禦90% ‧ 魔族禁錮 ‧ 20%盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2499i.png"
         },
         {
           "card": "2499",
@@ -234,9 +253,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI041.png|es/SI168.png|es/SI124.png",
+            "tcicon": "es/SI304.png|es/SI041.png|es/SI168.png|es/SI124.png",
             "title": "光圍城 ‧ 禁消光 ‧ 光引爆狂擊減傷 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2499i.png"
         },
         {
           "card": "2499",
@@ -251,9 +272,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI014.png|es/SI132.png|es/SI124.png",
+            "tcicon": "es/SI159.png|es/SI014.png|es/SI132.png|es/SI124.png",
             "title": "CD3 ‧ 首消光傷害吸收 ‧ 扣血100% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2499i.png"
         }
       ]
     }

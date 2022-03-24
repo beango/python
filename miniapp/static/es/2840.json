@@ -3,5 +3,6 @@
   "title": "魔外禁錮 ‧ 軌跡隱藏 ‧ 越戰越強-金",
   "effect": "首回合永久封鎖魔族以外成員的主動技能及其攻擊。<br>持續將移動符石時所觸碰的符石轉化為隱藏符石。<br>敵人生命力愈低時，攻擊力會大幅提升，達到一定血量時並會連撃 2 次{{Cal|越戰越強|金|{{{atk|}}}}}",
   "content": "技能封鎖",
-  "icon": "es/SI122.png|es/SI224.png|es/SI188.png"
+  "icon": "es/SI122.png|es/SI224.png|es/SI188.png",
+  "tcicon": "es/SI122.png|es/SI224.png|es/SI188.png"
 }

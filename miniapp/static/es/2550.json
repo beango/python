@@ -3,5 +3,6 @@
   "title": "攻後火橫縱輪轉 ‧ 越戰越強-金 ‧ 無法控制",
   "effect": "當首次受到敵人攻擊時，隨機將 1 橫行的符石轉化為火符石；當第 2 次受到敵人攻擊時，隨機將 1 直行的符石轉化為火符石。以上攻擊循環周而復始。<br>敵人生命力愈低時，攻擊力會大幅提升，達到一定血量時並會連撃 2 次。<br>敵人無視所有控制技能{{Cal|越戰越強|金|{{{atk|}}}}}",
   "content": "符石轉換,越戰越強(敵人技能),無法控制",
-  "icon": "es/SI302.png|es/SI047.png|es/SI188.png|es/SI124.png"
+  "icon": "es/SI302.png|es/SI047.png|es/SI188.png|es/SI124.png",
+  "tcicon": "es/SI302.png|es/SI047.png|es/SI188.png|es/SI124.png"
 }

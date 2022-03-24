@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI127.png",
+            "tcicon": "es/SI127.png",
             "title": "扣血40%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "839",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI127.png",
+            "tcicon": "es/SI127.png",
             "title": "扣血40%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "839",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI127.png",
+            "tcicon": "es/SI127.png",
             "title": "扣血40%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "840",
@@ -70,9 +76,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "觸怒"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/840i.png"
         },
         {
           "card": "510",
@@ -86,9 +94,11 @@
           "note": "{{特性*離開*2}}",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "命懸一線"
           },
-          "jd": "R3特性场景特性：10070"
+          "jd": "R3特性场景特性：10070",
+          "cardtcimg": "zhs/510i.png"
         }
       ]
     },
@@ -114,7 +124,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "330",
@@ -127,7 +138,8 @@
           "drop": "099",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/330i.png"
         },
         {
           "card": "1532",
@@ -139,7 +151,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "837",
@@ -152,9 +165,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI246.png",
+            "tcicon": "es/SI246.png",
             "title": "強化三屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -167,9 +182,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI245.png",
+            "tcicon": "es/SI245.png",
             "title": "強化光暗盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "834",
@@ -183,9 +200,11 @@
           "note": "復活第三次時，攻擊力為{{特性*atk=9481}}",
           "esjson": {
             "img": "es/SI251.png|es/SI211.png",
+            "tcicon": "es/SI251.png|es/SI211.png",
             "title": "無視減傷 ‧ 三次受攻盾50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         }
       ]
     },
@@ -214,7 +233,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/329i.png"
         },
         {
           "card": "333",
@@ -227,7 +247,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/333i.png"
         },
         {
           "card": "1531",
@@ -239,7 +260,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "837",
@@ -253,9 +275,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "835",
@@ -269,9 +293,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "839",
@@ -285,9 +311,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI131.png",
+            "tcicon": "es/SI131.png",
             "title": "扣血90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "832",
@@ -301,9 +329,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI160.png|es/SI011.png",
+            "tcicon": "es/SI254.png|es/SI160.png|es/SI011.png",
             "title": "強化盾 ‧ 先攻-雙直行轉水 ‧ 攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/832i.png"
         }
       ]
     }

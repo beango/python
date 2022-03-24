@@ -3,5 +3,6 @@
   "title": "3倍獵人",
   "effect": "召喚師隊伍中有人類成員時，敵人攻擊力提升{{Cal|剋制|{{{atk|}}}}}",
   "content": "種族針對(攻擊力)",
-  "icon": "es/SI069.png"
+  "icon": "es/SI069.png",
+  "tcicon": "es/SI069.png"
 }

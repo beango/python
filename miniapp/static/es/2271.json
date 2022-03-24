@@ -3,5 +3,6 @@
   "title": "先攻-縱橫冰封 ‧ 無視減傷",
   "effect": "首回合敵人會優先攻擊 1 次，並隨機凍結 1 橫行及 1 直行的符石，被凍結的符石 3 回合內無法被消除。<br>敵人無視所有減傷效果和意志技能",
   "content": "先攻傷害,凍結符石,無視減傷",
-  "icon": "es/SI160.png|es/SI219.png|es/SI251.png"
+  "icon": "es/SI160.png|es/SI219.png|es/SI251.png",
+  "tcicon": "es/SI160.png|es/SI219.png|es/SI251.png"
 }

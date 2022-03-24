@@ -3,5 +3,6 @@
   "title": "CD2 ‧ 附加盾 ‧ 強化盾 ‧ 扣血100%",
   "effect": "敵人首次攻擊變為 CD 2。<br><br>敵人身上有附加效果時，才能對敵人造成攻擊傷害。<br><br>敵人只會受到強化符石的攻擊傷害。<br><br>敵人發動攻擊時會扣除召喚師 100% 生命力 (無視所有減傷效果和意志技能)",
   "content": "回合改變,附加盾,強化盾,固定傷害",
-  "icon": "es/SI159.png|es/SI250.png|es/SI254.png|es/SI132.png"
+  "icon": "es/SI159.png|es/SI250.png|es/SI254.png|es/SI132.png",
+  "tcicon": "es/SI159.png|es/SI250.png|es/SI254.png|es/SI132.png"
 }

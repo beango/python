@@ -3,5 +3,6 @@
   "title": "附加消除",
   "effect": "首回合敵人會消除召喚師所有附加效果",
   "content": "附加消除",
-  "icon": "es/SI123.png"
+  "icon": "es/SI123.png",
+  "tcicon": "es/SI123.png"
 }

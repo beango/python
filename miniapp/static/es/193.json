@@ -3,5 +3,6 @@
   "title": "反擊2000",
   "effect": "對每個發動攻擊的成員，造成 2000 點的傷害",
   "content": "反擊",
-  "icon": "es/SI216.png"
+  "icon": "es/SI216.png",
+  "tcicon": "es/SI216.png"
 }

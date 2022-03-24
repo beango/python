@@ -3,5 +3,6 @@
   "title": "先攻 ‧ 橫縱黏附 ‧ 首消4Combo盾25%",
   "effect": "首回合敵人會優先攻擊 1 次。<br>當首次受到敵人攻擊時，敵人會隨機黏附 1 橫行的位置；當第 2 次受到敵人攻擊時，敵人會隨機黏附 1 直行的位置。黏附位置的符石一經觸碰，即時停止移動符石。以上攻擊循環周而復始。<br>敵人不受任何攻擊傷害 (包括主動技)。<br>首批消除 4 連擊 (Combo)，可扣除敵人 25% 生命力",
   "content": "先攻,黏附,消Combo盾",
-  "icon": "es/SI160.png|es/SI228.png|es/SI094.png"
+  "icon": "es/SI160.png|es/SI228.png|es/SI094.png",
+  "tcicon": "es/SI160.png|es/SI228.png|es/SI094.png"
 }

@@ -3,5 +3,6 @@
   "title": "CD2 ‧ 首消7Combo盾 ‧ 軌跡燃燒5000",
   "effect": "7 連擊 (Combo) 才會對敵人造成攻擊傷害，連擊 (Combo) 只計算首批消除的符石。<br>敵人會燃燒移動符石時所觸碰的位置，每觸碰被燃燒的位置，對召喚師造成 5000 點的傷害。<br>敵人首次攻擊變為 CD 2",
   "content": "敵人回合變更,首消指定Combo盾,燃燒",
-  "icon": "es/SI159.png|es/SI087.png|es/SI229.png"
+  "icon": "es/SI159.png|es/SI087.png|es/SI229.png",
+  "tcicon": "es/SI159.png|es/SI087.png|es/SI229.png"
 }

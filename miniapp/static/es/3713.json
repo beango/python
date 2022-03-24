@@ -3,5 +3,6 @@
   "title": "[5回攻擊零化] ‧ 軌跡燃燒5000 ‧ 8+Combo追擊盾",
   "effect": "5 回合內，全隊攻擊力減至 0<br><br>燃燒移動符石時觸碰的位置，<br>每觸碰被燃燒的位置，<br>對召喚師造成 5000 點傷害。<br><br>8 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。",
   "content": "攻擊零化,燃燒,正負Combo盾",
-  "icon": "es/SI158.png|es/SI229.png|es/SI106.png"
+  "icon": "es/SI158.png|es/SI229.png|es/SI106.png",
+  "tcicon": "es/SI158.png|es/SI229.png|es/SI106.png"
 }

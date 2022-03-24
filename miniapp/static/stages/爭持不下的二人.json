@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png",
+            "tcicon": "es/SI183.png",
             "title": "始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1594",
@@ -41,9 +43,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI212.png",
+            "tcicon": "es/SI188.png|es/SI212.png",
             "title": "2倍士氣高昂-無限回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         }
       ]
     },
@@ -74,9 +78,11 @@
           "note": "{{特性*離開*7}}",
           "esjson": {
             "img": "es/SI160.png|es/SI257.png|es/SI229.png",
+            "tcicon": "es/SI160.png|es/SI257.png|es/SI229.png",
             "title": "突擊25% ‧ 25%盾 ‧ 攻後三重燃燒10%"
           },
-          "jd": "R3 特性场景特性：10200"
+          "jd": "R3 特性场景特性：10200",
+          "cardtcimg": "zhs/712i.png"
         }
       ]
     }

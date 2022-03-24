@@ -3,5 +3,6 @@
   "title": "暗外防禦90%",
   "effect": "暗屬性以外的攻擊傷害減至 10%",
   "content": "屬性針對(攻擊力)",
-  "icon": "es/SI005.png"
+  "icon": "es/SI005.png",
+  "tcicon": "es/SI005.png"
 }

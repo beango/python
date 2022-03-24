@@ -3,5 +3,6 @@
   "title": "突擊65% ‧ 左右暴風 ‧ 強化五屬追擊盾 ‧ 無法控制",
   "effect": "首回合優先突擊 1 次。<br><br>暴風席捲最左方及最右方<br>直行的位置，暴風位置內的<br>符石無法被消除或引爆，<br>該位置一經觸碰，<br>即時停止移動符石。<br><br>同時消除五屬強化符石，<br>才會對敵人造成攻擊傷害。<br>每欠消除 1 種符石，<br>敵人額外增加 1 連擊。<br><br>無視所有控制技能。",
   "content": "突擊,暴風,指定屬性盾,無法控制",
-  "icon": "es/SI160.png|es/SI282.png|es/SI248.png|es/SI124.png"
+  "icon": "es/SI160.png|es/SI282.png|es/SI248.png|es/SI124.png",
+  "tcicon": "es/SI160.png|es/SI282.png|es/SI248.png|es/SI124.png"
 }

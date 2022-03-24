@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI131.png",
+            "tcicon": "es/SI131.png",
             "title": "扣血90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1746i.png"
         },
         {
           "card": "1749",
@@ -41,9 +43,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "2顆風化15000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1749i.png"
         }
       ]
     },
@@ -71,9 +75,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1752i.png"
         }
       ]
     },
@@ -100,9 +106,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI225.png|es/SI131.png",
+            "tcicon": "es/SI225.png|es/SI131.png",
             "title": "縱橫射擊 ‧ 扣血90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         },
         {
           "card": "1368",
@@ -115,9 +123,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "雙重黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1368i.png"
         },
         {
           "card": "1368",
@@ -130,9 +140,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI303.png|es/SI047.png|es/SI115.png",
+            "tcicon": "es/SI165.png|es/SI303.png|es/SI047.png|es/SI115.png",
             "title": "2秒轉珠 ‧ 隨機轉木 ‧ 首消木追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1368i.png"
         },
         {
           "card": "1366",
@@ -146,9 +158,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI233.png|es/SI161.png|es/SI183.png",
+            "tcicon": "es/SI233.png|es/SI161.png|es/SI183.png",
             "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1366i.png"
         },
         {
           "card": "1370",
@@ -161,9 +175,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI235.png|es/SI181.png",
+            "tcicon": "es/SI235.png|es/SI181.png",
             "title": "強化初級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         },
         {
           "card": "1370",
@@ -177,9 +193,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI236.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI236.png|es/SI188.png",
             "title": "無法控制 ‧ 首回攻後暗電擊2顆 ‧ 血弱50%-狂蠻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         }
       ]
     }

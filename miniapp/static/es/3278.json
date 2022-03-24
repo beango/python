@@ -3,5 +3,6 @@
   "title": "3回全員禁錮 ‧ 迷惑符石",
   "effect": "3 回合內，封鎖所有成員的主動技能及其攻擊。<br>無法看透符石的本質",
   "content": "禁錮,迷惑符石",
-  "icon": "es/SI122.png|es/SI227.png"
+  "icon": "es/SI122.png|es/SI227.png",
+  "tcicon": "es/SI122.png|es/SI227.png"
 }

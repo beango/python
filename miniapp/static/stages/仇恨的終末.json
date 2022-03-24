@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "魔族技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/712i.png"
         },
         {
           "card": "711",
@@ -42,9 +44,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI105.png",
+            "tcicon": "es/SI105.png",
             "title": "7+Combo追擊盾"
           },
-          "jd": "R2 特性场景特性：10115"
+          "jd": "R2 特性场景特性：10115",
+          "cardtcimg": "zhs/711i.png"
         },
         {
           "card": "711",
@@ -58,9 +62,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png|es/SI301.png|es/SI047.png|es/SI113.png",
+            "tcicon": "es/SI251.png|es/SI301.png|es/SI047.png|es/SI113.png",
             "title": "無視減傷 ‧ 隨機轉水 ‧ 首消水追擊零化"
           },
-          "jd": "R2 特性场景特性：10115"
+          "jd": "R2 特性场景特性：10115",
+          "cardtcimg": "zhs/711i.png"
         }
       ]
     }

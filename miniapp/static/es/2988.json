@@ -3,5 +3,6 @@
   "title": "先攻-三重黏附 ‧ 攻後縱橫轉光 ‧ 首消光傷害吸收-反擊50%",
   "effect": "首回合優先攻擊 1 次，受此攻擊後隨機黏附 3 個位置，該位置的符石一經觸碰，即時停止移動符石。其後每次受到敵人攻擊時，隨機將 1 橫行及 1 直行的符石轉化為光符石。<br>首批消除光屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 50% 攻擊傷害",
   "content": "突擊,黏附,符石轉換,傷害吸收",
-  "icon": "es/SI160.png|es/SI228.png|es/SI304.png|es/SI047.png|es/SI014.png|es/SI260.png"
+  "icon": "es/SI160.png|es/SI228.png|es/SI304.png|es/SI047.png|es/SI014.png|es/SI260.png",
+  "tcicon": "es/SI160.png|es/SI228.png|es/SI304.png|es/SI047.png|es/SI014.png|es/SI260.png"
 }

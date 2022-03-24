@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 首回隱藏圍城 ‧ 神外超級技能重置 ‧ 扣血100%",
   "effect": "敵人首次攻擊變為 <font color=yellow>CD 1</font>。<br><br>首回合敵人會將所有符石<br>⇒ 轉化為<font color=yellow>隱藏符石</font>。<br><br><font color=yellow>重置神族以外</font>成員的主動<font color=yellow>技能 CD、EP</font> 及累積戰鬥回合數。<br><br>敵人發動攻擊時會扣除召喚師<font color=yellow> 100% </font>生命力 (無視所有減傷效果和意志技能)",
   "content": "回合變更,隱藏,技能重置,固定傷害",
-  "icon": "es/SI159.png|es/SI224.png|es/SI121.png|es/SI132.png"
+  "icon": "es/SI159.png|es/SI224.png|es/SI121.png|es/SI132.png",
+  "tcicon": "es/SI159.png|es/SI224.png|es/SI121.png|es/SI132.png"
 }

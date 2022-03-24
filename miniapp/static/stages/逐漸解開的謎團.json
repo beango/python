@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "871",
@@ -86,9 +91,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI219.png",
+            "tcicon": "es/SI160.png|es/SI219.png",
             "title": "突擊65% ‧ 攻後雙重冰封"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "874",
@@ -103,9 +110,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI212.png",
+            "tcicon": "es/SI188.png|es/SI212.png",
             "title": "2倍士氣高昂-無限回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "872",
@@ -119,9 +128,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI251.png",
+            "tcicon": "es/SI124.png|es/SI251.png",
             "title": "無法控制-無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         }
       ]
     },
@@ -147,7 +158,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -159,7 +171,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -171,7 +184,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -183,7 +197,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -195,7 +210,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "872",
@@ -209,9 +225,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉直火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "872",
@@ -225,9 +243,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png",
+            "tcicon": "es/SI121.png",
             "title": "技能重置"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "872",
@@ -241,9 +261,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉直火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         }
       ]
     },
@@ -273,9 +295,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "命懸一線 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/714i.png"
         },
         {
           "card": "871",
@@ -287,7 +311,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -299,7 +324,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -311,7 +337,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -323,7 +350,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -335,7 +363,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "1195",
@@ -348,9 +377,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI305.png|es/SI047.png|es/SI215.png",
+            "tcicon": "es/SI305.png|es/SI047.png|es/SI215.png",
             "title": "首回隨機轉暗 ‧ 攻後暗橫縱輪轉 ‧ 黑白符石"
           },
-          "jd": "R6 特性场景特性：10205"
+          "jd": "R6 特性场景特性：10205",
+          "cardtcimg": "zhs/1195i.png"
         },
         {
           "card": "1195",
@@ -364,9 +395,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI248.png",
+            "tcicon": "es/SI248.png",
             "title": "強化五屬盾"
           },
-          "jd": "R6 特性场景特性：10205"
+          "jd": "R6 特性场景特性：10205",
+          "cardtcimg": "zhs/1195i.png"
         }
       ]
     }

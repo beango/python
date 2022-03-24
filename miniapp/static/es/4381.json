@@ -3,5 +3,6 @@
   "title": "火攻盾 ‧ 3顆轉木風化9000 ‧ 首消木傷害化血-受傷反饋100%",
   "effect": "<font color=#FFFF3C>【非火攻擊零化 ‧ 風化符石 - 符石轉木 ‧ 首消木葉化血 - 反饋】</font><br><br>只有火屬性的攻擊<br>才會對敵人造成傷害。<br><br>每回合移動符石前，<br>隨機將 3 粒符石風化<br>及轉化為木符石；<br>風化符石一經觸碰，<br>即時停止移動符石，<br>對召喚師造成 15,000 點傷害<br><br>首批消除木屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 200% 攻擊傷害。",
   "content": "屬性防禦盾,風化,消珠傷害化血",
-  "icon": "es/SI002.png|es/SI303.png|es/SI047.png|es/SI221.png|es/SI145.png"
+  "icon": "es/SI002.png|es/SI303.png|es/SI047.png|es/SI221.png|es/SI145.png",
+  "tcicon": "es/SI002.png|es/SI303.png|es/SI047.png|es/SI221.png|es/SI145.png"
 }

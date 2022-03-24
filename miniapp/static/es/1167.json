@@ -3,5 +3,6 @@
   "title": "龍脈重置 ‧ 附加消除 ‧ 技能重置",
   "effect": "首回合敵人會清空龍脈儀的能量，並消除召喚師所有附加效果，所有成員的技能 CD 將被重置",
   "content": "龍脈重置,附加消除,技能重置",
-  "icon": "es/SI140.png|es/SI123.png|es/SI121.png"
+  "icon": "es/SI140.png|es/SI123.png|es/SI121.png",
+  "tcicon": "es/SI140.png|es/SI123.png|es/SI121.png"
 }

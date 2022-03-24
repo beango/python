@@ -33,7 +33,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "079",
@@ -46,7 +47,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "089",
@@ -59,7 +61,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/089i.png"
         },
         {
           "card": "1148",
@@ -72,7 +75,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1148i.png"
         },
         {
           "card": "1502",
@@ -85,7 +89,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1502i.png"
         },
         {
           "card": "1412",
@@ -99,7 +104,8 @@
           "chest": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1412i.png"
         }
       ]
     },
@@ -126,7 +132,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "079",
@@ -139,7 +146,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "089",
@@ -152,7 +160,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/089i.png"
         },
         {
           "card": "1148",
@@ -165,7 +174,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1148i.png"
         },
         {
           "card": "1502",
@@ -178,7 +188,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1502i.png"
         },
         {
           "card": "582",
@@ -191,7 +202,8 @@
           "item": "113",
           "note": "{{突擊 ‧ 燃燒10%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/582i.png"
         }
       ]
     },
@@ -218,7 +230,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "079",
@@ -231,7 +244,8 @@
           "lv": "5",
           "note": "{{強化盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "089",
@@ -244,7 +258,8 @@
           "lv": "5",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/089i.png"
         },
         {
           "card": "1148",
@@ -257,7 +272,8 @@
           "lv": "5",
           "note": "{{攻後轉火4}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1148i.png"
         },
         {
           "card": "1502",
@@ -270,7 +286,8 @@
           "lv": "5",
           "note": "{{攻後燃燒10%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1502i.png"
         },
         {
           "card": "1051",
@@ -284,7 +301,8 @@
           "chest": "",
           "note": "{{首消水Combo傷害吸收}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1051i.png"
         },
         {
           "card": "1052",
@@ -298,7 +316,8 @@
           "chest": "",
           "note": "{{黑白符石 ‧ 扣血100%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1052i.png"
         },
         {
           "card": "1507",
@@ -312,7 +331,8 @@
           "chest": "",
           "note": "{{突擊20% ‧ (5回軌跡燃燒500)}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1507i.png"
         }
       ]
     },

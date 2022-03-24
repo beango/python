@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/966i.png"
         },
         {
           "card": "968",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/968i.png"
         },
         {
           "card": "970",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/970i.png"
         },
         {
           "card": "972",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/972i.png"
         },
         {
           "card": "974",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/974i.png"
         },
         {
           "card": "507",
@@ -87,9 +92,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI337.png|es/SI188.png",
+            "tcicon": "es/SI337.png|es/SI188.png",
             "title": "火弱化鎖定20% ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/507i.png"
         }
       ]
     },
@@ -114,7 +121,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/488i.png"
         },
         {
           "card": "490",
@@ -125,7 +133,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1010",
@@ -137,7 +146,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1014",
@@ -149,7 +159,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1528",
@@ -161,7 +172,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1530",
@@ -173,7 +185,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1120",
@@ -188,9 +201,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI042.png",
+            "tcicon": "es/SI042.png",
             "title": "(5回暗禁消)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1120i.png"
         },
         {
           "card": "1116",
@@ -203,9 +218,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "六重軌跡黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1116i.png"
         }
       ]
     },
@@ -232,7 +249,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/488i.png"
         },
         {
           "card": "489",
@@ -243,7 +261,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "490",
@@ -254,7 +273,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1010",
@@ -266,7 +286,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -278,7 +299,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -290,7 +312,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1123",
@@ -304,9 +327,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI237.png",
+            "tcicon": "es/SI237.png",
             "title": "2顆雙層石化500倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1123i.png"
         },
         {
           "card": "1108",
@@ -319,9 +344,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI304.png|es/SI047.png|es/SI339.png|es/SI043.png",
+            "tcicon": "es/SI160.png|es/SI304.png|es/SI047.png|es/SI339.png|es/SI043.png",
             "title": "先攻-心轉光弱化鎖定20% ‧ 心禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1108i.png"
         },
         {
           "card": "1108",
@@ -335,9 +362,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI131.png",
+            "tcicon": "es/SI256.png|es/SI131.png",
             "title": "消心盾5% ‧ 扣血90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1108i.png"
         }
       ]
     }

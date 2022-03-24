@@ -23,7 +23,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/099i.png"
         },
         {
           "card": "109",
@@ -34,7 +35,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "1527",
@@ -46,7 +48,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1125",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI188.png|es/SI124.png",
             "title": "(3回減攻90%) ‧ 越攻越強 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1125i.png"
         }
       ]
     },
@@ -90,7 +95,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/097i.png"
         },
         {
           "card": "099",
@@ -101,7 +107,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/099i.png"
         },
         {
           "card": "107",
@@ -112,7 +119,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "109",
@@ -123,7 +131,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "744",
@@ -136,9 +145,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "循環累積50+同屬符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/744i.png"
         },
         {
           "card": "672",
@@ -152,9 +163,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI158.png",
+            "tcicon": "es/SI158.png",
             "title": "剋水"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/672i.png"
         }
       ]
     },
@@ -179,7 +192,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/103i.png"
         },
         {
           "card": "113",
@@ -190,7 +204,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/113i.png"
         },
         {
           "card": "1529",
@@ -202,7 +217,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1534",
@@ -216,9 +232,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI304.png|es/SI047.png|es/SI116.png",
+            "tcicon": "es/SI254.png|es/SI304.png|es/SI047.png|es/SI116.png",
             "title": "強化盾 ‧ 隨機轉光 ‧ 首消光追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1534i.png"
         }
       ]
     },
@@ -245,7 +263,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "487",
@@ -256,7 +275,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/487i.png"
         },
         {
           "card": "1527",
@@ -268,7 +288,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1104",
@@ -281,9 +302,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "✕形燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1104i.png"
         },
         {
           "card": "1104",
@@ -297,9 +320,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI337.png|es/SI188.png",
+            "tcicon": "es/SI337.png|es/SI188.png",
             "title": "火弱化鎖定20% ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1104i.png"
         }
       ]
     }

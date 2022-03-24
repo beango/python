@@ -3,5 +3,6 @@
   "title": "攻後(1回減攻50%)",
   "effect": "當受到敵人攻擊後，1 回合內召喚師的攻擊力減少 50%",
   "content": "攻擊力減弱",
-  "icon": "es/SI158.png"
+  "icon": "es/SI158.png",
+  "tcicon": "es/SI158.png"
 }

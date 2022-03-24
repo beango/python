@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1008",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1010",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1411",
@@ -85,9 +90,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI161.png",
+            "tcicon": "es/SI160.png|es/SI161.png",
             "title": "先攻 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         },
         {
           "card": "1415",
@@ -101,9 +108,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI117.png|es/SI305.png|es/SI236.png",
+            "tcicon": "es/SI117.png|es/SI305.png|es/SI236.png",
             "title": "首消暗追擊零化 ‧ 暗電擊2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         }
       ]
     },
@@ -130,9 +139,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI103.png",
+            "tcicon": "es/SI103.png",
             "title": "5+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -145,9 +156,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI103.png",
+            "tcicon": "es/SI103.png",
             "title": "5+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -160,9 +173,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI103.png",
+            "tcicon": "es/SI103.png",
             "title": "5+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "509",
@@ -176,9 +191,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "自殘20%"
           },
-          "jd": "R2 特性场景特性：10119"
+          "jd": "R2 特性场景特性：10119",
+          "cardtcimg": "zhs/509i.png"
         }
       ]
     },
@@ -205,7 +222,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "083",
@@ -216,7 +234,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/083i.png"
         },
         {
           "card": "1527",
@@ -228,7 +247,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1529",
@@ -240,7 +260,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1532",
@@ -252,7 +273,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "1534",
@@ -264,7 +286,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1534i.png"
         },
         {
           "card": "454",
@@ -277,9 +300,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "8顆風化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/454i.png"
         },
         {
           "card": "452",
@@ -293,9 +318,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI188.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI188.png",
             "title": "附加消除重置 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/452i.png"
         }
       ]
     }

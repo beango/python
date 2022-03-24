@@ -25,9 +25,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI257.png",
+            "tcicon": "es/SI257.png",
             "title": "攻擊傷害無效"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/672i.png"
         },
         {
           "card": "713",
@@ -41,9 +43,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "自殘50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/713i.png"
         }
       ]
     }

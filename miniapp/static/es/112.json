@@ -3,5 +3,6 @@
   "title": "復活變強",
   "effect": "敵人死亡後會復活 1 次，並提升 2 倍攻擊力，生命力及防禦力",
   "content": "復活",
-  "icon": "es/SI216.png"
+  "icon": "es/SI216.png",
+  "tcicon": "es/SI216.png"
 }

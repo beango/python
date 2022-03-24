@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "自殘50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1752i.png"
         },
         {
           "card": "1812",
@@ -41,9 +43,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1812i.png"
         }
       ]
     },
@@ -70,7 +74,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/646i.png"
         },
         {
           "card": "647",
@@ -81,7 +86,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/647i.png"
         },
         {
           "card": "648",
@@ -92,7 +98,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/648i.png"
         },
         {
           "card": "649",
@@ -103,7 +110,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/649i.png"
         },
         {
           "card": "650",
@@ -114,7 +122,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "1752",
@@ -127,9 +136,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI161.png",
+            "tcicon": "es/SI160.png|es/SI161.png",
             "title": "先攻 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1752i.png"
         },
         {
           "card": "1747",
@@ -142,9 +153,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-1"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1747i.png"
         },
         {
           "card": "1747",
@@ -157,9 +170,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-6"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1747i.png"
         },
         {
           "card": "1697",
@@ -173,9 +188,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI216.png",
+            "tcicon": "es/SI216.png",
             "title": "垂死反擊5000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1697i.png"
         },
         {
           "card": "1347",
@@ -188,9 +205,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png",
+            "tcicon": "es/SI160.png|es/SI229.png",
             "title": "突擊65% ‧ 攻後四重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1347i.png"
         },
         {
           "card": "1347",
@@ -204,9 +223,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI105.png|es/SI031.png",
+            "tcicon": "es/SI165.png|es/SI105.png|es/SI031.png",
             "title": "2秒轉珠 ‧ 7+Combo追擊盾 ‧ 首消全水盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1347i.png"
         }
       ]
     }

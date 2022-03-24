@@ -25,7 +25,8 @@
           "item": "163",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2499i.png"
         }
       ]
     },
@@ -52,7 +53,8 @@
           "item": "163",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2027i.png"
         }
       ]
     },
@@ -81,9 +83,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI224.png",
+            "tcicon": "es/SI121.png|es/SI224.png",
             "title": "技能重置 ‧ 六重軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "550",
@@ -98,9 +102,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI095.png|es/SI188.png",
+            "tcicon": "es/SI095.png|es/SI188.png",
             "title": "首消5Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "560",
@@ -115,9 +121,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI015.png|es/SI260.png|es/SI183.png",
+            "tcicon": "es/SI122.png|es/SI015.png|es/SI260.png|es/SI183.png",
             "title": "2回技能封鎖 ‧ 首消暗傷害吸收-反擊100% ‧ 暗起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/560i.png"
         },
         {
           "card": "1055",
@@ -132,9 +140,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png|es/SI188.png",
+            "tcicon": "es/SI217.png|es/SI188.png",
             "title": "溢補盾 ‧ 心引爆狂擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1055i.png"
         },
         {
           "card": "7010",
@@ -148,9 +158,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI227.png|es/SI015.png|es/SI135.png",
+            "tcicon": "es/SI227.png|es/SI015.png|es/SI135.png",
             "title": "迷惑符石 ‧ 首消暗傷害吸收 ‧ 中毒80%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/7010i.png"
         },
         {
           "card": "7010",
@@ -165,9 +177,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI047.png|es/WI003.png|es/SI043.png",
+            "tcicon": "es/SI047.png|es/WI003.png|es/SI043.png",
             "title": "心轉自身 ‧ 四重霧化 ‧ 心禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/7010i.png"
         }
       ]
     },
@@ -196,9 +210,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後轉直暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1014",
@@ -213,9 +229,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後轉直暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1014",
@@ -230,9 +248,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後轉直暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1015",
@@ -247,9 +267,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI034.png",
+            "tcicon": "es/SI163.png|es/SI034.png",
             "title": "能力繼承 ‧ 首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "1015",
@@ -264,9 +286,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI036.png",
+            "tcicon": "es/SI163.png|es/SI036.png",
             "title": "能力繼承 ‧ 首消全心盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "1415",
@@ -281,9 +305,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI020.png|es/SI305.png|es/SI047.png|es/SI117.png|es/SI124.png",
+            "tcicon": "es/SI020.png|es/SI305.png|es/SI047.png|es/SI117.png|es/SI124.png",
             "title": "敵轉暗-首回隨機轉暗 ‧ 首消暗追擊零化 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         }
       ]
     },
@@ -311,9 +337,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI003.png|es/SI301.png|es/SI047.png|es/SI270.png|es/SI113.png",
+            "tcicon": "es/SI003.png|es/SI301.png|es/SI047.png|es/SI270.png|es/SI113.png",
             "title": "木攻盾 ‧ 六重水幻變 ‧ 幻變轉水 ‧ 首消水追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/721i.png"
         },
         {
           "card": "1184",
@@ -327,9 +355,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI225.png|es/SI005.png|es/SI096.png|es/SI116.png",
+            "tcicon": "es/SI225.png|es/SI005.png|es/SI096.png|es/SI116.png",
             "title": "左右化零射擊 ‧ 暗攻盾 ‧ 首消6Combo盾 ‧ 首消光追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1184i.png"
         },
         {
           "card": "739",
@@ -343,9 +373,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI282.png|es/SI004.png|es/SI156.png",
+            "tcicon": "es/SI282.png|es/SI004.png|es/SI156.png",
             "title": "左右暴風席捲 ‧ 光攻盾 ‧ 回復力變0"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/739i.png"
         },
         {
           "card": "739",
@@ -359,9 +391,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI004.png|es/SI165.png|es/SI248.png",
+            "tcicon": "es/SI159.png|es/SI004.png|es/SI165.png|es/SI248.png",
             "title": "CD1 ‧ 光攻盾 ‧ 2秒轉珠 ‧ 強化五屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/739i.png"
         },
         {
           "card": "2137",
@@ -375,9 +409,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI001.png|es/SI242.png|es/SI251.png",
+            "tcicon": "es/SI159.png|es/SI001.png|es/SI242.png|es/SI251.png",
             "title": "CD1 ‧ 水攻盾 ‧ 三屬盾-限 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2137i.png"
         },
         {
           "card": "2498",
@@ -391,9 +427,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI002.png|es/SI336.png|es/SI341.png|es/SI139.png",
+            "tcicon": "es/SI002.png|es/SI336.png|es/SI341.png|es/SI139.png",
             "title": "火攻盾 ‧ 水心弱化鎖定20% ‧ 越扣越強25%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2498i.png"
         },
         {
           "card": "2498",
@@ -407,9 +445,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI002.png|es/SI211.png|es/SI251.png",
+            "tcicon": "es/SI159.png|es/SI002.png|es/SI211.png|es/SI251.png",
             "title": "CD1 ‧ 火攻盾 ‧ 五次受攻盾50% ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2498i.png"
         }
       ]
     }

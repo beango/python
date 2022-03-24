@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 首回全水電擊 ‧ 弱轉珠技無效 ‧ 無法控制",
   "effect": "敵人首次攻擊變為 CD 1。<br><br>首回合電擊所有水符石，<br>如有電擊符石未被消除，<br>無法對敵人造成攻擊傷害；<br>被電擊的符石一經觸碰，<br>即時停止移動符石。<br><br>所有轉化符石技能效果無效<br>(轉化種族符石而不改變<br>符石種類的技能除外)。<br><br>無視所有控制技能。",
   "content": "攻速變更,電擊,技能無效,無法控制",
-  "icon": "es/SI159.png|es/SI301.png|es/SI236.png|es/SI058.png|es/SI124.png"
+  "icon": "es/SI159.png|es/SI301.png|es/SI236.png|es/SI058.png|es/SI124.png",
+  "tcicon": "es/SI159.png|es/SI301.png|es/SI236.png|es/SI058.png|es/SI124.png"
 }

@@ -25,7 +25,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1566i.png"
         },
         {
           "card": "1567",
@@ -36,7 +37,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1567i.png"
         },
         {
           "card": "1568",
@@ -47,7 +49,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1568i.png"
         },
         {
           "card": "1569",
@@ -58,7 +61,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1569i.png"
         },
         {
           "card": "1570",
@@ -69,7 +73,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1570i.png"
         },
         {
           "card": "1568",
@@ -81,7 +86,8 @@
           "chest": "8000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1568i.png"
         },
         {
           "card": "1569",
@@ -93,7 +99,8 @@
           "chest": "8000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1569i.png"
         }
       ]
     }

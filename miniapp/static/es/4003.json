@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 暗禁消 ‧ 弱轉珠技無效 ‧ 無視減傷",
   "effect": "敵人首次攻擊變為 CD 1。<br><br>暗符石無法被消除。<br><br>所有轉化符石技能效果無效<br>(轉化種族符石而不改變<br>符石種類的技能除外)。<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "攻速變更,符石禁消,技能無效,無視減傷",
-  "icon": "es/SI159.png|es/SI042.png|es/SI058.png|es/SI251.png"
+  "icon": "es/SI159.png|es/SI042.png|es/SI058.png|es/SI251.png",
+  "tcicon": "es/SI159.png|es/SI042.png|es/SI058.png|es/SI251.png"
 }

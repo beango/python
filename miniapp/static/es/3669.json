@@ -3,5 +3,6 @@
   "title": "攻前盾 ‧ 四重木幻變-轉木 ‧ 首消木傷害吸收-反彈200%",
   "effect": "敵人無視任何攻擊傷害，<br>直至敵人第 1 次攻擊。<br><br>將 4 個位置轉化為木屬幻變空間，經過幻變空間的起手符石會轉化為木符石。<br><br>其後每回合將幻變空間內的<br>符石轉化為木符石。<br><br>首批消除木屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 200% 攻擊傷害。",
   "content": "攻前盾,幻變,傷害吸收",
-  "icon": "es/SI250.png|es/SI303.png|es/SI270.png|es/SI145.png"
+  "icon": "es/SI250.png|es/SI303.png|es/SI270.png|es/SI145.png",
+  "tcicon": "es/SI250.png|es/SI303.png|es/SI270.png|es/SI145.png"
 }

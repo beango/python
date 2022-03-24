@@ -3,5 +3,6 @@
   "title": "命懸一線",
   "effect": "首回合敵人會令召喚師生命力剩 1 點",
   "content": "命懸一線",
-  "icon": "es/SI161.png"
+  "icon": "es/SI161.png",
+  "tcicon": "es/SI161.png"
 }

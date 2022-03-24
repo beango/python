@@ -3,5 +3,6 @@
   "title": "附加消除重置 ‧ 未消命懸一線-(5回心禁消)",
   "effect": "首回合敵人會消除召喚師所有附加效果，其技能 CD 將被重置；若召喚師隊伍中沒有附加效果被消除，首回合敵人會讓召喚師生命力剩 1 點，且 5 回合內心符石無法被消除",
   "content": "附加消除重置,命懸一線,符石禁消",
-  "icon": "es/SI121.png|es/SI123.png|es/SI161.png|es/SI043.png"
+  "icon": "es/SI121.png|es/SI123.png|es/SI161.png|es/SI043.png",
+  "tcicon": "es/SI121.png|es/SI123.png|es/SI161.png|es/SI043.png"
 }

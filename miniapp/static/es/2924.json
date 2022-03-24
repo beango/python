@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 技能封鎖1回 ‧ 光引爆狂擊-龍脈吸收減傷 ‧ 無視減傷",
   "effect": "攻擊頻率變為 CD 1。<br>首回合封鎖所有成員的主動技能 1 回合。<br>首回合引爆所有光符石，以永久提升攻擊力；並吸取龍脈儀的能量，以永久減少所受傷害。<br>敵人無視所有減傷效果和意志技能",
   "content": "回合改變,技能封鎖,點燃符石,龍脈吸收,無視減傷",
-  "icon": "es/SI159.png|es/SI122.png|es/SI168.png|es/SI140.png|es/SI251.png"
+  "icon": "es/SI159.png|es/SI122.png|es/SI168.png|es/SI140.png|es/SI251.png",
+  "tcicon": "es/SI159.png|es/SI122.png|es/SI168.png|es/SI140.png|es/SI251.png"
 }

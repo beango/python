@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/510i.png"
         },
         {
           "card": "067",
@@ -39,7 +41,8 @@
           "coin": "291",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/067i.png"
         },
         {
           "card": "329",
@@ -52,7 +55,8 @@
           "coin": "277",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/329i.png"
         },
         {
           "card": "1526",
@@ -64,7 +68,8 @@
           "coin": "566",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "387",
@@ -78,9 +83,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI228.png|es/SI131.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI228.png|es/SI131.png",
             "title": "附加消除重置 ‧ 四角黏附 ‧ 扣血90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/387i.png"
         }
       ]
     },
@@ -108,7 +115,8 @@
           "coin": "283",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/077i.png"
         },
         {
           "card": "1526",
@@ -120,7 +128,8 @@
           "coin": "566",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1531",
@@ -132,7 +141,8 @@
           "coin": "474",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "1526",
@@ -145,9 +155,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI129.png",
+            "tcicon": "es/SI129.png",
             "title": "扣血70%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "066",
@@ -158,7 +170,8 @@
           "coin": "280",
           "note": "{{特性*離開*9}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/066i.png"
         },
         {
           "card": "1526",
@@ -171,9 +184,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI129.png",
+            "tcicon": "es/SI129.png",
             "title": "扣血70%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "339",
@@ -187,9 +202,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png",
+            "tcicon": "es/SI219.png",
             "title": "四重凍結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/339i.png"
         }
       ]
     },
@@ -217,7 +234,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "1530",
@@ -229,7 +247,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "490",
@@ -240,7 +259,8 @@
           "coin": "209",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "490",
@@ -253,9 +273,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI164.png|es/SI165.png",
+            "tcicon": "es/SI164.png|es/SI165.png",
             "title": "召喚小怪 ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "490",
@@ -266,7 +288,8 @@
           "coin": "209",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "585",
@@ -279,9 +302,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI254.png",
+            "tcicon": "es/SI188.png|es/SI254.png",
             "title": "越攻越強 ‧ 強化盾-非強化傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         },
         {
           "card": "1110",
@@ -295,9 +320,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI345.png|es/SI122.png",
+            "tcicon": "es/SI345.png|es/SI122.png",
             "title": "剋獸-防禦80%-獸側技能封鎖"
           },
-          "jd": "R5特性场景特性：10098"
+          "jd": "R5特性场景特性：10098",
+          "cardtcimg": "zhs/1110i.png"
         }
       ]
     }

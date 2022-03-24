@@ -3,5 +3,6 @@
   "title": "首消光傷害吸收-反擊200% ‧ 2秒轉珠 ‧ 四角轉光",
   "effect": "首批消除<font color=yellow>光屬性</font>的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身<font color=yellow> 200%</font> 攻擊傷害。<br><br>移動符石時間會縮短至 <font color=yellow>2 秒</font>。<br><br>每回合將 4 個角落的符石轉化為光符石",
   "content": "傷害吸收,時間改變,符石轉換",
-  "icon": "es/SI146.png|es/SI165.png|es/SI047.png"
+  "icon": "es/SI146.png|es/SI165.png|es/SI047.png",
+  "tcicon": "es/SI146.png|es/SI165.png|es/SI047.png"
 }

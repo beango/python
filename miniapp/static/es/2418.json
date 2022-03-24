@@ -3,5 +3,6 @@
   "title": "突擊25% ‧ 三重風化-先 ‧ 強化盾",
   "effect": "首回合優先突擊 1 次。<br>每回合移動符石前，隨機將 3 粒符石風化，風化符石一經觸碰，即時停止移動符石。<br>敵人只會受到強化符石的攻擊傷害",
   "content": "突擊傷害,風化符石,強化盾",
-  "icon": "es/SI160.png|es/SI221.png|es/SI254.png"
+  "icon": "es/SI160.png|es/SI221.png|es/SI254.png",
+  "tcicon": "es/SI160.png|es/SI221.png|es/SI254.png"
 }

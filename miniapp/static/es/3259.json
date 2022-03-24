@@ -3,5 +3,6 @@
   "title": "首消7Combo盾 ‧ 越攻越強 ‧ 無視減傷",
   "effect": "首批消除 7 連擊 (Combo) 才會對敵人造成攻擊傷害。<br>敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃 2 次。<br>無視所有減傷效果和意志技能{{Cal|越攻越強|{{{atk|}}}}}",
   "content": "指定Combo盾,越攻越強,無視減傷",
-  "icon": "es/SI087.png|es/SI188.png|es/SI251.png"
+  "icon": "es/SI087.png|es/SI188.png|es/SI251.png",
+  "tcicon": "es/SI087.png|es/SI188.png|es/SI251.png"
 }

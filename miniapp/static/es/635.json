@@ -3,5 +3,6 @@
   "title": "(5回8+Combo發動攻回)",
   "effect": "5 回合內，達成 8 連擊 (Combo) 或以上才會發動攻擊和回復",
   "content": "正負Combo盾",
-  "icon": "es/SI106.png"
+  "icon": "es/SI106.png",
+  "tcicon": "es/SI106.png"
 }

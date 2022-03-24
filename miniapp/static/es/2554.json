@@ -3,5 +3,6 @@
   "title": "4員技能封鎖 ‧ 6+Combo追擊盾 ‧ 無法控制",
   "effect": "首回合永久封鎖隨機 4 個成員的主動技能。<br>6 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。<br>敵人無視所有控制技能",
   "content": "技能封鎖,指定以上Combo追擊盾,無法控制",
-  "icon": "es/SI122.png|es/SI104.png|es/SI124.png"
+  "icon": "es/SI122.png|es/SI104.png|es/SI124.png",
+  "tcicon": "es/SI122.png|es/SI104.png|es/SI124.png"
 }

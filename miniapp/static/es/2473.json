@@ -3,5 +3,6 @@
   "title": "生命回復 ‧ 自殺",
   "effect": "首回合召喚師完全回復生命力。<br>敵人下回合會扣除自身生命力 100%，期間不受任何攻擊傷害及無視所有控制技能",
   "content": "生命回復,自殘",
-  "icon": "es/SI214.png|es/SI161.png"
+  "icon": "es/SI214.png|es/SI161.png",
+  "tcicon": "es/SI214.png|es/SI161.png"
 }

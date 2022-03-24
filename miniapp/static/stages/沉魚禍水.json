@@ -25,7 +25,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1111i.png"
         },
         {
           "card": "1271",
@@ -38,7 +39,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "1441",
@@ -51,7 +53,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1441i.png"
         },
         {
           "card": "2367",
@@ -64,7 +67,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2367i.png"
         },
         {
           "card": "2372",
@@ -77,7 +81,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2372i.png"
         },
         {
           "card": "2361",
@@ -91,7 +96,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2361i.png"
         }
       ]
     },
@@ -118,7 +124,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1111i.png"
         },
         {
           "card": "1271",
@@ -131,7 +138,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "1441",
@@ -144,7 +152,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1441i.png"
         },
         {
           "card": "2367",
@@ -157,7 +166,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2367i.png"
         },
         {
           "card": "2372",
@@ -170,7 +180,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2372i.png"
         },
         {
           "card": "1480",
@@ -185,9 +196,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI237.png",
+            "tcicon": "es/SI124.png|es/SI237.png",
             "title": "無法控制 ‧ 3顆雙層石化1000倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1480i.png"
         },
         {
           "card": "2361",
@@ -203,9 +216,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI143.png|es/SI183.png",
+            "tcicon": "es/SI143.png|es/SI183.png",
             "title": "首消水傷害吸收-反擊100% ‧ 水起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2361i.png"
         }
       ]
     },
@@ -232,7 +247,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1111i.png"
         },
         {
           "card": "1271",
@@ -245,7 +261,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "1441",
@@ -258,7 +275,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1441i.png"
         },
         {
           "card": "2367",
@@ -271,7 +289,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2367i.png"
         },
         {
           "card": "2372",
@@ -284,7 +303,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2372i.png"
         },
         {
           "card": "1472",
@@ -299,9 +319,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI104.png",
+            "tcicon": "es/SI165.png|es/SI104.png",
             "title": "2秒轉珠 ‧ 6+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1472i.png"
         },
         {
           "card": "1480",
@@ -316,9 +338,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI237.png",
+            "tcicon": "es/SI124.png|es/SI237.png",
             "title": "無法控制 ‧ 3顆三層石化1000倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1480i.png"
         },
         {
           "card": "2361",
@@ -334,9 +358,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI294.png|es/SI143.png|es/SI124.png",
+            "tcicon": "es/SI294.png|es/SI143.png|es/SI124.png",
             "title": "水附水流印記 ‧ 5印記盾 ‧ 首消水傷害吸收-連續反擊200% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2361i.png"
         }
       ]
     },
@@ -363,7 +389,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2367i.png"
         },
         {
           "card": "2367",
@@ -376,7 +403,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2367i.png"
         },
         {
           "card": "1492",
@@ -390,9 +418,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI257.png|es/SI229.png",
+            "tcicon": "es/SI160.png|es/SI257.png|es/SI229.png",
             "title": "突擊25% ‧ 25%盾 ‧ 攻後三重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1492i.png"
         },
         {
           "card": "1489",
@@ -406,9 +436,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png|es/SI005.png",
+            "tcicon": "es/SI221.png|es/SI005.png",
             "title": "首回9顆-每回3顆追擊風化15000 ‧ 暗外防禦90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1489i.png"
         },
         {
           "card": "1489",
@@ -422,9 +454,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI215.png|es/SI132.png",
+            "tcicon": "es/SI215.png|es/SI132.png",
             "title": "黑白符石 ‧ 扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1489i.png"
         },
         {
           "card": "1469",
@@ -438,9 +472,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI145.png|es/SI183.png",
+            "tcicon": "es/SI145.png|es/SI183.png",
             "title": "首消木傷害吸收-反擊100% ‧ 木起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1469i.png"
         },
         {
           "card": "1487",
@@ -454,9 +490,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png|es/SI219.png|es/SI156.png|es/SI124.png",
+            "tcicon": "es/SI161.png|es/SI219.png|es/SI156.png|es/SI124.png",
             "title": "首攻扣除當前99%-直行冰封 ‧ 回復力變0 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1487i.png"
         },
         {
           "card": "1487",
@@ -470,9 +508,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI301.png|es/SI047.png|es/SI006.png|es/SI188.png",
+            "tcicon": "es/SI159.png|es/SI301.png|es/SI047.png|es/SI006.png|es/SI188.png",
             "title": "CD1 ‧ 外側轉水 ‧ (消水減攻99%) ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1487i.png"
         },
         {
           "card": "2367",
@@ -485,7 +525,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2367i.png"
         },
         {
           "card": "2367",
@@ -498,7 +539,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2367i.png"
         },
         {
           "card": "1272",
@@ -512,9 +554,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1272i.png"
         },
         {
           "card": "1273",
@@ -528,9 +572,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI303.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI303.png|es/SI047.png|es/SI124.png",
             "title": "首殺盾 ‧ 攻後木縱橫輪轉 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1273i.png"
         },
         {
           "card": "1468",
@@ -544,9 +590,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI002.png|es/SI254.png|es/SI261.png|es/SI124.png",
+            "tcicon": "es/SI002.png|es/SI254.png|es/SI261.png|es/SI124.png",
             "title": "火屬防禦90% ‧ 強化盾 ‧ 根性-完全回復-CD變1-增攻3倍 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1468i.png"
         },
         {
           "card": "1476",
@@ -560,9 +608,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI107.png|es/SI124.png",
+            "tcicon": "es/SI165.png|es/SI107.png|es/SI124.png",
             "title": "2秒轉珠 ‧ 9+Combo追擊盾 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1476i.png"
         },
         {
           "card": "1476",
@@ -576,9 +626,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI246.png|es/SI188.png|es/SI290.png",
+            "tcicon": "es/SI159.png|es/SI246.png|es/SI188.png|es/SI290.png",
             "title": "CD1 ‧ 強化三屬盾-限 ‧ 越戰越強-金 ‧ 點燃盾90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1476i.png"
         },
         {
           "card": "1470",
@@ -592,9 +644,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI224.png|es/SI014.png|es/SI260.png|es/SI251.png",
+            "tcicon": "es/SI160.png|es/SI224.png|es/SI014.png|es/SI260.png|es/SI251.png",
             "title": "先攻-縱橫隱藏 ‧ 首消光傷害吸收-反擊100% ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1470i.png"
         },
         {
           "card": "1486",
@@ -608,9 +662,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI048.png|es/SI257.png|es/SI124.png",
+            "tcicon": "es/SI048.png|es/SI257.png|es/SI124.png",
             "title": "首消隨機16~25顆符石追擊盾 ‧ 25%盾 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1486i.png"
         },
         {
           "card": "1478",
@@ -624,9 +680,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI047.png|es/SI014.png|es/SI260.png|es/SI124.png",
+            "tcicon": "es/SI304.png|es/SI047.png|es/SI014.png|es/SI260.png|es/SI124.png",
             "title": "隨機轉光 ‧ 首消光傷害吸收-連續反擊50% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1478i.png"
         },
         {
           "card": "1478",
@@ -640,9 +698,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI237.png|es/SI124.png|es/SI251.png",
+            "tcicon": "es/SI159.png|es/SI237.png|es/SI124.png|es/SI251.png",
             "title": "CD1 ‧ 首回6顆雙層石化1000倍 ‧ 無法控制-無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1478i.png"
         },
         {
           "card": "1488",
@@ -656,9 +716,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI087.png|es/SI188.png|es/SI251.png",
+            "tcicon": "es/SI087.png|es/SI188.png|es/SI251.png",
             "title": "首消7Combo盾 ‧ 越攻越強 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1488i.png"
         },
         {
           "card": "1484",
@@ -672,9 +734,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI338.png",
+            "tcicon": "es/SI338.png",
             "title": "[7回木攻零化]"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1484i.png"
         },
         {
           "card": "1474",
@@ -688,9 +752,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI001.png|es/SI096.png|es/SI216.png",
+            "tcicon": "es/SI001.png|es/SI096.png|es/SI216.png",
             "title": "水攻盾 ‧ 首消6Combo盾 ‧ 垂死反擊10000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1474i.png"
         },
         {
           "card": "1474",
@@ -704,9 +770,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI306.png|es/SI181.png|es/SI039.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI306.png|es/SI181.png|es/SI039.png",
             "title": "附加消除重置 ‧ 心初級拼圖盾-限 ‧ 火禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1474i.png"
         },
         {
           "card": "1472",
@@ -720,9 +788,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png|es/SI110.png",
+            "tcicon": "es/SI183.png|es/SI110.png",
             "title": "始終盾 ‧ 首消隨機4~6Combo盾-轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1472i.png"
         },
         {
           "card": "1482",
@@ -736,9 +806,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI216.png|es/SI136.png",
+            "tcicon": "es/SI124.png|es/SI216.png|es/SI136.png",
             "title": "無法控制 ‧ 復活滅心3次-劇毒30-60-90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1482i.png"
         },
         {
           "card": "2361",
@@ -752,9 +824,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI295.png|es/SI143.png|es/SI124.png",
+            "tcicon": "es/SI295.png|es/SI143.png|es/SI124.png",
             "title": "水附水流印記 ‧ 10印記盾 ‧ 首消水傷害吸收-連續反擊200% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2361i.png"
         },
         {
           "card": "2361",
@@ -769,9 +843,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI121.png|es/SI422.png|es/SI307.png|es/SI038.png",
+            "tcicon": "es/SI159.png|es/SI121.png|es/SI422.png|es/SI307.png|es/SI038.png",
             "title": "CD1 ‧ 超級技能重置 ‧ 獵魔 ‧ 水化血 ‧ 水禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2361i.png"
         }
       ]
     }

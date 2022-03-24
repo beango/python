@@ -3,5 +3,6 @@
   "title": "突擊10% ‧ 攻後冰封2顆 ‧ 無法控制",
   "effect": "首回合敵人會優先突擊 1 次。<br>每回合敵人發動攻擊時，隨機凍結 2 粒符石，3 回合內不能消除該符石。<br>無視所有控制技能",
   "content": "突擊,冰封符石,無法控制",
-  "icon": "es/SI160.png|es/SI219.png|es/SI124.png"
+  "icon": "es/SI160.png|es/SI219.png|es/SI124.png",
+  "tcicon": "es/SI160.png|es/SI219.png|es/SI124.png"
 }

@@ -3,5 +3,6 @@
   "title": "光暗攻擊傷害無效 ‧ 扣血50%",
   "effect": "光及暗屬性攻擊傷害無效 (包括所有技能)。<br>每回合敵人發動攻擊時會扣除召喚師 50% 生命力 (無視所有減傷效果和意志技能)",
   "content": "攻擊零化,固定傷害",
-  "icon": "es/SI004.png|es/SI005.png|es/SI128.png"
+  "icon": "es/SI004.png|es/SI005.png|es/SI128.png",
+  "tcicon": "es/SI004.png|es/SI005.png|es/SI128.png"
 }

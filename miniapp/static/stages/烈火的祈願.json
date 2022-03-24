@@ -25,7 +25,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1113i.png"
         },
         {
           "card": "1272",
@@ -39,7 +40,8 @@
           "chest ": " 2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1272i.png"
         },
         {
           "card": "1442",
@@ -53,7 +55,8 @@
           "chest ": " 2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1442i.png"
         },
         {
           "card": "2368",
@@ -66,7 +69,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2368i.png"
         },
         {
           "card": "2372",
@@ -79,7 +83,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2372i.png"
         },
         {
           "card": "2362",
@@ -93,7 +98,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2362i.png"
         }
       ]
     },
@@ -120,7 +126,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1113i.png"
         },
         {
           "card": "1272",
@@ -134,7 +141,8 @@
           "chest ": " 2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1272i.png"
         },
         {
           "card": "1442",
@@ -147,7 +155,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1442i.png"
         },
         {
           "card": "2368",
@@ -160,7 +169,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2368i.png"
         },
         {
           "card": "2372",
@@ -173,7 +183,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2372i.png"
         },
         {
           "card": "2323",
@@ -188,9 +199,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
+            "tcicon": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
             "title": "雙重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2323i.png"
         },
         {
           "card": "2362",
@@ -206,9 +219,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI002.png|es/SI012.png",
+            "tcicon": "es/SI229.png|es/SI002.png|es/SI012.png",
             "title": "軌跡燃燒1000 ‧ 首消火傷害吸收 ‧ 火屬防禦75%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2362i.png"
         }
       ]
     },
@@ -235,7 +250,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1113i.png"
         },
         {
           "card": "1272",
@@ -248,7 +264,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1272i.png"
         },
         {
           "card": "1442",
@@ -261,7 +278,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1442i.png"
         },
         {
           "card": "2368",
@@ -274,7 +292,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2368i.png"
         },
         {
           "card": "2372",
@@ -287,7 +306,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2372i.png"
         },
         {
           "card": "1924",
@@ -302,9 +322,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI144.png|es/SI254.png|es/SI229.png",
+            "tcicon": "es/SI144.png|es/SI254.png|es/SI229.png",
             "title": "首消火傷害吸收-反擊100% ‧ 強化盾 ‧ 縱橫燃燒輪轉10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1924i.png"
         },
         {
           "card": "2323",
@@ -319,9 +341,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
+            "tcicon": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
             "title": "四重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2323i.png"
         },
         {
           "card": "2362",
@@ -337,9 +361,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI207.png|es/SI105.png|es/SI124.png",
+            "tcicon": "es/SI207.png|es/SI105.png|es/SI124.png",
             "title": "四重火焰地型-垂死反擊10000 ‧ 7+Combo追擊盾 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2362i.png"
         }
       ]
     },
@@ -366,7 +392,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2368i.png"
         },
         {
           "card": "2368",
@@ -379,7 +406,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2368i.png"
         },
         {
           "card": "2240",
@@ -393,9 +421,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png",
+            "tcicon": "es/SI160.png|es/SI229.png",
             "title": "突擊65% ‧ 攻後三重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2240i.png"
         },
         {
           "card": "1906",
@@ -409,9 +439,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI144.png|es/SI183.png",
+            "tcicon": "es/SI144.png|es/SI183.png",
             "title": "首消火傷害吸收-反擊100% ‧ 火起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1906i.png"
         },
         {
           "card": "1322",
@@ -425,9 +457,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI031.png|es/SI188.png",
+            "tcicon": "es/SI229.png|es/SI031.png|es/SI188.png",
             "title": "✕形燃燒20% ‧ 首消全水盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1322i.png"
         },
         {
           "card": "2323",
@@ -441,9 +475,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
+            "tcicon": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
             "title": "四重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2323i.png"
         },
         {
           "card": "2323",
@@ -457,9 +493,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI001.png|es/SI242.png|es/SI251.png",
+            "tcicon": "es/SI159.png|es/SI001.png|es/SI242.png|es/SI251.png",
             "title": "CD1 ‧ 水攻盾 ‧ 三屬盾-限 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2323i.png"
         },
         {
           "card": "2368",
@@ -472,7 +510,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2368i.png"
         },
         {
           "card": "2368",
@@ -485,7 +524,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2368i.png"
         },
         {
           "card": "1937",
@@ -499,9 +539,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI002.png|es/SI254.png|es/SI261.png|es/SI124.png",
+            "tcicon": "es/SI002.png|es/SI254.png|es/SI261.png|es/SI124.png",
             "title": "火屬防禦75% ‧ 強化盾 ‧ 根性-完全回復-CD變1-增攻2倍 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1937i.png"
         },
         {
           "card": "1924",
@@ -515,9 +557,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI002.png|es/SI229.png|es/SI047.png|es/SI302.png|es/SI114.png",
+            "tcicon": "es/SI002.png|es/SI229.png|es/SI047.png|es/SI302.png|es/SI114.png",
             "title": "火屬防禦盾 ‧ 四重燃燒50%-符石轉火 ‧ 首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1924i.png"
         },
         {
           "card": "1849",
@@ -531,9 +575,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png|es/SI229.png|es/SI021.png|es/SI181.png",
+            "tcicon": "es/SI161.png|es/SI229.png|es/SI021.png|es/SI181.png",
             "title": "命懸一線 ‧ 軌跡燃燒5000 ‧ 水強化高級拼圖盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1849i.png"
         },
         {
           "card": "1849",
@@ -547,9 +593,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI158.png|es/SI313.png|es/SI251.png",
+            "tcicon": "es/SI159.png|es/SI158.png|es/SI313.png|es/SI251.png",
             "title": "CD1 ‧ [1回攻擊變0] ‧ 首回火引爆狂擊 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1849i.png"
         },
         {
           "card": "2173",
@@ -563,9 +611,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI306.png|es/SI047.png|es/SI043.png|es/SI246.png",
+            "tcicon": "es/SI160.png|es/SI306.png|es/SI047.png|es/SI043.png|es/SI246.png",
             "title": "先攻-最多轉心 ‧ 心禁消 ‧ 強化三屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2173i.png"
         },
         {
           "card": "2182",
@@ -579,9 +629,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI254.png|es/SI139.png",
+            "tcicon": "es/SI229.png|es/SI254.png|es/SI139.png",
             "title": "燃燒圍城20% ‧ 強化盾 ‧ 越扣越強25%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2182i.png"
         },
         {
           "card": "2182",
@@ -595,9 +647,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI001.png|es/SI095.png|es/SI216.png",
+            "tcicon": "es/SI001.png|es/SI095.png|es/SI216.png",
             "title": "水攻盾 ‧ 首消5Combo盾 ‧ 反擊10000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2182i.png"
         },
         {
           "card": "424",
@@ -611,9 +665,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI096.png|es/SI188.png",
+            "tcicon": "es/SI096.png|es/SI188.png",
             "title": "首消6Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/424i.png"
         },
         {
           "card": "424",
@@ -627,9 +683,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI096.png|es/SI188.png",
+            "tcicon": "es/SI096.png|es/SI188.png",
             "title": "首消6Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/424i.png"
         },
         {
           "card": "1312",
@@ -643,9 +701,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI107.png|es/SI183.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI107.png|es/SI183.png",
             "title": "附加消除重置 ‧ 9+Combo追擊盾 ‧ 隨機始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1312i.png"
         },
         {
           "card": "2083",
@@ -659,9 +719,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png|es/SI229.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI031.png|es/SI229.png|es/SI047.png|es/SI124.png",
             "title": "循環累積50+水符石盾 ‧ 水位置燃燒20%-水轉火 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2083i.png"
         },
         {
           "card": "2083",
@@ -675,9 +737,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI148.png|es/SI120.png",
+            "tcicon": "es/SI254.png|es/SI148.png|es/SI120.png",
             "title": "強化盾 ‧ 首消心零化-反擊100% ‧ 首消五屬Combo同等盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2083i.png"
         },
         {
           "card": "2320",
@@ -691,9 +755,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI039.png|es/SI313.png|es/SI124.png",
+            "tcicon": "es/SI039.png|es/SI313.png|es/SI124.png",
             "title": "(3回火禁消)-火引爆增攻0.3-10倍 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2320i.png"
         },
         {
           "card": "2362",
@@ -707,9 +773,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI207.png|es/SI087.png|es/SI124.png",
+            "tcicon": "es/SI207.png|es/SI087.png|es/SI124.png",
             "title": "雙重火焰地型-垂死反擊10000 ‧ 首消7Combo盾 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2362i.png"
         },
         {
           "card": "2362",
@@ -724,9 +792,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI313.png|es/SI248.png|es/SI251.png",
+            "tcicon": "es/SI159.png|es/SI313.png|es/SI248.png|es/SI251.png",
             "title": "CD1 ‧ 首回回結火引爆狂擊 ‧ 強化水木光盾 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2362i.png"
         }
       ]
     }

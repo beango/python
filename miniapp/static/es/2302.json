@@ -3,5 +3,6 @@
   "title": "先攻 ‧ 雙重黏附 ‧ 迷惑符石 ‧ 首消木追擊零化",
   "effect": "首回合敵人會優先攻擊 1 次，並隨機黏附 2 個位置，該位置的符石一經觸碰，即時停止移動符石。<br>召喚師無法看透符石的本質。<br>消除木屬性的連擊 (Combo) 會令全隊攻擊無效，消除的木屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石",
   "content": "先攻,黏附,迷惑符石,首消符石追擊零化",
-  "icon": "es/SI160.png|es/SI228.png|es/SI227.png|es/SI115.png"
+  "icon": "es/SI160.png|es/SI228.png|es/SI227.png|es/SI115.png",
+  "tcicon": "es/SI160.png|es/SI228.png|es/SI227.png|es/SI115.png"
 }

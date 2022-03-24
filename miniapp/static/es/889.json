@@ -3,5 +3,6 @@
   "title": "首回六重隱藏 ‧ 10%隱藏符石5顆 ‧ 強化盾",
   "effect": "首回合敵人會先制隨機將 6 粒符石轉化為隱藏符石，並在每回合大幅的掉落隱藏符石。<br>敵人只會受到強化符石的攻擊傷害",
   "content": "隱藏符石,強化盾",
-  "icon": "es/SI224.png|es/SI254.png"
+  "icon": "es/SI224.png|es/SI254.png",
+  "tcicon": "es/SI224.png|es/SI254.png"
 }

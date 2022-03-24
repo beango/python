@@ -3,5 +3,6 @@
   "title": "先攻 ‧ 攻後[5回中毒50%] ‧ 強化盾",
   "effect": "首回合優先攻擊 1 次，受此攻擊的召喚師，5 回合內所有成員中毒，每回合扣除召喚師 50% 生命力。<br>敵人只會受到強化符石的攻擊傷害",
   "content": "先攻,中毒,強化盾",
-  "icon": "es/SI160.png|es/SI135.png|es/SI254.png"
+  "icon": "es/SI160.png|es/SI135.png|es/SI254.png",
+  "tcicon": "es/SI160.png|es/SI135.png|es/SI254.png"
 }

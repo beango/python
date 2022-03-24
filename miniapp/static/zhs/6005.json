@@ -34,5 +34,6 @@
   "turn": "0",
   "def": "0",
   "skin": "1",
-  "skinfrom": "485"
+  "skinfrom": "485",
+  "teamskill2": ""
 }

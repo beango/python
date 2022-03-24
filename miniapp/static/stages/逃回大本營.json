@@ -26,7 +26,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "109",
@@ -37,7 +38,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "330",
@@ -50,7 +52,8 @@
           "drop": "099",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/330i.png"
         },
         {
           "card": "330",
@@ -63,9 +66,11 @@
           "note": "{{特性*離開*5}}",
           "esjson": {
             "img": "es/SI216.png",
+            "tcicon": "es/SI216.png",
             "title": "反擊2000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/330i.png"
         },
         {
           "card": "1532",
@@ -78,9 +83,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI010.png|es/SI161.png",
+            "tcicon": "es/SI010.png|es/SI161.png",
             "title": "(7回暗攻2倍) ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "1532",
@@ -94,9 +101,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI302.png|es/SI047.png|es/SI114.png",
+            "tcicon": "es/SI229.png|es/SI302.png|es/SI047.png|es/SI114.png",
             "title": "首回三重燃燒10% ‧ 隨機轉火 ‧ 首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         }
       ]
     },
@@ -123,7 +132,8 @@
           "ws": "10007",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "109",
@@ -134,7 +144,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "330",
@@ -147,7 +158,8 @@
           "drop": "099",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/330i.png"
         },
         {
           "card": "069",
@@ -160,7 +172,8 @@
           "ws": "10008",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "109",
@@ -171,7 +184,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "330",
@@ -184,7 +198,8 @@
           "drop": "099",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/330i.png"
         },
         {
           "card": "576",
@@ -199,9 +214,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "首消火傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/576i.png"
         }
       ]
     },
@@ -228,7 +245,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "1527",
@@ -240,7 +258,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1532",
@@ -252,7 +271,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "449",
@@ -266,9 +286,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI254.png|es/SI221.png",
+            "tcicon": "es/SI158.png|es/SI254.png|es/SI221.png",
             "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/449i.png"
         }
       ]
     }

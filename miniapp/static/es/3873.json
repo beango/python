@@ -3,5 +3,6 @@
   "title": "木攻盾 ‧ 六重水幻變 ‧ 幻變轉水 ‧ 首消水追擊零化",
   "effect": "只有木屬性的攻擊<br>才會對敵人造成傷害。<br><br>將 6 個位置轉化為水屬幻變空間，經過幻變空間的起手符石會轉化為水符石。<br><br>其後每回合將幻變空間內的<br>符石轉化為水符石。<br><br>首批消除水屬性的連擊 (Combo) 會令全隊攻擊無效，首批消除的水屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。",
   "content": "屬性防禦,幻變,符石轉換,連擊零化",
-  "icon": "es/SI003.png|es/SI301.png|es/SI047.png|es/SI270.png|es/SI113.png"
+  "icon": "es/SI003.png|es/SI301.png|es/SI047.png|es/SI270.png|es/SI113.png",
+  "tcicon": "es/SI003.png|es/SI301.png|es/SI047.png|es/SI270.png|es/SI113.png"
 }

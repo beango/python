@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 滅木-1顆恢復20% ‧ 不倒意志⇒狂擊5倍 ‧ 無法控制 ‧ 無視減傷",
   "effect": "<font color=#FFFF3C>【攻速變更 ‧ 引爆復甦 - 木 ‧ 一擊不滅 - 加攻 ‧ 無法控制 ‧ 防禦崩壞】</font><br><br>敵人首次攻擊變為 CD 1。<br><br>每回合引爆所有木符石，<br>以回復生命力。<br><br>敵人當前生命力 ≥1，<br>下一次所受傷害<br>不會使其死亡 (包括主動技)<br>(只發動 1 次)；<br>敵人攻擊力永久 5 倍。<br><br>無視所有控制技能、<br>減傷效果和意志技能。",
   "content": "攻速變更,滅珠恢復,不倒意志,無法控制,無視減傷",
-  "icon": "es/SI159.png|es/SI314.png|es/SI261.png|es/SI124.png|es/SI251.png"
+  "icon": "es/SI159.png|es/SI314.png|es/SI261.png|es/SI124.png|es/SI251.png",
+  "tcicon": "es/SI159.png|es/SI314.png|es/SI261.png|es/SI124.png|es/SI251.png"
 }

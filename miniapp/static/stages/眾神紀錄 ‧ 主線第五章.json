@@ -23,7 +23,8 @@
           "coin": "188",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "833",
@@ -34,7 +35,8 @@
           "coin": "188",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "833",
@@ -45,7 +47,8 @@
           "coin": "188",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "831",
@@ -55,7 +58,8 @@
           "coin": "188",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "1597",
@@ -69,9 +73,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
+            "tcicon": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
             "title": "雙重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1597i.png"
         }
       ]
     },
@@ -97,7 +103,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1527",
@@ -109,7 +116,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1528",
@@ -121,7 +129,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1529",
@@ -133,7 +142,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1530",
@@ -145,7 +155,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         }
       ]
     },
@@ -173,7 +184,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1527",
@@ -185,7 +197,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1528",
@@ -197,7 +210,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1529",
@@ -209,7 +223,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1530",
@@ -221,7 +236,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         }
       ]
     }

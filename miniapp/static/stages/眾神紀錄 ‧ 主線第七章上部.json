@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI302.png|es/SI047.png",
+            "tcicon": "es/SI302.png|es/SI047.png",
             "title": "攻後轉火4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1149i.png"
         },
         {
           "card": "1149",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI302.png|es/SI047.png",
+            "tcicon": "es/SI302.png|es/SI047.png",
             "title": "攻後轉火4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1149i.png"
         },
         {
           "card": "707",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI095.png|es/SI229.png",
+            "tcicon": "es/SI159.png|es/SI095.png|es/SI229.png",
             "title": "CD2 ‧ 首消5Combo盾 ‧ 軌跡燃燒800"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/707i.png"
         },
         {
           "card": "1990",
@@ -71,9 +77,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
+            "tcicon": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
             "title": "CD4 ‧ 刷新符石-隨機側行電擊 ‧ 6秒轉珠 ‧ 扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1990i.png"
         }
       ]
     },
@@ -103,9 +111,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後轉直水"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "835",
@@ -118,9 +128,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "攻後轉橫木"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "833",
@@ -133,9 +145,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉直火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "838",
@@ -148,9 +162,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI095.png|es/SI188.png",
+            "tcicon": "es/SI095.png|es/SI188.png",
             "title": "首消5Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "838",
@@ -163,9 +179,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI095.png|es/SI188.png",
+            "tcicon": "es/SI095.png|es/SI188.png",
             "title": "首消5Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "854",
@@ -178,9 +196,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI047.png|es/SI236.png|es/SI116.png|es/SI124.png",
+            "tcicon": "es/SI304.png|es/SI047.png|es/SI236.png|es/SI116.png|es/SI124.png",
             "title": "四角轉光電擊 ‧ 首消光追擊零化 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/854i.png"
         },
         {
           "card": "1990",
@@ -194,9 +214,11 @@
           "note": "{{特性*離開*2}}",
           "esjson": {
             "img": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
+            "tcicon": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
             "title": "CD3 ‧ 刷新符石-左右直行電擊 ‧ 4秒轉珠 ‧ 扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1990i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "三重凍結",
   "effect": "每回合移動符石前，隨機凍結場上 3 粒符石；如有符石處於凍結狀態而未被消除時，3 回合內不能消除該符石",
   "content": "凍結符石",
-  "icon": "es/SI219.png"
+  "icon": "es/SI219.png",
+  "tcicon": "es/SI219.png"
 }

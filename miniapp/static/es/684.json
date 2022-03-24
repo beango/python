@@ -3,5 +3,6 @@
   "title": "無法控制 ‧ 首回隱藏6顆 ‧ 同屬防禦90% ‧ 攻後隱藏2顆",
   "effect": "敵人會無視所有控制技能，並於首回合隨機將 6 粒符石轉化為隱藏符石。與敵人屬性相同的攻擊傷害減至 10%；當受到敵人攻擊時，場上隨機 2 粒符石轉化為隱藏符石",
   "content": "無法控制,隱藏符石,屬性針對(攻擊力)",
-  "icon": "es/SI124.png|es/SI224.png|es/SI250.png"
+  "icon": "es/SI124.png|es/SI224.png|es/SI250.png",
+  "tcicon": "es/SI124.png|es/SI224.png|es/SI250.png"
 }

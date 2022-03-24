@@ -21,16 +21,17 @@
           "turn": "9(9)",
           "hp": "100",
           "def": "10",
-          "coin": "",
+          "coin": "125",
           "item": "162",
           "es": "510",
-          "chest ": " 3000",
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI126.png",
+            "tcicon": "es/SI256.png|es/SI126.png",
             "title": "消心盾2% ‧ 扣血30%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2383i.png"
         }
       ]
     },
@@ -48,20 +49,22 @@
       "data": [
         {
           "card": "163",
-          "stage": "1",
+          "stage": "",
           "damage": "28736",
           "turn": "4(2)",
           "hp": "15705320",
           "def": "16330",
-          "coin": "",
+          "coin": "852",
           "item": "162",
           "es": "661",
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png",
+            "tcicon": "es/SI301.png|es/SI047.png",
             "title": "攻後轉水4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/163i.png"
         },
         {
           "card": "163",
@@ -70,15 +73,17 @@
           "turn": "4(4)",
           "hp": "15705320",
           "def": "16330",
-          "coin": "",
+          "coin": "852",
           "item": "162",
           "es": "661",
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png",
+            "tcicon": "es/SI301.png|es/SI047.png",
             "title": "攻後轉水4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/163i.png"
         },
         {
           "card": "851",
@@ -87,15 +92,17 @@
           "turn": "3(3)",
           "hp": "96805100",
           "def": "49520",
-          "coin": "",
+          "coin": "3952",
           "item": "162",
           "es": "3224",
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI181.png|es/SI251.png",
+            "tcicon": "es/SI122.png|es/SI181.png|es/SI251.png",
             "title": "人類禁錮 ‧ 敵屬初級拼圖盾-限 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/851i.png"
         },
         {
           "card": "552",
@@ -104,15 +111,17 @@
           "turn": "1(1)",
           "hp": "53421200",
           "def": "64780",
-          "coin": "",
+          "coin": "6383",
           "item": "162",
           "es": "1775",
           "note": "",
           "esjson": {
             "img": "es/SI016.png|es/SI301.png|es/SI047.png|es/SI113.png|es/SI124.png",
+            "tcicon": "es/SI016.png|es/SI301.png|es/SI047.png|es/SI113.png|es/SI124.png",
             "title": "敵轉水-首回隨機轉水 ‧ 首消水追擊零化 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/552i.png"
         }
       ]
     },
@@ -135,15 +144,17 @@
           "turn": "2(2)",
           "hp": "18932500",
           "def": "17820",
-          "coin": "",
+          "coin": "712",
           "item": "162",
           "es": "652",
           "note": "",
           "esjson": {
             "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
             "title": "攻後光縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/172i.png"
         },
         {
           "card": "175",
@@ -152,15 +163,17 @@
           "turn": "2(1)",
           "hp": "18642100",
           "def": "17590",
-          "coin": "",
+          "coin": "712",
           "item": "162",
           "es": "788",
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後暗橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/175i.png"
         },
         {
           "card": "1749",
@@ -169,15 +182,17 @@
           "turn": "2(1)",
           "hp": "32087400",
           "def": "26250",
-          "coin": "",
+          "coin": "249",
           "item": "162",
           "es": "3184",
           "note": "",
           "esjson": {
             "img": "es/SI095.png|es/SI188.png",
+            "tcicon": "es/SI095.png|es/SI188.png",
             "title": "首消5Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1749i.png"
         },
         {
           "card": "1749",
@@ -186,15 +201,17 @@
           "turn": "2(2)",
           "hp": "32087400",
           "def": "26250",
-          "coin": "",
+          "coin": "249",
           "item": "162",
           "es": "3185",
           "note": "",
           "esjson": {
             "img": "es/SI096.png|es/SI188.png",
+            "tcicon": "es/SI096.png|es/SI188.png",
             "title": "首消6Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1749i.png"
         },
         {
           "card": "1995",
@@ -203,28 +220,31 @@
           "turn": "1(1)",
           "hp": "75953680",
           "def": "68820",
-          "coin": "",
+          "coin": "6383",
           "item": "162",
           "es": "3342",
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI015.png|es/SI260.png|es/SI183.png",
+            "tcicon": "es/SI122.png|es/SI015.png|es/SI260.png|es/SI183.png",
             "title": "2回技能封鎖 ‧ 首消暗傷害吸收-反擊100% ‧ 暗起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1995i.png"
         },
         {
           "card": "2387",
           "stage": "4",
           "damage": "100",
           "turn": "1(1)",
-          "hp": "100",
+          "hp": "10",
           "def": "10",
-          "coin": "",
+          "coin": "125",
           "item": "162",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2387i.png"
         }
       ]
     },
@@ -247,11 +267,12 @@
           "turn": "1(1)",
           "hp": "100",
           "def": "10",
-          "coin": "",
+          "coin": "125",
           "item": "162",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2385i.png"
         }
       ]
     }

@@ -24,7 +24,8 @@
           "item ": " 135",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/115i.png"
         },
         {
           "card": "550",
@@ -37,7 +38,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "1154",
@@ -50,7 +52,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "975",
@@ -64,7 +67,8 @@
           "drop": "974",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/975i.png"
         },
         {
           "card": "1920",
@@ -79,9 +83,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "首消暗傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1920i.png"
         }
       ]
     },
@@ -106,7 +112,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/115i.png"
         },
         {
           "card": "550",
@@ -119,7 +126,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "975",
@@ -133,7 +141,8 @@
           "drop": "974",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/975i.png"
         },
         {
           "card": "1154",
@@ -146,7 +155,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "1777",
@@ -158,7 +168,8 @@
           "coin": "2183",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1777i.png"
         },
         {
           "card": "1920",
@@ -174,9 +185,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI015.png",
+            "tcicon": "es/SI224.png|es/SI015.png",
             "title": "4顆追擊隱藏 ‧ 首消暗傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1920i.png"
         }
       ]
     },
@@ -203,9 +216,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI103.png",
+            "tcicon": "es/SI103.png",
             "title": "5+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/115i.png"
         },
         {
           "card": "550",
@@ -220,9 +235,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png",
+            "tcicon": "es/SI035.png",
             "title": "首消全暗盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "975",
@@ -237,7 +254,8 @@
           "item ": " 135",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/975i.png"
         },
         {
           "card": "1154",
@@ -250,7 +268,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "1777",
@@ -264,7 +283,8 @@
           "item ": " 135",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1777i.png"
         },
         {
           "card": "1867",
@@ -278,9 +298,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI305.png|es/SI047.png|es/SI215.png",
+            "tcicon": "es/SI305.png|es/SI047.png|es/SI215.png",
             "title": "首回隨機轉暗 ‧ 攻後暗橫縱輪轉 ‧ 黑白符石"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1867i.png"
         },
         {
           "card": "1325",
@@ -295,9 +317,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI215.png",
+            "tcicon": "es/SI215.png",
             "title": "軌跡黑白"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1325i.png"
         },
         {
           "card": "1920",
@@ -312,9 +336,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI015.png|es/SI061.png",
+            "tcicon": "es/SI224.png|es/SI015.png|es/SI061.png",
             "title": "12顆追擊隱藏 ‧ 首消暗傷害吸收 ‧ 神攻盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1920i.png"
         }
       ]
     },
@@ -341,7 +367,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1777i.png"
         },
         {
           "card": "550",
@@ -355,9 +382,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png",
+            "tcicon": "es/SI035.png",
             "title": "首消全暗盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "550",
@@ -371,9 +400,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png",
+            "tcicon": "es/SI035.png",
             "title": "首消全暗盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "815",
@@ -387,9 +418,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/815i.png"
         },
         {
           "card": "1867",
@@ -403,9 +436,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI215.png",
+            "tcicon": "es/SI215.png",
             "title": "軌跡黑白"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1867i.png"
         },
         {
           "card": "1829",
@@ -419,9 +454,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI306.png|es/SI228.png",
+            "tcicon": "es/SI306.png|es/SI228.png",
             "title": "心位置黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1829i.png"
         },
         {
           "card": "1829",
@@ -435,9 +472,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI227.png|es/SI034.png|es/SI035.png",
+            "tcicon": "es/SI227.png|es/SI034.png|es/SI035.png",
             "title": "12+12+光暗符石幻變盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1829i.png"
         },
         {
           "card": "1154",
@@ -449,7 +488,8 @@
           "coin": "1205",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "550",
@@ -463,9 +503,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png",
+            "tcicon": "es/SI035.png",
             "title": "首消全暗盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "291",
@@ -479,9 +521,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後轉直暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/291i.png"
         },
         {
           "card": "398",
@@ -495,9 +539,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
             "title": "攻後轉橫光"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/398i.png"
         },
         {
           "card": "1269",
@@ -511,9 +557,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI221.png|es/SI251.png",
+            "tcicon": "es/SI254.png|es/SI221.png|es/SI251.png",
             "title": "強化盾-非強化吸收 ‧ 風化七追擊-轉 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1269i.png"
         },
         {
           "card": "1389",
@@ -527,9 +575,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI227.png|es/SI015.png",
+            "tcicon": "es/SI227.png|es/SI015.png",
             "title": "迷惑符石 ‧ 首消暗傷害吸收 ‧ 雙重暗幻變"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1389i.png"
         },
         {
           "card": "1389",
@@ -543,9 +593,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI107.png|es/SI043.png",
+            "tcicon": "es/SI224.png|es/SI107.png|es/SI043.png",
             "title": "隱藏圍城 ‧ 9+Combo追擊盾 ‧ 心禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1389i.png"
         },
         {
           "card": "1777",
@@ -557,7 +609,8 @@
           "coin": "3023",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1777i.png"
         },
         {
           "card": "1777",
@@ -570,7 +623,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1777i.png"
         },
         {
           "card": "1415",
@@ -584,9 +638,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI014.png|es/SI260.png",
+            "tcicon": "es/SI014.png|es/SI260.png",
             "title": "首消光傷害吸收-反擊200%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "1414",
@@ -600,9 +656,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png",
+            "tcicon": "es/SI122.png",
             "title": "技能封鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1414i.png"
         },
         {
           "card": "1350",
@@ -616,9 +674,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI157.png|es/SI005.png",
+            "tcicon": "es/SI250.png|es/SI157.png|es/SI005.png",
             "title": "循環累積15+相剋符石盾 ‧ 血弱70%-增攻3倍 ‧ 暗屬防禦90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1350i.png"
         },
         {
           "card": "1522",
@@ -632,9 +692,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI215.png|es/SI183.png|es/SI244.png",
+            "tcicon": "es/SI215.png|es/SI183.png|es/SI244.png",
             "title": "黑白符石 ‧ 始終盾 ‧ 五屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1522i.png"
         },
         {
           "card": "1522",
@@ -649,9 +711,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI020.png|es/SI305.png|es/SI168.png|es/SI042.png|es/SI124.png",
+            "tcicon": "es/SI020.png|es/SI305.png|es/SI168.png|es/SI042.png|es/SI124.png",
             "title": "敵轉暗 ‧ 滅暗增攻 ‧ 暗禁消 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1522i.png"
         },
         {
           "card": "1543",
@@ -665,9 +729,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI117.png|es/SI305.png|es/SI236.png",
+            "tcicon": "es/SI117.png|es/SI305.png|es/SI236.png",
             "title": "首消暗追擊零化 ‧ 暗電擊3顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1543i.png"
         },
         {
           "card": "1920",
@@ -681,9 +747,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI121.png|es/SI215.png",
+            "tcicon": "es/SI158.png|es/SI121.png|es/SI215.png",
             "title": "[5回攻擊力變0] ‧ 光外超級技能重置 ‧ 黑白符石"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1920i.png"
         },
         {
           "card": "1920",
@@ -697,9 +765,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI015.png|es/SI061.png",
+            "tcicon": "es/SI224.png|es/SI015.png|es/SI061.png",
             "title": "16顆追擊隱藏 ‧ 首消暗傷害吸收 ‧ 神攻盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1920i.png"
         }
       ]
     }

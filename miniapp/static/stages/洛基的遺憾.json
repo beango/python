@@ -24,7 +24,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "837",
@@ -36,7 +37,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -48,7 +50,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "1522",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI254.png|es/SI221.png",
+            "tcicon": "es/SI158.png|es/SI254.png|es/SI221.png",
             "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1522i.png"
         },
         {
           "card": "1522",
@@ -76,9 +81,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI019.png|es/SI167.png|es/SI161.png|es/SI304.png|es/SI047.png|es/SI004.png",
+            "tcicon": "es/SI019.png|es/SI167.png|es/SI161.png|es/SI304.png|es/SI047.png|es/SI004.png",
             "title": "敵轉光 ‧ 連擊趨狂 ‧ 命懸一線-首回心轉光-攻後隨機轉光 ‧ 光屬防禦90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1522i.png"
         },
         {
           "card": "838",
@@ -93,9 +100,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "840",
@@ -110,9 +119,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI139.png",
+            "tcicon": "es/SI139.png",
             "title": "越扣越強25%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/840i.png"
         },
         {
           "card": "510",
@@ -125,9 +136,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png|es/SI067.png|es/SI121.png|es/SI123.png",
+            "tcicon": "es/SI161.png|es/SI067.png|es/SI121.png|es/SI123.png",
             "title": "全神-(7回神攻2倍) ‧ 非全神-附加消除-全員技能重置 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/510i.png"
         },
         {
           "card": "1563",
@@ -140,9 +153,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI134.png|es/SI165.png|es/SI224.png",
+            "tcicon": "es/SI134.png|es/SI165.png|es/SI224.png",
             "title": "(6回生命倒數) ‧ 2秒轉珠 ‧ 隱藏圍城-攻後隱藏4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1563i.png"
         },
         {
           "card": "1563",
@@ -155,9 +170,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI215.png|es/SI183.png",
+            "tcicon": "es/SI215.png|es/SI183.png",
             "title": "黑白符石 ‧ 始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1563i.png"
         },
         {
           "card": "1563",
@@ -170,9 +187,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI005.png|es/SI124.png|es/SI161.png|es/SI156.png",
+            "tcicon": "es/SI005.png|es/SI124.png|es/SI161.png|es/SI156.png",
             "title": "暗屬防禦盾 ‧ 無法控制 ‧ 命懸一線 ‧ (5回回復力變0)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1563i.png"
         }
       ]
     }

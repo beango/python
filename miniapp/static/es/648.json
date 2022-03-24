@@ -3,5 +3,6 @@
   "title": "(5回回復力減弱50%)",
   "effect": "5 回合內，回復力減少 50%",
   "content": "回復力減弱",
-  "icon": "es/SI233.png"
+  "icon": "es/SI233.png",
+  "tcicon": "es/SI233.png"
 }

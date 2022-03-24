@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/081i.png"
         },
         {
           "card": "1528",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1533",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1533i.png"
         },
         {
           "card": "1011",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "1011",
@@ -76,9 +81,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "1413",
@@ -92,9 +99,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png",
+            "tcicon": "es/SI257.png",
             "title": "25%盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         }
       ]
     },
@@ -119,7 +128,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "1530",
@@ -131,7 +141,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1535",
@@ -143,7 +154,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1535i.png"
         },
         {
           "card": "1014",
@@ -154,7 +166,8 @@
           "coin": "1005",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1015",
@@ -167,9 +180,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI164.png|es/SI165.png",
+            "tcicon": "es/SI164.png|es/SI165.png",
             "title": "召喚小怪 ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "1014",
@@ -181,7 +196,8 @@
           "chest": "4000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         }
       ]
     },
@@ -208,7 +224,8 @@
           "coin": "1005",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1014",
@@ -219,7 +236,8 @@
           "coin": "1005",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1010",
@@ -230,7 +248,8 @@
           "coin": "1005",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1527",
@@ -242,7 +261,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1528",
@@ -254,7 +274,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1530",
@@ -266,7 +287,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1532",
@@ -278,7 +300,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "1533",
@@ -290,7 +313,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1533i.png"
         },
         {
           "card": "1535",
@@ -302,7 +326,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1535i.png"
         },
         {
           "card": "1415",
@@ -315,9 +340,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "1413",
@@ -330,9 +357,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "首消木傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         },
         {
           "card": "1412",
@@ -347,9 +376,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI216.png",
+            "tcicon": "es/SI216.png",
             "title": "復活變強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1412i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "能力繼承 ‧ 雙重燃燒20%",
   "effect": "只要場上 1 個敵人生存，<br>它會即時完全回復<br>自身生命力，<br>並吸收死去同伴的能力。<br><br>隨機燃燒 2 個位置，<br>每觸碰被燃燒的位置，<br>將扣除召喚師 20% 生命力。",
   "content": "能力繼承,燃燒",
-  "icon": "es/SI163.png|es/SI229.png"
+  "icon": "es/SI163.png|es/SI229.png",
+  "tcicon": "es/SI163.png|es/SI229.png"
 }

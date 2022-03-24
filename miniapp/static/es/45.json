@@ -3,5 +3,6 @@
   "title": "技能封鎖",
   "effect": "首回合敵人會永久封鎖所有成員的主動技能",
   "content": "技能封鎖",
-  "icon": "es/SI122.png"
+  "icon": "es/SI122.png",
+  "tcicon": "es/SI122.png"
 }

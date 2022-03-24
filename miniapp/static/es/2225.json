@@ -3,5 +3,6 @@
   "title": "弱化圍城-心弱化鎖定20% ‧ 木禁消",
   "effect": "首回合敵人會鎖定場上所有符石，其後每回合移動符石前鎖定場上的心符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 20% (發動龍刻脈動視作消除場上的鎖定符石)。<br>木符石無法被消除",
   "content": "弱化鎖定,符石禁消",
-  "icon": "es/SI158.png|es/SI341.png|es/SI040.png"
+  "icon": "es/SI158.png|es/SI341.png|es/SI040.png",
+  "tcicon": "es/SI158.png|es/SI341.png|es/SI040.png"
 }

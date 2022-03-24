@@ -27,5 +27,6 @@
   "stage": "[[推翻命運]] - 公會任務獎賞",
   "story": "<poem>超人貝利亞之子。",
   "turn": "0",
-  "def": "0"
+  "def": "0",
+  "teamskill2": "<font color=#A9D5FF>隊伍技能：<br><br>「超人捷德」<br>⇒ 轉化為水屬性的「豪勇形態 ‧ 捷德」<br>⇒ 主動技能轉化為「強力爆裂光線」：<br>　將 14 個固定位置的符石<br>　⇒ 轉化為水神族符石</font><br><br><font color=#A9D5FF>發動條件：<br>「超人捷德」的右旁為「超人ZERO」或「超人ZERO (無限形態)」</font>"
 }

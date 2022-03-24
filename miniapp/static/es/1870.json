@@ -3,5 +3,6 @@
   "title": "CD3-防禦0 ‧ 扣血100%",
   "effect": "敵人首次攻擊延長至 CD 3。<br>敵人的防禦力減至 0。<br>每回合敵人發動攻擊時會扣除召喚師 100% 生命力 (無視所有減傷效果和意志技能)",
   "content": "延長回合冷卻,防禦力變更,固定扣血",
-  "icon": "es/SI159.png|es/SI252.png|es/SI132.png"
+  "icon": "es/SI159.png|es/SI252.png|es/SI132.png",
+  "tcicon": "es/SI159.png|es/SI252.png|es/SI132.png"
 }

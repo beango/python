@@ -3,5 +3,6 @@
   "title": "(5回轉珠減2秒)-結",
   "effect": "敵人死亡後，5 回合內移動符石時間減少 2 秒",
   "content": "時間改變",
-  "icon": "es/SI165.png"
+  "icon": "es/SI165.png",
+  "tcicon": "es/SI165.png"
 }

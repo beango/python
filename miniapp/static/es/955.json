@@ -3,5 +3,6 @@
   "title": "三重燃燒25%",
   "effect": "敵人會隨機燃燒 3 個位置，每觸碰被燃燒的位置，將扣除召喚師 25% 生命力",
   "content": "燃燒",
-  "icon": "es/SI229.png"
+  "icon": "es/SI229.png",
+  "tcicon": "es/SI229.png"
 }

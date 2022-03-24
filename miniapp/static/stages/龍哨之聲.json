@@ -21,11 +21,12 @@
           "turn": "1(1)",
           "hp": "100",
           "def": "10",
-          "coin": "",
+          "coin": "125",
           "item": "162",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2385i.png"
         }
       ]
     },
@@ -43,20 +44,22 @@
       "data": [
         {
           "card": "2377",
-          "stage": "1",
+          "stage": "",
           "damage": "14283",
           "turn": "1(1)",
           "hp": "59705300",
           "def": "94250",
-          "coin": "",
+          "coin": "6383",
           "item": "162",
           "es": "3248",
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI165.png|es/SI104.png|es/SI251.png",
+            "tcicon": "es/SI160.png|es/SI165.png|es/SI104.png|es/SI251.png",
             "title": "突擊65%-(3回轉珠減2秒) ‧ 6+Combo追擊盾 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2377i.png"
         },
         {
           "card": "2377",
@@ -65,14 +68,16 @@
           "turn": "2(2)",
           "hp": "47803600",
           "def": "94250",
-          "coin": "",
+          "coin": "0",
           "es": "1859",
           "note": "",
           "esjson": {
             "img": "es/SI336.png|es/SI047.png|es/SI031.png",
+            "tcicon": "es/SI336.png|es/SI047.png|es/SI031.png",
             "title": "水屬防禦90% ‧ 隨機轉水 ‧ 首消水傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2377i.png"
         },
         {
           "card": "2377",
@@ -81,15 +86,17 @@
           "turn": "1",
           "hp": "62740800",
           "def": "94250",
-          "coin": "",
+          "coin": "6383",
           "item": "162",
           "es": "3816",
           "note": "",
           "esjson": {
             "img": "es/SI337.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI337.png|es/SI188.png|es/SI124.png",
             "title": "(消火減攻99%) ‧ 越戰越強-金 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2377i.png"
         }
       ]
     },
@@ -112,15 +119,17 @@
           "turn": "3(3)",
           "hp": "16354660",
           "def": "15770",
-          "coin": "",
+          "coin": "208",
           "item": "162",
           "es": "909",
           "note": "",
           "esjson": {
             "img": "es/SI031.png",
+            "tcicon": "es/SI031.png",
             "title": "首消全水盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -129,15 +138,17 @@
           "turn": "3(1)",
           "hp": "16354660",
           "def": "15770",
-          "coin": "",
+          "coin": "208",
           "item": "162",
           "es": "911",
           "note": "",
           "esjson": {
             "img": "es/SI033.png",
+            "tcicon": "es/SI033.png",
             "title": "首消全木盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -146,15 +157,17 @@
           "turn": "3(2)",
           "hp": "16354660",
           "def": "15770",
-          "coin": "",
+          "coin": "208",
           "item": "162",
           "es": "910",
           "note": "",
           "esjson": {
             "img": "es/SI032.png",
+            "tcicon": "es/SI032.png",
             "title": "首消全火盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "834",
@@ -163,15 +176,17 @@
           "turn": "2(2)",
           "hp": "37519780",
           "def": "31320",
-          "coin": "",
+          "coin": "624",
           "item": "162",
           "es": "853",
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         },
         {
           "card": "834",
@@ -180,15 +195,17 @@
           "turn": "2(1)",
           "hp": "37519780",
           "def": "31320",
-          "coin": "",
+          "coin": "624",
           "item": "162",
           "es": "853",
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         },
         {
           "card": "690",
@@ -197,15 +214,17 @@
           "turn": "1(1)",
           "hp": "74350820",
           "def": "54260",
-          "coin": "",
+          "coin": "9450",
           "item": "162",
           "es": "3761",
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI224.png|es/SI058.png|es/SI042.png",
+            "tcicon": "es/SI159.png|es/SI224.png|es/SI058.png|es/SI042.png",
             "title": "CD1 ‧ 軌跡隱藏 ‧ 弱轉珠技無效 ‧ 暗禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/690i.png"
         }
       ]
     },
@@ -228,15 +247,17 @@
           "turn": "2(2)",
           "hp": "60439780",
           "def": "45290",
-          "coin": "",
+          "coin": "8450",
           "item": "162",
           "es": "2332",
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI031.png|es/SI188.png",
+            "tcicon": "es/SI229.png|es/SI031.png|es/SI188.png",
             "title": "✕形燃燒20% ‧ 首消全水盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/687i.png"
         },
         {
           "card": "121",
@@ -245,15 +266,17 @@
           "turn": "2(1)",
           "hp": "42873900",
           "def": "35210",
-          "coin": "",
+          "coin": "1343",
           "item": "162",
           "es": "855",
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI129.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI129.png|es/SI188.png",
             "title": "無法控制 ‧ 扣血70% ‧ 喪伴狂硬50倍-完殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/121i.png"
         },
         {
           "card": "121",
@@ -262,15 +285,17 @@
           "turn": "2(2)",
           "hp": "42873900",
           "def": "35210",
-          "coin": "",
+          "coin": "1343",
           "item": "162",
           "es": "3403",
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI229.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI229.png|es/SI124.png",
             "title": "首殺盾 ‧ 三重燃燒20% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/121i.png"
         },
         {
           "card": "1917",
@@ -279,15 +304,17 @@
           "turn": "2(2)",
           "hp": "75978540",
           "def": "48720",
-          "coin": "",
+          "coin": "600",
           "item": "162",
           "es": "3049",
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI237.png|es/SI058.png|es/SI132.png|es/SI229.png",
+            "tcicon": "es/SI159.png|es/SI237.png|es/SI058.png|es/SI132.png|es/SI229.png",
             "title": "CD2 ‧ 首回4顆雙層石化10000倍 ‧ 弱轉珠技無效 ‧ 扣血100% ‧ 軌跡燃燒2000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1917i.png"
         },
         {
           "card": "2307",
@@ -296,14 +323,16 @@
           "turn": "1(1)",
           "hp": "63821580",
           "def": "63900",
-          "coin": "",
+          "coin": "0",
           "es": "1082",
           "note": "",
           "esjson": {
             "img": "es/SI002.png|es/SI131.png|es/SI229.png",
+            "tcicon": "es/SI002.png|es/SI131.png|es/SI229.png",
             "title": "火屬防禦盾 ‧ 扣血90% ‧ 首回攻後雙重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2307i.png"
         },
         {
           "card": "2307",
@@ -312,15 +341,17 @@
           "turn": "1",
           "hp": "95564520",
           "def": "63900",
-          "coin": "",
+          "coin": "6383",
           "item": "162",
           "es": "2280",
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI087.png|es/SI229.png",
+            "tcicon": "es/SI159.png|es/SI087.png|es/SI229.png",
             "title": "CD2 ‧ 首消7Combo盾 ‧ 軌跡燃燒5000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2307i.png"
         }
       ]
     }

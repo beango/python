@@ -26,7 +26,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/083i.png"
         },
         {
           "card": "085",
@@ -37,7 +38,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "1529",
@@ -49,7 +51,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1530",
@@ -61,7 +64,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1522",
@@ -75,9 +79,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI049.png|es/SI047.png",
+            "tcicon": "es/SI049.png|es/SI047.png",
             "title": "光暗屬輪轉 ‧ 心剋轉當前 ‧ 消剋屬吸血"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1522i.png"
         }
       ]
     }

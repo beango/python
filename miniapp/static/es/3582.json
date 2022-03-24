@@ -3,5 +3,6 @@
   "title": "CD2 ‧ 暗屬防禦盾 ‧ 首消水火木光心Combo同等盾 ‧ 扣血100%",
   "effect": "敵人首次攻擊變為 CD 2。<br><br>暗屬性的攻擊<br>無法對敵人造成攻擊傷害。<br><br>同時首批消除<br>相同連擊 (Combo) 數目的<br>水、火、木、光、心符石，<br>才能對敵人造成攻擊傷害。<br><br>敵人發動攻擊時會<br>扣除召喚師 100% 生命力<br>(無視所有減傷效果和<br>意志技能)",
   "content": "回合改變,傷害吸收,同等盾,固定傷害",
-  "icon": "es/SI159.png|es/SI005.png|es/SI180.png|es/SI132.png"
+  "icon": "es/SI159.png|es/SI005.png|es/SI180.png|es/SI132.png",
+  "tcicon": "es/SI159.png|es/SI005.png|es/SI180.png|es/SI132.png"
 }

@@ -3,5 +3,6 @@
   "title": "雙重火幻變 ‧ 幻變轉火 ‧ 首消火追擊零化",
   "effect": "隨機將 2 個位置轉化為火屬幻變空間，經過幻變空間的起手符石會轉化為火符石。<br><br>其後每回合將幻變空間內的<br>符石轉化為火符石。<br><br>首批消除火屬性的連擊 (Combo) 會令全隊攻擊無效，消除的火屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。",
   "content": "幻變,符石轉換,連擊零化",
-  "icon": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png"
+  "icon": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png",
+  "tcicon": "es/SI270.png|es/SI302.png|es/SI047.png|es/SI114.png"
 }

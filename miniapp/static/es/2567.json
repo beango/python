@@ -3,5 +3,6 @@
   "title": "暗外防禦90% ‧ 首回隨機轉光-每回轉6顆光 ‧ 首消光追擊零化",
   "effect": "暗屬性以外的攻擊傷害減至 10%。<br>首回合隨機將 1 種符石轉化為光符石，其後每回合隨機將 6 粒符石轉化為光符石。<br>消除光屬性的連擊 (Combo) 會令全隊攻擊無效，消除的光屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石",
   "content": "屬性防禦盾,符石轉換,首消符石追擊零化",
-  "icon": "es/SI005.png|es/SI304.png|es/SI047.png|es/SI116.png"
+  "icon": "es/SI005.png|es/SI304.png|es/SI047.png|es/SI116.png",
+  "tcicon": "es/SI005.png|es/SI304.png|es/SI047.png|es/SI116.png"
 }

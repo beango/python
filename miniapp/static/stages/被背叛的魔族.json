@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/713i.png"
         },
         {
           "card": "713",
@@ -42,9 +44,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI306.png|es/SI228.png",
+            "tcicon": "es/SI306.png|es/SI228.png",
             "title": "心位置黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/713i.png"
         },
         {
           "card": "715",
@@ -57,9 +61,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI227.png|es/SI034.png",
+            "tcicon": "es/SI227.png|es/SI034.png",
             "title": "迷惑符石 ‧ 首消全光盾"
           },
-          "jd": "R2特性场景特性：10210"
+          "jd": "R2特性场景特性：10210",
+          "cardtcimg": "zhs/715i.png"
         },
         {
           "card": "715",
@@ -72,9 +78,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI005.png|es/SI124.png|es/SI161.png|es/SI156.png",
+            "tcicon": "es/SI005.png|es/SI124.png|es/SI161.png|es/SI156.png",
             "title": "暗屬防禦盾 ‧ 無法控制 ‧ 命懸一線 ‧ (5回回復力變0)"
           },
-          "jd": "R2特性场景特性：10210"
+          "jd": "R2特性场景特性：10210",
+          "cardtcimg": "zhs/715i.png"
         }
       ]
     }

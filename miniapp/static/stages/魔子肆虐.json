@@ -33,7 +33,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "081",
@@ -46,7 +47,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/081i.png"
         },
         {
           "card": "091",
@@ -59,7 +61,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/091i.png"
         },
         {
           "card": "1150",
@@ -72,7 +75,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1150i.png"
         },
         {
           "card": "1503",
@@ -85,7 +89,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1503i.png"
         },
         {
           "card": "1413",
@@ -99,7 +104,8 @@
           "chest": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         }
       ]
     },
@@ -126,7 +132,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "081",
@@ -139,7 +146,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/081i.png"
         },
         {
           "card": "091",
@@ -152,7 +160,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/091i.png"
         },
         {
           "card": "1150",
@@ -165,7 +174,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1150i.png"
         },
         {
           "card": "1503",
@@ -178,7 +188,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1503i.png"
         },
         {
           "card": "1511",
@@ -192,7 +203,8 @@
           "chest": "",
           "note": "{{攻後水縱橫輪轉}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1511i.png"
         }
       ]
     },
@@ -220,7 +232,8 @@
           "chest": "",
           "note": "{{突擊 ‧ 攻後雙重冰封}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1511i.png"
         },
         {
           "card": "071",
@@ -233,7 +246,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "081",
@@ -246,7 +260,8 @@
           "lv": "5",
           "note": "{{強化盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/081i.png"
         },
         {
           "card": "091",
@@ -259,7 +274,8 @@
           "lv": "5",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/091i.png"
         },
         {
           "card": "1150",
@@ -272,7 +288,8 @@
           "lv": "5",
           "note": "{{攻後轉木4}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1150i.png"
         },
         {
           "card": "1503",
@@ -285,7 +302,8 @@
           "lv": "5",
           "note": "{{無限回復}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1503i.png"
         },
         {
           "card": "1171",
@@ -299,7 +317,8 @@
           "chest": "",
           "note": "{{越戰越強 ‧ 金*atk=6318}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1171i.png"
         },
         {
           "card": "1511",
@@ -313,7 +332,8 @@
           "chest": "",
           "note": "{{附加消除重置 ‧  2秒轉珠}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1511i.png"
         }
       ]
     },

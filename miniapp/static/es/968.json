@@ -3,5 +3,6 @@
   "title": "隨機轉光 ‧ 消光減時0.2-1秒",
   "effect": "每回合隨機將 1 種符石轉換為光符石，每消除 1 粒光符石，減少下回合移動符石時間 0.2 秒；消除 1 粒光強化符石，減少下回合移動符石時間 1 秒，每回合移動符石時間最多減至 1 秒",
   "content": "轉換符石,時間改變",
-  "icon": "es/SI304.png|es/SI047.png|es/SI165.png"
+  "icon": "es/SI304.png|es/SI047.png|es/SI165.png",
+  "tcicon": "es/SI304.png|es/SI047.png|es/SI165.png"
 }

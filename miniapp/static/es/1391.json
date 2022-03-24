@@ -3,5 +3,6 @@
   "title": "突擊30% ‧ 首回4顆-每回3顆風化3000 ‧ 無法控制 ‧ 7+Combo追擊盾",
   "effect": "首回合敵人會優先突擊 1 次，並隨機將 4 粒符石風化；其後每回合隨機將 3 粒符石風化。風化符石一經觸碰，即時停止移動符石，並對召喚師造成 3000 點傷害。<br>敵人會無視所有控制技能。<br>7 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊",
   "content": "突擊,風化符石,無法控制,正負Combo盾",
-  "icon": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png"
+  "icon": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png",
+  "tcicon": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png"
 }

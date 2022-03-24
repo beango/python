@@ -3,5 +3,6 @@
   "title": "[7回木攻零化]",
   "effect": "7 回合內，木屬性成員的攻擊力減至 0",
   "content": "攻擊無效",
-  "icon": "es/SI338.png"
+  "icon": "es/SI338.png",
+  "tcicon": "es/SI338.png"
 }

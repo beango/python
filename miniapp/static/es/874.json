@@ -3,5 +3,6 @@
   "title": "軌跡隱藏",
   "effect": "敵人會將移動符石時所觸碰的符石轉化為隱藏符石",
   "content": "隱藏符石",
-  "icon": "es/SI224.png"
+  "icon": "es/SI224.png",
+  "tcicon": "es/SI224.png"
 }

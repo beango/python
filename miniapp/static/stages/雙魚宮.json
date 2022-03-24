@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/27 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[水瓶宮]]」全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -24,7 +32,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "839",
@@ -35,7 +44,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "831",
@@ -46,7 +56,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -58,7 +69,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "832",
@@ -72,9 +84,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/832i.png"
         },
         {
           "card": "832",
@@ -89,9 +103,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/832i.png"
         }
       ]
     },
@@ -119,9 +135,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2114i.png"
         },
         {
           "card": "2114",
@@ -136,9 +154,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI201.png|es/SI113.png|es/SI251.png",
+            "tcicon": "es/SI160.png|es/SI201.png|es/SI113.png|es/SI251.png",
             "title": "突擊10% ‧ 隨機轉黑玫瑰4顆 ‧ 首消水追擊零化 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2114i.png"
         }
       ]
     },
@@ -166,9 +186,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI138.png",
+            "tcicon": "es/SI138.png",
             "title": "龍脈回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/364i.png"
         },
         {
           "card": "2114",
@@ -182,9 +204,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI188.png|es/SI124.png",
             "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2114i.png"
         },
         {
           "card": "2114",
@@ -199,9 +223,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI201.png|es/SI124.png",
+            "tcicon": "es/SI201.png|es/SI124.png",
             "title": "隨機轉白玫瑰1顆-玫瑰轉紅引爆完殺 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2114i.png"
         }
       ]
     },
@@ -227,7 +253,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -239,7 +266,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -251,7 +279,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -263,7 +292,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -275,7 +305,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "686",
@@ -289,9 +320,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI260.png",
+            "tcicon": "es/SI254.png|es/SI260.png",
             "title": "強化盾-反擊100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/686i.png"
         },
         {
           "card": "2128",
@@ -306,9 +339,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2128i.png"
         },
         {
           "card": "2112",
@@ -322,9 +357,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI303.png|es/SI221.png|es/SI047.png|es/SI254.png|es/SI188.png",
+            "tcicon": "es/SI303.png|es/SI221.png|es/SI047.png|es/SI254.png|es/SI188.png",
             "title": "攻後木風化3000縱橫輪轉 ‧ 強化盾 ‧ 血弱20%-狂擊固防5倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2112i.png"
         },
         {
           "card": "2112",
@@ -338,9 +375,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI058.png|es/SI013.png|es/SI260.png",
+            "tcicon": "es/SI159.png|es/SI058.png|es/SI013.png|es/SI260.png",
             "title": "CD1 ‧ 弱轉珠技無效 ‧ 首消木傷害吸收-反擊200%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2112i.png"
         },
         {
           "card": "831",
@@ -352,7 +391,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -364,7 +404,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -376,7 +417,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -388,7 +430,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -400,7 +443,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "2117",
@@ -414,9 +458,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI227.png|es/SI105.png",
+            "tcicon": "es/SI122.png|es/SI227.png|es/SI105.png",
             "title": "5回技能封鎖 ‧ 迷惑符石 ‧ 7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         },
         {
           "card": "2114",
@@ -430,9 +476,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI201.png|es/SI113.png|es/SI251.png",
+            "tcicon": "es/SI160.png|es/SI201.png|es/SI113.png|es/SI251.png",
             "title": "突擊65% ‧ 隨機轉黑玫瑰8顆 ‧ 首消水追擊零化 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2114i.png"
         },
         {
           "card": "2114",
@@ -447,9 +495,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI201.png|es/SI124.png",
+            "tcicon": "es/SI201.png|es/SI124.png",
             "title": "隨機轉白玫瑰3顆-玫瑰轉紅引爆完殺 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2114i.png"
         }
       ]
     }

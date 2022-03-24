@@ -3,5 +3,6 @@
   "title": "2秒轉珠 ‧ 9+Combo追擊盾 ‧ 無法控制",
   "effect": "移動符石時間會縮短至 2 秒。<br>9 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。<br>敵人會無視所有控制技能",
   "content": "時間改變,正負Combo盾,無法控制",
-  "icon": "es/SI165.png|es/SI107.png|es/SI124.png"
+  "icon": "es/SI165.png|es/SI107.png|es/SI124.png",
+  "tcicon": "es/SI165.png|es/SI107.png|es/SI124.png"
 }

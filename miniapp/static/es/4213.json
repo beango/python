@@ -3,5 +3,6 @@
   "title": "軌跡黑白 ‧ 隱藏-結",
   "effect": "持續將移動符石時所觸碰的<br>符石變為黑白色。<br><br>敵人死亡後，<br>將所有符石轉化為隱藏符石",
   "content": "黑白符石,隱藏",
-  "icon": "es/SI215.png|es/SI224.png"
+  "icon": "es/SI215.png|es/SI224.png",
+  "tcicon": "es/SI215.png|es/SI224.png"
 }

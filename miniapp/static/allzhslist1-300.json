@@ -9,6 +9,7 @@
     "skill": "符石解放 ‧ 水",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/001i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -29,6 +30,7 @@
     "skill": "符石解放 ‧ 水",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/002i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -49,6 +51,7 @@
     "skill": "符石解放 ‧ 水",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/003i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -69,6 +72,7 @@
     "skill": "符石激發 ‧ 水",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/004i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -89,6 +93,7 @@
     "skill": "符石解放 ‧ 火",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/005i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -109,6 +114,7 @@
     "skill": "符石解放 ‧ 火",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/006i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -129,6 +135,7 @@
     "skill": "符石解放 ‧ 火",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/007i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -149,6 +156,7 @@
     "skill": "符石激發 ‧ 火",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/008i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -169,6 +177,7 @@
     "skill": "符石解放 ‧ 木",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/009i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -189,6 +198,7 @@
     "skill": "符石解放 ‧ 木",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/010i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -209,6 +219,7 @@
     "skill": "符石解放 ‧ 木",
     "skill1": "",
     "lskill": "森之怒",
+    "tcimg": "static/zhs/011i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -229,6 +240,7 @@
     "skill": "符石激發 ‧ 木",
     "skill1": "",
     "lskill": "森之怒",
+    "tcimg": "static/zhs/012i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -249,6 +261,7 @@
     "skill": "符石解放 ‧ 光",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/013i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -269,6 +282,7 @@
     "skill": "符石解放 ‧ 光",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/014i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -289,6 +303,7 @@
     "skill": "符石解放 ‧ 光",
     "skill1": "",
     "lskill": "聖之怒",
+    "tcimg": "static/zhs/015i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -309,6 +324,7 @@
     "skill": "符石激發 ‧ 光",
     "skill1": "",
     "lskill": "聖之怒",
+    "tcimg": "static/zhs/016i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -329,6 +345,7 @@
     "skill": "符石解放 ‧ 暗",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/017i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -349,6 +366,7 @@
     "skill": "符石解放 ‧ 暗",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/018i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -369,6 +387,7 @@
     "skill": "符石解放 ‧ 暗",
     "skill1": "",
     "lskill": "邪之怒",
+    "tcimg": "static/zhs/019i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -389,6 +408,7 @@
     "skill": "符石激發 ‧ 暗",
     "skill1": "",
     "lskill": "邪之怒",
+    "tcimg": "static/zhs/020i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -409,6 +429,7 @@
     "skill": "攻擊姿勢 ‧ 水",
     "skill1": "",
     "lskill": "龍之怒",
+    "tcimg": "static/zhs/021i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -426,6 +447,7 @@
     "skill": "攻擊姿勢 ‧ 水",
     "skill1": "",
     "lskill": "龍之怒",
+    "tcimg": "static/zhs/022i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -443,6 +465,7 @@
     "skill": "攻擊姿勢 ‧ 水",
     "skill1": "",
     "lskill": "龍之怒",
+    "tcimg": "static/zhs/023i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -460,6 +483,7 @@
     "skill": "攻擊姿勢 ‧ 水",
     "skill1": "",
     "lskill": "龍之狂怒",
+    "tcimg": "static/zhs/024i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -477,6 +501,7 @@
     "skill": "防禦姿勢 ‧ 火",
     "skill1": "",
     "lskill": "野獸之復甦",
+    "tcimg": "static/zhs/025i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -494,6 +519,7 @@
     "skill": "防禦姿勢 ‧ 火",
     "skill1": "",
     "lskill": "野獸之復甦",
+    "tcimg": "static/zhs/026i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -511,6 +537,7 @@
     "skill": "防禦姿勢 ‧ 火",
     "skill1": "",
     "lskill": "野獸之復甦",
+    "tcimg": "static/zhs/027i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -528,6 +555,7 @@
     "skill": "防禦姿勢 ‧ 火",
     "skill1": "",
     "lskill": "野獸之再生",
+    "tcimg": "static/zhs/028i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -545,6 +573,7 @@
     "skill": "防禦壁",
     "skill1": "",
     "lskill": "野獸之血",
+    "tcimg": "static/zhs/029i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -561,6 +590,7 @@
     "skill": "防禦壁",
     "skill1": "",
     "lskill": "野獸之血",
+    "tcimg": "static/zhs/030i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -577,6 +607,7 @@
     "skill": "防禦壁",
     "skill1": "",
     "lskill": "野獸之血",
+    "tcimg": "static/zhs/031i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -593,6 +624,7 @@
     "skill": "防禦壁",
     "skill1": "",
     "lskill": "野獸之意志",
+    "tcimg": "static/zhs/032i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -609,6 +641,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之怒",
+    "tcimg": "static/zhs/033i.png",
     "tags": [
       "破防",
       "增傷",
@@ -625,6 +658,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之怒",
+    "tcimg": "static/zhs/034i.png",
     "tags": [
       "破防",
       "增傷",
@@ -641,6 +675,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之怒",
+    "tcimg": "static/zhs/035i.png",
     "tags": [
       "破防",
       "增傷",
@@ -657,6 +692,7 @@
     "skill": "護牆崩壞",
     "skill1": "",
     "lskill": "野獸之狂怒",
+    "tcimg": "static/zhs/036i.png",
     "tags": [
       "破防",
       "增傷",
@@ -673,6 +709,7 @@
     "skill": "防禦姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "野獸之怒",
+    "tcimg": "static/zhs/037i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -690,6 +727,7 @@
     "skill": "防禦姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "野獸之怒",
+    "tcimg": "static/zhs/038i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -707,6 +745,7 @@
     "skill": "防禦姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "野獸之怒",
+    "tcimg": "static/zhs/039i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -724,6 +763,7 @@
     "skill": "防禦姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "野獸之狂怒",
+    "tcimg": "static/zhs/040i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -741,6 +781,7 @@
     "skill": "水波怒擊",
     "skill1": "",
     "lskill": "水之防壁",
+    "tcimg": "static/zhs/041i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -757,6 +798,7 @@
     "skill": "水波怒擊",
     "skill1": "",
     "lskill": "海森護牆",
+    "tcimg": "static/zhs/042i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -773,6 +815,7 @@
     "skill": "水波爆擊",
     "skill1": "",
     "lskill": "海森闇之壁",
+    "tcimg": "static/zhs/043i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -790,6 +833,7 @@
     "skill": "火焰怒擊",
     "skill1": "",
     "lskill": "火之防壁",
+    "tcimg": "static/zhs/044i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -806,6 +850,7 @@
     "skill": "火焰怒擊",
     "skill1": "",
     "lskill": "炎海護牆",
+    "tcimg": "static/zhs/045i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -822,6 +867,7 @@
     "skill": "火焰爆撃",
     "skill1": "",
     "lskill": "炎海聖之壁",
+    "tcimg": "static/zhs/046i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -839,6 +885,7 @@
     "skill": "大地怒擊",
     "skill1": "",
     "lskill": "木之防壁",
+    "tcimg": "static/zhs/047i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -855,6 +902,7 @@
     "skill": "大地怒擊",
     "skill1": "",
     "lskill": "森炎護牆",
+    "tcimg": "static/zhs/048i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -871,6 +919,7 @@
     "skill": "大地爆擊",
     "skill1": "",
     "lskill": "森炎闇之壁",
+    "tcimg": "static/zhs/049i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -888,6 +937,7 @@
     "skill": "閃光怒擊",
     "skill1": "",
     "lskill": "光之防壁",
+    "tcimg": "static/zhs/050i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -904,6 +954,7 @@
     "skill": "閃光怒擊",
     "skill1": "",
     "lskill": "聖海護牆",
+    "tcimg": "static/zhs/051i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -920,6 +971,7 @@
     "skill": "閃光爆撃",
     "skill1": "",
     "lskill": "聖海森之壁",
+    "tcimg": "static/zhs/052i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -937,6 +989,7 @@
     "skill": "暗影怒擊",
     "skill1": "",
     "lskill": "暗之防壁",
+    "tcimg": "static/zhs/053i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -953,6 +1006,7 @@
     "skill": "暗影怒擊",
     "skill1": "",
     "lskill": "闇炎護牆",
+    "tcimg": "static/zhs/054i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -969,6 +1023,7 @@
     "skill": "暗影爆撃",
     "skill1": "",
     "lskill": "闇炎聖之壁",
+    "tcimg": "static/zhs/055i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -986,6 +1041,7 @@
     "skill": "寒冰一擊",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/056i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1002,6 +1058,7 @@
     "skill": "攻擊姿勢 ‧ 水",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/057i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1019,6 +1076,7 @@
     "skill": "烈炎一擊",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/058i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1035,6 +1093,7 @@
     "skill": "攻擊姿勢 ‧ 火",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/059i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1052,6 +1111,7 @@
     "skill": "旋風一擊",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/060i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1068,6 +1128,7 @@
     "skill": "攻擊姿勢 ‧ 木",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/061i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1085,6 +1146,7 @@
     "skill": "金光一擊",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/062i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1101,6 +1163,7 @@
     "skill": "攻擊姿勢 ‧ 光",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/063i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1118,6 +1181,7 @@
     "skill": "暗色一擊",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/064i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1134,6 +1198,7 @@
     "skill": "攻擊姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/065i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1151,6 +1216,7 @@
     "skill": "生命補充",
     "skill1": "",
     "lskill": "水之制裁",
+    "tcimg": "static/zhs/066i.png",
     "tags": [
       "增回",
       "回血",
@@ -1168,6 +1234,7 @@
     "skill": "超級治療",
     "skill1": "",
     "lskill": "水之制裁",
+    "tcimg": "static/zhs/067i.png",
     "tags": [
       "增回",
       "回血",
@@ -1185,6 +1252,7 @@
     "skill": "生命補充",
     "skill1": "",
     "lskill": "火之制裁",
+    "tcimg": "static/zhs/068i.png",
     "tags": [
       "增回",
       "回血",
@@ -1202,6 +1270,7 @@
     "skill": "超級治療",
     "skill1": "",
     "lskill": "火之制裁",
+    "tcimg": "static/zhs/069i.png",
     "tags": [
       "增回",
       "回血",
@@ -1219,6 +1288,7 @@
     "skill": "生命補充",
     "skill1": "",
     "lskill": "木之制裁",
+    "tcimg": "static/zhs/070i.png",
     "tags": [
       "增回",
       "回血",
@@ -1236,6 +1306,7 @@
     "skill": "超級治療",
     "skill1": "",
     "lskill": "木之制裁",
+    "tcimg": "static/zhs/071i.png",
     "tags": [
       "增回",
       "回血",
@@ -1253,6 +1324,7 @@
     "skill": "生命補充",
     "skill1": "",
     "lskill": "光之制裁",
+    "tcimg": "static/zhs/072i.png",
     "tags": [
       "增回",
       "回血",
@@ -1270,6 +1342,7 @@
     "skill": "超級治療",
     "skill1": "",
     "lskill": "光之制裁",
+    "tcimg": "static/zhs/073i.png",
     "tags": [
       "增回",
       "回血",
@@ -1287,6 +1360,7 @@
     "skill": "生命補充",
     "skill1": "",
     "lskill": "暗之制裁",
+    "tcimg": "static/zhs/074i.png",
     "tags": [
       "增回",
       "回血",
@@ -1304,6 +1378,7 @@
     "skill": "超級治療",
     "skill1": "",
     "lskill": "暗之制裁",
+    "tcimg": "static/zhs/075i.png",
     "tags": [
       "增回",
       "回血",
@@ -1321,6 +1396,7 @@
     "skill": "寒冰一擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/076i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1337,6 +1413,7 @@
     "skill": "寒冰強擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/077i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1353,6 +1430,7 @@
     "skill": "烈炎一擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/078i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1369,6 +1447,7 @@
     "skill": "烈炎強擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/079i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1385,6 +1464,7 @@
     "skill": "旋風一擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/080i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1401,6 +1481,7 @@
     "skill": "旋風強擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/081i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1417,6 +1498,7 @@
     "skill": "金光一擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/082i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1433,6 +1515,7 @@
     "skill": "金光強擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/083i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1449,6 +1532,7 @@
     "skill": "暗色一擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/084i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1465,6 +1549,7 @@
     "skill": "暗色強擊",
     "skill1": "",
     "lskill": "龍之力",
+    "tcimg": "static/zhs/085i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1481,6 +1566,7 @@
     "skill": "流水連擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/086i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1497,6 +1583,7 @@
     "skill": "流水狂擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/087i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1513,6 +1600,7 @@
     "skill": "烈焰連擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/088i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1529,6 +1617,7 @@
     "skill": "烈焰狂擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/089i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1545,6 +1634,7 @@
     "skill": "片葉連擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/090i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1561,6 +1651,7 @@
     "skill": "片葉狂擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/091i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1577,6 +1668,7 @@
     "skill": "光刃連擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/092i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1593,6 +1685,7 @@
     "skill": "光刃狂擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/093i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1609,6 +1702,7 @@
     "skill": "暗戈連擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/094i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1625,6 +1719,7 @@
     "skill": "暗戈狂擊",
     "skill1": "",
     "lskill": "人類之力",
+    "tcimg": "static/zhs/095i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1641,6 +1736,7 @@
     "skill": "流水連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/096i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1657,6 +1753,7 @@
     "skill": "防禦姿勢 ‧ 水",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/097i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1674,6 +1771,7 @@
     "skill": "烈焰連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/098i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1690,6 +1788,7 @@
     "skill": "防禦姿勢 ‧ 火",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/099i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1707,6 +1806,7 @@
     "skill": "片葉連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/100i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1723,6 +1823,7 @@
     "skill": "防禦姿勢 ‧ 木",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/101i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1740,6 +1841,7 @@
     "skill": "光刃連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/102i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1756,6 +1858,7 @@
     "skill": "防禦姿勢 ‧ 光",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/103i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1773,6 +1876,7 @@
     "skill": "暗戈連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/104i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1789,6 +1893,7 @@
     "skill": "防禦姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/105i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -1806,6 +1911,7 @@
     "skill": "寒冰一擊",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/106i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1822,6 +1928,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/107i.png",
     "tags": [
       "破防",
       "增傷",
@@ -1838,6 +1945,7 @@
     "skill": "烈炎一擊",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/108i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1854,6 +1962,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/109i.png",
     "tags": [
       "破防",
       "增傷",
@@ -1870,6 +1979,7 @@
     "skill": "旋風一擊",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/110i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1886,6 +1996,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/111i.png",
     "tags": [
       "破防",
       "增傷",
@@ -1902,6 +2013,7 @@
     "skill": "金光一擊",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/112i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1918,6 +2030,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/113i.png",
     "tags": [
       "破防",
       "增傷",
@@ -1934,6 +2047,7 @@
     "skill": "暗色一擊",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/114i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -1950,6 +2064,7 @@
     "skill": "裝甲破壞",
     "skill1": "",
     "lskill": "野獸之力",
+    "tcimg": "static/zhs/115i.png",
     "tags": [
       "破防",
       "增傷",
@@ -1966,6 +2081,7 @@
     "skill": "凍結",
     "skill1": "",
     "lskill": "攻守一體 ‧ 水",
+    "tcimg": "static/zhs/116i.png",
     "tags": [
       "風化符石處理",
       "無法行動",
@@ -1985,6 +2101,7 @@
     "skill": "凍結",
     "skill1": "",
     "lskill": "攻守一體 ‧ 水",
+    "tcimg": "static/zhs/117i.png",
     "tags": [
       "風化符石處理",
       "無法行動",
@@ -2004,6 +2121,7 @@
     "skill": "凍結",
     "skill1": "",
     "lskill": "攻守一體 ‧ 水",
+    "tcimg": "static/zhs/118i.png",
     "tags": [
       "風化符石處理",
       "無法行動",
@@ -2023,6 +2141,7 @@
     "skill": "加速世界",
     "skill1": "",
     "lskill": "攻守一體 ‧ 火",
+    "tcimg": "static/zhs/119i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2040,6 +2159,7 @@
     "skill": "疾風境界",
     "skill1": "",
     "lskill": "攻守一體 ‧ 火",
+    "tcimg": "static/zhs/120i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2057,6 +2177,7 @@
     "skill": "時間操縱",
     "skill1": "",
     "lskill": "攻守一體 ‧ 火",
+    "tcimg": "static/zhs/121i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2074,6 +2195,7 @@
     "skill": "寄生",
     "skill1": "",
     "lskill": "攻守一體 ‧ 木",
+    "tcimg": "static/zhs/122i.png",
     "tags": [
       "指定符石引爆",
       "回血",
@@ -2094,6 +2216,7 @@
     "skill": "寄生",
     "skill1": "",
     "lskill": "攻守一體 ‧ 木",
+    "tcimg": "static/zhs/123i.png",
     "tags": [
       "指定符石引爆",
       "回血",
@@ -2114,6 +2237,7 @@
     "skill": "寄生",
     "skill1": "",
     "lskill": "攻守一體 ‧ 木",
+    "tcimg": "static/zhs/124i.png",
     "tags": [
       "指定符石引爆",
       "回血",
@@ -2134,6 +2258,7 @@
     "skill": "神聖結界",
     "skill1": "",
     "lskill": "治療之心",
+    "tcimg": "static/zhs/125i.png",
     "tags": [
       "回血",
       "增傷",
@@ -2150,6 +2275,7 @@
     "skill": "神聖結界",
     "skill1": "",
     "lskill": "治療之心",
+    "tcimg": "static/zhs/126i.png",
     "tags": [
       "回血",
       "增傷",
@@ -2166,6 +2292,7 @@
     "skill": "神聖結界",
     "skill1": "",
     "lskill": "痊癒之心",
+    "tcimg": "static/zhs/127i.png",
     "tags": [
       "回血",
       "增傷",
@@ -2182,6 +2309,7 @@
     "skill": "毒害",
     "skill1": "",
     "lskill": "靈魂收割 ‧ 起",
+    "tcimg": "static/zhs/128i.png",
     "tags": [
       "指定符石引爆",
       "破防",
@@ -2202,6 +2330,7 @@
     "skill": "毒害",
     "skill1": "",
     "lskill": "靈魂收割 ‧ 狙",
+    "tcimg": "static/zhs/129i.png",
     "tags": [
       "指定符石引爆",
       "破防",
@@ -2222,6 +2351,7 @@
     "skill": "毒害",
     "skill1": "",
     "lskill": "靈魂收割 ‧ 結",
+    "tcimg": "static/zhs/130i.png",
     "tags": [
       "指定符石引爆",
       "破防",
@@ -2242,6 +2372,7 @@
     "skill": "大海之壁",
     "skill1": "",
     "lskill": "不倒意志",
+    "tcimg": "static/zhs/131i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -2258,6 +2389,7 @@
     "skill": "大海之壁",
     "skill1": "",
     "lskill": "不倒意志",
+    "tcimg": "static/zhs/132i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -2274,6 +2406,7 @@
     "skill": "大海之壁",
     "skill1": "",
     "lskill": "絕境意志",
+    "tcimg": "static/zhs/133i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -2290,6 +2423,7 @@
     "skill": "橫掃千軍",
     "skill1": "",
     "lskill": "狐仙軍神",
+    "tcimg": "static/zhs/134i.png",
     "tags": [
       "破防",
       "直傷",
@@ -2309,6 +2443,7 @@
     "skill": "橫掃千軍",
     "skill1": "",
     "lskill": "狐仙軍神",
+    "tcimg": "static/zhs/135i.png",
     "tags": [
       "破防",
       "直傷",
@@ -2328,6 +2463,7 @@
     "skill": "橫掃千軍",
     "skill1": "",
     "lskill": "狐仙軍神",
+    "tcimg": "static/zhs/136i.png",
     "tags": [
       "破防",
       "直傷",
@@ -2347,6 +2483,7 @@
     "skill": "引弓狙擊",
     "skill1": "",
     "lskill": "矢無虛發",
+    "tcimg": "static/zhs/137i.png",
     "tags": [
       "破防",
       "直傷",
@@ -2366,6 +2503,7 @@
     "skill": "引弓狙擊",
     "skill1": "",
     "lskill": "矢無虛發",
+    "tcimg": "static/zhs/138i.png",
     "tags": [
       "破防",
       "直傷",
@@ -2385,6 +2523,7 @@
     "skill": "引弓狙擊",
     "skill1": "",
     "lskill": "百步穿楊",
+    "tcimg": "static/zhs/139i.png",
     "tags": [
       "破防",
       "直傷",
@@ -2404,6 +2543,7 @@
     "skill": "完全回復",
     "skill1": "",
     "lskill": "人之血脈",
+    "tcimg": "static/zhs/140i.png",
     "tags": [
       "回血",
       "增傷",
@@ -2420,6 +2560,7 @@
     "skill": "完全回復",
     "skill1": "",
     "lskill": "人之血脈",
+    "tcimg": "static/zhs/141i.png",
     "tags": [
       "回血",
       "增傷",
@@ -2436,6 +2577,7 @@
     "skill": "完全回復",
     "skill1": "",
     "lskill": "人類之意志",
+    "tcimg": "static/zhs/142i.png",
     "tags": [
       "回血",
       "增傷",
@@ -2452,6 +2594,7 @@
     "skill": "生命終解",
     "skill1": "",
     "lskill": "亡命攻擊",
+    "tcimg": "static/zhs/143i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -2467,6 +2610,7 @@
     "skill": "生命終解",
     "skill1": "",
     "lskill": "亡命攻擊",
+    "tcimg": "static/zhs/144i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -2482,6 +2626,7 @@
     "skill": "生命終解",
     "skill1": "",
     "lskill": "木馬屠城計",
+    "tcimg": "static/zhs/145i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -2497,6 +2642,7 @@
     "skill": "符石變換 ‧ 水",
     "skill1": "",
     "lskill": "水之代價",
+    "tcimg": "static/zhs/146i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2514,6 +2660,7 @@
     "skill": "符石變換 ‧ 水",
     "skill1": "",
     "lskill": "水之代價",
+    "tcimg": "static/zhs/147i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2531,6 +2678,7 @@
     "skill": "符石變換 ‧ 水",
     "skill1": "",
     "lskill": "水之代價",
+    "tcimg": "static/zhs/148i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2548,6 +2696,7 @@
     "skill": "符石變換 ‧ 火",
     "skill1": "",
     "lskill": "灼熱境界",
+    "tcimg": "static/zhs/149i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2565,6 +2714,7 @@
     "skill": "符石變換 ‧ 火",
     "skill1": "",
     "lskill": "灼熱境界",
+    "tcimg": "static/zhs/150i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2582,6 +2732,7 @@
     "skill": "符石變換 ‧ 火",
     "skill1": "",
     "lskill": "燎原境界",
+    "tcimg": "static/zhs/151i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2599,6 +2750,7 @@
     "skill": "符石變換 ‧ 木",
     "skill1": "",
     "lskill": "兩儀",
+    "tcimg": "static/zhs/152i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2616,6 +2768,7 @@
     "skill": "符石變換 ‧ 木",
     "skill1": "",
     "lskill": "兩儀",
+    "tcimg": "static/zhs/153i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2633,6 +2786,7 @@
     "skill": "符石變換 ‧ 木",
     "skill1": "",
     "lskill": "兩儀",
+    "tcimg": "static/zhs/154i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2650,6 +2804,7 @@
     "skill": "符石變換 ‧ 光",
     "skill1": "",
     "lskill": "光明代價",
+    "tcimg": "static/zhs/155i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2667,6 +2822,7 @@
     "skill": "符石變換 ‧ 光",
     "skill1": "",
     "lskill": "光明代價",
+    "tcimg": "static/zhs/156i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2684,6 +2840,7 @@
     "skill": "符石變換 ‧ 光",
     "skill1": "",
     "lskill": "光明代價",
+    "tcimg": "static/zhs/157i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2701,6 +2858,7 @@
     "skill": "符石變換 ‧ 暗",
     "skill1": "",
     "lskill": "暗黑代價",
+    "tcimg": "static/zhs/158i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2718,6 +2876,7 @@
     "skill": "符石變換 ‧ 暗",
     "skill1": "",
     "lskill": "暗黑代價",
+    "tcimg": "static/zhs/159i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2735,6 +2894,7 @@
     "skill": "符石變換 ‧ 暗",
     "skill1": "",
     "lskill": "暗黑代價",
+    "tcimg": "static/zhs/160i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -2752,6 +2912,7 @@
     "skill": "水波猛擊",
     "skill1": "",
     "lskill": "水之制裁",
+    "tcimg": "static/zhs/161i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2768,6 +2929,7 @@
     "skill": "水波猛擊",
     "skill1": "",
     "lskill": "水之制裁",
+    "tcimg": "static/zhs/162i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2784,6 +2946,7 @@
     "skill": "水波轟擊",
     "skill1": "",
     "lskill": "水之制裁",
+    "tcimg": "static/zhs/163i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2800,6 +2963,7 @@
     "skill": "火焰猛擊",
     "skill1": "",
     "lskill": "火之制裁",
+    "tcimg": "static/zhs/164i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2816,6 +2980,7 @@
     "skill": "火焰猛擊",
     "skill1": "",
     "lskill": "火之制裁",
+    "tcimg": "static/zhs/165i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2832,6 +2997,7 @@
     "skill": "火焰轟擊",
     "skill1": "",
     "lskill": "火之制裁",
+    "tcimg": "static/zhs/166i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2848,6 +3014,7 @@
     "skill": "大地猛擊",
     "skill1": "",
     "lskill": "木之制裁",
+    "tcimg": "static/zhs/167i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2864,6 +3031,7 @@
     "skill": "大地猛擊",
     "skill1": "",
     "lskill": "木之制裁",
+    "tcimg": "static/zhs/168i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2880,6 +3048,7 @@
     "skill": "大地轟擊",
     "skill1": "",
     "lskill": "木之制裁",
+    "tcimg": "static/zhs/169i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2896,6 +3065,7 @@
     "skill": "閃光猛擊",
     "skill1": "",
     "lskill": "光之制裁",
+    "tcimg": "static/zhs/170i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2912,6 +3082,7 @@
     "skill": "閃光猛擊",
     "skill1": "",
     "lskill": "光之制裁",
+    "tcimg": "static/zhs/171i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2928,6 +3099,7 @@
     "skill": "閃光轟擊",
     "skill1": "",
     "lskill": "光之制裁",
+    "tcimg": "static/zhs/172i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2944,6 +3116,7 @@
     "skill": "暗影猛擊",
     "skill1": "",
     "lskill": "暗之制裁",
+    "tcimg": "static/zhs/173i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2960,6 +3133,7 @@
     "skill": "暗影猛擊",
     "skill1": "",
     "lskill": "暗之制裁",
+    "tcimg": "static/zhs/174i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2976,6 +3150,7 @@
     "skill": "暗影轟擊",
     "skill1": "",
     "lskill": "暗之制裁",
+    "tcimg": "static/zhs/175i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -2992,6 +3167,7 @@
     "skill": "防禦姿勢 ‧ 水",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/176i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3009,6 +3185,7 @@
     "skill": "防禦姿勢 ‧ 水",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/177i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3026,6 +3203,7 @@
     "skill": "防禦姿勢 ‧ 水",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/178i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3043,6 +3221,7 @@
     "skill": "攻擊姿勢 ‧ 火",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/179i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3060,6 +3239,7 @@
     "skill": "攻擊姿勢 ‧ 火",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/180i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3077,6 +3257,7 @@
     "skill": "攻擊姿勢 ‧ 火",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/181i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3094,6 +3275,7 @@
     "skill": "石化",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/182i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3114,6 +3296,7 @@
     "skill": "石化",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/183i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3134,6 +3317,7 @@
     "skill": "石化",
     "skill1": "",
     "lskill": "森之怒",
+    "tcimg": "static/zhs/184i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3154,6 +3338,7 @@
     "skill": "防禦姿勢 ‧ 光",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/185i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3171,6 +3356,7 @@
     "skill": "防禦姿勢 ‧ 光",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/186i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3188,6 +3374,7 @@
     "skill": "防禦姿勢 ‧ 光",
     "skill1": "",
     "lskill": "聖之怒",
+    "tcimg": "static/zhs/187i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3205,6 +3392,7 @@
     "skill": "攻擊姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/188i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3222,6 +3410,7 @@
     "skill": "攻擊姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/189i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3239,6 +3428,7 @@
     "skill": "攻擊姿勢 ‧ 暗",
     "skill1": "",
     "lskill": "邪之怒",
+    "tcimg": "static/zhs/190i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3256,6 +3446,7 @@
     "skill": "水屬印記",
     "skill1": "",
     "lskill": "水之驅動",
+    "tcimg": "static/zhs/191i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3271,6 +3462,7 @@
     "skill": "水屬印記",
     "skill1": "",
     "lskill": "水之連動",
+    "tcimg": "static/zhs/192i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3286,6 +3478,7 @@
     "skill": "火屬印記",
     "skill1": "",
     "lskill": "火之驅動",
+    "tcimg": "static/zhs/193i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3301,6 +3494,7 @@
     "skill": "火屬印記",
     "skill1": "",
     "lskill": "火之連動",
+    "tcimg": "static/zhs/194i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3316,6 +3510,7 @@
     "skill": "木屬印記",
     "skill1": "",
     "lskill": "木之驅動",
+    "tcimg": "static/zhs/195i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3331,6 +3526,7 @@
     "skill": "木屬印記",
     "skill1": "",
     "lskill": "木之連動",
+    "tcimg": "static/zhs/196i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3346,6 +3542,7 @@
     "skill": "光屬印記",
     "skill1": "",
     "lskill": "光之驅動",
+    "tcimg": "static/zhs/197i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3361,6 +3558,7 @@
     "skill": "光屬印記",
     "skill1": "",
     "lskill": "光之連動",
+    "tcimg": "static/zhs/198i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3376,6 +3574,7 @@
     "skill": "暗屬印記",
     "skill1": "",
     "lskill": "暗之驅動",
+    "tcimg": "static/zhs/199i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3391,6 +3590,7 @@
     "skill": "暗屬印記",
     "skill1": "",
     "lskill": "暗之連動",
+    "tcimg": "static/zhs/200i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -3406,6 +3606,7 @@
     "skill": "符石強化 ‧ 水",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/201i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3425,6 +3626,7 @@
     "skill": "符石強化 ‧ 水",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/202i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3444,6 +3646,7 @@
     "skill": "符石強化 ‧ 火",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/203i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3463,6 +3666,7 @@
     "skill": "符石強化 ‧ 火",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/204i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3482,6 +3686,7 @@
     "skill": "符石強化 ‧ 木",
     "skill1": "",
     "lskill": "森之怒",
+    "tcimg": "static/zhs/205i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3501,6 +3706,7 @@
     "skill": "符石強化 ‧ 木",
     "skill1": "",
     "lskill": "森之怒",
+    "tcimg": "static/zhs/206i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3520,6 +3726,7 @@
     "skill": "符石強化 ‧ 光",
     "skill1": "",
     "lskill": "聖之怒",
+    "tcimg": "static/zhs/207i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3539,6 +3746,7 @@
     "skill": "符石強化 ‧ 光",
     "skill1": "",
     "lskill": "聖之怒",
+    "tcimg": "static/zhs/208i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3558,6 +3766,7 @@
     "skill": "符石強化 ‧ 暗",
     "skill1": "",
     "lskill": "邪之怒",
+    "tcimg": "static/zhs/209i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3577,6 +3786,7 @@
     "skill": "符石強化 ‧ 暗",
     "skill1": "",
     "lskill": "邪之怒",
+    "tcimg": "static/zhs/210i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3596,6 +3806,7 @@
     "skill": "符石解放 ‧ 水",
     "skill1": "",
     "lskill": "水之制裁",
+    "tcimg": "static/zhs/211i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3616,6 +3827,7 @@
     "skill": "符石極限解放 ‧ 水",
     "skill1": "",
     "lskill": "水之審判",
+    "tcimg": "static/zhs/212i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3637,6 +3849,7 @@
     "skill": "符石解放 ‧ 火",
     "skill1": "",
     "lskill": "火之制裁",
+    "tcimg": "static/zhs/213i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3657,6 +3870,7 @@
     "skill": "符石極限解放 ‧ 火",
     "skill1": "",
     "lskill": "火之審判",
+    "tcimg": "static/zhs/214i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3678,6 +3892,7 @@
     "skill": "符石解放 ‧ 木",
     "skill1": "",
     "lskill": "木之制裁",
+    "tcimg": "static/zhs/215i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3698,6 +3913,7 @@
     "skill": "符石極限解放 ‧ 木",
     "skill1": "",
     "lskill": "木之審判",
+    "tcimg": "static/zhs/216i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3719,6 +3935,7 @@
     "skill": "符石解放 ‧ 光",
     "skill1": "",
     "lskill": "光之制裁",
+    "tcimg": "static/zhs/217i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3739,6 +3956,7 @@
     "skill": "符石極限解放 ‧ 光",
     "skill1": "",
     "lskill": "光之審判",
+    "tcimg": "static/zhs/218i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3760,6 +3978,7 @@
     "skill": "符石解放 ‧ 暗",
     "skill1": "",
     "lskill": "暗之制裁",
+    "tcimg": "static/zhs/219i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3780,6 +3999,7 @@
     "skill": "符石極限解放 ‧ 暗",
     "skill1": "",
     "lskill": "暗之審判",
+    "tcimg": "static/zhs/220i.png",
     "tags": [
       "引爆",
       "指定符石引爆",
@@ -3801,6 +4021,7 @@
     "skill": "海洋大號令",
     "skill1": "",
     "lskill": "龍之怒",
+    "tcimg": "static/zhs/221i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3819,6 +4040,7 @@
     "skill": "海洋大號令",
     "skill1": "",
     "lskill": "海龍王之怒",
+    "tcimg": "static/zhs/222i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3837,6 +4059,7 @@
     "skill": "焚燒大號令",
     "skill1": "",
     "lskill": "燎原境界",
+    "tcimg": "static/zhs/223i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3855,6 +4078,7 @@
     "skill": "焚燒大號令",
     "skill1": "",
     "lskill": "獄炎境界",
+    "tcimg": "static/zhs/224i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3873,6 +4097,7 @@
     "skill": "自然大號令",
     "skill1": "",
     "lskill": "野獸之怒",
+    "tcimg": "static/zhs/225i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3891,6 +4116,7 @@
     "skill": "自然大號令",
     "skill1": "",
     "lskill": "牛魔王之怒",
+    "tcimg": "static/zhs/226i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3909,6 +4135,7 @@
     "skill": "金睛火眼",
     "skill1": "",
     "lskill": "金剛不壞",
+    "tcimg": "static/zhs/227i.png",
     "tags": [
       "破防",
       "增傷",
@@ -3925,6 +4152,7 @@
     "skill": "金睛火眼",
     "skill1": "",
     "lskill": "金剛不壞",
+    "tcimg": "static/zhs/228i.png",
     "tags": [
       "破防",
       "增傷",
@@ -3941,6 +4169,7 @@
     "skill": "疾風境界",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/229i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3958,6 +4187,7 @@
     "skill": "顛倒眾生",
     "skill1": "",
     "lskill": "傾國傾城",
+    "tcimg": "static/zhs/230i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -3975,6 +4205,7 @@
     "skill": "水波轟擊",
     "skill1": "",
     "lskill": "暴擊",
+    "tcimg": "static/zhs/231i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -3991,6 +4222,7 @@
     "skill": "水波爆擊",
     "skill1": "",
     "lskill": "致命暴擊",
+    "tcimg": "static/zhs/232i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4008,6 +4240,7 @@
     "skill": "火焰轟擊",
     "skill1": "",
     "lskill": "暴擊",
+    "tcimg": "static/zhs/233i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4024,6 +4257,7 @@
     "skill": "火焰爆撃",
     "skill1": "",
     "lskill": "致命暴擊",
+    "tcimg": "static/zhs/234i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4041,6 +4275,7 @@
     "skill": "大地轟擊",
     "skill1": "",
     "lskill": "暴擊",
+    "tcimg": "static/zhs/235i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4057,6 +4292,7 @@
     "skill": "大地爆擊",
     "skill1": "",
     "lskill": "致命暴擊",
+    "tcimg": "static/zhs/236i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4074,6 +4310,7 @@
     "skill": "閃光轟擊",
     "skill1": "",
     "lskill": "暴擊",
+    "tcimg": "static/zhs/237i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4090,6 +4327,7 @@
     "skill": "閃光爆撃",
     "skill1": "",
     "lskill": "致命暴擊",
+    "tcimg": "static/zhs/238i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4107,6 +4345,7 @@
     "skill": "暗影轟擊",
     "skill1": "",
     "lskill": "暴擊",
+    "tcimg": "static/zhs/239i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4123,6 +4362,7 @@
     "skill": "暗影爆撃",
     "skill1": "",
     "lskill": "致命暴擊",
+    "tcimg": "static/zhs/240i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4140,6 +4380,7 @@
     "skill": "水波攻擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/241i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4156,6 +4397,7 @@
     "skill": "火焰攻擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/242i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4172,6 +4414,7 @@
     "skill": "大地攻擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/243i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4188,6 +4431,7 @@
     "skill": "閃光攻擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/244i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4204,6 +4448,7 @@
     "skill": "暗影攻擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/245i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4220,6 +4465,7 @@
     "skill": "水波攻擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/246i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4236,6 +4482,7 @@
     "skill": "火焰攻擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/247i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4252,6 +4499,7 @@
     "skill": "大地攻擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/248i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4268,6 +4516,7 @@
     "skill": "閃光攻擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/249i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4284,6 +4533,7 @@
     "skill": "暗影攻擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/250i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4300,6 +4550,7 @@
     "skill": "水波攻擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/251i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4316,6 +4567,7 @@
     "skill": "火焰攻擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/252i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4332,6 +4584,7 @@
     "skill": "大地攻擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/253i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4348,6 +4601,7 @@
     "skill": "閃光攻擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/254i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4364,6 +4618,7 @@
     "skill": "暗影攻擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/255i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4380,6 +4635,7 @@
     "skill": "水波攻擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/256i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4396,6 +4652,7 @@
     "skill": "火焰攻擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/257i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4412,6 +4669,7 @@
     "skill": "大地攻擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/258i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4428,6 +4686,7 @@
     "skill": "閃光攻擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/259i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4444,6 +4703,7 @@
     "skill": "暗影攻擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/260i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4460,6 +4720,7 @@
     "skill": "防禦壁",
     "skill1": "",
     "lskill": "不倒意志",
+    "tcimg": "static/zhs/261i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -4476,6 +4737,7 @@
     "skill": "防禦壁",
     "skill1": "",
     "lskill": "不倒意志",
+    "tcimg": "static/zhs/262i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -4492,6 +4754,7 @@
     "skill": "防禦壁",
     "skill1": "",
     "lskill": "不倒意志",
+    "tcimg": "static/zhs/263i.png",
     "tags": [
       "減傷",
       "增傷",
@@ -4508,6 +4771,7 @@
     "skill": "烈焰連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/264i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4524,6 +4788,7 @@
     "skill": "烈焰連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/265i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4540,6 +4805,7 @@
     "skill": "烈焰連擊",
     "skill1": "",
     "lskill": "進擊支援",
+    "tcimg": "static/zhs/266i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4556,6 +4822,7 @@
     "skill": "寄生",
     "skill1": "",
     "lskill": "野獸之血",
+    "tcimg": "static/zhs/267i.png",
     "tags": [
       "指定符石引爆",
       "回血",
@@ -4576,6 +4843,7 @@
     "skill": "寄生",
     "skill1": "",
     "lskill": "野獸之血",
+    "tcimg": "static/zhs/268i.png",
     "tags": [
       "指定符石引爆",
       "回血",
@@ -4596,6 +4864,7 @@
     "skill": "寄生",
     "skill1": "",
     "lskill": "野獸之血",
+    "tcimg": "static/zhs/269i.png",
     "tags": [
       "指定符石引爆",
       "回血",
@@ -4616,6 +4885,7 @@
     "skill": "水波攻擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/270i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4632,6 +4902,7 @@
     "skill": "火焰攻擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/271i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4648,6 +4919,7 @@
     "skill": "大地攻擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/272i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4664,6 +4936,7 @@
     "skill": "閃光攻擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/273i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4680,6 +4953,7 @@
     "skill": "暗影攻擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/274i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4696,6 +4970,7 @@
     "skill": "水波攻擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/275i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4712,6 +4987,7 @@
     "skill": "火焰攻擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/276i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4728,6 +5004,7 @@
     "skill": "大地攻擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/277i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4744,6 +5021,7 @@
     "skill": "閃光攻擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/278i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4760,6 +5038,7 @@
     "skill": "暗影攻擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/279i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4776,6 +5055,7 @@
     "skill": "水波攻擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/280i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4792,6 +5072,7 @@
     "skill": "火焰攻擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/281i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4808,6 +5089,7 @@
     "skill": "大地攻擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/282i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4824,6 +5106,7 @@
     "skill": "閃光攻擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/283i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4840,6 +5123,7 @@
     "skill": "暗影攻擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/284i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4856,6 +5140,7 @@
     "skill": "偷天換日 ‧ 心",
     "skill1": "",
     "lskill": "罪之代價",
+    "tcimg": "static/zhs/285i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4874,6 +5159,7 @@
     "skill": "完全回復",
     "skill1": "",
     "lskill": "妖精之舞",
+    "tcimg": "static/zhs/286i.png",
     "tags": [
       "回血",
       "增傷",
@@ -4890,6 +5176,7 @@
     "skill": "絕地逢生",
     "skill1": "",
     "lskill": "絕境意志",
+    "tcimg": "static/zhs/287i.png",
     "tags": [
       "增攻",
       "增傷",
@@ -4906,6 +5193,7 @@
     "skill": "聖神大號令",
     "skill1": "",
     "lskill": "一念之間",
+    "tcimg": "static/zhs/288i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4924,6 +5212,7 @@
     "skill": "邪魔大號令",
     "skill1": "",
     "lskill": "一念之間",
+    "tcimg": "static/zhs/289i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4942,6 +5231,7 @@
     "skill": "靈之活 ‧ 龍",
     "skill1": "",
     "lskill": "歃血之盟",
+    "tcimg": "static/zhs/290i.png",
     "tags": [
       "回血",
       "增傷",
@@ -4960,6 +5250,7 @@
     "skill": "暗影猛擊",
     "skill1": "",
     "lskill": "邪之怒",
+    "tcimg": "static/zhs/291i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4976,6 +5267,7 @@
     "skill": "石化",
     "skill1": "",
     "lskill": "痊癒之心",
+    "tcimg": "static/zhs/292i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4996,6 +5288,7 @@
     "skill": "魔力召喚",
     "skill1": "",
     "lskill": "光暗一體",
+    "tcimg": "static/zhs/293i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5018,6 +5311,7 @@
     "skill": "泡沫爆破",
     "skill1": "",
     "lskill": "妖精之歌",
+    "tcimg": "static/zhs/294i.png",
     "tags": [
       "指定符石引爆",
       "增傷",
@@ -5035,6 +5329,7 @@
     "skill": "泡沫爆破",
     "skill1": "",
     "lskill": "妖精之歌",
+    "tcimg": "static/zhs/295i.png",
     "tags": [
       "指定符石引爆",
       "增傷",
@@ -5052,6 +5347,7 @@
     "skill": "泡沫爆破",
     "skill1": "",
     "lskill": "妖精領域",
+    "tcimg": "static/zhs/296i.png",
     "tags": [
       "指定符石引爆",
       "增傷",
@@ -5069,6 +5365,7 @@
     "skill": "點燃",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/297i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -5088,6 +5385,7 @@
     "skill": "點燃",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/298i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -5107,6 +5405,7 @@
     "skill": "點燃",
     "skill1": "",
     "lskill": "妖精之怒",
+    "tcimg": "static/zhs/299i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -5126,6 +5425,7 @@
     "skill": "生命採摘",
     "skill1": "",
     "lskill": "妖精之心",
+    "tcimg": "static/zhs/300i.png",
     "tags": [
       "風化符石處理",
       "回血",

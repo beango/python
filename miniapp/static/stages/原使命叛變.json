@@ -1,5 +1,122 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2021/1/6",
+      "end": "2021/1/12",
+      "note": "僅開放台港澳新馬泰地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
-  "stages": []
+  "stages": [
+    {
+      "id": "2625",
+      "title": "致命的巨盾 困難",
+      "note": "<span style=\"font-size:12pt; color:yellow\">限時︰5 分鐘</span><br>",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sp": "1",
+        "battle": "20",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "1860",
+          "stage": "1",
+          "damage": "21035",
+          "turn": "2(2)",
+          "hp": "13151870",
+          "def": "20000",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1863",
+          "stage": "",
+          "damage": "10694",
+          "turn": "1(1)",
+          "hp": "13093540",
+          "def": "18000",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "2625",
+          "stage": "20",
+          "damage": "30839",
+          "turn": "1(1)",
+          "hp": "859782520",
+          "def": "940000",
+          "coin": "",
+          "es": "4517",
+          "note": "",
+          "esjson": {
+            "img": "",
+            "title": "敵技4517"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "2625",
+      "title": "致命的巨盾 一般",
+      "note": "<span style=\"font-size:12pt; color:yellow\">限時︰5 分鐘</span><br>",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sp": "2",
+        "battle": "20",
+        "exp": "0"
+      },
+      "data": [
+        {
+          "card": "1860",
+          "stage": "1",
+          "damage": "14093",
+          "turn": "2(2)",
+          "hp": "8811750",
+          "def": "20000",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "1863",
+          "stage": "",
+          "damage": "10694",
+          "turn": "1(1)",
+          "hp": "8772670",
+          "def": "18000",
+          "coin": "",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "2625",
+          "stage": "20",
+          "damage": "20662",
+          "turn": "1(1)",
+          "hp": "576054280",
+          "def": "940000",
+          "coin": "",
+          "es": "4516",
+          "note": "",
+          "esjson": {
+            "img": "",
+            "title": "敵技4516"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
 }

@@ -3,5 +3,6 @@
   "title": "無法控制",
   "effect": "敵人會無視所有控制技能",
   "content": "無法控制",
-  "icon": "es/SI124.png"
+  "icon": "es/SI124.png",
+  "tcicon": "es/SI124.png"
 }

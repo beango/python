@@ -33,7 +33,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8030i.png"
         },
         {
           "card": "8031",
@@ -46,7 +47,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8031i.png"
         },
         {
           "card": "8033",
@@ -59,7 +61,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8033i.png"
         },
         {
           "card": "8035",
@@ -72,7 +75,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8035i.png"
         },
         {
           "card": "8037",
@@ -85,7 +89,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8037i.png"
         },
         {
           "card": "8041",
@@ -98,7 +103,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8041i.png"
         },
         {
           "card": "8036",
@@ -110,7 +116,8 @@
           "coin": "326",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         }
       ]
     },
@@ -137,7 +144,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8030i.png"
         },
         {
           "card": "8031",
@@ -150,7 +158,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8031i.png"
         },
         {
           "card": "8033",
@@ -163,7 +172,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8033i.png"
         },
         {
           "card": "8035",
@@ -176,7 +186,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8035i.png"
         },
         {
           "card": "8037",
@@ -189,7 +200,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8037i.png"
         },
         {
           "card": "8041",
@@ -202,7 +214,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8041i.png"
         },
         {
           "card": "8035",
@@ -215,7 +228,8 @@
           "coin": "313",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8035i.png"
         },
         {
           "card": "8036",
@@ -227,7 +241,8 @@
           "coin": "626",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         }
       ]
     },
@@ -254,7 +269,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8030i.png"
         },
         {
           "card": "8031",
@@ -267,7 +283,8 @@
           "lv": "6",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8031i.png"
         },
         {
           "card": "8033",
@@ -280,7 +297,8 @@
           "lv": "6",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8033i.png"
         },
         {
           "card": "8035",
@@ -293,7 +311,8 @@
           "lv": "6",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8035i.png"
         },
         {
           "card": "8037",
@@ -306,7 +325,8 @@
           "lv": "6",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8037i.png"
         },
         {
           "card": "8041",
@@ -319,7 +339,8 @@
           "lv": "6",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8041i.png"
         },
         {
           "card": "8036",
@@ -332,7 +353,8 @@
           "coin": "926",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         },
         {
           "card": "8005",
@@ -344,7 +366,8 @@
           "coin": "2562",
           "note": "{{三屬盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8005i.png"
         }
       ]
     },
@@ -371,7 +394,8 @@
           "chest": "3000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8031i.png"
         },
         {
           "card": "8033",
@@ -384,7 +408,8 @@
           "chest": "3000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8033i.png"
         },
         {
           "card": "8035",
@@ -397,7 +422,8 @@
           "chest": "3000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8035i.png"
         },
         {
           "card": "8037",
@@ -410,7 +436,8 @@
           "chest": "3000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8037i.png"
         },
         {
           "card": "8041",
@@ -423,7 +450,8 @@
           "chest": "3000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8041i.png"
         },
         {
           "card": "8035",
@@ -436,7 +464,8 @@
           "coin": "193",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8035i.png"
         },
         {
           "card": "8036",
@@ -448,7 +477,8 @@
           "coin": "386",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         },
         {
           "card": "8032",
@@ -460,7 +490,8 @@
           "coin": "566",
           "note": "{{強化盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8032i.png"
         },
         {
           "card": "8034",
@@ -472,7 +503,8 @@
           "coin": "566",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8034i.png"
         },
         {
           "card": "8036",
@@ -484,7 +516,8 @@
           "coin": "566",
           "note": "{{中毒15%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         },
         {
           "card": "8038",
@@ -496,7 +529,8 @@
           "coin": "566",
           "note": "{{4+Combo盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8038i.png"
         },
         {
           "card": "8042",
@@ -508,7 +542,8 @@
           "coin": "566",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8042i.png"
         },
         {
           "card": "8030",
@@ -521,7 +556,8 @@
           "chest": "3000",
           "note": "{{4+Combo盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8030i.png"
         },
         {
           "card": "8036",
@@ -535,7 +571,8 @@
           "coin": "32",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         },
         {
           "card": "8032",
@@ -547,7 +584,8 @@
           "coin": "926",
           "note": "{{強化盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8032i.png"
         },
         {
           "card": "8034",
@@ -559,7 +597,8 @@
           "coin": "926",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8034i.png"
         },
         {
           "card": "8036",
@@ -571,7 +610,8 @@
           "coin": "926",
           "note": "{{中毒20%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         },
         {
           "card": "8038",
@@ -583,7 +623,8 @@
           "coin": "926",
           "note": "{{5+Combo盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8038i.png"
         },
         {
           "card": "8042",
@@ -595,7 +636,8 @@
           "coin": "926",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8042i.png"
         },
         {
           "card": "8020",
@@ -607,7 +649,8 @@
           "coin": "63",
           "note": "{{拼圖盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8020i.png"
         },
         {
           "card": "8036",
@@ -621,7 +664,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         },
         {
           "card": "8043",
@@ -634,7 +678,8 @@
           "coin": "16",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8043i.png"
         },
         {
           "card": "8009",
@@ -646,7 +691,8 @@
           "coin": "63",
           "note": "{{召喚小怪 ‧ 2秒轉珠}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8009i.png"
         },
         {
           "card": "8025",
@@ -660,7 +706,8 @@
           "chest": "3000",
           "note": "{{中毒30%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8025i.png"
         },
         {
           "card": "8005",
@@ -672,7 +719,8 @@
           "coin": "63",
           "note": "{{強化三屬盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8005i.png"
         },
         {
           "card": "8032",
@@ -684,7 +732,8 @@
           "coin": "926",
           "note": "{{強化盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8032i.png"
         },
         {
           "card": "8034",
@@ -696,7 +745,8 @@
           "coin": "926",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8034i.png"
         },
         {
           "card": "8036",
@@ -708,7 +758,8 @@
           "coin": "926",
           "note": "{{中毒20%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8036i.png"
         },
         {
           "card": "8038",
@@ -720,7 +771,8 @@
           "coin": "926",
           "note": "{{5+Combo盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8038i.png"
         },
         {
           "card": "8042",
@@ -732,7 +784,8 @@
           "coin": "926",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8042i.png"
         },
         {
           "card": "8018",
@@ -744,7 +797,8 @@
           "coin": "63",
           "note": "{{攻前盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8018i.png"
         },
         {
           "card": "8028",
@@ -756,7 +810,8 @@
           "coin": "400",
           "note": "{{水屬剋制 ‧ 攻 ‧ 鎖}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8028i.png"
         },
         {
           "card": "8013",
@@ -768,7 +823,8 @@
           "coin": "63",
           "note": "{{扣血50%}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8013i.png"
         },
         {
           "card": "8006",
@@ -781,7 +837,8 @@
           "chest": "3000",
           "note": "{{五屬盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/8006i.png"
         }
       ]
     }

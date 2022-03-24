@@ -3,5 +3,6 @@
   "title": "每回暗圍城 ‧ 回復力減弱90% ‧ 心幻變 ‧ 自殘20%",
   "effect": "敵人每回合會扣除自身生命力 <font color=yellow>20%</font>，持續至死亡，期間不受任何攻擊傷害及無視所有控制技能。<br><br>每回合將所有符石<br>⇒ 轉化為暗符石。<br><br>全隊<font color=yellow>回復力減至 10%</font>。<br><br>隨機將 1 個位置轉化為<font color=yellow>心幻變空間</font>，經過幻變空間的起手符石會轉化為該幻變空間的種類符石",
   "content": "符石轉換,攻擊弱化,幻變,自殘",
-  "icon": "es/SI305.png|es/SI047.png|es/SI233.png|es/SI306.png|es/SI270.png|es/SI161.png"
+  "icon": "es/SI305.png|es/SI047.png|es/SI233.png|es/SI306.png|es/SI270.png|es/SI161.png",
+  "tcicon": "es/SI305.png|es/SI047.png|es/SI233.png|es/SI306.png|es/SI270.png|es/SI161.png"
 }

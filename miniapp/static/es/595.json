@@ -3,5 +3,6 @@
   "title": "攻後轉直木",
   "effect": "當受到敵人攻擊時，隨機將 1 直行的符石轉化為木符石",
   "content": "符石轉換",
-  "icon": "es/SI013.png"
+  "icon": "es/SI013.png",
+  "tcicon": "es/SI013.png"
 }

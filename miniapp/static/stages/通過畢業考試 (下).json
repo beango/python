@@ -14,7 +14,7 @@
     {
       "id": "666",
       "title": "實戰測試（一）",
-      "note": "",
+      "note": "※ 通過 實戰測試（二） 獎勵：1 點養成點數 ※<br>",
       "story": "",
       "cj": [],
       "info": {
@@ -30,14 +30,16 @@
           "turn": "1(1)",
           "hp": "34805460",
           "def": "80200",
-          "coin": "",
+          "coin": "670",
           "es": "784",
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/148i.png"
         },
         {
           "card": "1831",
@@ -46,14 +48,16 @@
           "turn": "1(1)",
           "hp": "66789470",
           "def": "163700",
-          "coin": "",
+          "coin": "600",
           "es": "818",
           "note": "",
           "esjson": {
             "img": "es/SI104.png",
+            "tcicon": "es/SI104.png",
             "title": "6+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1831i.png"
         },
         {
           "card": "661",
@@ -62,14 +66,16 @@
           "turn": "2(2)",
           "hp": "46804230",
           "def": "96500",
-          "coin": "",
+          "coin": "2772",
           "es": "3371",
           "note": "",
           "esjson": {
             "img": "es/SI143.png|es/SI183.png",
+            "tcicon": "es/SI143.png|es/SI183.png",
             "title": "首消水傷害吸收-反擊100% ‧ 水起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/661i.png"
         },
         {
           "card": "1991",
@@ -78,14 +84,16 @@
           "turn": "1(1)",
           "hp": "87427560",
           "def": "189400",
-          "coin": "",
+          "coin": "5963",
           "es": "3603",
           "note": "",
           "esjson": {
             "img": "es/SI181.png",
+            "tcicon": "es/SI181.png",
             "title": "消初級拼圖盾-限25%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1991i.png"
         },
         {
           "card": "666",
@@ -94,21 +102,23 @@
           "turn": "1(1)",
           "hp": "96807170",
           "def": "313500",
-          "coin": "",
+          "coin": "6383",
           "es": "2288",
           "note": "",
           "esjson": {
             "img": "es/SI219.png|es/SI165.png|es/SI001.png",
+            "tcicon": "es/SI219.png|es/SI165.png|es/SI001.png",
             "title": "首回冰封圍城-攻後凍結圍城 ‧ 2秒轉珠 ‧ 水屬防禦95%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/666i.png"
         }
       ]
     },
     {
       "id": "667",
       "title": "實戰測試（二）",
-      "note": "",
+      "note": "※ 通過 實戰測試（三） 獎勵：1 點養成點數 ※<br>",
       "story": "",
       "cj": [],
       "info": {
@@ -124,14 +134,16 @@
           "turn": "1(1)",
           "hp": "32797250",
           "def": "79500",
-          "coin": "",
+          "coin": "670",
           "es": "701",
           "note": "",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/151i.png"
         },
         {
           "card": "1832",
@@ -140,14 +152,16 @@
           "turn": "2(2)",
           "hp": "61100890",
           "def": "159200",
-          "coin": "",
+          "coin": "600",
           "es": "2984",
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png|es/SI302.png|es/SI047.png|es/SI012.png",
+            "tcicon": "es/SI160.png|es/SI229.png|es/SI302.png|es/SI047.png|es/SI012.png",
             "title": "突擊65%-四連燃燒10% ‧ 燃燒位置轉火 ‧ 首消火傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1832i.png"
         },
         {
           "card": "662",
@@ -156,14 +170,16 @@
           "turn": "1(1)",
           "hp": "43587090",
           "def": "93200",
-          "coin": "",
+          "coin": "2772",
           "es": "3372",
           "note": "",
           "esjson": {
             "img": "es/SI144.png|es/SI183.png",
+            "tcicon": "es/SI144.png|es/SI183.png",
             "title": "首消火傷害吸收-反擊100% ‧ 火起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/662i.png"
         },
         {
           "card": "1992",
@@ -172,14 +188,16 @@
           "turn": "3(3)",
           "hp": "84633450",
           "def": "203200",
-          "coin": "",
+          "coin": "5963",
           "es": "3062",
           "note": "",
           "esjson": {
             "img": "es/SI212.png|es/SI229.png|es/SI241.png",
+            "tcicon": "es/SI212.png|es/SI229.png|es/SI241.png",
             "title": "無限回復 ‧ 軌跡燃燒2000 ‧ 光暗盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1992i.png"
         },
         {
           "card": "667",
@@ -188,21 +206,23 @@
           "turn": "2(2)",
           "hp": "94384780",
           "def": "297800",
-          "coin": "",
+          "coin": "6383",
           "es": "3094",
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI035.png|es/SI188.png",
+            "tcicon": "es/SI229.png|es/SI035.png|es/SI188.png",
             "title": "✕形燃燒20% ‧ 首消全暗盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/667i.png"
         }
       ]
     },
     {
       "id": "668",
       "title": "實戰測試（三）",
-      "note": "",
+      "note": "※ 通過 實戰測試（四） 獎勵：1 點養成點數 ※<br>",
       "story": "",
       "cj": [],
       "info": {
@@ -218,14 +238,16 @@
           "turn": "1(4)",
           "hp": "33404020",
           "def": "83400",
-          "coin": "",
+          "coin": "670",
           "es": "941",
           "note": "",
           "esjson": {
             "img": "es/SI251.png|es/SI232.png|es/SI218.png",
+            "tcicon": "es/SI251.png|es/SI232.png|es/SI218.png",
             "title": "無視減傷 ‧ 首回化血圍城-心化血"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/154i.png"
         },
         {
           "card": "1833",
@@ -234,14 +256,16 @@
           "turn": "1(1)",
           "hp": "68038040",
           "def": "173200",
-          "coin": "",
+          "coin": "600",
           "es": "3232",
           "note": "",
           "esjson": {
             "img": "es/SI003.png|es/SI244.png",
+            "tcicon": "es/SI003.png|es/SI244.png",
             "title": "木屬防禦75% ‧ 五屬追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1833i.png"
         },
         {
           "card": "663",
@@ -250,14 +274,16 @@
           "turn": "2(2)",
           "hp": "47734970",
           "def": "95800",
-          "coin": "",
+          "coin": "2772",
           "es": "3373",
           "note": "",
           "esjson": {
             "img": "es/SI145.png|es/SI183.png",
+            "tcicon": "es/SI145.png|es/SI183.png",
             "title": "首消木傷害吸收-反擊100% ‧ 木起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/663i.png"
         },
         {
           "card": "1993",
@@ -266,14 +292,16 @@
           "turn": "1(1)",
           "hp": "89431710",
           "def": "197500",
-          "coin": "",
+          "coin": "5963",
           "es": "1279",
           "note": "",
           "esjson": {
             "img": "es/SI002.png|es/SI221.png",
+            "tcicon": "es/SI002.png|es/SI221.png",
             "title": "火外防禦90% ‧ 首回9顆-攻後3顆追擊風化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1993i.png"
         },
         {
           "card": "668",
@@ -282,21 +310,23 @@
           "turn": "1(1)",
           "hp": "97239530",
           "def": "338700",
-          "coin": "",
+          "coin": "6383",
           "es": "2295",
           "note": "",
           "esjson": {
             "img": "es/SI228.png|es/SI105.png|es/SI003.png",
+            "tcicon": "es/SI228.png|es/SI105.png|es/SI003.png",
             "title": "軌跡黏附 ‧ 7+Combo追擊盾 ‧ 木屬防禦90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/668i.png"
         }
       ]
     },
     {
       "id": "669",
       "title": "實戰測試（四）",
-      "note": "",
+      "note": "※ 通過 實戰測試（五） 獎勵：1 點養成點數 ※<br>",
       "story": "",
       "cj": [],
       "info": {
@@ -312,14 +342,16 @@
           "turn": "2(2)",
           "hp": "32573130",
           "def": "82800",
-          "coin": "",
+          "coin": "670",
           "es": "787",
           "note": "",
           "esjson": {
             "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
             "title": "攻後光橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/157i.png"
         },
         {
           "card": "1834",
@@ -328,14 +360,16 @@
           "turn": "1(1)",
           "hp": "67958350",
           "def": "168500",
-          "coin": "",
+          "coin": "600",
           "es": "2555",
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI105.png|es/SI124.png",
+            "tcicon": "es/SI122.png|es/SI105.png|es/SI124.png",
             "title": "技能封鎖 ‧ 7+Combo追擊盾 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1834i.png"
         },
         {
           "card": "664",
@@ -344,14 +378,16 @@
           "turn": "2(2)",
           "hp": "41924970",
           "def": "94900",
-          "coin": "",
+          "coin": "2772",
           "es": "3374",
           "note": "",
           "esjson": {
             "img": "es/SI146.png|es/SI183.png",
+            "tcicon": "es/SI146.png|es/SI183.png",
             "title": "首消光傷害吸收-反擊100% ‧ 光起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/664i.png"
         },
         {
           "card": "1994",
@@ -360,14 +396,16 @@
           "turn": "1(1)",
           "hp": "83770080",
           "def": "201500",
-          "coin": "",
+          "coin": "5963",
           "es": "1551",
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI131.png",
+            "tcicon": "es/SI256.png|es/SI131.png",
             "title": "消心盾5% ‧ 扣血90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1994i.png"
         },
         {
           "card": "669",
@@ -376,21 +414,23 @@
           "turn": "1(1)",
           "hp": "98905470",
           "def": "308630",
-          "coin": "",
+          "coin": "6383",
           "es": "2477",
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI236.png|es/SI251.png|es/SI004.png",
+            "tcicon": "es/SI160.png|es/SI236.png|es/SI251.png|es/SI004.png",
             "title": "先攻 ‧ 攻後三重電擊 ‧ 無視減傷 ‧ 光屬防禦95%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/669i.png"
         }
       ]
     },
     {
       "id": "670",
       "title": "實戰測試（五）",
-      "note": "",
+      "note": "※ 通過 實戰測試（五） 獎勵：2 點養成點數 ※<br>",
       "story": "",
       "cj": [],
       "info": {
@@ -406,14 +446,16 @@
           "turn": "2(2)",
           "hp": "39771570",
           "def": "81700",
-          "coin": "",
+          "coin": "670",
           "es": "1750",
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI188.png|es/SI124.png",
             "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/160i.png"
         },
         {
           "card": "1835",
@@ -422,14 +464,16 @@
           "turn": "1(1)",
           "hp": "65112770",
           "def": "157400",
-          "coin": "",
+          "coin": "600",
           "es": "3503",
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI104.png",
+            "tcicon": "es/SI224.png|es/SI104.png",
             "title": "軌跡隱藏 ‧ 6+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1835i.png"
         },
         {
           "card": "665",
@@ -438,14 +482,16 @@
           "turn": "1(1)",
           "hp": "46398190",
           "def": "91300",
-          "coin": "",
+          "coin": "2772",
           "es": "1741",
           "note": "",
           "esjson": {
             "img": "es/SI215.png|es/SI183.png",
+            "tcicon": "es/SI215.png|es/SI183.png",
             "title": "黑白符石 ‧ 始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/665i.png"
         },
         {
           "card": "1995",
@@ -454,14 +500,16 @@
           "turn": "2(2)",
           "hp": "81350130",
           "def": "194800",
-          "coin": "",
+          "coin": "5963",
           "es": "3259",
           "note": "",
           "esjson": {
             "img": "es/SI087.png|es/SI188.png|es/SI251.png",
+            "tcicon": "es/SI087.png|es/SI188.png|es/SI251.png",
             "title": "首消7Combo盾 ‧ 越攻越強 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1995i.png"
         },
         {
           "card": "670",
@@ -470,14 +518,16 @@
           "turn": "1(1)",
           "hp": "95069230",
           "def": "316400",
-          "coin": "",
+          "coin": "6383",
           "es": "3819",
           "note": "",
           "esjson": {
             "img": "es/SI340.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI340.png|es/SI188.png|es/SI124.png",
             "title": "(消暗減攻99%) ‧ 越戰越強-金 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/670i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "首消火追擊零化",
   "effect": "消除火屬性的連擊 (Combo) 會令全隊攻擊無效，消除的火屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石",
   "content": "連擊零化",
-  "icon": "es/SI114.png"
+  "icon": "es/SI114.png",
+  "tcicon": "es/SI114.png"
 }

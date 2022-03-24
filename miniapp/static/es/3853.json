@@ -3,5 +3,6 @@
   "title": "隱身 ‧ 3顆風化9000-先 ‧ 回復力變0",
   "effect": "敵人會隱身，<br>直至發動第 1 次攻擊，<br>隱身期間不受任何攻擊傷害<br>(主動技能除外) <br>及無視所有控制技能。<br><br>每回合移動符石前，<br>隨機將 3 粒符石風化；<br>風化符石一經觸碰，<br>即時停止移動符石，<br>對召喚師造成 9,000 點傷害。<br><br>召喚師的回復力變 0。",
   "content": "隱身,風化,回復減弱",
-  "icon": "es/SI250.png|es/SI221.png|es/SI156.png"
+  "icon": "es/SI250.png|es/SI221.png|es/SI156.png",
+  "tcicon": "es/SI250.png|es/SI221.png|es/SI156.png"
 }

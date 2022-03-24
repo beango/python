@@ -3,5 +3,6 @@
   "title": "心位置黏附",
   "effect": "每回合敵人會黏附心符石所在的位置，該位置的符石一經觸碰，即時停止移動符石",
   "content": "黏附",
-  "icon": "es/SI306.png|es/SI228.png"
+  "icon": "es/SI306.png|es/SI228.png",
+  "tcicon": "es/SI306.png|es/SI228.png"
 }

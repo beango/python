@@ -3,5 +3,6 @@
   "title": "首消火傷害吸收-反擊100% ‧ 強化盾 ‧ 縱橫燃燒輪轉10%",
   "effect": "首批消除<font color=yellow>火屬性</font>的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 <font color=yellow>100%</font> 攻擊傷害。<br><br>敵人只會受到<font color=yellow>強化符石</font>的攻擊傷害<br><br>首回合<font color=yellow>燃燒 1 橫行</font>的位置，次回合則<font color=yellow>燃燒 1 直行</font>的位置。每觸碰被燃燒的位置，將扣除召喚師<font color=yellow> 10%</font> 生命力。以上攻擊循環周而復始。",
   "content": "傷害吸收,強化盾,燃燒",
-  "icon": "es/SI144.png|es/SI254.png|es/SI229.png"
+  "icon": "es/SI144.png|es/SI254.png|es/SI229.png",
+  "tcicon": "es/SI144.png|es/SI254.png|es/SI229.png"
 }

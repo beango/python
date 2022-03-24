@@ -3,5 +3,6 @@
   "title": "技能重置 ‧ 雙重黏附",
   "effect": "首回合所有成員的主動技能 CD 及累積戰鬥回合數重置。<br>隨機黏附 2 個位置，該位置的符石一經觸碰，即時停止移動符石",
   "content": "技能重置,黏附",
-  "icon": "es/SI121.png|es/SI228.png"
+  "icon": "es/SI121.png|es/SI228.png",
+  "tcicon": "es/SI121.png|es/SI228.png"
 }

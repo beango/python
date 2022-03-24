@@ -3,5 +3,6 @@
   "title": "光外防禦90%",
   "effect": "光屬性以外的攻擊傷害減至 10%",
   "content": "屬性針對(攻擊力)",
-  "icon": "es/SI004.png"
+  "icon": "es/SI004.png",
+  "tcicon": "es/SI004.png"
 }

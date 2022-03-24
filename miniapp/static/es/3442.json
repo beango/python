@@ -3,5 +3,6 @@
   "title": "首攻CD2 ‧ 強化五屬盾 ‧ 扣血100% ‧ 無法控制",
   "effect": "敵人首次攻擊變為 <font color=yellow>CD 2</font>。<br><br>同時消除水強化、火強化、木強化、光強化及暗強化符石才會對敵人造成攻擊傷害。<br><br>敵人發動攻擊時會扣除召喚師 <font color=yellow>100%</font> 生命力 (無視所有減傷效果和意志技能)。<br><br>無視所有控制技能",
   "content": "攻速變更,屬性盾,固定傷害,無法控制",
-  "icon": "es/SI159.png|es/SI248.png|es/SI132.png|es/SI124.png"
+  "icon": "es/SI159.png|es/SI248.png|es/SI132.png|es/SI124.png",
+  "tcicon": "es/SI159.png|es/SI248.png|es/SI132.png|es/SI124.png"
 }

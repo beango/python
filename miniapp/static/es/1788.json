@@ -3,5 +3,6 @@
   "title": "敵轉光-首回隨機轉光 ‧ 首消光追擊零化 ‧ 中心橫行射擊",
   "effect": "首回合敵人會轉換成光屬性，並將隨機 1 種符石轉化為光符石。 <br>此外，敵人會射擊 1 橫行的位置，被射擊的位置一經觸碰，即時停止移動符石。<br>消除光屬性的連擊 (Combo) 會令全隊攻擊無效，消除的光屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石",
   "content": "屬性轉換,符石轉化,連擊零化,射擊",
-  "icon": "es/SI019.png|es/SI304.png|es/SI047.png|es/SI116.png|es/SI225.png"
+  "icon": "es/SI019.png|es/SI304.png|es/SI047.png|es/SI116.png|es/SI225.png",
+  "tcicon": "es/SI019.png|es/SI304.png|es/SI047.png|es/SI116.png|es/SI225.png"
 }

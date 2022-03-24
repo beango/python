@@ -3,5 +3,6 @@
   "title": "攻後轉光4顆",
   "effect": "當受到敵人攻擊時，敵人會隨機將 4 粒符石轉化為光符石",
   "content": "符石轉換",
-  "icon": "es/SI304.png|es/SI047.png"
+  "icon": "es/SI304.png|es/SI047.png",
+  "tcicon": "es/SI304.png|es/SI047.png"
 }

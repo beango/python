@@ -3,5 +3,6 @@
   "title": "累積20+光符石盾 ‧ 首回6顆-每回2顆-風化12000 ‧ 8+Combo追擊盾",
   "effect": "累積消除 20 粒光符石，<br>才會對敵人造成攻擊傷害。<br><br>首回合隨機<br>⇒ 將 6 粒符石風化<br>其後每回合隨機<br>⇒ 將 2 粒符石風化；<br>風化符石一經觸碰，<br>即時停止移動符石，<br>對召喚師造成 12,000 點傷害<br><br>8 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。",
   "content": "符石盾,風化,指定Combo盾",
-  "icon": "es/SI034.png|es/SI221.png|es/SI106.png"
+  "icon": "es/SI034.png|es/SI221.png|es/SI106.png",
+  "tcicon": "es/SI034.png|es/SI221.png|es/SI106.png"
 }

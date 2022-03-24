@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI181.png",
+            "tcicon": "es/SI181.png",
             "title": "初級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/264i.png"
         },
         {
           "card": "1527",
@@ -42,9 +44,11 @@
           "note": "{{特性*離開*1}}",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "264",
@@ -57,9 +61,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI302.png|es/SI181.png",
+            "tcicon": "es/SI302.png|es/SI181.png",
             "title": "火屬初級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/264i.png"
         },
         {
           "card": "265",
@@ -72,9 +78,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI181.png",
+            "tcicon": "es/SI301.png|es/SI181.png",
             "title": "水屬初級拼圖盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/265i.png"
         },
         {
           "card": "265",
@@ -87,9 +95,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI022.png|es/SI181.png",
+            "tcicon": "es/SI022.png|es/SI181.png",
             "title": "火強化初級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/265i.png"
         },
         {
           "card": "266",
@@ -103,9 +113,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/266i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "3倍獵神",
   "effect": "召喚師隊伍中有神族成員時，敵人攻擊力提升{{Cal|剋制|{{{atk|}}}}}",
   "content": "種族針對(攻擊力)",
-  "icon": "es/SI067.png"
+  "icon": "es/SI067.png",
+  "tcicon": "es/SI067.png"
 }

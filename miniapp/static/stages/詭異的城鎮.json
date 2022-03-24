@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1007i.png"
         },
         {
           "card": "1009",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後火橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1009i.png"
         },
         {
           "card": "1015",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "1015",
@@ -70,9 +76,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "1011",
@@ -86,9 +94,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "能力繼承"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "1011",
@@ -102,9 +112,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "能力繼承"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         }
       ]
     },
@@ -129,7 +141,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1415",
@@ -142,9 +155,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI164.png|es/SI165.png",
+            "tcicon": "es/SI164.png|es/SI165.png",
             "title": "召喚小怪 ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "1014",
@@ -155,7 +170,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "715",
@@ -170,9 +186,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI103.png",
+            "tcicon": "es/SI103.png",
             "title": "5+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/715i.png"
         }
       ]
     },
@@ -199,9 +217,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1007i.png"
         },
         {
           "card": "1007",
@@ -214,9 +234,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1007i.png"
         },
         {
           "card": "1011",
@@ -231,9 +253,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png",
+            "tcicon": "es/SI165.png",
             "title": "2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "1011",
@@ -246,9 +270,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI040.png",
+            "tcicon": "es/SI040.png",
             "title": "(5回木禁消)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "突擊65%-隨機縱橫轉木風化9000 ‧ 首消木傷害吸收-連續反擊50%",
   "effect": "首回合優先突擊 1 次，並隨機將 1 橫行及 1 直行的符石風化及轉化為木符石。風化符石一經觸碰，即時停止移動符石，並對召喚師造成 9000 點傷害。<br>首批消除木屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 50% 攻擊傷害 2 次",
   "content": "突擊,符石轉換,風化符石,傷害吸收",
-  "icon": "es/SI160.png|es/SI047.png|es/SI303.png|es/SI221.png|es/SI013.png|es/SI260.png"
+  "icon": "es/SI160.png|es/SI047.png|es/SI303.png|es/SI221.png|es/SI013.png|es/SI260.png",
+  "tcicon": "es/SI160.png|es/SI047.png|es/SI303.png|es/SI221.png|es/SI013.png|es/SI260.png"
 }

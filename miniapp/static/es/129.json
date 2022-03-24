@@ -3,5 +3,6 @@
   "title": "強化防禦75%",
   "effect": "強化符石所造成的傷害會減少 75%",
   "content": "強化防禦盾",
-  "icon": "es/SI231.png"
+  "icon": "es/SI231.png",
+  "tcicon": "es/SI231.png"
 }

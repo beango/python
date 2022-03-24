@@ -3,5 +3,6 @@
   "title": "獸類防禦50%",
   "effect": "敵人令獸類成員的攻擊力半減",
   "content": "攻擊力減弱",
-  "icon": "es/SI076.png"
+  "icon": "es/SI076.png",
+  "tcicon": "es/SI076.png"
 }

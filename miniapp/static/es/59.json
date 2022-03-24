@@ -3,5 +3,6 @@
   "title": "先攻",
   "effect": "首回合敵人會優先攻擊 1 次",
   "content": "先攻",
-  "icon": "es/SI160.png"
+  "icon": "es/SI160.png",
+  "tcicon": "es/SI160.png"
 }

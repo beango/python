@@ -3,5 +3,6 @@
   "title": "黑白符石 ‧ 18擊盾 ‧ 首消暗追擊零化",
   "effect": "所有符石變為黑白色。<br><br>對敵人進行 18 次攻擊後，<br>才能對其造成攻擊傷害。<br><br>首批消除暗屬性的連擊 (Combo) 會令全隊攻擊無效，消除的暗屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。",
   "content": "黑白符石,攻擊次數盾,連擊零化",
-  "icon": "es/SI215.png|es/SI250.png|es/SI117.png"
+  "icon": "es/SI215.png|es/SI250.png|es/SI117.png",
+  "tcicon": "es/SI215.png|es/SI250.png|es/SI117.png"
 }

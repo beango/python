@@ -3,5 +3,6 @@
   "title": "攻後(6回生命倒數)",
   "effect": "當受到敵人攻擊後，召喚師會於 6 回合後死亡",
   "content": "生命倒數",
-  "icon": "es/SI134.png"
+  "icon": "es/SI134.png",
+  "tcicon": "es/SI134.png"
 }

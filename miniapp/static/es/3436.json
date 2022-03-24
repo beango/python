@@ -3,5 +3,6 @@
   "title": "擊碎龍脈-先攻-缺龍刻必殺 ‧ 首消暗傷害吸收-反擊200% ‧ 無視減傷",
   "effect": "召喚師若<font color=yellow>有</font>裝備龍刻：<br>首回合優先攻擊 1 次，<br>並<font color=yellow>擊碎龍脈儀</font>。<br><br>召喚師若<font color=yellow>沒有</font>裝備龍刻：<br>首回合扣除召喚師<font color=yellow> 100%</font> 生命力<br>(不能迴避)<br><br>首批消除<font color=yellow>暗屬性</font>的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 <font color=yellow>200%</font> 攻擊傷害。<br><br>無視所有減傷效果和意志技能",
   "content": "傷害吸收,無視減傷",
-  "icon": "es/SI142.png|es/SI147.png|es/SI251.png"
+  "icon": "es/SI142.png|es/SI147.png|es/SI251.png",
+  "tcicon": "es/SI142.png|es/SI147.png|es/SI251.png"
 }

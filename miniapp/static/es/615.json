@@ -3,5 +3,6 @@
   "title": "(5回光禁消)",
   "effect": "5 回合內，光符石無法被消除",
   "content": "符石禁消",
-  "icon": "es/SI041.png"
+  "icon": "es/SI041.png",
+  "tcicon": "es/SI041.png"
 }

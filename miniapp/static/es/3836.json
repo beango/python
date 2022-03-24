@@ -3,5 +3,6 @@
   "title": "三重黏附 ‧ 五屬盾 ‧ 弱轉珠技無效",
   "effect": "隨機黏附 3 個位置，<br>該位置的符石一經觸碰，<br>即時停止移動符石。<br><br>同時消除五屬符石，<br>才會對敵人造成攻擊傷害。<br><br>所有轉化符石技能效果無效<br>(轉化種族符石而不改變<br>符石種類的技能除外)。",
   "content": "黏附,指定屬性盾,技能無效",
-  "icon": "es/SI228.png|es/SI244.png|es/SI058.png"
+  "icon": "es/SI228.png|es/SI244.png|es/SI058.png",
+  "tcicon": "es/SI228.png|es/SI244.png|es/SI058.png"
 }

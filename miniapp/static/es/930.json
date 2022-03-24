@@ -3,5 +3,6 @@
   "title": "火點燃符石20%",
   "effect": "每回合移動符石前，敵人會鎖定場上的火符石；如有鎖定的符石未被消除時，符石會被引爆，每粒被引爆的符石，將扣除召喚師 20% 生命力",
   "content": "點燃符石",
-  "icon": "es/SI302.png|es/SI168.png"
+  "icon": "es/SI302.png|es/SI168.png",
+  "tcicon": "es/SI302.png|es/SI168.png"
 }

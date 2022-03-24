@@ -3,5 +3,6 @@
   "title": "[5回攻擊零化] ‧ 軌跡燃燒5000 ‧ 無視減傷",
   "effect": "5 回合內，全隊攻擊力減至 0<br><br>燃燒移動符石時觸碰的位置，<br>每觸碰被燃燒的位置，<br>對召喚師造成 5000 點傷害。<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "攻擊零化,燃燒,無視減傷",
-  "icon": "es/SI158.png|es/SI229.png|es/SI251.png"
+  "icon": "es/SI158.png|es/SI229.png|es/SI251.png",
+  "tcicon": "es/SI158.png|es/SI229.png|es/SI251.png"
 }

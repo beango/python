@@ -23,7 +23,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/164i.png"
         },
         {
           "card": "170",
@@ -35,7 +36,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/170i.png"
         },
         {
           "card": "830",
@@ -48,9 +50,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI161.png",
+            "tcicon": "es/SI160.png|es/SI161.png",
             "title": "先攻 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/830i.png"
         }
       ]
     },
@@ -75,7 +79,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/164i.png"
         },
         {
           "card": "170",
@@ -87,7 +92,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/170i.png"
         },
         {
           "card": "173",
@@ -98,7 +104,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/173i.png"
         },
         {
           "card": "166",
@@ -112,9 +119,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "雙體共生"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/166i.png"
         },
         {
           "card": "166",
@@ -128,9 +137,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "雙體共生"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/166i.png"
         }
       ]
     },
@@ -159,9 +170,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "646",
@@ -174,9 +187,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/646i.png"
         },
         {
           "card": "650",
@@ -189,9 +204,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         }
       ]
     }

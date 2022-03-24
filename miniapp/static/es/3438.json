@@ -3,5 +3,6 @@
   "title": "左右暴風席捲 ‧ 光攻盾 ‧ 回復力變0",
   "effect": "<font color=yellow>暴風</font>席捲<font color=yellow>最左方及最右方直行</font>的位置，暴風位置內的符石無法被消除或引爆，該位置一經觸碰，即時停止移動符石。<br><br>只有<font color=yellow>光屬性</font>的攻擊才會對敵人造成傷害。<br><br>召喚師的<font color=yellow>回復力變 0</font>",
   "content": "暴風席捲,指定屬性盾,回復力減弱",
-  "icon": "es/SI282.png|es/SI004.png|es/SI156.png"
+  "icon": "es/SI282.png|es/SI004.png|es/SI156.png",
+  "tcicon": "es/SI282.png|es/SI004.png|es/SI156.png"
 }

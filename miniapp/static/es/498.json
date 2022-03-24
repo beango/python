@@ -3,5 +3,6 @@
   "title": "隨機縱向燃燒10%",
   "effect": "每回合敵人會隨機燃燒 1 直行的符石，每觸碰 1 粒被燃燒的符石，將扣除召喚師 10% 生命力",
   "content": "燃燒",
-  "icon": "es/SI229.png"
+  "icon": "es/SI229.png",
+  "tcicon": "es/SI229.png"
 }

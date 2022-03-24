@@ -3,5 +3,6 @@
   "title": "光幻水-暗幻火-心幻木 ‧ 首消7Combo盾 ‧ 越攻越強",
   "effect": "將所有光符石<br>⇒ 幻化成水符石<br><br>將所有暗符石<br>⇒ 幻化成火符石<br><br>將所有心符石<br>⇒ 幻化成木符石<br><br>首批消除 7 連擊 (Combo) <br>才會對敵人造成攻擊傷害。<br><br>敵人攻擊次數愈多時，<br>攻擊力會大幅提升，<br>達到一定次數時會連撃 2 次",
   "content": "幻化,指定Combo盾",
-  "icon": "es/SI390.png|es/SI087.png|es/SI188.png"
+  "icon": "es/SI390.png|es/SI087.png|es/SI188.png",
+  "tcicon": "es/SI390.png|es/SI087.png|es/SI188.png"
 }

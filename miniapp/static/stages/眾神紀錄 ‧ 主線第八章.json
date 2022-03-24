@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1527",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1528",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1529",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1530",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         }
       ]
     },
@@ -96,7 +101,8 @@
           "coin": "248",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -107,7 +113,8 @@
           "coin": "248",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -118,7 +125,8 @@
           "coin": "248",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -129,7 +137,8 @@
           "coin": "248",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -139,7 +148,8 @@
           "coin": "248",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "836",
@@ -152,9 +162,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/836i.png"
         },
         {
           "card": "838",
@@ -167,9 +179,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI165.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI165.png|es/SI124.png",
             "title": "首殺盾 ‧ 2秒轉珠 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "834",
@@ -182,9 +196,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         },
         {
           "card": "840",
@@ -197,9 +213,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI340.png",
+            "tcicon": "es/SI122.png|es/SI340.png",
             "title": "暗屬技能封鎖 ‧ 暗弱化鎖定20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/840i.png"
         }
       ]
     },
@@ -228,9 +246,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/196i.png"
         },
         {
           "card": "196",
@@ -243,9 +263,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI003.png|es/SI244.png",
+            "tcicon": "es/SI003.png|es/SI244.png",
             "title": "木屬防禦75% ‧ 五屬追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/196i.png"
         },
         {
           "card": "196",
@@ -259,9 +281,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI181.png|es/SI251.png",
+            "tcicon": "es/SI122.png|es/SI181.png|es/SI251.png",
             "title": "人類禁錮 ‧ 敵屬初級拼圖盾-限 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/196i.png"
         }
       ]
     }

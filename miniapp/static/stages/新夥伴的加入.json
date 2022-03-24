@@ -23,7 +23,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "109",
@@ -34,7 +35,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "1527",
@@ -46,7 +48,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "969",
@@ -60,9 +63,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI229.png|es/SI188.png",
+            "tcicon": "es/SI123.png|es/SI229.png|es/SI188.png",
             "title": "附加消除 ‧ 雙重擴散燃燒10% ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/969i.png"
         }
       ]
     },
@@ -88,7 +93,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/966i.png"
         },
         {
           "card": "970",
@@ -100,7 +106,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/970i.png"
         },
         {
           "card": "1526",
@@ -112,7 +119,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1528",
@@ -124,7 +132,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "967",
@@ -138,9 +147,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png",
+            "tcicon": "es/SI165.png",
             "title": "2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/967i.png"
         },
         {
           "card": "971",
@@ -153,9 +164,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI105.png",
+            "tcicon": "es/SI105.png",
             "title": "(5回7+Combo發動攻回)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/971i.png"
         }
       ]
     },
@@ -183,7 +196,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/968i.png"
         },
         {
           "card": "972",
@@ -195,7 +209,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/972i.png"
         },
         {
           "card": "1527",
@@ -207,7 +222,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1529",
@@ -219,7 +235,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "507",
@@ -232,9 +249,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI012.png|es/SI188.png",
+            "tcicon": "es/SI224.png|es/SI012.png|es/SI188.png",
             "title": "首回隱藏9顆 ‧ 首消火傷害吸收 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/507i.png"
         },
         {
           "card": "507",
@@ -248,9 +267,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png|es/SI047.png|es/SI229.png",
+            "tcicon": "es/SI161.png|es/SI047.png|es/SI229.png",
             "title": "命懸一線 ‧ 首回心轉火-隨機轉火 ‧ 擴散燃燒20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/507i.png"
         }
       ]
     }

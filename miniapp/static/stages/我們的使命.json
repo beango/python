@@ -30,14 +30,16 @@
           "turn": "1(1)",
           "hp": "63128700",
           "def": "120000",
-          "coin": "",
+          "coin": "4380",
           "es": "566",
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "六重軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "585",
@@ -46,14 +48,16 @@
           "turn": "3(3)",
           "hp": "87397820",
           "def": "280000",
-          "coin": "",
+          "coin": "249",
           "es": "912",
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         },
         {
           "card": "1051",
@@ -62,30 +66,34 @@
           "turn": "1(1)",
           "hp": "163750360",
           "def": "370000",
-          "coin": "",
+          "coin": "6383",
           "es": "279",
           "note": "",
           "esjson": {
             "img": "es/SI105.png",
+            "tcicon": "es/SI105.png",
             "title": "7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1051i.png"
         },
         {
-          "card": "1343",
+          "card": "1413",
           "stage": "3",
           "damage": "35875",
           "turn": "2(2)",
           "hp": "95702360",
           "def": "240000",
-          "coin": "",
+          "coin": "4380",
           "es": "786",
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "攻後木橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         },
         {
           "card": "1412",
@@ -94,14 +102,16 @@
           "turn": "2(1)",
           "hp": "94824780",
           "def": "220000",
-          "coin": "",
+          "coin": "4380",
           "es": "650",
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後火縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1412i.png"
         },
         {
           "card": "554",
@@ -110,14 +120,16 @@
           "turn": "2(2)",
           "hp": "206787170",
           "def": "590000",
-          "coin": "",
+          "coin": "6803",
           "es": "2330",
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI031.png|es/SI188.png",
+            "tcicon": "es/SI229.png|es/SI031.png|es/SI188.png",
             "title": "✕形燃燒10% ‧ 首消全水盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/554i.png"
         },
         {
           "card": "1815",
@@ -126,14 +138,16 @@
           "turn": "1(1)",
           "hp": "259708530",
           "def": "660000",
-          "coin": "",
+          "coin": "600",
           "es": "3699",
           "note": "",
           "esjson": {
             "img": "es/SI215.png|es/SI117.png",
+            "tcicon": "es/SI215.png|es/SI117.png",
             "title": "黑白符石 ‧ 首消暗追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1815i.png"
         }
       ]
     },
@@ -169,27 +183,29 @@
           "turn": "1(1)",
           "hp": "59708200",
           "def": "80000",
-          "coin": "",
-          "es": "",
+          "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "550",
           "stage": "",
           "damage": "66666",
-          "turn": "1(6)",
+          "turn": "6(6)",
           "hp": "93778050",
           "def": "150000",
-          "coin": "",
+          "coin": "189",
           "es": "894",
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI212.png",
+            "tcicon": "es/SI188.png|es/SI212.png",
             "title": "2倍士氣高昂-無限回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "1014",
@@ -198,11 +214,11 @@
           "turn": "1(1)",
           "hp": "59708200",
           "def": "80000",
-          "coin": "",
-          "es": "",
+          "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1011",
@@ -211,14 +227,16 @@
           "turn": "2(2)",
           "hp": "73780630",
           "def": "170000",
-          "coin": "",
+          "coin": "1220",
           "es": "853",
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "1011",
@@ -227,14 +245,16 @@
           "turn": "2(1)",
           "hp": "73780630",
           "def": "170000",
-          "coin": "",
+          "coin": "1220",
           "es": "853",
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "556",
@@ -243,14 +263,16 @@
           "turn": "1(1)",
           "hp": "200000000",
           "def": "350000",
-          "coin": "",
+          "coin": "6383",
           "es": "1551",
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI131.png",
+            "tcicon": "es/SI256.png|es/SI131.png",
             "title": "消心盾5% ‧ 扣血90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/556i.png"
         }
       ]
     },
@@ -286,10 +308,11 @@
           "turn": "3",
           "hp": "25870300",
           "def": "23440",
-          "coin": "",
+          "coin": "375",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/057i.png"
         },
         {
           "card": "059",
@@ -298,10 +321,11 @@
           "turn": "3",
           "hp": "23925360",
           "def": "26420",
-          "coin": "",
+          "coin": "375",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/059i.png"
         },
         {
           "card": "061",
@@ -310,10 +334,11 @@
           "turn": "3",
           "hp": "27970530",
           "def": "30330",
-          "coin": "",
+          "coin": "375",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/061i.png"
         },
         {
           "card": "063",
@@ -322,10 +347,11 @@
           "turn": "3",
           "hp": "26378260",
           "def": "30280",
-          "coin": "",
+          "coin": "375",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/063i.png"
         },
         {
           "card": "065",
@@ -334,10 +360,11 @@
           "turn": "3",
           "hp": "24071960",
           "def": "26810",
-          "coin": "",
+          "coin": "375",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/065i.png"
         }
       ]
     }

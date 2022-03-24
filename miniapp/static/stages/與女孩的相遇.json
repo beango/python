@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "331",
@@ -37,7 +38,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/331i.png"
         },
         {
           "card": "1528",
@@ -49,7 +51,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1106",
@@ -63,9 +66,11 @@
           "note": "{{特性*離開*4}}",
           "esjson": {
             "img": "es/SI251.png|es/SI232.png|es/SI218.png",
+            "tcicon": "es/SI251.png|es/SI232.png|es/SI218.png",
             "title": "無視減傷 ‧ 首回化血圍城-心化血"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1106i.png"
         }
       ]
     },
@@ -91,7 +96,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "486",
@@ -103,7 +109,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "1526",
@@ -115,7 +122,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1102",
@@ -129,9 +137,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI033.png",
+            "tcicon": "es/SI033.png",
             "title": "累積30+木符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1102i.png"
         }
       ]
     },
@@ -160,9 +170,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI121.png",
+            "tcicon": "es/SI121.png",
             "title": "技能重置"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/840i.png"
         },
         {
           "card": "510",
@@ -176,9 +188,11 @@
           "note": "{{特性*離開*10}}",
           "esjson": {
             "img": "es/SI183.png",
+            "tcicon": "es/SI183.png",
             "title": "始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/510i.png"
         }
       ]
     }

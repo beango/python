@@ -3,5 +3,6 @@
   "title": "(5回木禁消)",
   "effect": "5 回合內，木符石無法被消除",
   "content": "符石禁消",
-  "icon": "es/SI040.png"
+  "icon": "es/SI040.png",
+  "tcicon": "es/SI040.png"
 }

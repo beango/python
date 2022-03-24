@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 敵轉火 ‧ 首回二四橫行轉火燃燒20% ‧ 燃燒轉火 ‧ 首消火傷害零化-反擊200% ‧ 凍結盾90% ‧ 凍敵滅火",
   "effect": "敵人首次攻擊變為 CD 1。<br><br>敵人轉換為火屬性。<br><br>首回合將第 2 及第 4 橫行<br>的符石轉化為火符石。<br><br>燃燒第 2 及第 4 橫行位置，<br>每觸碰被燃燒的位置，<br>將扣除召喚師 20% 生命力。<br><br>回合結束時將燃燒位置<br>的符石轉化為火符石。<br><br>首批消除火符石<br>及對敵人發動攻擊，該回合<br>無法對敵人造成攻擊傷害，<br>且敵人會反擊自身 200% <br>攻擊傷害。<br><br>敵人所受傷害減至 10%；<br>只有敵人置身在凍結狀態，<br>才會對其造成完整攻擊傷害。<br><br>敵人置身在凍結狀態時，<br>「燃燒」敵技失效。",
   "content": "攻速變更,屬性轉換,符石轉換,燃燒,傷害零化,凍結盾",
-  "icon": "es/SI159.png|es/SI017.png|es/SI047.png|es/SI229.png|es/SI144.png|es/SI292.png"
+  "icon": "es/SI159.png|es/SI017.png|es/SI047.png|es/SI229.png|es/SI144.png|es/SI292.png",
+  "tcicon": "es/SI159.png|es/SI017.png|es/SI047.png|es/SI229.png|es/SI144.png|es/SI292.png"
 }

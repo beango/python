@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "085",
@@ -35,7 +36,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "1530",
@@ -47,7 +49,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "585",
@@ -60,9 +63,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "20擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         },
         {
           "card": "490",
@@ -76,9 +81,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI042.png",
+            "tcicon": "es/SI042.png",
             "title": "(5回暗禁消)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "585",
@@ -91,9 +98,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "20擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         }
       ]
     },
@@ -118,7 +127,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/488i.png"
         },
         {
           "card": "490",
@@ -129,7 +139,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1010",
@@ -141,7 +152,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1014",
@@ -153,7 +165,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1055",
@@ -166,9 +179,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI156.png|es/SI131.png|es/SI213.png",
+            "tcicon": "es/SI156.png|es/SI131.png|es/SI213.png",
             "title": "回復力變0 ‧ 扣血90% ‧ 軌跡靈化800"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1055i.png"
         },
         {
           "card": "1106",
@@ -181,9 +196,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI338.png",
+            "tcicon": "es/SI338.png",
             "title": "(無限回消木減攻50%)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1106i.png"
         },
         {
           "card": "1106",
@@ -197,9 +214,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI104.png|es/SI188.png",
+            "tcicon": "es/SI104.png|es/SI188.png",
             "title": "首消6+Combo盾 ‧ 初怒-連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1106i.png"
         }
       ]
     },
@@ -224,7 +243,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -236,7 +256,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -248,7 +269,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "1531",
@@ -260,7 +282,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "1532",
@@ -272,7 +295,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "1533",
@@ -284,7 +308,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1533i.png"
         },
         {
           "card": "1310",
@@ -298,9 +323,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "自殘10%"
           },
-          "jd": "R5 特性场景特性：10142"
+          "jd": "R5 特性场景特性：10142",
+          "cardtcimg": "zhs/1310i.png"
         }
       ]
     }

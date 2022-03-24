@@ -3,5 +3,6 @@
   "title": "↘形燃燒10%",
   "effect": "敵人會燃燒 6 個固定位置，每觸碰被燃燒的位置，將扣除召喚師 10% 生命力<br><img src=\"https://vignette.wikia.nocookie.net/tos/images/2/22/SUP-SI-004.png/revision/latest?cb=20181001062328&path-prefix=zh\" width=\"250\">",
   "content": "燃燒",
-  "icon": "es/SI229.png"
+  "icon": "es/SI229.png",
+  "tcicon": "es/SI229.png"
 }

@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1008",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1010",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1592",
@@ -84,7 +89,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -96,7 +102,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -108,7 +115,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -120,7 +128,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -132,7 +141,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "1015",
@@ -146,9 +156,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI200.png|es/SI239.png|es/SI124.png",
+            "tcicon": "es/SI200.png|es/SI239.png|es/SI124.png",
             "title": "2顆5倍睡眠-轉 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         }
       ]
     },
@@ -175,9 +187,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "火屬技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1191i.png"
         },
         {
           "card": "1594",
@@ -191,9 +205,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "循環累積90+相剋符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         }
       ]
     },
@@ -221,7 +237,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1008",
@@ -233,7 +250,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1010",
@@ -245,7 +263,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -257,7 +276,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -269,7 +289,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1192",
@@ -283,9 +304,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI156.png|es/SI229.png|es/SI251.png|es/SI124.png|es/SI212.png",
+            "tcicon": "es/SI156.png|es/SI229.png|es/SI251.png|es/SI124.png|es/SI212.png",
             "title": "(98回回復力變0) ‧ 四角擴散燃燒10% ‧ 無法控制-無視減傷 ‧ 無限回復"
           },
-          "jd": "R3 特性场景特性：10235"
+          "jd": "R3 特性场景特性：10235",
+          "cardtcimg": "zhs/1192i.png"
         }
       ]
     }

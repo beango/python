@@ -33,7 +33,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "691",
@@ -47,9 +48,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI164.png",
+            "tcicon": "es/SI164.png",
             "title": "召喚小怪"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/691i.png"
         },
         {
           "card": "1010",
@@ -61,7 +64,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "695",
@@ -75,9 +79,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI221.png",
+            "tcicon": "es/SI163.png|es/SI221.png",
             "title": "能力繼承 ‧ 1顆風化15000-先"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/695i.png"
         },
         {
           "card": "695",
@@ -91,9 +97,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI221.png",
+            "tcicon": "es/SI163.png|es/SI221.png",
             "title": "能力繼承 ‧ 1顆風化15000-先"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/695i.png"
         }
       ]
     },
@@ -134,9 +142,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉橫火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "833",
@@ -150,9 +160,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉橫火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "833",
@@ -166,9 +178,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉橫火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "482",
@@ -182,9 +196,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI073.png|es/SI302.png|es/SI047.png|es/SI229.png",
+            "tcicon": "es/SI073.png|es/SI302.png|es/SI047.png|es/SI229.png",
             "title": "神外防禦90% ‧ 首回隨機轉火 ‧ 攻後火橫縱輪轉 ‧ 軌跡燃燒2000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/482i.png"
         },
         {
           "card": "834",
@@ -198,9 +214,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI031.png",
+            "tcicon": "es/SI163.png|es/SI031.png",
             "title": "能力繼承 ‧ 首消全水盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         },
         {
           "card": "834",
@@ -214,9 +232,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI036.png",
+            "tcicon": "es/SI163.png|es/SI036.png",
             "title": "能力繼承 ‧ 首消全心盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         },
         {
           "card": "989",
@@ -230,9 +250,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI337.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI337.png|es/SI188.png|es/SI124.png",
             "title": "(消火減攻99%) ‧ 越戰越強-金 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/989i.png"
         },
         {
           "card": "507",
@@ -246,9 +268,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png|es/SI188.png|es/SI251.png",
+            "tcicon": "es/SI229.png|es/SI188.png|es/SI251.png",
             "title": "雙重擴散燃燒10% ‧ 越燒越強 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/507i.png"
         }
       ]
     },
@@ -289,9 +313,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI036.png|es/SI183.png",
+            "tcicon": "es/SI036.png|es/SI183.png",
             "title": "首消全心盾 ‧ 心起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2570i.png"
         },
         {
           "card": "2567",
@@ -305,9 +331,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI132.png",
+            "tcicon": "es/SI256.png|es/SI132.png",
             "title": "消心盾10% ‧ 扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2567i.png"
         },
         {
           "card": "2572",
@@ -321,9 +349,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png",
+            "tcicon": "es/SI217.png",
             "title": "溢補盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2572i.png"
         }
       ]
     }

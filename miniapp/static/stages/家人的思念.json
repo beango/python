@@ -24,7 +24,8 @@
           "ws": "10116",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -35,7 +36,8 @@
           "coin": "208",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -46,7 +48,8 @@
           "coin": "208",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "838",
@@ -60,9 +63,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "攻前盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "838",
@@ -75,9 +80,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "攻前盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "509",
@@ -92,9 +99,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI254.png|es/SI188.png|es/SI124.png",
             "title": "強化盾 ‧ 越戰越強-金 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/509i.png"
         }
       ]
     },
@@ -120,7 +129,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "1010",
@@ -132,7 +142,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1528",
@@ -144,7 +155,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1123",
@@ -159,9 +171,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "軌跡黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1123i.png"
         }
       ]
     },
@@ -188,9 +202,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI006.png|es/SI161.png",
+            "tcicon": "es/SI006.png|es/SI161.png",
             "title": "(7回水攻2倍) ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/508i.png"
         },
         {
           "card": "1006",
@@ -202,7 +218,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1008",
@@ -214,7 +231,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1526",
@@ -226,7 +244,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1527",
@@ -238,7 +257,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "581",
@@ -252,9 +272,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/581i.png"
         },
         {
           "card": "582",
@@ -268,9 +290,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png",
+            "tcicon": "es/SI122.png",
             "title": "技能封鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/582i.png"
         }
       ]
     },
@@ -298,7 +322,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "1014",
@@ -310,7 +335,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1530",
@@ -322,7 +348,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "508",
@@ -335,9 +362,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI067.png|es/SI161.png",
+            "tcicon": "es/SI067.png|es/SI161.png",
             "title": "(7回神攻2倍) ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/508i.png"
         },
         {
           "card": "1415",
@@ -350,9 +379,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "1415",
@@ -365,9 +396,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "1125",
@@ -381,9 +414,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI224.png|es/SI250.png",
+            "tcicon": "es/SI124.png|es/SI224.png|es/SI250.png",
             "title": "無法控制 ‧ 首回隱藏6顆 ‧ 同屬防禦90% ‧ 攻後隱藏2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1125i.png"
         }
       ]
     }

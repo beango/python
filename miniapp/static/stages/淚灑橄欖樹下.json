@@ -1,5 +1,183 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2021/1/1 22:00",
+      "end": "2021/1/4 23:59",
+      "note": "",
+      "cj": [
+        {
+          "star": "3",
+          "id": "C215",
+          "soul": "",
+          "m": "",
+          "num": "1",
+          "tcimg": "lk/C215.png"
+        }
+      ],
+      "cishujl": [
+        {
+          "cs_jltj": "成功通过 [地獄級]() 3 次",
+          "cs_jl": "![2580](zhs/2580i.png) * 1(技能等级 7) "
+        }
+      ]
+    },
+    {
+      "start": "2021/1/19 22:00",
+      "end": "2021/1/22 23:59",
+      "note": "不會重置獎勵",
+      "cj": [],
+      "cishujl": [
+        {
+          "cs_jltj": "成功通过 [地獄級]() 3 次",
+          "cs_jl": "![2580](zhs/2580i.png) * 1(技能等级 7) "
+        }
+      ]
+    }
+  ],
   "cj": [],
-  "stages": []
+  "stages": [
+    {
+      "id": "2580",
+      "title": "落下的一刻 地獄級",
+      "note": "",
+      "story": "",
+      "cj": [
+        "<span style=\"font-size:12pt; font-weight:800; color:#FF5733;\">2021/1/1 關卡成就|</span> <br>隊長及戰友都是魔族<br>隊長及戰友都是龍類<br>隊長及戰友都是獸類"
+      ],
+      "info": {
+        "sta": "50",
+        "battle": "6",
+        "exp": "5000"
+      },
+      "data": [
+        {
+          "card": "2587",
+          "stage": "1",
+          "damage": "100",
+          "turn": "2(2)",
+          "hp": "100",
+          "def": "10",
+          "coin": "6383",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
+            "title": "技能回復"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/2587i.png"
+        },
+        {
+          "card": "2586",
+          "stage": "2",
+          "damage": "23274",
+          "turn": "1(1)",
+          "hp": "257398520",
+          "def": "2500000",
+          "coin": "6383",
+          "es": "3024",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI301.png|es/SI221.png|es/SI105.png",
+            "tcicon": "es/SI160.png|es/SI301.png|es/SI221.png|es/SI105.png",
+            "title": "先攻-4顆水風化15000 ‧ 7+Combo追擊盾"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/2586i.png"
+        },
+        {
+          "card": "2589",
+          "stage": "3",
+          "damage": "20963",
+          "turn": "1(1)",
+          "hp": "329717870",
+          "def": "3400000",
+          "coin": "6383",
+          "es": "3279",
+          "note": "",
+          "esjson": {
+            "img": "es/SI122.png|es/SI227.png|es/SI118.png",
+            "tcicon": "es/SI122.png|es/SI227.png|es/SI118.png",
+            "title": "5回全員禁錮 ‧ 迷惑符石 ‧ 首消心追擊零化"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/2589i.png"
+        },
+        {
+          "card": "2590",
+          "stage": "4",
+          "damage": "51459",
+          "turn": "2(2)",
+          "hp": "572367450",
+          "def": "3900000",
+          "coin": "6383",
+          "es": "3451",
+          "note": "",
+          "esjson": {
+            "img": "es/SI160.png|es/SI268.png|es/SI254.png|es/SI260.png|es/SI124.png",
+            "tcicon": "es/SI160.png|es/SI268.png|es/SI254.png|es/SI260.png|es/SI124.png",
+            "title": "突擊25% ‧ 首回弱符石還原 ‧ 強化盾-反擊100% ‧ 無法控制"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/2590i.png"
+        },
+        {
+          "card": "2588",
+          "stage": "5",
+          "damage": "47342",
+          "turn": "1(1)",
+          "hp": "449872530",
+          "def": "2600000",
+          "coin": "6383",
+          "es": "3275",
+          "note": "",
+          "esjson": {
+            "img": "es/SI250.png|es/SI014.png|es/SI251.png",
+            "tcicon": "es/SI250.png|es/SI014.png|es/SI251.png",
+            "title": "100%減傷盾-越攻越弱 ‧ 首消光傷害吸收 ‧ 無視減傷"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/2588i.png"
+        },
+        {
+          "card": "2580",
+          "stage": "6{{雙血}}{{掉落*白金}}",
+          "damage": "21735",
+          "turn": "1(1)",
+          "hp": "364210830",
+          "def": "5300000",
+          "coin": "0",
+          "es": "4488",
+          "note": "",
+          "esjson": {
+            "img": "es/SI301.png|es/SI219.png|es/SI113.png|es/SI257.png",
+            "tcicon": "es/SI301.png|es/SI219.png|es/SI113.png|es/SI257.png",
+            "title": "全水/3顆轉水凍結 ‧ 冰封敵盈 ‧ 首消水追擊零化 ‧ 25%盾"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/2580i.png"
+        },
+        {
+          "card": "2580",
+          "stage": "",
+          "damage": "32468",
+          "turn": "1",
+          "hp": "531084120",
+          "def": "5300000",
+          "coin": "7643",
+          "lv": "1",
+          "es": "4489",
+          "note": "",
+          "esjson": {
+            "img": "es/SI159.png|es/SI330.png|es/SI058.png|es/SI290.png|es/SI156.png",
+            "tcicon": "es/SI159.png|es/SI330.png|es/SI058.png|es/SI290.png|es/SI156.png",
+            "title": "CD1 ‧ 單擊5億盾 ‧ 轉珠技無效 ‧ 點燃盾90% ‧ 回復力零化"
+          },
+          "jd": "",
+          "cardtcimg": "zhs/2580i.png"
+        }
+      ]
+    }
+  ]
 }

@@ -3,5 +3,6 @@
   "title": "中毒70% ‧ 首回全木冰封 ‧ 首消全木盾",
   "effect": "所有成員中毒，每回合扣除召喚師 70% 生命力，直至敵人死亡。<br>首回合凍結場上的木符石，3 回合內不能消除該符石。<br>首批消除場上所有木符石才能對敵人造成攻擊傷害 (需消除木符石)",
   "content": "中毒,冰封符石,全消盾",
-  "icon": "es/SI135.png|es/SI303.png|es/SI219.png|es/SI033.png"
+  "icon": "es/SI135.png|es/SI303.png|es/SI219.png|es/SI033.png",
+  "tcicon": "es/SI135.png|es/SI303.png|es/SI219.png|es/SI033.png"
 }

@@ -3,5 +3,6 @@
   "title": "含神獸外-超級技能重置 ‧ 隨機轉木 ‧ 首消木追擊零化",
   "effect": "隊伍中有「神族、獸類」以外成員時，將所有成員的主動技能 CD、EP 及累積戰鬥回合數重置。<br><br>每回合隨機將 1 種符石轉化為木符石。<br><br>首批消除木屬性的連擊　(Combo) 會令全隊攻擊無效，首批消除的木屬性連擊 (Combo) 愈多，敵人的連擊次數愈多<br>",
   "content": "技能重置,符石轉換,連擊零化",
-  "icon": "es/SI121.png|es/SI303.png|es/SI047.png|es/SI115.png"
+  "icon": "es/SI121.png|es/SI303.png|es/SI047.png|es/SI115.png",
+  "tcicon": "es/SI121.png|es/SI303.png|es/SI047.png|es/SI115.png"
 }

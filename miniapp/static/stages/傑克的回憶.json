@@ -28,9 +28,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1568i.png"
         },
         {
           "card": "1568",
@@ -44,9 +46,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1568i.png"
         },
         {
           "card": "1568",
@@ -61,9 +65,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI305.png|es/SI047.png|es/SI216.png|es/SI124.png",
+            "tcicon": "es/SI305.png|es/SI047.png|es/SI216.png|es/SI124.png",
             "title": "攻後暗縱橫輪轉 ‧ 復活變強3倍 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1568i.png"
         }
       ]
     }

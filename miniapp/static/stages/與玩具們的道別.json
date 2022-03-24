@@ -23,7 +23,8 @@
           "coin": "5123",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1195i.png"
         },
         {
           "card": "1193",
@@ -34,7 +35,8 @@
           "coin": "5123",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1193i.png"
         },
         {
           "card": "1194",
@@ -45,7 +47,8 @@
           "coin": "5123",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1194i.png"
         },
         {
           "card": "1192",
@@ -56,7 +59,8 @@
           "coin": "5123",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1192i.png"
         },
         {
           "card": "1191",
@@ -68,7 +72,8 @@
           "chest": "10000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1191i.png"
         }
       ]
     }

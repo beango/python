@@ -3,5 +3,6 @@
   "title": "外側轉水 ‧ 禁消水 ‧ 水引爆暴擊 ‧ 無法控制",
   "effect": "首回合場上外側的符石轉化為水符石。<br>水符石無法被消除。<br>每回合結束時，引爆所有水符石，引爆的符石數量愈多，敵人下一次的攻擊力愈高及所受傷害減少愈多。<br>敵人無視所有控制技能{{Cal|滅珠增傷|{{{atk|}}}}}",
   "content": "符石轉換",
-  "icon": "es/SI301.png|es/SI047.png|es/SI038.png|es/SI168.png|es/SI124.png"
+  "icon": "es/SI301.png|es/SI047.png|es/SI038.png|es/SI168.png|es/SI124.png",
+  "tcicon": "es/SI301.png|es/SI047.png|es/SI038.png|es/SI168.png|es/SI124.png"
 }

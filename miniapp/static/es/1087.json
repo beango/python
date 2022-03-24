@@ -3,5 +3,6 @@
   "title": "冰封圍城 ‧ 單擊800萬盾",
   "effect": "首回合敵人會凍結場上所有符石，被凍結的符石 3 回合內無法被消除。<br>召喚師隊伍中成員的單一攻擊達 800 萬才能對敵人造成攻擊傷害",
   "content": "冰封符石,單擊盾",
-  "icon": "es/SI219.png|es/SI262.png"
+  "icon": "es/SI219.png|es/SI262.png",
+  "tcicon": "es/SI219.png|es/SI262.png"
 }

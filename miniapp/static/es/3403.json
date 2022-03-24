@@ -3,5 +3,6 @@
   "title": "首殺盾 ‧ 三重燃燒20% ‧ 無法控制",
   "effect": "召喚師必需先擊斃此敵人，才可以對其他敵人造成傷害。<br><br>隨機<font color=yellow>燃燒 3 個</font>位置，每觸碰被燃燒的位置，將扣除召喚師 <font color=yellow>20% </font>生命力。<br><br>無視所有控制技能",
   "content": "首殺盾,燃燒,無法控制",
-  "icon": "es/SI250.png|es/SI229.png|es/SI124.png"
+  "icon": "es/SI250.png|es/SI229.png|es/SI124.png",
+  "tcicon": "es/SI250.png|es/SI229.png|es/SI124.png"
 }

@@ -3,5 +3,6 @@
   "title": "10%隱藏符石5顆",
   "effect": "大幅掉落隱藏符石",
   "content": "隱藏符石",
-  "icon": "es/SI224.png"
+  "icon": "es/SI224.png",
+  "tcicon": "es/SI224.png"
 }

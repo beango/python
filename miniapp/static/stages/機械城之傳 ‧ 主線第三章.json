@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/158i.png"
         },
         {
           "card": "146",
@@ -35,7 +36,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/146i.png"
         },
         {
           "card": "149",
@@ -47,7 +49,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/149i.png"
         },
         {
           "card": "670",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI215.png|es/SI183.png",
+            "tcicon": "es/SI215.png|es/SI183.png",
             "title": "黑白符石 ‧ 始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/670i.png"
         },
         {
           "card": "670",
@@ -76,9 +81,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png",
+            "tcicon": "es/SI160.png|es/SI221.png|es/SI124.png|es/SI105.png",
             "title": "突擊30% ‧ 首回4顆-每回3顆風化3000 ‧ 無法控制 ‧ 7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/670i.png"
         }
       ]
     },
@@ -104,7 +111,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/149i.png"
         },
         {
           "card": "152",
@@ -116,7 +124,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/152i.png"
         },
         {
           "card": "155",
@@ -127,7 +136,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/155i.png"
         },
         {
           "card": "667",
@@ -141,9 +151,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/667i.png"
         },
         {
           "card": "738",
@@ -157,9 +169,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI181.png",
+            "tcicon": "es/SI181.png",
             "title": "敵屬初級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/738i.png"
         },
         {
           "card": "738",
@@ -172,9 +186,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI305.png|es/SI047.png|es/SI254.png",
+            "tcicon": "es/SI160.png|es/SI305.png|es/SI047.png|es/SI254.png",
             "title": "先攻-二五直行轉暗 ‧ 攻後暗縱橫輪轉 ‧ 強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/738i.png"
         }
       ]
     },
@@ -205,9 +221,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         },
         {
           "card": "1367",
@@ -221,9 +239,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1367i.png"
         }
       ]
     }

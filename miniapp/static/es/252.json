@@ -3,5 +3,6 @@
   "title": "隱藏-結",
   "effect": "敵人死亡後，會將所有符石轉化為隱藏符石",
   "content": "隱藏符石",
-  "icon": "es/SI224.png"
+  "icon": "es/SI224.png",
+  "tcicon": "es/SI224.png"
 }

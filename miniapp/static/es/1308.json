@@ -3,5 +3,6 @@
   "title": "黑白符石 ‧ 扣血100%",
   "effect": "敵人會將所有符石變成黑白色。<br>敵人發動攻擊時會扣除召喚師 100% 生命力 (無視所有減傷效果和意志技能)",
   "content": "黑白符石,固定傷害",
-  "icon": "es/SI215.png|es/SI132.png"
+  "icon": "es/SI215.png|es/SI132.png",
+  "tcicon": "es/SI215.png|es/SI132.png"
 }

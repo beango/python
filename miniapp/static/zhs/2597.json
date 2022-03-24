@@ -5,7 +5,7 @@
   "id": "2597",
   "cost": "1",
   "race": "人類",
-  "series": "",
+  "series": "地獄魔王",
   "lvMax": "5",
   "exptype": "1",
   "stats0": "76,42,13",
@@ -20,5 +20,6 @@
   "source": "",
   "stage": "",
   "turn": "2",
-  "def": "20"
+  "def": "20",
+  "teamskill2": ""
 }

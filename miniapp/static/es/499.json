@@ -3,5 +3,6 @@
   "title": "縱橫射擊",
   "effect": "敵人會在 CD 2 時射擊 1 直行的位置，並在 CD 1 時射擊 1 橫行的位置，被射擊的位置一經觸碰，即時停止移動符石",
   "content": "射擊",
-  "icon": "es/SI225.png"
+  "icon": "es/SI225.png",
+  "tcicon": "es/SI225.png"
 }

@@ -3,5 +3,6 @@
   "title": "無視減傷 ‧ 首回化血圍城-心化血",
   "effect": "敵人會無視所有減傷效果和意志技能。<br>首回合敵人會鎖定場上所有符石，其後每回合會鎖定場上的心符石；如有鎖定的符石未被消除時，敵人回復相等於該回合召喚師所造成傷害的血量",
   "content": "無視減傷,化血符石",
-  "icon": "es/SI251.png|es/SI232.png|es/SI218.png"
+  "icon": "es/SI251.png|es/SI232.png|es/SI218.png",
+  "tcicon": "es/SI251.png|es/SI232.png|es/SI218.png"
 }

@@ -23,7 +23,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "1013",
@@ -36,9 +37,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI221.png",
+            "tcicon": "es/SI160.png|es/SI221.png",
             "title": "突擊65%-底行風化 ‧ 攻後風化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1013i.png"
         },
         {
           "card": "489",
@@ -49,7 +52,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "584",
@@ -64,9 +68,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI260.png",
+            "tcicon": "es/SI254.png|es/SI260.png",
             "title": "強化盾-反擊100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/584i.png"
         },
         {
           "card": "1414",
@@ -81,9 +87,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI069.png|es/SI122.png",
+            "tcicon": "es/SI069.png|es/SI122.png",
             "title": "獵人-技能封鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1414i.png"
         },
         {
           "card": "1595",
@@ -97,9 +105,11 @@
           "note": "{{特性*離開*1}}",
           "esjson": {
             "img": "es/SI224.png|es/SI140.png",
+            "tcicon": "es/SI224.png|es/SI140.png",
             "title": "隱藏圍城 ‧ 龍脈重置"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         }
       ]
     },
@@ -125,7 +135,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -137,7 +148,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -149,7 +161,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -161,7 +174,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -173,7 +187,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "1596",
@@ -186,9 +201,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI236.png",
+            "tcicon": "es/SI160.png|es/SI236.png",
             "title": "突擊65% ‧ 攻後電擊3顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         }
       ]
     },
@@ -215,7 +232,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1012",
@@ -226,7 +244,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -237,7 +256,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1411",
@@ -250,9 +270,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png|es/SI011.png",
+            "tcicon": "es/SI301.png|es/SI047.png|es/SI011.png",
             "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 首消水傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         },
         {
           "card": "1413",
@@ -265,9 +287,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI244.png|es/SI038.png",
+            "tcicon": "es/SI244.png|es/SI038.png",
             "title": "水外四屬盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         }
       ]
     }

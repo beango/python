@@ -3,5 +3,6 @@
   "title": "(3回轉珠減2秒)",
   "effect": "3 回合內，移動符石時間縮短 2 秒 (移動符石時間最多減至 1 秒)",
   "content": "時間改變",
-  "icon": "es/SI165.png"
+  "icon": "es/SI165.png",
+  "tcicon": "es/SI165.png"
 }

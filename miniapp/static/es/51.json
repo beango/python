@@ -3,5 +3,6 @@
   "title": "無視減傷",
   "effect": "敵人會無視所有減傷效果和意志技能",
   "content": "無視減傷",
-  "icon": "es/SI251.png"
+  "icon": "es/SI251.png",
+  "tcicon": "es/SI251.png"
 }

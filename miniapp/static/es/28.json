@@ -3,5 +3,6 @@
   "title": "妖精防禦50%",
   "effect": "敵人令妖精類成員的攻擊力半減",
   "content": "攻擊力減弱",
-  "icon": "es/SI078.png"
+  "icon": "es/SI078.png",
+  "tcicon": "es/SI078.png"
 }

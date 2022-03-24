@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "攻後隱藏2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "1146",
@@ -44,9 +46,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI257.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI257.png|es/SI124.png",
             "title": "首殺盾 ‧ 25%盾 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1146i.png"
         },
         {
           "card": "1154",
@@ -61,9 +65,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "攻後隱藏2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "1155",
@@ -78,9 +84,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1155i.png"
         },
         {
           "card": "1147",
@@ -96,9 +104,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI220.png|es/SI113.png",
+            "tcicon": "es/SI301.png|es/SI220.png|es/SI113.png",
             "title": "每回全水凍結 ‧ 首消水追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1147i.png"
         }
       ]
     },
@@ -127,9 +137,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png",
+            "tcicon": "es/SI257.png",
             "title": "25%盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2384i.png"
         }
       ]
     },
@@ -156,7 +168,8 @@
           "item": "163",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2383i.png"
         }
       ]
     },
@@ -185,9 +198,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI128.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI128.png|es/SI188.png",
             "title": "無法控制 ‧ 扣血50% ‧ 喪伴固防50倍-必殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "1148",
@@ -202,9 +217,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI229.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI229.png|es/SI124.png",
             "title": "首殺盾 ‧ 雙重燃燒20% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1148i.png"
         },
         {
           "card": "833",
@@ -219,9 +236,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI128.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI128.png|es/SI188.png",
             "title": "無法控制 ‧ 扣血50% ‧ 喪伴固防50倍-必殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "1149",
@@ -236,9 +255,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI229.png",
+            "tcicon": "es/SI163.png|es/SI229.png",
             "title": "能力繼承 ‧ 雙重燃燒20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1149i.png"
         },
         {
           "card": "1149",
@@ -253,9 +274,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png|es/SI229.png",
+            "tcicon": "es/SI163.png|es/SI229.png",
             "title": "能力繼承 ‧ 雙重燃燒20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1149i.png"
         },
         {
           "card": "1052",
@@ -271,9 +294,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI217.png|es/SI188.png|es/SI124.png",
             "title": "溢補盾 ‧ 觸怒4倍 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1052i.png"
         }
       ]
     }

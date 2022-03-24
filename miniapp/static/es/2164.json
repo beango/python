@@ -3,5 +3,6 @@
   "title": "附加消除重置 ‧ 軌跡黏附",
   "effect": "首回合敵人會消除召喚師所有附加效果，其技能 CD 將被重置。<br>敵人會持續黏附移動符石時所觸碰的符石，被黏附的符石一經觸碰，即時停止移動符石",
   "content": "附加消除重置,黏附",
-  "icon": "es/SI121.png|es/SI123.png|es/SI228.png"
+  "icon": "es/SI121.png|es/SI123.png|es/SI228.png",
+  "tcicon": "es/SI121.png|es/SI123.png|es/SI228.png"
 }

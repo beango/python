@@ -3,5 +3,6 @@
   "title": "8+Combo追擊盾 ‧ 始終盾 ‧ 無視減傷",
   "effect": "8 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。<br><br>每回合以指定位置 (綠色漩渦) 的符石開始轉珠及在指定位置 (紅色漩渦) 結束轉珠，才會發動攻擊和回復。<br>(達成條件前，無法進行回復)<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "正負Combo盾,始終盾,無視減傷",
-  "icon": "es/SI106.png|es/SI183.png|es/SI251.png"
+  "icon": "es/SI106.png|es/SI183.png|es/SI251.png",
+  "tcicon": "es/SI106.png|es/SI183.png|es/SI251.png"
 }

@@ -10,3 +10,4 @@ http/content
 /pyqt/gpxs
 /t1
 *.tar.gz
+miniapp/static/

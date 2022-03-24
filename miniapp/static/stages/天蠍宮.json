@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/20 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[天秤宮]]」全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -23,7 +31,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -35,7 +44,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -47,7 +57,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -59,7 +70,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -70,7 +82,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "2118",
@@ -85,9 +98,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI203.png|es/SI015.png",
+            "tcicon": "es/SI160.png|es/SI203.png|es/SI015.png",
             "title": "突擊10% ‧ 首回攻後施針-5針完殺 ‧ 首消暗傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2118i.png"
         }
       ]
     },
@@ -115,9 +130,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI396.png|es/SI161.png",
+            "tcicon": "es/SI396.png|es/SI161.png",
             "title": "[7回水回2倍] ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/360i.png"
         },
         {
           "card": "2118",
@@ -131,9 +148,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI227.png",
+            "tcicon": "es/SI122.png|es/SI227.png",
             "title": "3回全員禁錮 ‧ 迷惑符石"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2118i.png"
         },
         {
           "card": "2118",
@@ -148,9 +167,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI203.png|es/SI015.png",
+            "tcicon": "es/SI160.png|es/SI203.png|es/SI015.png",
             "title": "突擊10% ‧ 首回攻後施針-5針完殺 ‧ 首消暗傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2118i.png"
         }
       ]
     },
@@ -178,9 +199,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI138.png",
+            "tcicon": "es/SI138.png",
             "title": "龍脈回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2101i.png"
         },
         {
           "card": "2118",
@@ -194,9 +217,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI203.png|es/SI015.png",
+            "tcicon": "es/SI160.png|es/SI203.png|es/SI015.png",
             "title": "突擊10% ‧ 首回攻後施針-5針完殺 ‧ 首消暗傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2118i.png"
         },
         {
           "card": "2118",
@@ -211,9 +236,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png",
+            "tcicon": "es/SI219.png",
             "title": "凍結圍城"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2118i.png"
         }
       ]
     },
@@ -238,7 +265,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -250,7 +278,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -262,7 +291,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -274,7 +304,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -285,7 +316,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "832",
@@ -299,9 +331,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/832i.png"
         },
         {
           "card": "840",
@@ -315,9 +349,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後暗橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/840i.png"
         },
         {
           "card": "2128",
@@ -332,9 +368,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2128i.png"
         },
         {
           "card": "2111",
@@ -348,9 +386,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI219.png|es/SI124.png",
+            "tcicon": "es/SI160.png|es/SI219.png|es/SI124.png",
             "title": "突擊10% ‧ 攻後冰封2顆 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         },
         {
           "card": "2111",
@@ -364,9 +404,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI220.png|es/SI132.png|es/SI124.png",
+            "tcicon": "es/SI159.png|es/SI220.png|es/SI132.png|es/SI124.png",
             "title": "CD2 ‧ 首回凍結圍城 ‧ 扣血100% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         },
         {
           "card": "831",
@@ -377,7 +419,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -389,7 +432,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -401,7 +445,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -413,7 +458,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -424,7 +470,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "690",
@@ -438,9 +485,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI215.png|es/SI183.png",
+            "tcicon": "es/SI215.png|es/SI183.png",
             "title": "黑白符石 ‧ 始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/690i.png"
         },
         {
           "card": "2118",
@@ -454,9 +503,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI227.png|es/SI118.png",
+            "tcicon": "es/SI122.png|es/SI227.png|es/SI118.png",
             "title": "5回全員禁錮 ‧ 迷惑符石 ‧ 首消心追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2118i.png"
         },
         {
           "card": "2118",
@@ -471,9 +522,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI203.png|es/SI015.png|es/SI260.png",
+            "tcicon": "es/SI160.png|es/SI203.png|es/SI015.png|es/SI260.png",
             "title": "突擊10% ‧ 首回攻後施針-3針完殺 ‧ 首消暗傷害吸收-反擊200%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2118i.png"
         }
       ]
     }

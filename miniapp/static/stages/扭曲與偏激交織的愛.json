@@ -24,7 +24,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/647i.png"
         },
         {
           "card": "650",
@@ -36,7 +37,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "648",
@@ -48,7 +50,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/648i.png"
         },
         {
           "card": "1346",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI001.png|es/SI188.png",
+            "tcicon": "es/SI160.png|es/SI001.png|es/SI188.png",
             "title": "突擊10%-水圍城-每回隨機轉水 ‧ 消水縮時0.2-1秒 ‧ 首消水傷害零化 ‧ 血弱50%-雙轉水-3倍狂擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1346i.png"
         },
         {
           "card": "1746",
@@ -78,9 +83,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1746i.png"
         },
         {
           "card": "1749",
@@ -95,9 +102,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
             "title": "攻後光縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1749i.png"
         },
         {
           "card": "1348",
@@ -110,9 +119,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI122.png|es/SI236.png",
+            "tcicon": "es/SI160.png|es/SI122.png|es/SI236.png",
             "title": "先攻當前99% ‧ 人外禁錮1回 ‧ 隨機直行電擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1348i.png"
         },
         {
           "card": "1748",
@@ -127,9 +138,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI212.png",
+            "tcicon": "es/SI188.png|es/SI212.png",
             "title": "2倍士氣高昂-無限回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1748i.png"
         },
         {
           "card": "1746",
@@ -144,9 +157,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1746i.png"
         },
         {
           "card": "1350",
@@ -159,9 +174,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI015.png|es/SI260.png",
+            "tcicon": "es/SI224.png|es/SI015.png|es/SI260.png",
             "title": "軌跡隱藏 ‧ 首消暗傷害吸收-反擊100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1350i.png"
         },
         {
           "card": "1751",
@@ -175,9 +192,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI225.png",
+            "tcicon": "es/SI225.png",
             "title": "射擊-上"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1751i.png"
         },
         {
           "card": "1751",
@@ -191,9 +210,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI225.png",
+            "tcicon": "es/SI225.png",
             "title": "射擊-下"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1751i.png"
         },
         {
           "card": "1349",
@@ -206,9 +227,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI122.png|es/SI188.png",
+            "tcicon": "es/SI250.png|es/SI122.png|es/SI188.png",
             "title": "同屬防禦90% ‧ 人類禁錮 ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1349i.png"
         },
         {
           "card": "1750",
@@ -223,9 +246,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI122.png|es/SI165.png",
+            "tcicon": "es/SI160.png|es/SI122.png|es/SI165.png",
             "title": "突擊65% ‧ (5回2員技能技鎖) ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1750i.png"
         },
         {
           "card": "1747",
@@ -240,9 +265,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "隨機縱向燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1747i.png"
         },
         {
           "card": "1347",
@@ -255,9 +282,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI302.png|es/SI047.png|es/SI188.png",
+            "tcicon": "es/SI302.png|es/SI047.png|es/SI188.png",
             "title": "隨機轉火 ‧ 攻後火縱橫輪轉 ‧ 連擊趨狂"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1347i.png"
         },
         {
           "card": "50019",
@@ -270,9 +299,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI306.png|es/SI168.png|es/SI036.png|es/SI124.png",
+            "tcicon": "es/SI306.png|es/SI168.png|es/SI036.png|es/SI124.png",
             "title": "心引爆狂擊 ‧ 首消全心盾 ‧ 無法控制"
           },
-          "jd": "第一階段（因攻擊無效技能關係，只能攻擊部件-左，然後進入第二階段）"
+          "jd": "第一階段（因攻擊無效技能關係，只能攻擊部件-左，然後進入第二階段）",
+          "cardtcimg": "zhs/50019i.png"
         },
         {
           "card": "50020",
@@ -285,9 +316,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png|es/SI140.png|es/SI121.png",
+            "tcicon": "es/SI257.png|es/SI140.png|es/SI121.png",
             "title": "攻擊無效 ‧ 龍脈重置 ‧ 機械外超級技能重置"
           },
-          "jd": "第一階段（因攻擊無效技能關係，只能攻擊部件-左，然後進入第二階段）"
+          "jd": "第一階段（因攻擊無效技能關係，只能攻擊部件-左，然後進入第二階段）",
+          "cardtcimg": "zhs/50020i.png"
         },
         {
           "card": "50021",
@@ -300,9 +333,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png|es/SI183.png|es/SI251.png",
+            "tcicon": "es/SI257.png|es/SI183.png|es/SI251.png",
             "title": "攻擊無效 ‧ 始終盾 ‧ 無視減傷"
           },
-          "jd": "第一階段（因攻擊無效技能關係，只能攻擊部件-左，然後進入第二階段）"
+          "jd": "第一階段（因攻擊無效技能關係，只能攻擊部件-左，然後進入第二階段）",
+          "cardtcimg": "zhs/50021i.png"
         },
         {
           "card": "50020",
@@ -315,9 +350,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png|es/SI224.png|es/SI014.png|es/SI260.png",
+            "tcicon": "es/SI257.png|es/SI224.png|es/SI014.png|es/SI260.png",
             "title": "攻擊無效 ‧ 首回縱橫隱藏 ‧ 首消光傷害吸收-反擊100%"
           },
-          "jd": "第二階段（因攻擊無效技能關係，只能攻擊部件-右，然後進入第三階段）"
+          "jd": "第二階段（因攻擊無效技能關係，只能攻擊部件-右，然後進入第三階段）",
+          "cardtcimg": "zhs/50020i.png"
         },
         {
           "card": "50021",
@@ -330,9 +367,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI304.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI304.png|es/SI047.png|es/SI124.png",
             "title": "[4回攻擊零化] ‧ 隨機轉光 ‧ 無法控制"
           },
-          "jd": "第二階段（因攻擊無效技能關係，只能攻擊部件-右，然後進入第三階段）"
+          "jd": "第二階段（因攻擊無效技能關係，只能攻擊部件-右，然後進入第三階段）",
+          "cardtcimg": "zhs/50021i.png"
         },
         {
           "card": "50020",
@@ -347,9 +386,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI158.png|es/SI132.png|es/SI124.png",
+            "tcicon": "es/SI159.png|es/SI158.png|es/SI132.png|es/SI124.png",
             "title": "CD1 ‧ 首回弱化鎖定圍城20% ‧ 扣血100% ‧ 無法控制"
           },
-          "jd": "第三階段"
+          "jd": "第三階段",
+          "cardtcimg": "zhs/50020i.png"
         }
       ]
     }

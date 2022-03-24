@@ -3,5 +3,6 @@
   "title": "首消木零化 ‧ 復活-CD變1-變強3倍-木外最多轉木 ‧ 無視減傷",
   "effect": "首批消除木符石時，該回合<br>無法對敵人造成攻擊傷害。<br><br>敵人死亡後會復活 1 次，<br>其攻擊力、生命力、防禦力<br>3 倍，攻擊頻率變為 CD 1<br><br>敵人復活時將木符石以外<br>數量最多的 1 種符石<br>⇒ 轉化為木符石<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "傷害零化,復活,攻速變更,無視減傷",
-  "icon": "es/SI013.png|es/SI216.png|es/SI159.png|es/SI047.png|es/SI251.png"
+  "icon": "es/SI013.png|es/SI216.png|es/SI159.png|es/SI047.png|es/SI251.png",
+  "tcicon": "es/SI013.png|es/SI216.png|es/SI159.png|es/SI047.png|es/SI251.png"
 }

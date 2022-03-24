@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 黑白符石 ‧ 首回暗引爆狂擊-龍脈吸收減傷 ‧ 無法控制",
   "effect": "敵人首次攻擊變為 CD 1。<br>所有符石變為黑白色。<br>首回合引爆所有暗符石，以永久提升攻擊力；並吸取龍脈儀的能量，以永久減少所受傷害。<br>無視所有控制技能",
   "content": "回合改變,符石引爆,龍脈吸收,無法控制",
-  "icon": "es/SI159.png|es/SI215.png|es/SI316.png|es/SI140.png|es/SI124.png"
+  "icon": "es/SI159.png|es/SI215.png|es/SI316.png|es/SI140.png|es/SI124.png",
+  "tcicon": "es/SI159.png|es/SI215.png|es/SI316.png|es/SI140.png|es/SI124.png"
 }

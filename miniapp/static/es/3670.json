@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 首回木引爆狂擊-龍脈吸收減傷 ‧ 始終盾 ‧ 無視減傷",
   "effect": "敵人首次攻擊變為 CD 1。<br><br>首回合引爆所有木符石，<br>以永久提升攻擊力；<br>並吸取龍脈儀的能量，<br>以永久減少所受傷害。<br><br>每回合以指定位置 (綠色漩渦) 的符石開始轉珠及在指定位置 (紅色漩渦) 結束轉珠，才會發動攻擊和回復。<br>(達成條件前，無法進行回復)<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "攻速變更,引爆,始終盾,無視減傷",
-  "icon": "es/SI159.png|es/SI314.png|es/SI140.png|es/SI183.png|es/SI251.png"
+  "icon": "es/SI159.png|es/SI314.png|es/SI140.png|es/SI183.png|es/SI251.png",
+  "tcicon": "es/SI159.png|es/SI314.png|es/SI140.png|es/SI183.png|es/SI251.png"
 }

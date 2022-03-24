@@ -23,7 +23,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "1527",
@@ -35,7 +36,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1532",
@@ -47,7 +49,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "1412",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "能力繼承"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1412i.png"
         },
         {
           "card": "1412",
@@ -77,9 +82,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "能力繼承"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1412i.png"
         }
       ]
     },
@@ -104,7 +111,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "837",
@@ -116,7 +124,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "1012",
@@ -128,7 +137,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "837",
@@ -139,7 +149,8 @@
           "coin": "208",
           "note": "{{特性*離開*4}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "838",
@@ -153,9 +164,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "832",
@@ -168,9 +181,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI160.png|es/SI011.png",
+            "tcicon": "es/SI254.png|es/SI160.png|es/SI011.png",
             "title": "強化盾 ‧ 先攻-雙直行轉水 ‧ 攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/832i.png"
         }
       ]
     },
@@ -199,7 +214,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/081i.png"
         },
         {
           "card": "835",
@@ -211,7 +227,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "1528",
@@ -223,7 +240,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "488",
@@ -234,7 +252,8 @@
           "coin": "189",
           "note": "{{特性*離開*1}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/488i.png"
         },
         {
           "card": "1115",
@@ -247,9 +266,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1115i.png"
         },
         {
           "card": "583",
@@ -262,9 +283,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/583i.png"
         },
         {
           "card": "1115",
@@ -277,9 +300,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1115i.png"
         },
         {
           "card": "1106",
@@ -293,9 +318,11 @@
           "note": "{{特性*離開*6}}",
           "esjson": {
             "img": "es/SI232.png|es/SI309.png|es/SI218.png|es/SI043.png",
+            "tcicon": "es/SI232.png|es/SI309.png|es/SI218.png|es/SI043.png",
             "title": "化血圍城-木心化血 ‧ 心禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1106i.png"
         }
       ]
     }

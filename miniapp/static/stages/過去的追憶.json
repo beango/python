@@ -25,7 +25,8 @@
           "item": "163",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2499i.png"
         }
       ]
     },
@@ -54,9 +55,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI104.png",
+            "tcicon": "es/SI224.png|es/SI104.png",
             "title": "隱藏-轉 ‧ 6+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1648i.png"
         },
         {
           "card": "1640",
@@ -71,9 +74,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI032.png|es/SI183.png",
+            "tcicon": "es/SI032.png|es/SI183.png",
             "title": "首消全火盾 ‧ 火起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1640i.png"
         },
         {
           "card": "1646",
@@ -88,9 +93,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI181.png|es/SI216.png|es/SI124.png",
+            "tcicon": "es/SI181.png|es/SI216.png|es/SI124.png",
             "title": "剋屬初級拼圖盾-限 ‧ 反擊50% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1646i.png"
         }
       ]
     },
@@ -119,9 +126,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI127.png",
+            "tcicon": "es/SI127.png",
             "title": "扣血40%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "835",
@@ -136,9 +145,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "839",
@@ -153,9 +164,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI127.png",
+            "tcicon": "es/SI127.png",
             "title": "扣血40%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "2039",
@@ -170,9 +183,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI047.png|es/SI236.png|es/SI116.png|es/SI124.png",
+            "tcicon": "es/SI304.png|es/SI047.png|es/SI236.png|es/SI116.png|es/SI124.png",
             "title": "四角轉光電擊 ‧ 首消光追擊零化 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2039i.png"
         },
         {
           "card": "2498",
@@ -186,9 +201,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI233.png|es/SI135.png|es/SI290.png",
+            "tcicon": "es/SI233.png|es/SI135.png|es/SI290.png",
             "title": "攻後回復力衰弱25% ‧ 中毒90% ‧ 點燃盾90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2498i.png"
         },
         {
           "card": "2498",
@@ -203,9 +220,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI131.png|es/SI228.png",
+            "tcicon": "es/SI256.png|es/SI131.png|es/SI228.png",
             "title": "消心盾5% ‧ 扣血90% ‧ 雙重黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2498i.png"
         }
       ]
     },
@@ -234,9 +253,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "自殘50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2383i.png"
         }
       ]
     }

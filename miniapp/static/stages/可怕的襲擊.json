@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1528",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1530",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "830",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI227.png|es/SI242.png",
+            "tcicon": "es/SI160.png|es/SI227.png|es/SI242.png",
             "title": "先攻 ‧ 迷惑符石 ‧ 三屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/830i.png"
         },
         {
           "card": "830",
@@ -77,9 +82,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "鬥志激昂-弱銀"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/830i.png"
         }
       ]
     },
@@ -106,7 +113,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1528",
@@ -118,7 +126,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1529",
@@ -130,7 +139,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "453",
@@ -144,9 +154,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/453i.png"
         },
         {
           "card": "455",
@@ -159,9 +171,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/455i.png"
         }
       ]
     },
@@ -188,7 +202,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "109",
@@ -199,7 +214,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "113",
@@ -210,7 +226,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/113i.png"
         },
         {
           "card": "1593",
@@ -224,9 +241,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越攻越強"
           },
-          "jd": "R5 特性场景特性：10198"
+          "jd": "R5 特性场景特性：10198",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1595",
@@ -241,9 +260,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI236.png",
+            "tcicon": "es/SI236.png",
             "title": "電擊2顆"
           },
-          "jd": "R5 特性场景特性：10198"
+          "jd": "R5 特性场景特性：10198",
+          "cardtcimg": "zhs/1595i.png"
         }
       ]
     }

@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/20 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[處女宮]]」全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -24,7 +32,8 @@
           "coin": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         },
         {
           "card": "1411",
@@ -36,7 +45,8 @@
           "coin": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         },
         {
           "card": "706",
@@ -50,9 +60,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png|es/SI188.png",
+            "tcicon": "es/SI301.png|es/SI047.png|es/SI188.png",
             "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 血弱追擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/706i.png"
         },
         {
           "card": "832",
@@ -66,9 +78,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png",
+            "tcicon": "es/SI165.png",
             "title": "2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/832i.png"
         },
         {
           "card": "834",
@@ -83,9 +97,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI250.png",
+            "tcicon": "es/SI188.png|es/SI250.png",
             "title": "越攻越強 ‧ 循環累積15+相剋符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/834i.png"
         }
       ]
     },
@@ -113,9 +129,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png",
+            "tcicon": "es/SI217.png",
             "title": "溢補盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/360i.png"
         },
         {
           "card": "2101",
@@ -130,9 +148,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png",
+            "tcicon": "es/SI217.png",
             "title": "溢補盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2101i.png"
         }
       ]
     },
@@ -160,9 +180,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉橫火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1149i.png"
         },
         {
           "card": "1155",
@@ -176,9 +198,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後轉直暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1155i.png"
         },
         {
           "card": "368",
@@ -192,9 +216,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI105.png",
+            "tcicon": "es/SI105.png",
             "title": "7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/368i.png"
         },
         {
           "card": "368",
@@ -209,9 +235,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI188.png|es/SI124.png",
             "title": "弱化鎖定圍城20% ‧ 越攻越強 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/368i.png"
         }
       ]
     }

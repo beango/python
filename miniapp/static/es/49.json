@@ -3,5 +3,6 @@
   "title": "黑白符石",
   "effect": "將所有符石變為黑白色",
   "content": "黑白符石",
-  "icon": "es/SI215.png"
+  "icon": "es/SI215.png",
+  "tcicon": "es/SI215.png"
 }

@@ -23,7 +23,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/083i.png"
         },
         {
           "card": "489",
@@ -34,7 +35,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "1529",
@@ -46,7 +48,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1124",
@@ -60,9 +63,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI254.png|es/SI221.png",
+            "tcicon": "es/SI158.png|es/SI254.png|es/SI221.png",
             "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1124i.png"
         }
       ]
     },
@@ -87,7 +92,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "113",
@@ -98,7 +104,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/113i.png"
         },
         {
           "card": "1526",
@@ -110,7 +117,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1529",
@@ -122,7 +130,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1411",
@@ -136,9 +145,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI011.png",
+            "tcicon": "es/SI160.png|es/SI011.png",
             "title": "突擊50% ‧ 攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1411i.png"
         },
         {
           "card": "1414",
@@ -151,9 +162,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "6顆風化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1414i.png"
         }
       ]
     },
@@ -182,7 +195,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "966",
@@ -194,7 +208,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/966i.png"
         },
         {
           "card": "1531",
@@ -206,7 +221,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "425",
@@ -220,9 +236,11 @@
           "note": "{{特性*離開*5}}",
           "esjson": {
             "img": "es/SI106.png",
+            "tcicon": "es/SI106.png",
             "title": "(5回8+Combo發動攻回)"
           },
-          "jd": "R5特性场景特性：10115"
+          "jd": "R5特性场景特性：10115",
+          "cardtcimg": "zhs/425i.png"
         }
       ]
     }

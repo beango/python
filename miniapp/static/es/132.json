@@ -3,5 +3,6 @@
   "title": "5消以上攻擊零化",
   "effect": "召喚師消除 1 組 5 粒或以上的屬性符石，該屬性將無法對敵人造成攻擊傷害 (只計算消除符石)",
   "content": "攻擊零化",
-  "icon": "es/SI257.png"
+  "icon": "es/SI257.png",
+  "tcicon": "es/SI257.png"
 }

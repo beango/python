@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/27 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[天蠍宮]]」全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -26,9 +34,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI094.png",
+            "tcicon": "es/SI094.png",
             "title": "首消4Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/321i.png"
         },
         {
           "card": "321",
@@ -42,9 +52,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI093.png",
+            "tcicon": "es/SI093.png",
             "title": "首消3Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/321i.png"
         },
         {
           "card": "321",
@@ -58,9 +70,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI093.png",
+            "tcicon": "es/SI093.png",
             "title": "首消3Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/321i.png"
         },
         {
           "card": "321",
@@ -74,9 +88,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI095.png",
+            "tcicon": "es/SI095.png",
             "title": "首消5Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/321i.png"
         },
         {
           "card": "321",
@@ -90,9 +106,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI094.png",
+            "tcicon": "es/SI094.png",
             "title": "首消4Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/321i.png"
         },
         {
           "card": "322",
@@ -107,9 +125,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI096.png",
+            "tcicon": "es/SI096.png",
             "title": "首消6Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/322i.png"
         }
       ]
     },
@@ -135,7 +155,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -147,7 +168,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "837",
@@ -159,7 +181,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "833",
@@ -171,7 +194,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "60004",
@@ -186,9 +210,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/60004i.png"
         }
       ]
     },
@@ -216,9 +242,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/60004i.png"
         },
         {
           "card": "425",
@@ -232,9 +260,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/425i.png"
         },
         {
           "card": "425",
@@ -248,9 +278,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI181.png",
+            "tcicon": "es/SI301.png|es/SI181.png",
             "title": "水屬高級拼圖盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/425i.png"
         },
         {
           "card": "425",
@@ -264,9 +296,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png",
+            "tcicon": "es/SI219.png",
             "title": "凍結圍城"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/425i.png"
         },
         {
           "card": "425",
@@ -281,9 +315,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/425i.png"
         }
       ]
     }

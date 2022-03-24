@@ -3,5 +3,6 @@
   "title": "無限回復 ‧ 軌跡燃燒2000 ‧ 三屬盾-限",
   "effect": "敵人每回合會完全回復生命力。<br><br>燃燒移動符石時觸碰的位置，<br>每觸碰被燃燒的位置，<br>對召喚師造成 2000 點傷害。<br><br>需同時符合以下兩個條件，<br>才會對敵人造成攻擊傷害：<br>⓵ 同時消除水、火及木符石<br>⓶ 不能首批消除光或暗符石",
   "content": "無限回復,燃燒,屬性盾",
-  "icon": "es/SI212.png|es/SI229.png|es/SI242.png"
+  "icon": "es/SI212.png|es/SI229.png|es/SI242.png",
+  "tcicon": "es/SI212.png|es/SI229.png|es/SI242.png"
 }

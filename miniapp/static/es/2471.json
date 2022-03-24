@@ -3,5 +3,6 @@
   "title": "先攻-縱橫風化9000 ‧ 初怒 ‧ 無視減傷",
   "effect": "首回合優先攻擊 1 次，並隨機將 1 橫行及 1 直行的符石風化，風化符石一經觸碰，即時停止移動符石，並對召喚師造成 9000 點傷害。<br>其後敵人首次發動攻擊時攻擊力大幅提升。<br>敵人無視所有減傷效果和意志技能{{Cal|首攻狂暴|{{{atk|}}}}}",
   "content": "先攻,風化符石,狂暴,無視減傷",
-  "icon": "es/SI160.png|es/SI221.png|es/SI188.png|es/SI251.png"
+  "icon": "es/SI160.png|es/SI221.png|es/SI188.png|es/SI251.png",
+  "tcicon": "es/SI160.png|es/SI221.png|es/SI188.png|es/SI251.png"
 }

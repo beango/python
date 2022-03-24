@@ -3,5 +3,6 @@
   "title": "隱藏-轉 ‧ 首消7Combo盾",
   "effect": "每回合開始移動符石時，<br>才會顯示場上的符石。<br><br><font color=yellow> 首批</font>消除 <font color=yellow> 7 連擊 (Combo)</font><br>才會對敵人造成攻擊傷害",
   "content": "隱藏,正負Combo盾",
-  "icon": "es/SI224.png|es/SI087.png"
+  "icon": "es/SI224.png|es/SI087.png",
+  "tcicon": "es/SI224.png|es/SI087.png"
 }

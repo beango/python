@@ -3,5 +3,6 @@
   "title": "缺10+完殺",
   "effect": "在敵人發動攻擊的回合，召喚師需達成 10 連擊或以上，否則敵人會扣除召喚師 100% 生命力 (無視所有減傷效果和意志技能)",
   "content": "固定傷害",
-  "icon": "es/SI108.png|es/SI132.png"
+  "icon": "es/SI108.png|es/SI132.png",
+  "tcicon": "es/SI108.png|es/SI132.png"
 }

@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 水攻盾 ‧ 三屬盾-限 ‧ 無視減傷",
   "effect": "敵人首次攻擊變為 CD 1。<br>只有水屬性的攻擊才會對敵人造成傷害。<br>召喚師需同時符合以下兩個條件，才會對敵人造成攻擊傷害：同時消除水符石、火符石及木符石；不能消除光符石或暗符石 (只計算首批消除的符石)。<br>無視所有減傷效果和意志技能",
   "content": "回合改變",
-  "icon": "es/SI159.png|es/SI001.png|es/SI242.png|es/SI251.png"
+  "icon": "es/SI159.png|es/SI001.png|es/SI242.png|es/SI251.png",
+  "tcicon": "es/SI159.png|es/SI001.png|es/SI242.png|es/SI251.png"
 }

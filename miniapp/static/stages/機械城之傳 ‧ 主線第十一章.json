@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         },
         {
           "card": "1366",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1366i.png"
         },
         {
           "card": "1367",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1367i.png"
         },
         {
           "card": "1369",
@@ -71,9 +77,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         }
       ]
     },
@@ -97,7 +105,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "109",
@@ -107,7 +116,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "111",
@@ -117,7 +127,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/111i.png"
         },
         {
           "card": "113",
@@ -128,7 +139,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/113i.png"
         },
         {
           "card": "115",
@@ -139,7 +151,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/115i.png"
         },
         {
           "card": "172",
@@ -155,9 +168,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI261.png|es/SI251.png",
+            "tcicon": "es/SI124.png|es/SI261.png|es/SI251.png",
             "title": "無法控制 ‧ 不倒意志40%-完全回復-超狂怒3倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/172i.png"
         },
         {
           "card": "175",
@@ -172,9 +187,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI261.png|es/SI251.png",
+            "tcicon": "es/SI124.png|es/SI261.png|es/SI251.png",
             "title": "無法控制 ‧ 不倒意志40%-完全回復-超狂怒3倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/175i.png"
         },
         {
           "card": "166",
@@ -189,9 +206,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI212.png|es/SI188.png",
+            "tcicon": "es/SI212.png|es/SI188.png",
             "title": "無限回復 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/166i.png"
         }
       ]
     },
@@ -219,7 +238,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/170i.png"
         },
         {
           "card": "423",
@@ -233,9 +253,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI120.png|es/SI128.png|es/SI132.png",
+            "tcicon": "es/SI120.png|es/SI128.png|es/SI132.png",
             "title": "首消五屬同等盾 ‧ 首扣50%-次扣100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/423i.png"
         }
       ]
     }

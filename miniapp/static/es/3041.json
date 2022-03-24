@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 火攻盾 ‧ 五次受攻盾50% ‧ 無視減傷",
   "effect": "敵人首次攻擊變為 CD 1。<br>只有火屬性的攻擊才會對敵人造成攻擊傷害。<br>敵人死亡後會復活，直至召喚師受到 5 次攻擊；首 5 次復活中，每 1 次復活會令敵人的攻擊力減少 50%。<br>無視所有減傷效果和意志技能",
   "content": "回合改變,屬性針對(攻擊力),受攻盾,無視減傷",
-  "icon": "es/SI159.png|es/SI002.png|es/SI211.png|es/SI251.png"
+  "icon": "es/SI159.png|es/SI002.png|es/SI211.png|es/SI251.png",
+  "tcicon": "es/SI159.png|es/SI002.png|es/SI211.png|es/SI251.png"
 }

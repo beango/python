@@ -3,5 +3,6 @@
   "title": "弱化鎖定圍城20% ‧ 回復力變0 ‧ 無視減傷",
   "effect": "首回合鎖定場上所有符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 20% (發動龍刻脈動視作消除場上的鎖定符石)。<br>召喚師回復力變 0。<br>無視所有減傷效果和意志技能",
   "content": "弱化鎖定,回復力減弱,無視減傷",
-  "icon": "es/SI158.png|es/SI156.png|es/SI251.png"
+  "icon": "es/SI158.png|es/SI156.png|es/SI251.png",
+  "tcicon": "es/SI158.png|es/SI156.png|es/SI251.png"
 }

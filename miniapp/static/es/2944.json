@@ -3,5 +3,6 @@
   "title": "首消水傷害吸收-反擊200%",
   "effect": "首批消除水屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 200% 攻擊傷害",
   "content": "傷害吸收",
-  "icon": "es/SI011.png|es/SI260.png"
+  "icon": "es/SI011.png|es/SI260.png",
+  "tcicon": "es/SI011.png|es/SI260.png"
 }

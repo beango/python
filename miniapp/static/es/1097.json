@@ -3,5 +3,6 @@
   "title": "5回技能封鎖 ‧ 迷惑符石 ‧ 7+Combo追擊盾",
   "effect": "5 回合內，敵人會封鎖所有成員的主動技能。<br>此外，敵人會令召喚師無法看透符石的本質。<br>7 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊",
   "content": "技能封鎖,迷惑符石,正負Combo盾",
-  "icon": "es/SI122.png|es/SI227.png|es/SI105.png"
+  "icon": "es/SI122.png|es/SI227.png|es/SI105.png",
+  "tcicon": "es/SI122.png|es/SI227.png|es/SI105.png"
 }

@@ -3,5 +3,6 @@
   "title": "突擊30% ‧ (5回中毒60%) ‧ 強化盾",
   "effect": "首回合敵人會優先突擊 1 次，並對召喚師施加負面狀態：5 回合內，敵人會令全隊中毒，在每 1 回合吸取召喚師 60% 生命力。<br>敵人只會受到強化符石的攻擊傷害",
   "content": "突擊,中毒,強化盾",
-  "icon": "es/SI160.png|es/SI135.png|es/SI254.png"
+  "icon": "es/SI160.png|es/SI135.png|es/SI254.png",
+  "tcicon": "es/SI160.png|es/SI135.png|es/SI254.png"
 }

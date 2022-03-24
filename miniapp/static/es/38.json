@@ -3,5 +3,6 @@
   "title": "2秒轉珠",
   "effect": "移動符石時間會縮短至 2 秒",
   "content": "時間改變",
-  "icon": "es/SI165.png"
+  "icon": "es/SI165.png",
+  "tcicon": "es/SI165.png"
 }

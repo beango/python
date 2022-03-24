@@ -3,5 +3,6 @@
   "title": "心轉自身 ‧ 四重霧化 ‧ 心禁消",
   "effect": "每回合移動符石前，將心符石轉化為敵人屬性的符石。<br>每回合隨機霧化 4 個位置。<br>心符石無法被消除",
   "content": "符石轉換,霧化,符石禁消",
-  "icon": "es/SI047.png|es/WI003.png|es/SI043.png"
+  "icon": "es/SI047.png|es/WI003.png|es/SI043.png",
+  "tcicon": "es/SI047.png|es/WI003.png|es/SI043.png"
 }

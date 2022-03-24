@@ -25,7 +25,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1008",
@@ -38,7 +39,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1008i.png"
         },
         {
           "card": "1010",
@@ -51,7 +53,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -64,7 +67,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -77,7 +81,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "715",
@@ -92,9 +97,11 @@
           "note": "{{特性*離開*5}}",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾"
           },
-          "jd": "R3特性场景特性：10211"
+          "jd": "R3特性场景特性：10211",
+          "cardtcimg": "zhs/715i.png"
         }
       ]
     },
@@ -124,9 +131,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "攻後木橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/583i.png"
         },
         {
           "card": "585",
@@ -142,9 +151,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後暗縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         },
         {
           "card": "581",
@@ -160,9 +171,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 喪伴狂蠻50倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/581i.png"
         },
         {
           "card": "582",
@@ -178,9 +191,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI302.png|es/SI168.png",
+            "tcicon": "es/SI302.png|es/SI168.png",
             "title": "火點燃符石20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/582i.png"
         },
         {
           "card": "715",
@@ -194,9 +209,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI043.png|es/SI254.png|es/SI067.png|es/SI121.png",
+            "tcicon": "es/SI043.png|es/SI254.png|es/SI067.png|es/SI121.png",
             "title": "(98回心禁消) ‧ 強化盾 ‧ 3倍獵神-技能重置"
           },
-          "jd": "R3特性场景特性：10211"
+          "jd": "R3特性场景特性：10211",
+          "cardtcimg": "zhs/715i.png"
         },
         {
           "card": "715",
@@ -210,9 +227,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI188.png",
+            "tcicon": "es/SI124.png|es/SI188.png",
             "title": "無法控制 ‧ 越攻越強"
           },
-          "jd": "R3特性场景特性：10211"
+          "jd": "R3特性场景特性：10211",
+          "cardtcimg": "zhs/715i.png"
         }
       ]
     },
@@ -242,7 +261,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -255,7 +275,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -268,7 +289,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "871",
@@ -280,7 +302,8 @@
           "coin": "902",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "875",
@@ -292,7 +315,8 @@
           "coin": "902",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "872",
@@ -304,7 +328,8 @@
           "coin": "902",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         }
       ]
     }

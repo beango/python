@@ -32,7 +32,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "085",
@@ -44,7 +45,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "095",
@@ -56,7 +58,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "1154",
@@ -70,7 +73,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "1505",
@@ -84,7 +88,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1505i.png"
         },
         {
           "card": "1415",
@@ -97,7 +102,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         }
       ]
     },
@@ -123,7 +129,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "085",
@@ -135,7 +142,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "095",
@@ -147,7 +155,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "1154",
@@ -161,7 +170,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "1505",
@@ -175,7 +185,8 @@
           "item": "115",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1505i.png"
         },
         {
           "card": "585",
@@ -190,9 +201,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "隱藏-轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         }
       ]
     },
@@ -219,7 +232,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "085",
@@ -234,9 +248,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "095",
@@ -251,9 +267,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "1154",
@@ -268,9 +286,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI305.png|es/SI047.png",
+            "tcicon": "es/SI305.png|es/SI047.png",
             "title": "攻後轉暗4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1154i.png"
         },
         {
           "card": "1505",
@@ -285,9 +305,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "四重軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1505i.png"
         },
         {
           "card": "397",
@@ -301,9 +323,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI104.png",
+            "tcicon": "es/SI104.png",
             "title": "6+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/397i.png"
         },
         {
           "card": "1260",
@@ -317,9 +341,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png",
+            "tcicon": "es/SI165.png",
             "title": "(5回轉珠減2秒)-結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1260i.png"
         },
         {
           "card": "1160",
@@ -334,9 +360,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI117.png",
+            "tcicon": "es/SI117.png",
             "title": "首消暗追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1160i.png"
         }
       ]
     },

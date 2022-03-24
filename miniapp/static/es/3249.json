@@ -3,5 +3,6 @@
   "title": "先攻-(3回轉珠減3秒) ‧ 7+Combo追擊盾 ‧ 無視減傷",
   "effect": "首回合優先攻擊 1 次，受此攻擊的召喚師，3 回合內移動符石時間減少 3 秒。<br>7 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。<br>無視所有減傷效果和意志技能",
   "content": "先攻,時間改變,正負Combo盾,無視減傷",
-  "icon": "es/SI160.png|es/SI165.png|es/SI105.png|es/SI251.png"
+  "icon": "es/SI160.png|es/SI165.png|es/SI105.png|es/SI251.png",
+  "tcicon": "es/SI160.png|es/SI165.png|es/SI105.png|es/SI251.png"
 }

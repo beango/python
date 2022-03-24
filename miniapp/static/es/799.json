@@ -3,5 +3,6 @@
   "title": "✕形風化-結",
   "effect": "敵人死亡後會將 10 個固定位置的符石風化。風化符石一經觸碰，即時停止移動符石。<br><img src=\"https://vignette.wikia.nocookie.net/tos/images/f/ff/SUP-SI-009.png/revision/latest?cb=20181001062330&path-prefix=zh\" width=\"250\">",
   "content": "風化符石",
-  "icon": "es/SI221.png"
+  "icon": "es/SI221.png",
+  "tcicon": "es/SI221.png"
 }

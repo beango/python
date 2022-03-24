@@ -3,5 +3,6 @@
   "title": "光轉心",
   "effect": "每回合敵人會將光符石轉化為心符石",
   "content": "符石轉換",
-  "icon": "es/SI047.png"
+  "icon": "es/SI047.png",
+  "tcicon": "es/SI047.png"
 }

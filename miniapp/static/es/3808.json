@@ -3,5 +3,6 @@
   "title": "一消一重暗附虛之印記 ‧ 10印記必殺 ‧ 30擊盾 ‧ 無法控制",
   "effect": "每回合所有暗符石<br>⇒ 附加虛之印記<br><br>每消除 1 粒虛之印記符石<br>⇒ 獲得 1 重印記力量<br>疊至最高 10 重印記力量<br>⇒ 回合結束時召喚師會死亡<br><br>召喚師死亡後，<br>清空虛之印記及印記力量。<br><br>對敵人進行 30 次攻擊後，<br>才能對其造成攻擊傷害。<br><br>無視所有控制技能。",
   "content": "虛之印記,攻擊次數盾,無法控制",
-  "icon": "es/SI210.png|es/SI250.png|es/SI124.png"
+  "icon": "es/SI210.png|es/SI250.png|es/SI124.png",
+  "tcicon": "es/SI210.png|es/SI250.png|es/SI124.png"
 }

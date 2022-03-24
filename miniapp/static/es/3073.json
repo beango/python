@@ -3,5 +3,6 @@
   "title": "[3回回復力變0] ‧ 10+Combo盾 ‧ 禁消水",
   "effect": "3 回合內，全隊回復力減至 0。<br>10 連擊 (Combo) 或以上才會對敵人造成攻擊傷害。<br>水符石無法被消除",
   "content": "回復力減弱,正負Combo盾,符石禁消",
-  "icon": "es/SI156.png|es/SI108.png|es/SI038.png"
+  "icon": "es/SI156.png|es/SI108.png|es/SI038.png",
+  "tcicon": "es/SI156.png|es/SI108.png|es/SI038.png"
 }

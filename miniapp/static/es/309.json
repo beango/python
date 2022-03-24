@@ -3,5 +3,6 @@
   "title": "越戰越強-金",
   "effect": "敵人生命力愈低時，攻擊力會大幅提升，生命力 30% 或以下時會連撃 2 次{{Cal|越戰越強|金|{{{atk|}}}}}",
   "content": "越戰越強",
-  "icon": "es/SI188.png"
+  "icon": "es/SI188.png",
+  "tcicon": "es/SI188.png"
 }

@@ -3,5 +3,6 @@
   "title": "攻擊無效 ‧ 缺協助者-附加消除-技能重置",
   "effect": "所有攻擊傷害無效 (包括所有技能)。<br>若召喚師隊伍中沒有源生混沌 ‧ 倪克斯，敵人會消除召喚師所有附加效果，並將所有成員的主動技能 CD 及累積戰鬥回合數重置",
   "content": "攻擊無效,附加消除,技能重置",
-  "icon": "es/SI257.png|es/SI123.png|es/SI121.png"
+  "icon": "es/SI257.png|es/SI123.png|es/SI121.png",
+  "tcicon": "es/SI257.png|es/SI123.png|es/SI121.png"
 }

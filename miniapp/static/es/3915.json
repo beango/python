@@ -3,5 +3,6 @@
   "title": "命懸一線 ‧ 龍脈重置 ‧ 5回禁錮 ‧ 始終盾 ‧ 無法控制",
   "effect": "首回合召喚師生命力剩 1 點<br><br>清空龍脈儀的能量。<br><br>5 回合內，封鎖所有成員的<br>主動技能及其攻擊。<br><br>每回合以指定位置 (綠色漩渦) 的符石開始轉珠及在指定位置 (紅色漩渦) 結束轉珠，才會發動攻擊和回復。<br>(達成條件前，無法進行回復)<br><br>無視所有控制技能。",
   "content": "命懸一線,龍脈重置,禁錮,始終盾,無法控制",
-  "icon": "es/SI161.png|es/SI140.png|es/SI122.png|es/SI183.png|es/SI124.png"
+  "icon": "es/SI161.png|es/SI140.png|es/SI122.png|es/SI183.png|es/SI124.png",
+  "tcicon": "es/SI161.png|es/SI140.png|es/SI122.png|es/SI183.png|es/SI124.png"
 }

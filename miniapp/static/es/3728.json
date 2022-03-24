@@ -3,5 +3,6 @@
   "title": "命懸一線 ‧ 三回禁錮 ‧ 黑白符石-回復力減弱95%",
   "effect": "首回合召喚師生命力剩 1 點<br><br>3 回合內，封鎖所有成員的<br>主動技能及其攻擊。<br><br>所有符石變為黑白色。<br>效果期間，<br>所有成員的回復力減至 5%。",
   "content": "命懸一線,禁錮,黑白符石,回復力減弱",
-  "icon": "es/SI161.png|es/SI122.png|es/SI215.png|es/SI233.png"
+  "icon": "es/SI161.png|es/SI122.png|es/SI215.png|es/SI233.png",
+  "tcicon": "es/SI161.png|es/SI122.png|es/SI215.png|es/SI233.png"
 }

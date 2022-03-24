@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "1006",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1146",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1146i.png"
         },
         {
           "card": "1531",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "1051",
@@ -75,9 +79,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI122.png",
+            "tcicon": "es/SI250.png|es/SI122.png",
             "title": "隱身-隱攻封鎖4回"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1051i.png"
         }
       ]
     },
@@ -105,7 +111,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/067i.png"
         },
         {
           "card": "069",
@@ -117,7 +124,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "071",
@@ -129,7 +137,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "097",
@@ -141,7 +150,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/097i.png"
         },
         {
           "card": "099",
@@ -153,7 +163,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/099i.png"
         },
         {
           "card": "101",
@@ -165,7 +176,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/101i.png"
         },
         {
           "card": "1531",
@@ -177,7 +189,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "1532",
@@ -189,7 +202,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1532i.png"
         },
         {
           "card": "1533",
@@ -201,7 +215,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1533i.png"
         },
         {
           "card": "1526",
@@ -214,9 +229,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1528",
@@ -229,9 +246,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png|es/SI224.png",
+            "tcicon": "es/SI013.png|es/SI224.png",
             "title": "攻後木橫縱輪轉 ‧ 隱藏-結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1527",
@@ -245,9 +264,11 @@
           "note": "{{特性*離開*1}}",
           "esjson": {
             "img": "es/SI122.png",
+            "tcicon": "es/SI122.png",
             "title": "技能封鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         }
       ]
     },
@@ -275,7 +296,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1529",
@@ -287,7 +309,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1010",
@@ -299,7 +322,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1012",
@@ -311,7 +335,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1124",
@@ -325,9 +350,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1124i.png"
         },
         {
           "card": "1106",
@@ -340,9 +367,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI001.png|es/SI254.png|es/SI305.png|es/SI047.png",
+            "tcicon": "es/SI001.png|es/SI254.png|es/SI305.png|es/SI047.png",
             "title": "水屬防禦90% ‧ 強化盾 ‧ 首回水轉暗 ‧ 隨機轉暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1106i.png"
         },
         {
           "card": "1106",
@@ -356,9 +385,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI227.png|es/SI106.png",
+            "tcicon": "es/SI122.png|es/SI227.png|es/SI106.png",
             "title": "技能封鎖 ‧ 迷惑符石 ‧ 8+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1106i.png"
         }
       ]
     }

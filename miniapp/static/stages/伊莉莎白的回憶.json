@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI135.png|es/SI254.png",
+            "tcicon": "es/SI160.png|es/SI135.png|es/SI254.png",
             "title": "突擊30% ‧ (5回中毒60%) ‧ 強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "1271",
@@ -41,9 +43,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png",
+            "tcicon": "es/SI121.png|es/SI123.png",
             "title": "附加消除重置"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         }
       ]
     }

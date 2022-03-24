@@ -3,5 +3,6 @@
   "title": "4顆追擊隱藏 ‧ 首消暗傷害吸收",
   "effect": "每回合隨機將 4 粒符石轉化為隱藏符石；場上的隱藏符石愈多，敵人的連擊次數愈多。<br>首批消除暗屬性的連擊 (Combo) 時 ，敵人會回復相等於該回合召喚師所造成傷害的血量",
   "content": "隱藏符石,傷害吸收",
-  "icon": "es/SI224.png|es/SI015.png"
+  "icon": "es/SI224.png|es/SI015.png",
+  "tcicon": "es/SI224.png|es/SI015.png"
 }

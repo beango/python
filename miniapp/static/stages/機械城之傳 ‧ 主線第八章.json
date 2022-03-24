@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/646i.png"
         },
         {
           "card": "647",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/647i.png"
         },
         {
           "card": "648",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/648i.png"
         },
         {
           "card": "649",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/649i.png"
         },
         {
           "card": "650",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "1750",
@@ -86,9 +91,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI221.png|es/SI188.png",
+            "tcicon": "es/SI160.png|es/SI221.png|es/SI188.png",
             "title": "突擊65% ‧ 1-4顆風化趨狂3000 ‧ 血弱追擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1750i.png"
         }
       ]
     },
@@ -116,9 +123,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "1271",
@@ -131,9 +140,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png",
+            "tcicon": "es/SI251.png",
             "title": "無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1271i.png"
         },
         {
           "card": "650",
@@ -145,7 +156,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "650",
@@ -157,7 +169,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "650",
@@ -169,7 +182,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "1696",
@@ -182,9 +196,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI219.png|es/SI251.png",
+            "tcicon": "es/SI160.png|es/SI219.png|es/SI251.png",
             "title": "先攻-縱橫冰封 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1696i.png"
         },
         {
           "card": "1350",
@@ -198,9 +214,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI305.png|es/SI047.png|es/SI216.png|es/SI124.png",
+            "tcicon": "es/SI305.png|es/SI047.png|es/SI216.png|es/SI124.png",
             "title": "攻後暗縱橫輪轉 ‧ 復活變強3倍-無視減傷 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1350i.png"
         }
       ]
     },
@@ -229,7 +247,8 @@
           "drop": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/165i.png"
         },
         {
           "card": "168",
@@ -242,7 +261,8 @@
           "drop": "167",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/168i.png"
         },
         {
           "card": "171",
@@ -255,7 +275,8 @@
           "drop": "170",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/171i.png"
         },
         {
           "card": "174",
@@ -268,7 +289,8 @@
           "drop": "173",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/174i.png"
         },
         {
           "card": "1694",
@@ -281,9 +303,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png|es/SI002.png|es/SI003.png",
+            "tcicon": "es/SI160.png|es/SI229.png|es/SI002.png|es/SI003.png",
             "title": "先攻-四重攻後延伸燃燒20% ‧ 火木防禦盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1694i.png"
         },
         {
           "card": "1694",
@@ -297,9 +321,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI087.png|es/SI229.png",
+            "tcicon": "es/SI159.png|es/SI087.png|es/SI229.png",
             "title": "CD2 ‧ 首消7Combo盾 ‧ 軌跡燃燒5000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1694i.png"
         }
       ]
     }

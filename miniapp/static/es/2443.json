@@ -3,5 +3,6 @@
   "title": "技能重置 ‧ 四重軌跡隱藏",
   "effect": "首回合所有成員的主動技能 CD 及累積戰鬥回合數重置。<br>移動符石時所觸碰的符石轉化為隱藏符石",
   "content": "技能重置,隱藏符石",
-  "icon": "es/SI121.png|es/SI224.png"
+  "icon": "es/SI121.png|es/SI224.png",
+  "tcicon": "es/SI121.png|es/SI224.png"
 }

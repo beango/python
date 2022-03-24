@@ -3,5 +3,6 @@
   "title": "溢補盾",
   "effect": "召喚師完全回復生命力後，剩餘的回復力會轉化為攻擊力",
   "content": "溢補盾",
-  "icon": "es/SI217.png"
+  "icon": "es/SI217.png",
+  "tcicon": "es/SI217.png"
 }

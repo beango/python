@@ -3,5 +3,6 @@
   "title": "(3回攻擊無效) ‧ 攻後心轉木",
   "effect": "3 回合內，召喚師攻擊變 0；當受到敵人攻擊時，將心符石轉化為木符石",
   "content": "攻擊無效,符石轉換",
-  "icon": "es/SI169.png|es/SI303.png|es/SI047.png"
+  "icon": "es/SI169.png|es/SI303.png|es/SI047.png",
+  "tcicon": "es/SI169.png|es/SI303.png|es/SI047.png"
 }

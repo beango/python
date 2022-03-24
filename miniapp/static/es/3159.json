@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 隨機縱向射擊 ‧ 首消光追擊零化 ‧ 無法控制",
   "effect": "敵人首次攻擊變為 CD 1。<br>每回合射擊 1 直行的位置，被射擊的位置一經觸碰，即時停止移動符石。<br>首批消除光屬性的連擊 (Combo) 會令全隊攻擊無效，首批消除的光屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。<br>無視所有控制技能",
   "content": "",
-  "icon": "es/SI159.png|es/SI225.png|es/SI116.png|es/SI124.png"
+  "icon": "es/SI159.png|es/SI225.png|es/SI116.png|es/SI124.png",
+  "tcicon": "es/SI159.png|es/SI225.png|es/SI116.png|es/SI124.png"
 }

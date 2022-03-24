@@ -3,5 +3,6 @@
   "title": "先攻-縱橫隱藏 ‧ 首消光傷害吸收-反擊100% ‧ 無視減傷",
   "effect": "首回合優先攻擊 1 次，並隨機將 1 橫行及 1 直行的符石轉化為隱藏符石。<br>消除光屬性的連擊 (Combo) 時 (只計算首批消除的符石)，敵人回復相等於該回合召喚師所造成傷害的血量，並反擊自身 100% 攻擊傷害。<br>敵人無視所有減傷效果和意志技能",
   "content": "先攻,隱藏符石,傷害吸收,反擊傷害,無視減傷",
-  "icon": "es/SI160.png|es/SI224.png|es/SI014.png|es/SI260.png|es/SI251.png"
+  "icon": "es/SI160.png|es/SI224.png|es/SI014.png|es/SI260.png|es/SI251.png",
+  "tcicon": "es/SI160.png|es/SI224.png|es/SI014.png|es/SI260.png|es/SI251.png"
 }

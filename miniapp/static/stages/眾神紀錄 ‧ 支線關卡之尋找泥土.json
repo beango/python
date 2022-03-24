@@ -25,7 +25,8 @@
           "coin": "600",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/504i.png"
         },
         {
           "card": "256",
@@ -38,9 +39,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "(首消光傷害吸收 ‧ 無法控制)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/256i.png"
         },
         {
           "card": "257",
@@ -53,9 +56,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "(首消非全水傷害吸收 ‧ 無法控制)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/257i.png"
         },
         {
           "card": "258",
@@ -69,9 +74,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "(首消火傷害吸收 ‧ 無法控制)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/258i.png"
         }
       ]
     }

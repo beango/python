@@ -3,5 +3,6 @@
   "title": "(3回減攻99%) ‧ 初怒-✕形風化3000 ‧ 無法控制",
   "effect": "首回合敵人的攻擊力會大幅提升，並將 10 個固定位置的符石風化。風化符石一經觸碰，即時停止移動符石，並對召喚師造成 3000 點傷害。<br>3 回合內，敵人會令所有成員的攻擊傷害減至 1%。<br>敵人會無視所有控制技能<br><img src=\"https://vignette.wikia.nocookie.net/tos/images/f/ff/SUP-SI-009.png/revision/latest?cb=20181001062330&path-prefix=zh\" width=\"250\">{{Cal|首攻狂暴|{{{atk|}}}}}",
   "content": ",攻擊力減弱,初怒,風化符石,無法控制",
-  "icon": "es/SI158.png|es/SI188.png|es/SI221.png|es/SI124.png"
+  "icon": "es/SI158.png|es/SI188.png|es/SI221.png|es/SI124.png",
+  "tcicon": "es/SI158.png|es/SI188.png|es/SI221.png|es/SI124.png"
 }

@@ -3,5 +3,6 @@
   "title": "敵轉木-首回隨機轉木 ‧ 首消木追擊零化 ‧ 無法控制",
   "effect": "首回合敵人會轉換成木屬性，並將隨機 1 種符石轉化為木符石。 <br>消除木屬性的連擊 (Combo) 會令全隊攻擊無效，消除的木屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石。<br>敵人會無視所有控制技能",
   "content": "屬性轉換,符石轉化,連擊零化,無法控制",
-  "icon": "es/SI018.png|es/SI303.png|es/SI047.png|es/SI115.png|es/SI124.png"
+  "icon": "es/SI018.png|es/SI303.png|es/SI047.png|es/SI115.png|es/SI124.png",
+  "tcicon": "es/SI018.png|es/SI303.png|es/SI047.png|es/SI115.png|es/SI124.png"
 }

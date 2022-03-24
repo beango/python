@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "490",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1006",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1014",
@@ -60,7 +63,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1526",
@@ -72,7 +76,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1530",
@@ -84,7 +89,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1014",
@@ -96,7 +102,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1014",
@@ -108,7 +115,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1014",
@@ -120,7 +128,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1102",
@@ -135,9 +144,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1102i.png"
         },
         {
           "card": "1102",
@@ -152,9 +163,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png|es/SI301.png|es/SI047.png|es/SI113.png",
+            "tcicon": "es/SI251.png|es/SI301.png|es/SI047.png|es/SI113.png",
             "title": "無視減傷 ‧ 隨機轉水 ‧ 首消水追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1102i.png"
         }
       ]
     },
@@ -180,7 +193,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "839",
@@ -192,7 +206,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "1014",
@@ -204,7 +219,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1530",
@@ -216,7 +232,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1310",
@@ -230,9 +247,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI236.png",
+            "tcicon": "es/SI188.png|es/SI236.png",
             "title": "越攻越強 ‧ 電擊2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1310i.png"
         }
       ]
     },
@@ -259,7 +278,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "490",
@@ -271,7 +291,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1012",
@@ -283,7 +304,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -295,7 +317,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1529",
@@ -307,7 +330,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1530",
@@ -319,7 +343,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1108",
@@ -332,9 +357,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI181.png|es/SI250.png|es/SI122.png",
+            "tcicon": "es/SI224.png|es/SI181.png|es/SI250.png|es/SI122.png",
             "title": "首回隱藏12顆 ‧ 隱身-隱攻封鎖4回 ‧ 高級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1108i.png"
         },
         {
           "card": "1108",
@@ -348,9 +375,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI156.png|es/SI229.png|es/SI251.png|es/SI124.png|es/SI212.png",
+            "tcicon": "es/SI156.png|es/SI229.png|es/SI251.png|es/SI124.png|es/SI212.png",
             "title": "(98回回復力變0) ‧ 四角擴散燃燒10% ‧ 無法控制-無視減傷 ‧ 無限回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1108i.png"
         }
       ]
     }

@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/097i.png"
         },
         {
           "card": "067",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/067i.png"
         },
         {
           "card": "1531",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1531i.png"
         },
         {
           "card": "508",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI008.png|es/SI161.png",
+            "tcicon": "es/SI008.png|es/SI161.png",
             "title": "(7回木攻2倍) ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/508i.png"
         },
         {
           "card": "1022",
@@ -77,9 +82,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI047.png|es/SI011.png",
+            "tcicon": "es/SI301.png|es/SI047.png|es/SI011.png",
             "title": "首回隨機轉水 ‧ 攻後水橫縱輪轉 ‧ 首消水傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1022i.png"
         }
       ]
     },
@@ -105,7 +112,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "831",
@@ -116,7 +124,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "966",
@@ -128,7 +137,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/966i.png"
         },
         {
           "card": "1022",
@@ -141,9 +151,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI301.png|es/SI236.png|es/SI113.png|es/SI233.png",
+            "tcicon": "es/SI301.png|es/SI236.png|es/SI113.png|es/SI233.png",
             "title": "水電擊2顆 ‧ 首消水追擊零化 ‧ 回復力減弱90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1022i.png"
         },
         {
           "card": "1022",
@@ -157,9 +169,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI104.png|es/SI188.png",
+            "tcicon": "es/SI104.png|es/SI188.png",
             "title": "首消6+Combo盾 ‧ 初怒-連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1022i.png"
         }
       ]
     },
@@ -184,7 +198,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/101i.png"
         },
         {
           "card": "111",
@@ -195,7 +210,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/111i.png"
         },
         {
           "card": "1528",
@@ -207,7 +223,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "520",
@@ -221,9 +238,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "3顆風化15000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/520i.png"
         }
       ]
     }

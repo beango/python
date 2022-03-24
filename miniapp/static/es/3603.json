@@ -3,5 +3,6 @@
   "title": "消初級拼圖盾-限25%",
   "effect": "以指定形狀消除符石<br>(不可連同形狀旁邊的符石) <br>⇒ 可扣除敵人 25% 生命力。<br><br>除此以外，<br>敵人不受任何攻擊傷害<br>(包括主動技)。",
   "content": "拼圖盾",
-  "icon": "es/SI181.png"
+  "icon": "es/SI181.png",
+  "tcicon": "es/SI181.png"
 }

@@ -1,319 +1,207 @@
 [
   {
-    "name": "⬇ 合作地區 ⬇",
+    "name": "⬇ 所有地區關卡 ⬇",
     "data": [
       {
-        "orgtitle": "核心裝備測試",
-        "title": "核心裝備測試",
+        "orgtitle": "她和他的關係",
+        "title": "她和他的關係",
         "type": "※ 試玩任務",
-        "img": "toswikiapic/2611i.png",
-        "tcimg": "/2021/01/14/PMzEielmO1UWXvb.png",
-        "start": "2021/1/4 16:00",
-        "end": "2021/1/31 23:59"
+        "img": "toswikiapic/10049i.png",
+        "tcimg": "/2021/08/31/e9tqb2P1dSLic7K.png",
+        "start": "2021/8/23 13:00",
+        "end": "2021/9/12 23:59"
       },
       {
-        "orgtitle": "雪原的皇帝",
-        "title": "雪原的皇帝",
-        "type": "※ 全新雙週",
-        "img": "toswikiapic/2630i.png",
-        "tcimg": "/2021/01/14/VbI216d5ptoUZYQ.png",
-        "start": "2021/1/4 16:00",
-        "end": "2021/1/31 23:59"
+        "orgtitle": "為運動員喝采",
+        "title": "為運動員喝采",
+        "type": "※ 福利關卡",
+        "img": "toswikiapic/1403i.png",
+        "tcimg": "/2021/08/31/ZwEsF1H9pd8oMzY.png",
+        "start": "2021/8/10",
+        "end": "2021/9/12"
       },
       {
-        "orgtitle": "爆炎的武鬥家",
-        "title": "爆炎的武鬥家",
-        "type": "※ 全新雙週",
-        "img": "toswikiapic/2629i.png",
-        "tcimg": "/2021/01/14/7tMoqBWiHN24TJ8.png",
-        "start": "2021/1/11",
-        "end": "2021/1/31 23:59"
+        "orgtitle": "巴比倫的神威福蔭",
+        "title": "巴比倫的神威福蔭",
+        "type": "※ 全新挑戰",
+        "img": "toswikiapic/2735i.png",
+        "tcimg": "static/toswikiapic/2735i.png",
+        "start": "2021/9/6 16:00",
+        "end": "2021/9/12 23:59"
       },
       {
-        "orgtitle": "複製贗品",
-        "title": "複製贗品",
-        "type": "※ 全新挑戰任務",
-        "img": "toswikiapic/2628i.png",
-        "tcimg": "/2021/01/14/qFJB6eG5Qzsa1i2.png",
-        "start": "2021/1/11",
-        "end": "2021/1/31 23:59"
+        "orgtitle": "女祭司的悲慟 Extra",
+        "title": "女祭司的悲慟 Extra",
+        "type": "※ 追加挑戰關卡",
+        "img": "toswikiapic/1987i.png",
+        "tcimg": "static/toswikiapic/1987i.png",
+        "start": "2021/9/7 16:00",
+        "end": "2099/12/31"
       },
       {
-        "orgtitle": "暴戾的裝甲巨兵",
-        "title": "暴戾的裝甲巨兵",
-        "type": "※ 全新地獄級",
-        "img": "toswikiapic/2623i.png",
-        "tcimg": "/2021/01/14/WgUS6xnjF5ADLbC.png",
-        "start": "2021/1/13 22:00",
-        "end": "2021/1/17 23:59"
-      }
-    ]
-  },
-  {
-    "name": "全新討伐戰『忠誠的產物』",
-    "data": []
-  },
-  {
-    "name": "⬇ 所有地區 ⬇",
-    "data": [
-      {
-        "orgtitle": "散播歡樂的小丑",
-        "title": "散播歡樂的小丑",
-        "type": "※ 復刻雙週",
-        "img": "toswikiapic/2325i.png",
-        "tcimg": "/2021/01/14/BPQDTdpW2JIx5HR.png",
-        "start": "2021/1/4",
-        "end": "2021/1/17"
+        "orgtitle": "精挑細選的美麗",
+        "title": "精挑細選的美麗",
+        "type": "※ 全新輪迴",
+        "img": "toswikiapic/10060i.png",
+        "tcimg": "/2021/08/31/wtxR4Wb8ZCafjh5.png",
+        "start": "2021/8/30",
+        "end": "2021/10/10"
       },
       {
-        "orgtitle": "五音不全也是天賦",
-        "title": "五音不全也是天賦",
-        "type": "※ 復刻雙週",
-        "img": "toswikiapic/2404i.png",
-        "tcimg": "/2021/01/14/K8tE6WiQLDhJF4y.png",
-        "start": "2021/1/4",
-        "end": "2021/1/17"
+        "orgtitle": "九月挑戰任務",
+        "title": "九月挑戰任務",
+        "type": "※ 每月挑戰關卡",
+        "img": "toswikiapic/2545i.png",
+        "tcimg": "/2021/08/31/QTn8JFwr5oYWXhE.png",
+        "start": "2021/9/1",
+        "end": "2021/9/30"
+      },
+      {
+        "orgtitle": "潛伏於呼吸之間",
+        "title": "潛伏於呼吸之間",
+        "type": "※ 雙週任務",
+        "img": "toswikiapic/10053i.png",
+        "tcimg": "/2021/08/31/NiUlmpIKFne8uwP.png",
+        "start": "2021/8/30",
+        "end": "2021/9/12"
       },
       {
         "orgtitle": "機械不懂魔術",
         "title": "機械不懂魔術",
         "type": "※ 復刻雙週",
         "img": "toswikiapic/2326i.png",
-        "tcimg": "/2021/01/14/DA2z4qBanForxL7.png",
-        "start": "2021/1/18",
-        "end": "2021/1/31"
+        "tcimg": "https://i.loli.net/2021/01/14/DA2z4qBanForxL7.png",
+        "start": "2021/8/30",
+        "end": "2021/9/12"
       },
       {
-        "orgtitle": "把萬物據為己有",
-        "title": "把萬物據為己有",
+        "orgtitle": "貓咪你在哪？",
+        "title": "貓咪你在哪？",
         "type": "※ 復刻雙週",
-        "img": "toswikiapic/2405i.png",
-        "tcimg": "/2021/01/14/4S8KWXh1JjgRGiA.png",
-        "start": "2021/1/18",
-        "end": "2021/1/31"
+        "img": "toswikiapic/2438i.png",
+        "tcimg": "static/toswikiapic/2438i.png",
+        "start": "2021/8/30",
+        "end": "2021/9/12"
       },
       {
-        "orgtitle": "夜幕降臨三小時",
-        "title": "夜幕降臨三小時",
+        "orgtitle": "藥到命除",
+        "title": "藥到命除",
         "type": "※ 復刻地獄級",
-        "img": "toswikiapic/2029i.png",
-        "tcimg": "/2021/01/14/vmwybFkQfzNr5hL.png",
-        "start": "2021/1/12 22:00",
-        "end": "2021/1/15 23:59"
+        "img": "toswikiapic/1937i.png",
+        "tcimg": "static/toswikiapic/1937i.png",
+        "start": "2021/9/7 22:00",
+        "end": "2021/9/10 23:59"
       },
       {
-        "orgtitle": "淚灑橄欖樹下",
-        "title": "淚灑橄欖樹下",
-        "type": "※ 地獄級再次開放，不會重置獎勵，雙倍掉落",
-        "img": "toswikiapic/2580i.png",
-        "tcimg": "/2021/01/14/sj6Ho3Cbm2qLvTZ.png",
-        "start": "2021/1/19 22:00",
-        "end": "2021/1/22 23:59"
+        "orgtitle": "亞卡斯的色彩女王",
+        "title": "亞卡斯的色彩女王",
+        "type": "※ 復刻地獄級",
+        "img": "toswikiapic/2597i.png",
+        "tcimg": "static/toswikiapic/2597i.png",
+        "start": "2021/9/10 22:00",
+        "end": "2021/9/13 23:59"
+      },
+      {
+        "orgtitle": "墜落陽日",
+        "title": "墜落陽日",
+        "type": "※ 全新災厄級",
+        "img": "toswikiapic/3002i.png",
+        "tcimg": "static/toswikiapic/3002i.png",
+        "start": "2021/9/6 20:00",
+        "end": "2021/9/12 23:59"
       }
     ]
   },
   {
-    "name": "地區限定關卡",
-    "data": []
-  },
-  {
-    "name": "⬇ 非合作地區 ⬇",
+    "name": "晉級試煉 再開 ",
     "data": [
       {
-        "orgtitle": "機械族的誕生",
-        "title": "機械族的誕生",
-        "type": "※雙週復刻",
-        "img": "toswikiapic/1696i.png",
-        "tcimg": "/2021/01/14/JIS62mh8jnrQdao.png",
-        "start": "2021/1/4",
-        "end": "2021/1/31"
-      },
-      {
-        "orgtitle": "惡劣的玩笑",
-        "title": "惡劣的玩笑",
-        "type": "※雙週復刻",
-        "img": "toswikiapic/1697i.png",
-        "tcimg": "/2021/01/14/MnflApquxIya1WL.png",
-        "start": "2021/1/4",
-        "end": "2021/1/31"
-      },
-      {
-        "orgtitle": "失敗作的救贖",
-        "title": "失敗作的救贖",
-        "type": "※雙週復刻",
-        "img": "toswikiapic/1698i.png",
-        "tcimg": "/2021/01/14/vWjCNmX8lzP7nV1.png",
-        "start": "2021/1/4",
-        "end": "2021/1/31"
-      },
-      {
-        "orgtitle": "機械武者的赤心",
-        "title": "機械武者的赤心",
-        "type": "※雙週復刻",
-        "img": "toswikiapic/1743i.png",
-        "tcimg": "/2021/01/14/N1EXVChe9u8xMdR.png",
-        "start": "2021/1/4",
-        "end": "2021/1/31"
-      },
-      {
-        "orgtitle": "來自地底的呼喚",
-        "title": "來自地底的呼喚",
-        "type": "※雙週復刻",
-        "img": "toswikiapic/1744i.png",
-        "tcimg": "/2021/01/14/HOuDfoFl2icV91Y.png",
-        "start": "2021/1/4",
-        "end": "2021/1/31"
+        "orgtitle": "競技場晉級試煉/第三十六次",
+        "title": "競技場晉級試煉*第三十六次",
+        "type": "Event",
+        "img": "toswikiapic/000i.png",
+        "tcimg": "https://i.loli.net/2021/01/14/4C9nWThyYqusNX7.png",
+        "start": "2021/9/7 12:00",
+        "end": "2021/9/13 07:59"
       }
     ]
   },
   {
-    "name": "神魔之塔 × ROCKMAN X DiVE",
+    "name": "她的指導與他的信念",
     "data": [
       {
-        "line": "{{Event|『ROCKMAN X DiVE』石抽系列角色<br>強化合成時必定獲得超絕或完美強化<br>分解可獲200靈魂",
-        "orgtitle": "『ROCKMAN X DiVE』石抽系列角色<br>強化合成時必定獲得超絕或完美強化<br>分解可獲200靈魂",
-        "title": "『ROCKMAN X DiVE』石抽系列角色<br>強化合成時必定獲得超絕或完美強化<br>分解可獲200靈魂",
+        "line": "{{Event|『初次相遇』及『召喚師候選者』系列角色進行強化合成時，必定獲得超絕或完美強化",
+        "orgtitle": "『初次相遇』及『召喚師候選者』系列角色進行強化合成時，必定獲得超絕或完美強化",
+        "title": "『初次相遇』及『召喚師候選者』系列角色進行強化合成時，必定獲得超絕或完美強化",
         "type": "",
         "img": "",
         "orginimg": "",
-        "start": "2021/1/4 16:00",
-        "end": "2021/1/31 23:59"
+        "start": "2021/8/23 13:00",
+        "end": "2021/9/12 23:59"
+      },
+      {
+        "line": "{{Event|『初次相遇』及『召喚師候選者』系列角色進行分解時，獲得的靈魂數將提升至200",
+        "orgtitle": "『初次相遇』及『召喚師候選者』系列角色進行分解時，獲得的靈魂數將提升至200",
+        "title": "『初次相遇』及『召喚師候選者』系列角色進行分解時，獲得的靈魂數將提升至200",
+        "type": "",
+        "img": "",
+        "orginimg": "",
+        "start": "2021/8/23 13:00",
+        "end": "2021/9/12 23:59"
       }
     ]
   },
   {
-    "name": "黑色的覺醒",
+    "name": "靈魂於暴戻中放縱",
     "data": [
       {
-        "title": "登入︰![6435](toswikiapic/6435i.png)*1",
+        "title": "登入︰![限時體力回復劑](static/common/Gift-tlhfj.png)*1(活动时限内领取)",
         "type": "",
         "img": "",
         "orginimg": "",
-        "start": "2021/1/14",
-        "end": "2021/2/21"
-      },
-      {
-        "title": "登入︰![限時體力回復劑](toswikiapic/Gift-體力回復劑.png)*1(活动时限内领取)",
-        "type": "",
-        "img": "",
-        "orginimg": "",
-        "start": "2021/1/16",
-        "end": "2021/1/17"
+        "start": "2021/9/11",
+        "end": "2021/9/12"
       }
     ]
   },
   {
-    "name": "週年慶典【八年歲月流金光華】",
+    "name": "神魔節 2021",
     "data": [
       {
-        "line": "{{Event|連環登入賞︰參考『[[簽到獎勵]]』",
-        "orgtitle": "連環登入賞︰參考『[簽到獎勵](/pages/index/detail/detail?name2=簽到獎勵)』",
-        "title": "連環登入賞︰參考『[簽到獎勵](*pages*index*detail*detail?name2=簽到獎勵)』",
+        "line": "{{Event|「一抽入魂五選一」及「人品大爆發」",
+        "orgtitle": "「一抽入魂五選一」及「人品大爆發」",
+        "title": "「一抽入魂五選一」及「人品大爆發」",
         "type": "",
         "img": "",
         "orginimg": "",
-        "start": "2020/12/21",
-        "end": "2021/1/24"
-      }
-    ]
-  },
-  {
-    "name": "體力大折扣︰指定關卡進場體力消耗降至 8 點",
-    "data": [
-      {
-        "line": "{{Event|虛影世界 (黑鐵時代)",
-        "orgtitle": "虛影世界 (黑鐵時代)",
-        "title": "虛影世界 (黑鐵時代)",
-        "type": "",
-        "img": "",
-        "orginimg": "",
-        "start": "2021/1/11",
-        "end": "2021/1/17"
+        "start": "2021/8/4 12:00",
+        "end": "2021/9/12"
       },
       {
-        "line": "{{Event|虛影世界 (魔導紀元)",
-        "orgtitle": "虛影世界 (魔導紀元)",
-        "title": "虛影世界 (魔導紀元)",
+        "title": "![『嶄新時代』](static/common/Gift-chouka.png) [『嶄新時代』]()*1-8",
         "type": "",
         "img": "",
         "orginimg": "",
-        "start": "2021/1/18",
-        "end": "2021/1/24"
+        "start": "2021/8/2",
+        "end": "2021/9/12"
       },
       {
-        "line": "{{Event|主線任務 (第一至十封印)",
-        "orgtitle": "主線任務 (第一至十封印)",
-        "title": "主線任務 (第一至十封印)",
+        "title": "![『神選一百抽』](static/common/Gift-chouka.png) [『神選一百抽』]()*50",
         "type": "",
         "img": "",
         "orginimg": "",
-        "start": "2021/1/25",
-        "end": "2021/2/7"
+        "start": "2021/8/3 12:00",
+        "end": "2021/9/12 23:59"
       },
       {
-        "line": "{{Event|故事模式 (上半系列：至天竺之巔)",
-        "orgtitle": "故事模式 (上半系列：至天竺之巔)",
-        "title": "故事模式 (上半系列：至天竺之巔)",
+        "line": "{{Event|累計登入賞",
+        "orgtitle": "累計登入賞",
+        "title": "累計登入賞",
         "type": "",
         "img": "",
         "orginimg": "",
-        "start": "2021/2/8",
-        "end": "2021/2/14"
-      },
-      {
-        "line": "{{Event|故事模式 (下半系列：從尼河權仗記傳)",
-        "orgtitle": "故事模式 (下半系列：從尼河權仗記傳)",
-        "title": "故事模式 (下半系列：從尼河權仗記傳)",
-        "type": "",
-        "img": "",
-        "orginimg": "",
-        "start": "2021/2/15",
-        "end": "2021/2/21"
-      }
-    ]
-  },
-  {
-    "name": "極大強化之日︰所有系列角色進行強化合成時，必定獲得以下效果",
-    "data": [
-      {
-        "line": "{{Event|完美強化",
-        "orgtitle": "完美強化",
-        "title": "完美強化",
-        "type": "",
-        "img": "",
-        "orginimg": "",
-        "start": "2021/1/18",
-        "end": "2021/1/18"
-      },
-      {
-        "line": "{{Event|奇蹟強化",
-        "orgtitle": "奇蹟強化",
-        "title": "奇蹟強化",
-        "type": "",
-        "img": "",
-        "orginimg": "",
-        "start": "2021/1/27",
-        "end": "2021/1/31"
-      },
-      {
-        "line": "{{Event|完美強化",
-        "orgtitle": "完美強化",
-        "title": "完美強化",
-        "type": "",
-        "img": "",
-        "orginimg": "",
-        "start": "2021/2/9",
-        "end": "2021/2/9"
-      },
-      {
-        "line": "{{Event|完美強化",
-        "orgtitle": "完美強化",
-        "title": "完美強化",
-        "type": "",
-        "img": "",
-        "orginimg": "",
-        "start": "2021/2/18",
-        "end": "2021/2/18"
+        "start": "2021/7/19",
+        "end": "2021/9/12"
       }
     ]
   }

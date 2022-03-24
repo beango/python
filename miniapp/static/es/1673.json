@@ -3,5 +3,6 @@
   "title": "附加消除 ‧ 強化盾-非強化傷害吸收 ‧ 無視減傷",
   "effect": "首回合敵人會消除召喚師所有附加效果。<br>此外，敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊 (包括主動技)，敵人回復相等於該攻擊傷害的血量。<br>敵人無視所有減傷效果和意志技能",
   "content": "附加消除,強化盾,無視減傷",
-  "icon": "es/SI123.png|es/SI254.png|es/SI251.png"
+  "icon": "es/SI123.png|es/SI254.png|es/SI251.png",
+  "tcicon": "es/SI123.png|es/SI254.png|es/SI251.png"
 }

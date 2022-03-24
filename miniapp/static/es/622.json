@@ -3,5 +3,6 @@
   "title": "敵轉光 ‧ (5回減攻90%) ‧ 攻後雙重冰封 ‧ 無視減傷",
   "effect": "首回合敵人會轉變換為光屬性。<br>5 回合內，敵人會令召喚師的攻擊力減至 10%。敵人會無視所有減傷效果和意志技能。每當召喚師受到攻擊時，敵人會隨機凍結場上 2 粒符石，3 回合內不能消除該符石",
   "content": "攻擊力減弱,冰封符石,無視減傷",
-  "icon": "es/SI019.png|es/SI158.png|es/SI219.png|es/SI251.png"
+  "icon": "es/SI019.png|es/SI158.png|es/SI219.png|es/SI251.png",
+  "tcicon": "es/SI019.png|es/SI158.png|es/SI219.png|es/SI251.png"
 }

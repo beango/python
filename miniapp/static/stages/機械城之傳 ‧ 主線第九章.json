@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         },
         {
           "card": "650",
@@ -39,7 +41,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "175",
@@ -50,7 +53,8 @@
           "coin": "642",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/175i.png"
         },
         {
           "card": "650",
@@ -62,7 +66,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "1750",
@@ -77,9 +82,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後轉橫暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1750i.png"
         },
         {
           "card": "1750",
@@ -94,9 +101,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png",
+            "tcicon": "es/SI015.png",
             "title": "攻後轉直暗"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1750i.png"
         },
         {
           "card": "1744",
@@ -110,9 +119,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI181.png|es/SI188.png",
+            "tcicon": "es/SI224.png|es/SI181.png|es/SI188.png",
             "title": "首回二五直行隱藏-25%隱藏符石5顆 ‧ 初級拼圖盾-限 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1744i.png"
         }
       ]
     },
@@ -139,9 +150,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI161.png",
+            "tcicon": "es/SI160.png|es/SI161.png",
             "title": "先攻 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/667i.png"
         },
         {
           "card": "667",
@@ -153,9 +166,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "雙重擴散燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/667i.png"
         },
         {
           "card": "670",
@@ -168,9 +183,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI105.png",
+            "tcicon": "es/SI105.png",
             "title": "(5回7+Combo發動攻回)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/670i.png"
         },
         {
           "card": "670",
@@ -183,9 +200,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI129.png",
+            "tcicon": "es/SI256.png|es/SI129.png",
             "title": "消心盾2% ‧ 扣血70%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/670i.png"
         }
       ]
     },
@@ -217,9 +236,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI235.png",
+            "tcicon": "es/SI235.png",
             "title": "強化符石-結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         },
         {
           "card": "670",
@@ -232,9 +253,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI254.png|es/SI260.png|es/SI067.png",
+            "tcicon": "es/SI122.png|es/SI254.png|es/SI260.png|es/SI067.png",
             "title": "光屬技能封鎖 ‧ 強化盾-反擊100% ‧ 3倍獵神"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/670i.png"
         },
         {
           "card": "670",
@@ -246,9 +269,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI233.png|es/SI161.png|es/SI215.png|es/SI183.png",
+            "tcicon": "es/SI233.png|es/SI161.png|es/SI215.png|es/SI183.png",
             "title": "(5回回復力減弱90%) ‧ 命懸一線 ‧ 黑白符石 ‧ 始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/670i.png"
         },
         {
           "card": "667",
@@ -261,9 +286,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI302.png|es/SI047.png|es/SI229.png",
+            "tcicon": "es/SI302.png|es/SI047.png|es/SI229.png",
             "title": "首回隨機轉火 ‧ 攻後火橫縱輪轉 ‧ 軌跡燃燒1000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/667i.png"
         },
         {
           "card": "667",
@@ -276,9 +303,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI122.png|es/SI229.png",
+            "tcicon": "es/SI250.png|es/SI122.png|es/SI229.png",
             "title": "同屬防禦90% ‧ 龍類禁錮 ‧ ✕形燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/667i.png"
         }
       ]
     }

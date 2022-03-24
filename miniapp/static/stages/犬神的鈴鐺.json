@@ -25,7 +25,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/058i.png"
         },
         {
           "card": "068",
@@ -38,7 +39,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/068i.png"
         },
         {
           "card": "078",
@@ -51,7 +53,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/078i.png"
         },
         {
           "card": "108",
@@ -64,7 +67,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/108i.png"
         },
         {
           "card": "1113",
@@ -77,7 +81,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1113i.png"
         },
         {
           "card": "081",
@@ -90,7 +95,8 @@
           "item": "102",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/081i.png"
         }
       ]
     },
@@ -117,7 +123,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/059i.png"
         },
         {
           "card": "069",
@@ -131,7 +138,8 @@
           "chest ": " 2500",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "079",
@@ -144,7 +152,8 @@
           "item ": " 102",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "109",
@@ -156,7 +165,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "1113",
@@ -169,7 +179,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1113i.png"
         },
         {
           "card": "341",
@@ -182,7 +193,8 @@
           "item": "102",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/341i.png"
         }
       ]
     },
@@ -211,9 +223,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/059i.png"
         },
         {
           "card": "069",
@@ -224,7 +238,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "079",
@@ -237,9 +252,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "109",
@@ -252,9 +269,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI102.png",
+            "tcicon": "es/SI102.png",
             "title": "4+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "1113",
@@ -267,7 +286,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1113i.png"
         },
         {
           "card": "1011",
@@ -281,9 +301,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "697",
@@ -297,9 +319,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "軌跡燃燒500"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/697i.png"
         },
         {
           "card": "555",
@@ -314,9 +338,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png|es/SI309.png|es/SI218.png",
+            "tcicon": "es/SI251.png|es/SI309.png|es/SI218.png",
             "title": "無視減傷 ‧ 首回攻後木心化血"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/555i.png"
         }
       ]
     },
@@ -342,9 +368,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/059i.png"
         },
         {
           "card": "069",
@@ -354,7 +382,8 @@
           "coin": "381",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/069i.png"
         },
         {
           "card": "079",
@@ -367,9 +396,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/079i.png"
         },
         {
           "card": "109",
@@ -381,9 +412,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI103.png",
+            "tcicon": "es/SI103.png",
             "title": "5+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "1113",
@@ -395,7 +428,8 @@
           "coin": "1205",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1113i.png"
         },
         {
           "card": "427",
@@ -408,7 +442,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/427i.png"
         },
         {
           "card": "1157",
@@ -423,9 +458,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png",
+            "tcicon": "es/SI160.png|es/SI229.png",
             "title": "突擊65% ‧ 攻後雙重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1157i.png"
         },
         {
           "card": "639",
@@ -439,9 +476,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI225.png",
+            "tcicon": "es/SI225.png",
             "title": "縱橫射擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/639i.png"
         },
         {
           "card": "640",
@@ -456,9 +495,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "？形隱藏 ‧ 15%隱藏5顆符石"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/640i.png"
         },
         {
           "card": "1013",
@@ -472,9 +513,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "風化3000-先"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1013i.png"
         },
         {
           "card": "1011",
@@ -488,9 +531,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI233.png",
+            "tcicon": "es/SI233.png",
             "title": "(5回回復力減弱50%)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1011i.png"
         },
         {
           "card": "722",
@@ -504,9 +549,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI104.png",
+            "tcicon": "es/SI104.png",
             "title": "6+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/722i.png"
         },
         {
           "card": "722",
@@ -520,9 +567,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI132.png",
+            "tcicon": "es/SI132.png",
             "title": "扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/722i.png"
         },
         {
           "card": "1099",
@@ -536,9 +585,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI227.png|es/SI242.png",
+            "tcicon": "es/SI160.png|es/SI227.png|es/SI242.png",
             "title": "先攻 ‧ 迷惑符石 ‧ 三屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1099i.png"
         },
         {
           "card": "1129",
@@ -552,9 +603,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI236.png|es/SI216.png",
+            "tcicon": "es/SI160.png|es/SI236.png|es/SI216.png",
             "title": "突擊65% ‧ 攻後電擊2顆 ‧ 復活變強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1129i.png"
         },
         {
           "card": "7003",
@@ -568,9 +621,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI303.png|es/SI306.png|es/SI047.png|es/SI135.png",
+            "tcicon": "es/SI123.png|es/SI303.png|es/SI306.png|es/SI047.png|es/SI135.png",
             "title": "附加消除 ‧ 木心輪轉 ‧ 消木吸血2%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/7003i.png"
         },
         {
           "card": "692",
@@ -584,9 +639,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-1"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/692i.png"
         },
         {
           "card": "524",
@@ -601,9 +658,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI043.png",
+            "tcicon": "es/SI043.png",
             "title": "心禁消"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/524i.png"
         },
         {
           "card": "692",
@@ -617,9 +676,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-6"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/692i.png"
         },
         {
           "card": "735",
@@ -633,9 +694,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI161.png|es/SI135.png",
+            "tcicon": "es/SI250.png|es/SI161.png|es/SI135.png",
             "title": "隱身-隱攻命懸一線-(98回中毒40%)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/735i.png"
         },
         {
           "card": "1130",
@@ -649,9 +712,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI244.png",
+            "tcicon": "es/SI244.png",
             "title": "五屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1130i.png"
         },
         {
           "card": "581",
@@ -665,9 +730,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png",
+            "tcicon": "es/SI122.png",
             "title": "技能封鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/581i.png"
         },
         {
           "card": "582",
@@ -681,9 +748,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "軌跡燃燒1000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/582i.png"
         },
         {
           "card": "729",
@@ -697,9 +766,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "隨機縱向燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/729i.png"
         },
         {
           "card": "1127",
@@ -714,9 +785,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI188.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI188.png",
             "title": "附加消除重置 ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1127i.png"
         },
         {
           "card": "737",
@@ -730,9 +803,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI242.png",
+            "tcicon": "es/SI242.png",
             "title": "三屬盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/737i.png"
         },
         {
           "card": "737",
@@ -747,9 +822,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI106.png",
+            "tcicon": "es/SI106.png",
             "title": "8+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/737i.png"
         }
       ]
     }

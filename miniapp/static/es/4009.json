@@ -3,5 +3,6 @@
   "title": "每回全心凍結 ‧ 首消心追擊零化",
   "effect": "每回合凍結所有心符石，<br>如有符石處於凍結狀態<br>而未被消除時，<br>3 回合內不能消除該符石。<br><br>首批消除心符石的連擊 (Combo) 會令全隊攻擊無效，消除心符石的連擊 (Combo) 愈多，敵人的連擊次數愈多。",
   "content": "凍結,連擊零化",
-  "icon": "es/SI306.png|es/SI220.png|es/SI118.png"
+  "icon": "es/SI306.png|es/SI220.png|es/SI118.png",
+  "tcicon": "es/SI306.png|es/SI220.png|es/SI118.png"
 }

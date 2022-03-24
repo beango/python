@@ -3,5 +3,6 @@
   "title": "強制自爆30000",
   "effect": "敵人死亡後會對召喚師造成 30,000 點傷害",
   "content": "自爆",
-  "icon": "es/SI168.png"
+  "icon": "es/SI168.png",
+  "tcicon": "es/SI168.png"
 }

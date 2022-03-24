@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI033.png",
+            "tcicon": "es/SI033.png",
             "title": "首消全木盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/097i.png"
         },
         {
           "card": "099",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png",
+            "tcicon": "es/SI031.png",
             "title": "首消全水盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/099i.png"
         },
         {
           "card": "101",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI032.png",
+            "tcicon": "es/SI032.png",
             "title": "首消全火盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/101i.png"
         },
         {
           "card": "103",
@@ -70,9 +76,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png",
+            "tcicon": "es/SI035.png",
             "title": "首消全暗盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/103i.png"
         },
         {
           "card": "105",
@@ -85,9 +93,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI034.png",
+            "tcicon": "es/SI034.png",
             "title": "首消全光盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/105i.png"
         },
         {
           "card": "330",
@@ -100,9 +110,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png",
+            "tcicon": "es/SI031.png",
             "title": "首消全水盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/330i.png"
         },
         {
           "card": "330",
@@ -116,9 +128,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI031.png",
+            "tcicon": "es/SI031.png",
             "title": "首消全水盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/330i.png"
         }
       ]
     },
@@ -143,7 +157,8 @@
           "coin": "643",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/186i.png"
         },
         {
           "card": "854",
@@ -156,9 +171,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI236.png",
+            "tcicon": "es/SI160.png|es/SI236.png",
             "title": "突擊65% ‧ 攻後電擊2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/854i.png"
         },
         {
           "card": "854",
@@ -172,9 +189,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI282.png|es/SI103.png|es/SI003.png",
+            "tcicon": "es/SI160.png|es/SI282.png|es/SI103.png|es/SI003.png",
             "title": "突擊10%-左右暴風輪轉 ‧ 5+Combo追擊盾 ‧ 木屬防禦75%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/854i.png"
         }
       ]
     },
@@ -204,9 +223,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "雙重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/193i.png"
         },
         {
           "card": "193",
@@ -219,9 +240,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png",
+            "tcicon": "es/SI183.png",
             "title": "始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/193i.png"
         },
         {
           "card": "193",
@@ -235,9 +258,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI158.png|es/SI188.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI158.png|es/SI188.png",
             "title": "附加消除重置 ‧ [3回減攻80%] ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/193i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "首消暗傷害吸收-反擊100% ‧ 含神-全體禁錮-隱藏圍城",
   "effect": "消除暗屬性的連擊 (Combo) 時 (只計算首批消除的符石)，敵人會回復相等於該回合召喚師所造成傷害的血量，並反擊自身 100% 攻擊傷害。<br>召喚師隊伍中有神族成員時，首回合敵人會永久封鎖所有成員的主動技能及其攻擊，並將所有符石轉化為隱藏符石",
   "content": "傷害吸收,禁錮,隱藏符石",
-  "icon": "es/SI015.png|es/SI260.png|es/SI122.png|es/SI224.png"
+  "icon": "es/SI015.png|es/SI260.png|es/SI122.png|es/SI224.png",
+  "tcicon": "es/SI015.png|es/SI260.png|es/SI122.png|es/SI224.png"
 }

@@ -3,5 +3,6 @@
   "title": "中毒50%",
   "effect": "敵人會令全隊中毒，在每回合扣除召喚師 50% 生命力，直至敵人死亡",
   "content": "中毒",
-  "icon": "es/SI135.png"
+  "icon": "es/SI135.png",
+  "tcicon": "es/SI135.png"
 }

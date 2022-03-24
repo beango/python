@@ -3,5 +3,6 @@
   "title": "[7回水攻2倍] ‧ 自殺",
   "effect": "7 回合內，水屬性成員的攻擊力提升 2 倍。<br>敵人下回合會扣除自身生命力 100%，期間不受任何攻擊傷害及無視所有控制技能",
   "content": "攻擊提升,自殘",
-  "icon": "es/SI006.png|es/SI161.png"
+  "icon": "es/SI006.png|es/SI161.png",
+  "tcicon": "es/SI006.png|es/SI161.png"
 }

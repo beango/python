@@ -3,5 +3,6 @@
   "title": "附加消除重置 ‧ 召喚小怪 ‧ 無法控制",
   "effect": "敵人會在 CD 0 時召喚小怪，如果場上有小怪生存，CD 0 時會發動攻擊。<br>首回合消除召喚師所有附加效果，其技能 CD 將被重置。<br>無視所有控制技能",
   "content": "附加消除重置,召喚小怪,無法控制",
-  "icon": "es/SI121.png|es/SI123.png|es/SI164.png|es/SI124.png"
+  "icon": "es/SI121.png|es/SI123.png|es/SI164.png|es/SI124.png",
+  "tcicon": "es/SI121.png|es/SI123.png|es/SI164.png|es/SI124.png"
 }

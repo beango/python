@@ -3,5 +3,6 @@
   "title": "首回5顆-每回2顆-風化15000 ‧ 隱藏-結",
   "effect": "首回合隨機<br>⇒ 將 5 粒符石風化<br>其後每回合隨機<br>⇒ 將 2 粒符石風化；<br>風化符石一經觸碰，<br>即時停止移動符石，<br>對召喚師造成 15,000 點傷害<br><br>敵人死亡後，<br>將所有符石轉化為隱藏符石",
   "content": "風化,隱藏",
-  "icon": "es/SI221.png|es/SI224.png"
+  "icon": "es/SI221.png|es/SI224.png",
+  "tcicon": "es/SI221.png|es/SI224.png"
 }

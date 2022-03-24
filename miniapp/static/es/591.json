@@ -3,5 +3,6 @@
   "title": "攻後轉橫光",
   "effect": "當受到敵人攻擊時，隨機將 1 橫行的符石轉化為光符石",
   "content": "符石轉換",
-  "icon": "es/SI014.png"
+  "icon": "es/SI014.png",
+  "tcicon": "es/SI014.png"
 }

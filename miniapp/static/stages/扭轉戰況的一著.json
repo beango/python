@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1014",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1014",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1014",
@@ -70,9 +76,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1015",
@@ -86,9 +94,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         }
       ]
     },
@@ -116,9 +126,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png",
+            "tcicon": "es/SI165.png",
             "title": "(5回轉珠減2秒)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "490",
@@ -130,7 +142,8 @@
           "ws": "10002",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1530",
@@ -142,7 +155,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1015",
@@ -156,9 +170,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png",
+            "tcicon": "es/SI183.png",
             "title": "始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "490",
@@ -170,7 +186,8 @@
           "ws": "10003",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1530",
@@ -182,7 +199,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1415",
@@ -197,9 +215,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI188.png|es/SI224.png",
+            "tcicon": "es/SI160.png|es/SI188.png|es/SI224.png",
             "title": "突擊65% ‧ 越戰越強-金 ‧ 攻後隱藏9顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         }
       ]
     },
@@ -223,7 +243,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "490",
@@ -233,7 +254,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "490",
@@ -244,7 +266,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1415",
@@ -257,9 +280,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI164.png|es/SI165.png",
+            "tcicon": "es/SI164.png|es/SI165.png",
             "title": "召喚小怪 ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "490",
@@ -270,7 +295,8 @@
           "coin": "189",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/490i.png"
         },
         {
           "card": "1015",
@@ -283,9 +309,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI305.png|es/SI047.png|es/SI215.png",
+            "tcicon": "es/SI305.png|es/SI047.png|es/SI215.png",
             "title": "首回隨機轉暗 ‧ 攻後暗橫縱輪轉 ‧ 黑白符石"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "585",
@@ -299,9 +327,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI117.png",
+            "tcicon": "es/SI117.png",
             "title": "首消暗追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         }
       ]
     },
@@ -327,7 +357,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "1014",
@@ -339,7 +370,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1529",
@@ -351,7 +383,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1530",
@@ -363,7 +396,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1415",
@@ -376,9 +410,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI139.png",
+            "tcicon": "es/SI139.png",
             "title": "越扣越強25%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "1414",
@@ -391,9 +427,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png",
+            "tcicon": "es/SI122.png",
             "title": "技能封鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1414i.png"
         },
         {
           "card": "1124",
@@ -407,9 +445,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI236.png|es/SI216.png|es/SI251.png",
+            "tcicon": "es/SI124.png|es/SI236.png|es/SI216.png|es/SI251.png",
             "title": "無法控制 ‧ 攻後電擊2顆 ‧ 復活變強3倍-無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1124i.png"
         }
       ]
     }

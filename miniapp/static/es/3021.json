@@ -3,5 +3,6 @@
   "title": "先攻 ‧ 四重燃燒20% ‧ 隨機轉心 ‧ 首消心傷害吸收",
   "effect": "首回合優先攻擊 1 次，受此攻擊後隨機燃燒 4 個位置，每觸碰被燃燒的位置，將扣除召喚師 20% 生命力。<br>每回合隨機將 1 種屬性符石轉換為心符石。<br>首批消除心符石時，敵人會回復相等於該回合召喚師所造成傷害的血量",
   "content": "先攻,燃燒,符石轉換,傷害吸收",
-  "icon": "es/SI160.png|es/SI229.png|es/SI047.png|es/SI306.png|es/SI045.png"
+  "icon": "es/SI160.png|es/SI229.png|es/SI047.png|es/SI306.png|es/SI045.png",
+  "tcicon": "es/SI160.png|es/SI229.png|es/SI047.png|es/SI306.png|es/SI045.png"
 }

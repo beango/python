@@ -3,5 +3,6 @@
   "title": "攻後(98回中毒30%)",
   "effect": "當受到敵人攻擊後，98 回合內敵人會吸取召喚師 30% 生命力",
   "content": "中毒",
-  "icon": "es/SI135.png"
+  "icon": "es/SI135.png",
+  "tcicon": "es/SI135.png"
 }

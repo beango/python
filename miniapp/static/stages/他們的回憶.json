@@ -26,7 +26,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1530",
@@ -38,7 +39,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1010",
@@ -50,7 +52,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1014",
@@ -62,7 +65,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1535",
@@ -74,7 +78,8 @@
           "chest": "10000",
           "note": "{{特性*離開*1}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1535i.png"
         },
         {
           "card": "308",
@@ -88,9 +93,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI096.png",
+            "tcicon": "es/SI122.png|es/SI096.png",
             "title": "禁錮吸收盾-首消6Combo解鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/308i.png"
         }
       ]
     }

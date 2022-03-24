@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         },
         {
           "card": "1366",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1366i.png"
         },
         {
           "card": "1815",
@@ -56,9 +60,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1815i.png"
         }
       ]
     },
@@ -85,7 +91,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/646i.png"
         },
         {
           "card": "647",
@@ -96,7 +103,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/647i.png"
         },
         {
           "card": "648",
@@ -107,7 +115,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/648i.png"
         },
         {
           "card": "649",
@@ -118,7 +127,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/649i.png"
         },
         {
           "card": "650",
@@ -129,7 +139,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/650i.png"
         },
         {
           "card": "1751",
@@ -142,9 +153,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI219.png",
+            "tcicon": "es/SI160.png|es/SI219.png",
             "title": "突擊65% ‧ 攻後雙重冰封"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1751i.png"
         },
         {
           "card": "1346",
@@ -157,9 +170,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI156.png|es/SI301.png|es/SI047.png|es/SI011.png",
+            "tcicon": "es/SI156.png|es/SI301.png|es/SI047.png|es/SI011.png",
             "title": "回復力變0 ‧ 隨機轉水 ‧ 首消水傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1346i.png"
         },
         {
           "card": "1346",
@@ -173,9 +188,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI158.png|es/SI188.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI158.png|es/SI188.png",
             "title": "附加消除重置 ‧ [5回減攻80%] ‧ 越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1346i.png"
         }
       ]
     }

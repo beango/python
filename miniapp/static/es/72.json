@@ -3,5 +3,6 @@
   "title": "扣血30%",
   "effect": "每回合敵人發動攻擊時會扣除召喚師 30% 生命力 (無視所有減傷效果和意志技能)",
   "content": "固定傷害",
-  "icon": "es/SI126.png"
+  "icon": "es/SI126.png",
+  "tcicon": "es/SI126.png"
 }

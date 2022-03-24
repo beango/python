@@ -3,5 +3,6 @@
   "title": "CD1 ‧ [1回攻擊零化] ‧ 首回光引爆狂擊 ‧ 無視減傷",
   "effect": "敵人首次攻擊變為 CD 1。<br><br>1 回合內，全隊攻擊力減至 0<br><br>首回合引爆所有光符石，<br>以永久提升攻擊力。<br><br>無視所有減傷效果和<br>意志技能。",
   "content": "攻速變更,攻擊力減弱,引爆,無視減傷",
-  "icon": "es/SI159.png|es/SI158.png|es/SI315.png|es/SI251.png"
+  "icon": "es/SI159.png|es/SI158.png|es/SI315.png|es/SI251.png",
+  "tcicon": "es/SI159.png|es/SI158.png|es/SI315.png|es/SI251.png"
 }

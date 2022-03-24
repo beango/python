@@ -3,5 +3,6 @@
   "title": "剋水",
   "effect": "召喚師隊伍中水屬性成員愈多，全隊攻擊力愈低{{Cal|越多越弱|{{{2|}}}}}",
   "content": "攻擊力減弱",
-  "icon": "es/SI158.png"
+  "icon": "es/SI158.png",
+  "tcicon": "es/SI158.png"
 }

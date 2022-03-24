@@ -3,5 +3,6 @@
   "title": "轉珠技無效 ‧ 首消≥8組屬盾",
   "effect": "<font color=#FFFF3C>【轉化符石技能無效 ‧ 8 組屬性符石盾】</font><br><br>所有轉化符石技能效果無效<br>(轉化種族符石而不改變<br>符石種類的技能除外)。<br><br>首批消除 ≥8 組屬性符石，<br>才能對敵人造成攻擊傷害。",
   "content": "轉珠技無效,首消組數盾",
-  "icon": "es/SI058.png|es/ES475.png"
+  "icon": "es/SI058.png|es/ES475.png",
+  "tcicon": "es/SI058.png|es/ES475.png"
 }

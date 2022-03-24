@@ -3,5 +3,6 @@
   "title": "縱向燃燒10%-6",
   "effect": "敵人會燃燒 1 直行的位置，每觸碰被燃燒的位置，將扣除召喚師 10% 生命力",
   "content": "燃燒",
-  "icon": "es/SI229.png"
+  "icon": "es/SI229.png",
+  "tcicon": "es/SI229.png"
 }

@@ -3,5 +3,6 @@
   "title": "(5回回復力減弱90%) ‧ 命懸一線 ‧ 黑白符石 ‧ 始終盾",
   "effect": "5 回合內，敵人會令召喚師的回復力減少 90%。<br>首回合敵人會讓召喚師生命力剩 1 點，並將所有符石變為黑白色。<br>每回合以指定位置 (綠色漩渦) 的符石開始轉珠及在指定位置 (紅色漩渦) 結束轉珠，才會發動攻擊和回復 (達成條件前，無法進行回復)",
   "content": "命懸一線,黑白符石,始終盾",
-  "icon": "es/SI233.png|es/SI161.png|es/SI215.png|es/SI183.png"
+  "icon": "es/SI233.png|es/SI161.png|es/SI215.png|es/SI183.png",
+  "tcicon": "es/SI233.png|es/SI161.png|es/SI215.png|es/SI183.png"
 }

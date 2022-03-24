@@ -3,5 +3,6 @@
   "title": "敵轉木 ‧ (5回火暗防禦盾) ‧ 無視減傷 ‧ 攻後燃燒10%",
   "effect": "首回合敵人會轉變換為木屬性。<br>5 回合內，火及暗屬性的攻擊無法對敵人造成傷害。敵人會無視所有減傷效果和意志技能，每當召喚師受到攻擊時，敵人會隨機燃燒 1 個位置，每觸碰被燃燒的位置，將扣除召喚師 10% 生命力",
   "content": "屬性轉換,屬性針對(攻擊力),無視減傷,燃燒",
-  "icon": "es/SI018.png|es/SI050.png|es/SI229.png|es/SI251.png"
+  "icon": "es/SI018.png|es/SI050.png|es/SI229.png|es/SI251.png",
+  "tcicon": "es/SI018.png|es/SI050.png|es/SI229.png|es/SI251.png"
 }

@@ -3,5 +3,6 @@
   "title": "首消木追擊零化 ‧ 木電擊3顆",
   "effect": "消除木屬性的連擊 (Combo) 會令全隊攻擊無效，消除的木屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石。<br>每回合移動符石前，敵人會電擊 3 粒木符石；如有符石被電擊而未被消除時，該回合無法對敵人造成攻擊傷害。被電擊的符石一經觸碰，即時停止移動符石",
   "content": "連擊零化,電擊符石",
-  "icon": "es/SI115.png|es/SI303.png|es/SI236.png"
+  "icon": "es/SI115.png|es/SI303.png|es/SI236.png",
+  "tcicon": "es/SI115.png|es/SI303.png|es/SI236.png"
 }

@@ -3,5 +3,6 @@
   "title": "五次受攻盾50%",
   "effect": "敵人死亡後會復活，直至召喚師受到 5 次攻擊；首 5 次復活中，每 1 次復活會令敵人的攻擊力減少 50%",
   "content": "受攻盾",
-  "icon": "es/SI211.png"
+  "icon": "es/SI211.png",
+  "tcicon": "es/SI211.png"
 }

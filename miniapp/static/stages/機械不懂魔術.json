@@ -1,5 +1,941 @@
 {
-  "openhis": [],
-  "cj": [],
-  "stages": []
+  "openhis": [
+    {
+      "start": "2020/2/17",
+      "end": "2020/3/1",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    },
+    {
+      "start": "2021/1/18",
+      "end": "2021/1/31",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
+  "cj": [
+    {
+      "star": "3",
+      "id": "617",
+      "soul": "",
+      "m": "",
+      "num": "1 *註",
+      "tcimg": "https://i.loli.net/2021/01/14/emvjWCEA2QGwfa5.png"
+    },
+    {
+      "star": "6",
+      "id": "C08",
+      "soul": "",
+      "m": "",
+      "num": "1",
+      "tcimg": "static/lk/C08.png"
+    },
+    {
+      "star": "9",
+      "id": "",
+      "soul": "",
+      "m": "1",
+      "num": "",
+      "tcimg": ""
+    },
+    {
+      "star": "12",
+      "id": "",
+      "soul": "150",
+      "m": "",
+      "num": "",
+      "tcimg": ""
+    }
+  ],
+  "stages": [
+    {
+      "id": "2326",
+      "title": "為魔術而生 初級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{-1002|50}} 薩斯頓：「終於做好了。」<br>\n{{-1002|50}} ？？：「我……是誰？」<br>",
+      "cj": [
+        "隊伍中有 3 個或以上的光屬性成員 (不包括隊伍技能)",
+        "戰鬥中不使用任何主動技 (包括合體技能)",
+        "於 6 回合內完成關卡"
+      ],
+      "info": {
+        "sta": "10",
+        "battle": "5",
+        "exp": "500"
+      },
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "379",
+          "turn": "1",
+          "hp": "12339",
+          "def": "10",
+          "coin": "102",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/089i.png"
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "379",
+          "turn": "1",
+          "hp": "12341",
+          "def": "10",
+          "coin": "102",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/095i.png"
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "344",
+          "turn": "1",
+          "hp": "8130",
+          "def": "330",
+          "coin": "302",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/872i.png"
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "damage": "680",
+          "turn": "2",
+          "hp": "13390",
+          "def": "380",
+          "coin": "302",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/875i.png"
+        },
+        {
+          "card": "1272",
+          "stage": "",
+          "damage": "336",
+          "turn": "1",
+          "hp": "8030",
+          "def": "490",
+          "coin": "302",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1272i.png"
+        },
+        {
+          "card": "1275",
+          "stage": "",
+          "damage": "757",
+          "turn": "2",
+          "hp": "8710",
+          "def": "280",
+          "coin": "302",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1275i.png"
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "1002",
+          "turn": "1(1)",
+          "hp": "23550",
+          "def": "3520",
+          "coin": "2648",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/2328i.png"
+        },
+        {
+          "card": "2326",
+          "stage": "5",
+          "damage": "4112",
+          "turn": "1(1)",
+          "hp": "506700",
+          "def": "40110",
+          "coin": "2183",
+          "chest": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "https://i.loli.net/2021/01/14/DA2z4qBanForxL7.png"
+        }
+      ]
+    },
+    {
+      "id": "2326",
+      "title": "備受質疑的學徒 中級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{2326|50}} 愛琳：「……怎麼會變不出來呢?」<br>\n{{-1002|50}} 馬戲團團員甲：「哈哈，就憑你也想學習薩斯頓的魔術？」<br>\n{{-1002|50}} 馬戲團團員乙：「薩斯頓應該找另一個學徒吧。」<br>",
+      "cj": [
+        "隊伍中有 3 個或以上的光屬性成員 (不包括隊伍技能)",
+        "隊長與戰友相同",
+        "於 7 回合內完成關卡"
+      ],
+      "info": {
+        "sta": "20",
+        "battle": "6",
+        "exp": "1500"
+      },
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "970",
+          "turn": "1",
+          "hp": "48512",
+          "def": "10",
+          "coin": "162",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/089i.png"
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "970",
+          "turn": "1",
+          "hp": "48877",
+          "def": "10",
+          "coin": "162",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/095i.png"
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "1277",
+          "turn": "1",
+          "hp": "30130",
+          "def": "330",
+          "coin": "502",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/872i.png"
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "damage": "2519",
+          "turn": "2",
+          "hp": "49610",
+          "def": "380",
+          "coin": "502",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/875i.png"
+        },
+        {
+          "card": "1272",
+          "stage": "",
+          "damage": "1246",
+          "turn": "1",
+          "hp": "29770",
+          "def": "490",
+          "coin": "502",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1272i.png"
+        },
+        {
+          "card": "1275",
+          "stage": "",
+          "damage": "2805",
+          "turn": "2",
+          "hp": "32260",
+          "def": "280",
+          "coin": "502",
+          "lv": "2",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1275i.png"
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "1496",
+          "turn": "1(1)",
+          "hp": "87240",
+          "def": "3520",
+          "coin": "4388",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/2328i.png"
+        },
+        {
+          "card": "6235",
+          "stage": "5",
+          "damage": "8130",
+          "turn": "2(2)",
+          "hp": "1441610",
+          "def": "37580",
+          "coin": "2603",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/6235i.png"
+        },
+        {
+          "card": "2326",
+          "stage": "6",
+          "damage": "6138",
+          "turn": "1(1)",
+          "hp": "1876690",
+          "def": "40110",
+          "coin": "3023",
+          "chest": "1000",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "https://i.loli.net/2021/01/14/DA2z4qBanForxL7.png"
+        }
+      ]
+    },
+    {
+      "id": "2326",
+      "title": "分秒不差的演出 高級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{2326|50}} 愛琳：「只要按照薩斯頓老師的筆記，分秒不差的演出，就不會出錯。」<br>\n{{StoryDialog|C}}{{-1002|50}} 馬戲團團員甲：「薩斯頓她的表演和你完全一樣耶！厲害喔！」<br>\n{{-1002|50}} 馬戲團團員乙：「她已經有獨自演出的能力了。」<br>",
+      "cj": [
+        "隊伍中只有光屬性的成員 (不包括隊伍技能)",
+        "隊長及戰友都是妖精類",
+        "隊伍中只有獸類成員"
+      ],
+      "info": {
+        "sta": "30",
+        "battle": "8",
+        "exp": "3000"
+      },
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "1690",
+          "turn": "1",
+          "hp": "132752",
+          "def": "10",
+          "coin": "282",
+          "lv": "5",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/089i.png"
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "1690",
+          "turn": "1",
+          "hp": "133397",
+          "def": "10",
+          "coin": "282",
+          "lv": "5",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/095i.png"
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "1906",
+          "turn": "1",
+          "hp": "111610",
+          "def": "330",
+          "coin": "902",
+          "lv": "5",
+          "es": "662",
+          "note": "",
+          "esjson": {
+            "img": "es/SI302.png|es/SI047.png",
+            "tcicon": "es/SI302.png|es/SI047.png",
+            "title": "攻後轉火4顆"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/872i.png"
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "damage": "3760",
+          "turn": "2",
+          "hp": "183760",
+          "def": "380",
+          "coin": "902",
+          "lv": "5",
+          "es": "1068",
+          "note": "",
+          "esjson": {
+            "img": "es/SI305.png|es/SI047.png",
+            "tcicon": "es/SI305.png|es/SI047.png",
+            "title": "攻後轉暗4顆"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/875i.png"
+        },
+        {
+          "card": "1272",
+          "stage": "",
+          "damage": "1860",
+          "turn": "1",
+          "hp": "173220",
+          "def": "490",
+          "coin": "902",
+          "lv": "5",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1272i.png"
+        },
+        {
+          "card": "1275",
+          "stage": "",
+          "damage": "4187",
+          "turn": "2",
+          "hp": "182470",
+          "def": "280",
+          "coin": "902",
+          "lv": "5",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1275i.png"
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "2234",
+          "turn": "1(1)",
+          "hp": "323120",
+          "def": "3520",
+          "coin": "7868",
+          "drop": "2328",
+          "lv": "1",
+          "es": "1245",
+          "note": "",
+          "esjson": {
+            "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
+            "title": "首消光傷害吸收"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/2328i.png"
+        },
+        {
+          "card": "1195",
+          "stage": "4",
+          "damage": "5953",
+          "turn": "1(1)",
+          "hp": "3475750",
+          "def": "32520",
+          "coin": "3863",
+          "es": "3508",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI102.png",
+            "tcicon": "es/SI224.png|es/SI102.png",
+            "title": "隱藏-轉 ‧ 4+Combo追擊盾"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/1195i.png"
+        },
+        {
+          "card": "6235",
+          "stage": "7",
+          "damage": "12135",
+          "turn": "2(2)",
+          "hp": "5339330",
+          "def": "37580",
+          "coin": "4703",
+          "es": "2412",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI015.png",
+            "tcicon": "es/SI224.png|es/SI015.png",
+            "title": "六重軌跡隱藏 ‧ 首消暗傷害吸收"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/6235i.png"
+        },
+        {
+          "card": "2326",
+          "stage": "8",
+          "damage": "9162",
+          "turn": "1(1)",
+          "hp": "6950740",
+          "def": "40110",
+          "coin": "5123",
+          "chest": "1500",
+          "soul": "2",
+          "craft": "1",
+          "lv": "1",
+          "es": "3699",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png|es/SI117.png",
+            "tcicon": "es/SI215.png|es/SI117.png",
+            "title": "黑白符石 ‧ 首消暗追擊零化"
+          },
+          "jd": "",
+          "cardtcimg": "https://i.loli.net/2021/01/14/DA2z4qBanForxL7.png"
+        }
+      ]
+    },
+    {
+      "id": "2326",
+      "title": "被束縛的魔術師 超級",
+      "note": "",
+      "story": "{{故事|{{StoryDialog}}{{-1002|50}} 病危的薩斯頓：「愛琳，魔術的魅力……在於表演者本身……不要被我所束縛啊……」<br>",
+      "cj": [
+        "隊伍中只有光屬性的成員 (不包括隊伍技能)",
+        "隊伍中有 3 個或以上的龍類成員",
+        "隊伍中只有暗屬性的成員 (不包括隊伍技能)"
+      ],
+      "info": {
+        "sta": "40",
+        "battle": "8",
+        "exp": "5000"
+      },
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "2230",
+          "turn": "1",
+          "hp": "243432",
+          "def": "10",
+          "coin": "372",
+          "lv": "15",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/089i.png"
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "2230",
+          "turn": "1",
+          "hp": "244287",
+          "def": "10",
+          "coin": "372",
+          "lv": "15",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/095i.png"
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "2846",
+          "turn": "1",
+          "hp": "166580",
+          "def": "330",
+          "coin": "1202",
+          "lv": "15",
+          "es": "662",
+          "note": "",
+          "esjson": {
+            "img": "es/SI302.png|es/SI047.png",
+            "tcicon": "es/SI302.png|es/SI047.png",
+            "title": "攻後轉火4顆"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/872i.png"
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "damage": "5613",
+          "turn": "2",
+          "hp": "274270",
+          "def": "380",
+          "coin": "1202",
+          "lv": "15",
+          "es": "1068",
+          "note": "",
+          "esjson": {
+            "img": "es/SI305.png|es/SI047.png",
+            "tcicon": "es/SI305.png|es/SI047.png",
+            "title": "攻後轉暗4顆"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/875i.png"
+        },
+        {
+          "card": "1272",
+          "stage": "",
+          "damage": "2776",
+          "turn": "1",
+          "hp": "309280",
+          "def": "490",
+          "coin": "1202",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1272i.png"
+        },
+        {
+          "card": "1275",
+          "stage": "",
+          "damage": "6249",
+          "turn": "2",
+          "hp": "323100",
+          "def": "280",
+          "coin": "1202",
+          "lv": "15",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1275i.png"
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "3335",
+          "turn": "1(1)",
+          "hp": "482280",
+          "def": "3520",
+          "coin": "10478",
+          "lv": "1",
+          "es": "1245",
+          "note": "",
+          "esjson": {
+            "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
+            "title": "首消光傷害吸收"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/2328i.png"
+        },
+        {
+          "card": "1195",
+          "stage": "4",
+          "damage": "8886",
+          "turn": "1(1)",
+          "hp": "5187720",
+          "def": "3250",
+          "coin": "5123",
+          "es": "3509",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI103.png",
+            "tcicon": "es/SI224.png|es/SI103.png",
+            "title": "隱藏-轉 ‧ 5+Combo追擊盾"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/1195i.png"
+        },
+        {
+          "card": "6235",
+          "stage": "7",
+          "damage": "18113",
+          "turn": "2(2)",
+          "hp": "7969150",
+          "def": "37580",
+          "coin": "5963",
+          "es": "2413",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI015.png|es/SI260.png",
+            "tcicon": "es/SI224.png|es/SI015.png|es/SI260.png",
+            "title": "軌跡隱藏 ‧ 首消暗傷害吸收-反擊50%"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/6235i.png"
+        },
+        {
+          "card": "2326",
+          "stage": "8",
+          "damage": "13676",
+          "turn": "1(1)",
+          "hp": "10299620",
+          "def": "40110",
+          "coin": "6383",
+          "chest": "3000",
+          "soul": "3",
+          "craft": "1",
+          "lv": "1",
+          "es": "3700",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png|es/SI250.png|es/SI117.png",
+            "tcicon": "es/SI215.png|es/SI250.png|es/SI117.png",
+            "title": "黑白符石 ‧ 12擊盾 ‧ 首消暗追擊零化"
+          },
+          "jd": "",
+          "cardtcimg": "https://i.loli.net/2021/01/14/DA2z4qBanForxL7.png"
+        }
+      ]
+    },
+    {
+      "id": "2326",
+      "title": "一成不變的機械 精英級",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "50",
+        "battle": "8",
+        "exp": "6250"
+      },
+      "data": [
+        {
+          "card": "089",
+          "stage": "",
+          "damage": "2770",
+          "turn": "1",
+          "hp": "354112",
+          "def": "10",
+          "coin": "462",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/089i.png"
+        },
+        {
+          "card": "095",
+          "stage": "",
+          "damage": "2770",
+          "turn": "1",
+          "hp": "355177",
+          "def": "10",
+          "coin": "462",
+          "es": "12",
+          "note": "",
+          "esjson": {
+            "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
+            "title": "連擊"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/095i.png"
+        },
+        {
+          "card": "872",
+          "stage": "",
+          "damage": "4248",
+          "turn": "1",
+          "hp": "248630",
+          "def": "330",
+          "coin": "1502",
+          "es": "662",
+          "note": "",
+          "esjson": {
+            "img": "es/SI302.png|es/SI047.png",
+            "tcicon": "es/SI302.png|es/SI047.png",
+            "title": "攻後轉火4顆"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/872i.png"
+        },
+        {
+          "card": "875",
+          "stage": "",
+          "damage": "8379",
+          "turn": "2",
+          "hp": "409360",
+          "def": "380",
+          "coin": "1502",
+          "es": "1068",
+          "note": "",
+          "esjson": {
+            "img": "es/SI305.png|es/SI047.png",
+            "tcicon": "es/SI305.png|es/SI047.png",
+            "title": "攻後轉暗4顆"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/875i.png"
+        },
+        {
+          "card": "1272",
+          "stage": "",
+          "damage": "4144",
+          "turn": "1",
+          "hp": "463110",
+          "def": "490",
+          "coin": "1502",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1272i.png"
+        },
+        {
+          "card": "1275",
+          "stage": "",
+          "damage": "9328",
+          "turn": "2",
+          "hp": "483730",
+          "def": "280",
+          "coin": "1502",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/1275i.png"
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "4978",
+          "turn": "1(1)",
+          "hp": "719830",
+          "def": "3520",
+          "coin": "13088",
+          "es": "1245",
+          "note": "",
+          "esjson": {
+            "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
+            "title": "首消光傷害吸收"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/2328i.png"
+        },
+        {
+          "card": "2328",
+          "stage": "1{{掉落*銀}}",
+          "damage": "4978",
+          "turn": "1",
+          "hp": "719830",
+          "def": "3520",
+          "coin": "13088",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/2328i.png"
+        },
+        {
+          "card": "2328",
+          "stage": "",
+          "damage": "4978",
+          "turn": "1",
+          "hp": "719830",
+          "def": "3520",
+          "coin": "13088",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": "",
+          "cardtcimg": "static/zhs/2328i.png"
+        },
+        {
+          "card": "1195",
+          "stage": "4",
+          "damage": "13264",
+          "turn": "1(1)",
+          "hp": "7593620",
+          "def": "32520",
+          "coin": "6383",
+          "es": "3510",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI104.png",
+            "tcicon": "es/SI224.png|es/SI104.png",
+            "title": "隱藏-轉 ‧ 6+Combo追擊盾"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/1195i.png"
+        },
+        {
+          "card": "6235",
+          "stage": "7",
+          "damage": "27035",
+          "turn": "2(2)",
+          "hp": "11894260",
+          "def": "37580",
+          "coin": "7223",
+          "es": "2414",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png|es/SI015.png|es/SI260.png",
+            "tcicon": "es/SI224.png|es/SI015.png|es/SI260.png",
+            "title": "軌跡隱藏 ‧ 首消暗傷害吸收-反擊100%"
+          },
+          "jd": "",
+          "cardtcimg": "static/zhs/6235i.png"
+        },
+        {
+          "card": "2326",
+          "stage": "8{{掉落*白金}}",
+          "damage": "20412",
+          "turn": "1(1)",
+          "hp": "15372580",
+          "def": "40110",
+          "coin": "7643",
+          "lv": "1",
+          "es": "3701",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png|es/SI250.png|es/SI117.png",
+            "tcicon": "es/SI215.png|es/SI250.png|es/SI117.png",
+            "title": "黑白符石 ‧ 18擊盾 ‧ 首消暗追擊零化"
+          },
+          "jd": "",
+          "cardtcimg": "https://i.loli.net/2021/01/14/DA2z4qBanForxL7.png"
+        }
+      ]
+    }
+  ]
 }

@@ -3,5 +3,6 @@
   "title": "技能封鎖3回 ‧ 3顆風化6000 ‧ 首消水追擊零化",
   "effect": "3 回合內，<br>封鎖所有成員的主動技能。<br><br>每回合移動符石前，<br>隨機將 3 粒符石風化；<br>風化符石一經觸碰，<br>即時停止移動符石，<br>對召喚師造成 6,000 點傷害。<br><br>首批消除水屬性的連擊 (Combo) 會令全隊攻擊無效，消除的水屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。",
   "content": "技能封鎖,風化,連擊零化",
-  "icon": "es/SI122.png|es/SI221.png|es/SI113.png"
+  "icon": "es/SI122.png|es/SI221.png|es/SI113.png",
+  "tcicon": "es/SI122.png|es/SI221.png|es/SI113.png"
 }

@@ -3,5 +3,6 @@
   "title": "2倍士氣高昂-無限回復",
   "effect": "敵人以外敵方所有召喚獸：攻擊力及防禦力提升 2 倍，並在每回合回復 100% 生命力",
   "content": "士氣高昂,無限回復",
-  "icon": "es/SI188.png|es/SI212.png"
+  "icon": "es/SI188.png|es/SI212.png",
+  "tcicon": "es/SI188.png|es/SI212.png"
 }

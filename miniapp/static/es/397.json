@@ -3,5 +3,6 @@
   "title": "隨機轉水",
   "effect": "每回合敵人會將其中 1 種符石轉化為水符石",
   "content": "符石轉換",
-  "icon": "es/SI011.png"
+  "icon": "es/SI011.png",
+  "tcicon": "es/SI011.png"
 }

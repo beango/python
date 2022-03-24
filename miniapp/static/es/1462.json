@@ -3,5 +3,6 @@
   "title": "附加消除重置 ‧ 四角黏附 ‧ 扣血90%",
   "effect": "首回合敵人會消除召喚師所有附加效果，其技能 CD 將被重置。<br>敵人會黏附 4 個角落的位置，該位置的符石一經觸碰，即時停止移動符石。<br>每回合敵人發動攻擊時會扣除召喚師 90% 生命力 (無視所有減傷效果和意志技能)",
   "content": "附加消除重置,黏附,固定傷害",
-  "icon": "es/SI121.png|es/SI123.png|es/SI228.png|es/SI131.png"
+  "icon": "es/SI121.png|es/SI123.png|es/SI228.png|es/SI131.png",
+  "tcicon": "es/SI121.png|es/SI123.png|es/SI228.png|es/SI131.png"
 }

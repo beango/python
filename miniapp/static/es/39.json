@@ -3,5 +3,6 @@
   "title": "召喚小怪 ‧ 2秒轉珠",
   "effect": "移動符石時間會縮短至 2 秒，敵人會在 <br> CD 0 時召喚小怪，如果場上有小怪生存，CD 0 時會發動攻擊",
   "content": "召喚小怪,時間改變",
-  "icon": "es/SI164.png|es/SI165.png"
+  "icon": "es/SI164.png|es/SI165.png",
+  "tcicon": "es/SI164.png|es/SI165.png"
 }

@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "839",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "1535",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1535i.png"
         },
         {
           "card": "510",
@@ -61,9 +64,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI339.png|es/SI161.png",
+            "tcicon": "es/SI339.png|es/SI161.png",
             "title": "(7回光攻無效) ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/510i.png"
         },
         {
           "card": "1310",
@@ -77,9 +82,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI115.png|es/SI303.png|es/SI236.png",
+            "tcicon": "es/SI115.png|es/SI303.png|es/SI236.png",
             "title": "首消木追擊零化 ‧ 木電擊3顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1310i.png"
         }
       ]
     },
@@ -105,7 +112,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "111",
@@ -116,7 +124,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/111i.png"
         },
         {
           "card": "1528",
@@ -128,7 +137,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "849",
@@ -143,9 +153,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI303.png|es/SI047.png|es/SI115.png",
+            "tcicon": "es/SI165.png|es/SI303.png|es/SI047.png|es/SI115.png",
             "title": "2秒轉珠 ‧ 隨機轉木 ‧ 首消木追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/849i.png"
         }
       ]
     },
@@ -174,7 +186,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/071i.png"
         },
         {
           "card": "111",
@@ -185,7 +198,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/111i.png"
         },
         {
           "card": "1528",
@@ -197,7 +211,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1533",
@@ -209,7 +224,8 @@
           "chest": "8000",
           "note": "{{特性*離開*1}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1533i.png"
         }
       ]
     }

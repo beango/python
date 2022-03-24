@@ -1,5 +1,227 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2020/12/14",
+      "end": "2021/1/13",
+      "note": "",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
-  "stages": []
+  "stages": [
+    {
+      "id": "6435",
+      "title": "神魔之塔陪伴你",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {
+        "sta": "20",
+        "battle": "5",
+        "exp": "5000"
+      },
+      "data": [
+        {
+          "card": "426",
+          "stage": "1-2{{隨機*1}}",
+          "damage": "1000",
+          "turn": "1",
+          "hp": "100000",
+          "def": "100",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "427",
+          "stage": "",
+          "damage": "1000",
+          "turn": "1",
+          "hp": "100000",
+          "def": "100",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "428",
+          "stage": "",
+          "damage": "1000",
+          "turn": "1",
+          "hp": "100000",
+          "def": "100",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "398",
+          "stage": "",
+          "damage": "1000",
+          "turn": "1",
+          "hp": "100000",
+          "def": "100",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "291",
+          "stage": "",
+          "damage": "1000",
+          "turn": "1",
+          "hp": "100000",
+          "def": "100",
+          "coin": "500",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "256",
+          "stage": "3{{隨機*3}}",
+          "damage": "1500",
+          "turn": "2",
+          "hp": "200000",
+          "def": "600",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "257",
+          "stage": "",
+          "damage": "1500",
+          "turn": "2",
+          "hp": "200000",
+          "def": "600",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "258",
+          "stage": "",
+          "damage": "1500",
+          "turn": "2",
+          "hp": "200000",
+          "def": "600",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "259",
+          "stage": "",
+          "damage": "1500",
+          "turn": "2",
+          "hp": "200000",
+          "def": "600",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "260",
+          "stage": "",
+          "damage": "1500",
+          "turn": "2",
+          "hp": "200000",
+          "def": "600",
+          "coin": "400",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "263",
+          "stage": "4{{隨機*3}}",
+          "damage": "2500",
+          "turn": "3",
+          "hp": "300000",
+          "def": "1500",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "264",
+          "stage": "",
+          "damage": "2500",
+          "turn": "3",
+          "hp": "300000",
+          "def": "1500",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "269",
+          "stage": "",
+          "damage": "1700",
+          "turn": "2",
+          "hp": "300000",
+          "def": "1200",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "387",
+          "stage": "",
+          "damage": "1700",
+          "turn": "2",
+          "hp": "300000",
+          "def": "1200",
+          "coin": "600",
+          "lv": "1",
+          "note": "",
+          "esjson": null,
+          "jd": ""
+        },
+        {
+          "card": "6435",
+          "stage": "5",
+          "damage": "2300",
+          "turn": "1(1)",
+          "hp": "500000",
+          "def": "1500",
+          "coin": "25000",
+          "chest": "10000",
+          "es": "87",
+          "note": "",
+          "esjson": {
+            "img": "es/SI125.png",
+            "title": "技能回復"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
 }

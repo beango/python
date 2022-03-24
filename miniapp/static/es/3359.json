@@ -3,5 +3,6 @@
   "title": "攻前盾 ‧ 首攻火心引爆狂擊減傷 ‧ 無視減傷",
   "effect": "敵人無視任何攻擊傷害，直至敵人第 1 次攻擊。<br><br>首次受到敵人攻擊時，敵人會引爆所有心及火符石，以永久提升攻擊力及永久減少所受傷害。<br><br>無視所有減傷效果和意志技能",
   "content": "攻前盾,引爆,無視減傷",
-  "icon": "es/SI250.png|es/SI313.png|es/SI326.png|es/SI251.png"
+  "icon": "es/SI250.png|es/SI313.png|es/SI326.png|es/SI251.png",
+  "tcicon": "es/SI250.png|es/SI313.png|es/SI326.png|es/SI251.png"
 }

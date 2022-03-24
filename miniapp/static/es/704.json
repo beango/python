@@ -3,5 +3,6 @@
   "title": "附加消除重置",
   "effect": "首回合敵人會消除召喚師所有附加效果，其技能 CD 將被重置",
   "content": "附加消除重置",
-  "icon": "es/SI121.png|es/SI123.png"
+  "icon": "es/SI121.png|es/SI123.png",
+  "tcicon": "es/SI121.png|es/SI123.png"
 }

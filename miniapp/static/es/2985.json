@@ -3,5 +3,6 @@
   "title": "先攻-四連燃燒20% ‧ 燃燒位置轉火 ‧ 首消火傷害吸收-反擊50%",
   "effect": "首回合優先攻擊 1 次，受此攻擊後隨機燃燒 4 個相連位置，每觸碰被燃燒的位置，將扣除召喚師 20% 生命力。每回合將燃燒位置內的符石轉化為火符石。<br>首批消除火屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 50% 攻擊傷害",
   "content": "突擊,燃燒,符石轉換,傷害吸收",
-  "icon": "es/SI160.png|es/SI229.png|es/SI302.png|es/SI047.png|es/SI012.png|es/SI260.png"
+  "icon": "es/SI160.png|es/SI229.png|es/SI302.png|es/SI047.png|es/SI012.png|es/SI260.png",
+  "tcicon": "es/SI160.png|es/SI229.png|es/SI302.png|es/SI047.png|es/SI012.png|es/SI260.png"
 }

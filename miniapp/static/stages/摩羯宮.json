@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/27 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[射手宮]]」全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -24,7 +32,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -36,7 +45,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "835",
@@ -48,7 +58,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "835",
@@ -60,7 +71,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "376",
@@ -75,9 +87,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI036.png",
+            "tcicon": "es/SI036.png",
             "title": "單次5+心符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/376i.png"
         }
       ]
     },
@@ -105,9 +119,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI013.png",
+            "tcicon": "es/SI013.png",
             "title": "攻後木縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2112i.png"
         },
         {
           "card": "2112",
@@ -121,9 +137,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI254.png|es/SI221.png",
+            "tcicon": "es/SI158.png|es/SI254.png|es/SI221.png",
             "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2112i.png"
         },
         {
           "card": "2112",
@@ -138,9 +156,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI251.png",
+            "tcicon": "es/SI124.png|es/SI251.png",
             "title": "無法控制-無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2112i.png"
         }
       ]
     },
@@ -168,9 +188,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/374i.png"
         },
         {
           "card": "2112",
@@ -184,9 +206,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI303.png|es/SI221.png|es/SI047.png|es/SI254.png|es/SI188.png",
+            "tcicon": "es/SI303.png|es/SI221.png|es/SI047.png|es/SI254.png|es/SI188.png",
             "title": "攻後木風化3000縱橫輪轉 ‧ 強化盾 ‧ 血弱20%-狂擊固防5倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2112i.png"
         },
         {
           "card": "2112",
@@ -201,9 +225,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI303.png|es/SI181.png",
+            "tcicon": "es/SI303.png|es/SI181.png",
             "title": "木屬高級拼圖盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2112i.png"
         }
       ]
     }

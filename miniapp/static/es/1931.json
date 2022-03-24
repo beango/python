@@ -3,5 +3,6 @@
   "title": "2秒轉珠 ‧ 7+Combo追擊盾 ‧ 首消全水盾",
   "effect": "移動符石時間會縮短至 2 秒。<br>7 連擊 (Combo) 或以上才會對敵人造成攻擊傷害，否則敵人會按召喚師發動連擊 (Combo) 數目的多寡而作出相應次數的攻擊。<br>消除場上所有水符石才能對敵人造成攻擊傷害 (需消除水符石及只計算首批消除的符石)",
   "content": "改變移動符石時間,指定以上Combo追擊盾,全消符石盾",
-  "icon": "es/SI165.png|es/SI105.png|es/SI031.png"
+  "icon": "es/SI165.png|es/SI105.png|es/SI031.png",
+  "tcicon": "es/SI165.png|es/SI105.png|es/SI031.png"
 }

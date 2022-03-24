@@ -3,5 +3,6 @@
   "title": "天惠星矢-超級技能回復-[7回增攻2倍] ‧ 自殺",
   "effect": "敵人下回合會扣除自身生命力 100%，期間不受任何攻擊傷害及無視所有控制技能。<br>當隊伍中有「聖鬥士星矢」合作角色 (不包括「雅典娜 ‧ 城戶沙織」) 時：其主動技能 CD 變 0 及 EP 回滿；7 回合內，其攻擊力提升 2 倍",
   "content": "技能回復,攻擊力提升,自殘",
-  "icon": "es/SI125.png|es/SI157.png|es/SI161.png"
+  "icon": "es/SI125.png|es/SI157.png|es/SI161.png",
+  "tcicon": "es/SI125.png|es/SI157.png|es/SI161.png"
 }

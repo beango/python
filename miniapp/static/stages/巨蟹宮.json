@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/14 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[雙子宮]]」全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -23,7 +31,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -35,7 +44,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -47,7 +57,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -59,7 +70,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -71,7 +83,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "831",
@@ -82,7 +95,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -94,7 +108,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -106,7 +121,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -118,7 +134,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -130,7 +147,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "2117",
@@ -145,9 +163,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "六重軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         }
       ]
     },
@@ -173,7 +193,8 @@
           "coin": "11",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "550",
@@ -185,7 +206,8 @@
           "coin": "11",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/550i.png"
         },
         {
           "card": "1014",
@@ -199,9 +221,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1015",
@@ -215,9 +239,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI103.png",
+            "tcicon": "es/SI103.png",
             "title": "5+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1015i.png"
         },
         {
           "card": "1014",
@@ -231,9 +257,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "首殺盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "274",
@@ -246,7 +274,8 @@
           "chest": "2000",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/274i.png"
         },
         {
           "card": "2117",
@@ -261,9 +290,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI164.png|es/SI124.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI164.png|es/SI124.png",
             "title": "附加消除重置 ‧ 召喚小怪 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         },
         {
           "card": "274",
@@ -275,7 +306,8 @@
           "coin": "100",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/274i.png"
         }
       ]
     },
@@ -303,9 +335,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "雙體共生"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "585",
@@ -319,9 +353,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "雙體共生"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         },
         {
           "card": "2117",
@@ -335,9 +371,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI069.png|es/SI161.png",
+            "tcicon": "es/SI069.png|es/SI161.png",
             "title": "[7回人攻2倍] ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         },
         {
           "card": "2117",
@@ -352,9 +390,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI316.png|es/SI124.png",
+            "tcicon": "es/SI316.png|es/SI124.png",
             "title": "首回回結-暗引爆狂擊減傷 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         }
       ]
     },
@@ -381,9 +421,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI138.png",
+            "tcicon": "es/SI138.png",
             "title": "龍脈回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/824i.png"
         },
         {
           "card": "2117",
@@ -397,9 +439,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI237.png",
+            "tcicon": "es/SI237.png",
             "title": "3顆三層石化1000倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         },
         {
           "card": "2117",
@@ -414,9 +458,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         }
       ]
     },
@@ -442,7 +488,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -454,7 +501,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -466,7 +514,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -478,7 +527,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -490,7 +540,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "1867",
@@ -504,9 +555,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI236.png",
+            "tcicon": "es/SI236.png",
             "title": "電擊2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1867i.png"
         },
         {
           "card": "2128",
@@ -521,9 +574,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2128i.png"
         },
         {
           "card": "1389",
@@ -537,9 +592,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1389i.png"
         },
         {
           "card": "1389",
@@ -553,9 +610,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI020.png|es/SI305.png|es/SI047.png|es/SI117.png|es/SI124.png",
+            "tcicon": "es/SI020.png|es/SI305.png|es/SI047.png|es/SI117.png|es/SI124.png",
             "title": "敵轉暗-首回隨機轉暗 ‧ 首消暗追擊零化 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1389i.png"
         },
         {
           "card": "831",
@@ -567,7 +626,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -579,7 +639,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -591,7 +652,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -603,7 +665,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -615,7 +678,8 @@
           "coin": "308",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "1185",
@@ -629,9 +693,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI005.png|es/SI241.png",
+            "tcicon": "es/SI224.png|es/SI005.png|es/SI241.png",
             "title": "軌跡隱藏 ‧ 暗屬防禦95% ‧ 光暗盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1185i.png"
         },
         {
           "card": "2117",
@@ -645,9 +711,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI237.png",
+            "tcicon": "es/SI237.png",
             "title": "3顆三層石化1000倍"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         },
         {
           "card": "2117",
@@ -662,9 +730,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI005.png|es/SI316.png|es/SI124.png",
+            "tcicon": "es/SI005.png|es/SI316.png|es/SI124.png",
             "title": "暗攻無效 ‧ 首回回結-暗引爆狂擊減傷 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2117i.png"
         }
       ]
     }

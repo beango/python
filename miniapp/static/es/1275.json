@@ -3,5 +3,6 @@
   "title": "光屬技能封鎖 ‧ 強化盾-傷害吸收-反擊100% ‧ 3倍獵神",
   "effect": "首回合敵人會永久封鎖光屬性成員的主動技能。<br>隊伍中有神族成員時，敵人攻擊力提升。<br>敵人只會受到強化符石的攻擊害；若受到非強化符石的攻擊，敵人回復相等於該回合召喚師所造成傷害的血量，並反擊自身 100% 攻擊傷害{{Cal|剋制|{{{atk|}}}}}",
   "content": "技能封鎖,強化盾,種族針對(攻擊力)",
-  "icon": "es/SI122.png|es/SI254.png|es/SI260.png|es/SI067.png"
+  "icon": "es/SI122.png|es/SI254.png|es/SI260.png|es/SI067.png",
+  "tcicon": "es/SI122.png|es/SI254.png|es/SI260.png|es/SI067.png"
 }

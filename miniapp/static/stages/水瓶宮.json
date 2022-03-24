@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/27 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[摩羯宮]]」全部關卡後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -23,7 +31,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "837",
@@ -35,7 +44,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "835",
@@ -47,7 +57,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "833",
@@ -59,7 +70,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "2111",
@@ -73,9 +85,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         },
         {
           "card": "2111",
@@ -90,9 +104,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png",
+            "tcicon": "es/SI219.png",
             "title": "四重凍結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         }
       ]
     },
@@ -120,9 +136,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI219.png|es/SI124.png",
+            "tcicon": "es/SI160.png|es/SI219.png|es/SI124.png",
             "title": "突擊10% ‧ 攻後冰封2顆 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         },
         {
           "card": "2111",
@@ -136,9 +154,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png|es/SI250.png",
+            "tcicon": "es/SI165.png|es/SI250.png",
             "title": "2秒轉珠 ‧ 循環累積5+同屬符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         },
         {
           "card": "2111",
@@ -153,9 +173,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI118.png",
+            "tcicon": "es/SI118.png",
             "title": "首消心追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         }
       ]
     },
@@ -183,9 +205,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI138.png",
+            "tcicon": "es/SI138.png",
             "title": "龍脈回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/368i.png"
         },
         {
           "card": "2111",
@@ -199,9 +223,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI104.png",
+            "tcicon": "es/SI104.png",
             "title": "6+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         },
         {
           "card": "2111",
@@ -216,9 +242,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI219.png|es/SI132.png|es/SI124.png",
+            "tcicon": "es/SI159.png|es/SI219.png|es/SI132.png|es/SI124.png",
             "title": "CD1 ‧ 首回冰封圍城 ‧ 扣血100% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2111i.png"
         }
       ]
     }

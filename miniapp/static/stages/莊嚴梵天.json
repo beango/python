@@ -33,7 +33,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/073i.png"
         },
         {
           "card": "083",
@@ -46,7 +47,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/083i.png"
         },
         {
           "card": "093",
@@ -59,7 +61,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/093i.png"
         },
         {
           "card": "1152",
@@ -72,7 +75,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1152i.png"
         },
         {
           "card": "1504",
@@ -85,7 +89,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1504i.png"
         },
         {
           "card": "1517",
@@ -98,7 +103,8 @@
           "item": "114",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1517i.png"
         }
       ]
     },
@@ -125,7 +131,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/073i.png"
         },
         {
           "card": "083",
@@ -138,7 +145,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/083i.png"
         },
         {
           "card": "093",
@@ -151,7 +159,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/093i.png"
         },
         {
           "card": "1152",
@@ -164,7 +173,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1152i.png"
         },
         {
           "card": "1504",
@@ -177,7 +187,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1504i.png"
         },
         {
           "card": "1517",
@@ -192,9 +203,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI047.png|es/SI165.png",
+            "tcicon": "es/SI304.png|es/SI047.png|es/SI165.png",
             "title": "隨機轉光 ‧ 消光減時0.2-1秒"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1517i.png"
         }
       ]
     },
@@ -221,7 +234,8 @@
           "lv": "5",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/073i.png"
         },
         {
           "card": "083",
@@ -236,9 +250,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/083i.png"
         },
         {
           "card": "093",
@@ -253,9 +269,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/093i.png"
         },
         {
           "card": "1152",
@@ -270,9 +288,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI047.png",
+            "tcicon": "es/SI304.png|es/SI047.png",
             "title": "攻後轉光4顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1152i.png"
         },
         {
           "card": "1504",
@@ -287,9 +307,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png",
+            "tcicon": "es/SI160.png",
             "title": "先攻"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1504i.png"
         },
         {
           "card": "797",
@@ -303,9 +325,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI216.png",
+            "tcicon": "es/SI216.png",
             "title": "復活變強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/797i.png"
         },
         {
           "card": "1319",
@@ -319,9 +343,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI236.png",
+            "tcicon": "es/SI304.png|es/SI236.png",
             "title": "光電擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1319i.png"
         },
         {
           "card": "1517",
@@ -336,9 +362,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI254.png|es/SI221.png",
+            "tcicon": "es/SI158.png|es/SI254.png|es/SI221.png",
             "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1517i.png"
         }
       ]
     },

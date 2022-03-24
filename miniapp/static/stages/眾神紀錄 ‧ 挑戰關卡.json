@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI096.png",
+            "tcicon": "es/SI121.png|es/SI096.png",
             "title": "技能重置 ‧ 首消6Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/463i.png"
         },
         {
           "card": "628",
@@ -42,9 +44,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI048.png",
+            "tcicon": "es/SI048.png",
             "title": "首消隨機16~25符石追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/628i.png"
         },
         {
           "card": "556",
@@ -57,9 +61,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI145.png|es/SI183.png",
+            "tcicon": "es/SI145.png|es/SI183.png",
             "title": "首消木傷害吸收-反擊100% ‧ 木起手始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/556i.png"
         },
         {
           "card": "1975",
@@ -72,9 +78,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI132.png|es/SI124.png",
+            "tcicon": "es/SI158.png|es/SI132.png|es/SI124.png",
             "title": "弱化鎖定圍城20% ‧ 扣血100% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1975i.png"
         },
         {
           "card": "1993",
@@ -88,9 +96,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI106.png",
+            "tcicon": "es/SI224.png|es/SI106.png",
             "title": "軌跡隱藏 ‧ 8+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1993i.png"
         }
       ]
     }

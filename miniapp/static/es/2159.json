@@ -3,5 +3,6 @@
   "title": "附加消除重置 ‧ 黑白符石",
   "effect": "首回合敵人會消除召喚師所有附加效果，其技能 CD 將被重置。<br>將所有符石變為黑白色",
   "content": "附加消除重置,黑白符石",
-  "icon": "es/SI121.png|es/SI123.png|es/SI215.png"
+  "icon": "es/SI121.png|es/SI123.png|es/SI215.png",
+  "tcicon": "es/SI121.png|es/SI123.png|es/SI215.png"
 }

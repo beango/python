@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "能力繼承"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/315i.png"
         },
         {
           "card": "315",
@@ -44,9 +46,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI163.png",
+            "tcicon": "es/SI163.png",
             "title": "能力繼承"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/315i.png"
         },
         {
           "card": "316",
@@ -61,9 +65,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI260.png",
+            "tcicon": "es/SI254.png|es/SI260.png",
             "title": "強化盾-反擊100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/316i.png"
         },
         {
           "card": "2309",
@@ -78,9 +84,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI146.png|es/SI165.png|es/SI047.png",
+            "tcicon": "es/SI146.png|es/SI165.png|es/SI047.png",
             "title": "首消光傷害吸收-反擊100% ‧ 2秒轉珠 ‧ 雙下角轉光"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2309i.png"
         }
       ]
     },
@@ -109,9 +117,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉直火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/179i.png"
         },
         {
           "card": "179",
@@ -126,9 +136,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉直火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/179i.png"
         },
         {
           "card": "179",
@@ -143,9 +155,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉直火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/179i.png"
         },
         {
           "card": "547",
@@ -160,9 +174,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI095.png|es/SI188.png",
+            "tcicon": "es/SI095.png|es/SI188.png",
             "title": "首消5Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/547i.png"
         },
         {
           "card": "547",
@@ -177,9 +193,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI095.png|es/SI188.png",
+            "tcicon": "es/SI095.png|es/SI188.png",
             "title": "首消5Combo盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/547i.png"
         }
       ]
     },
@@ -206,7 +224,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "109",
@@ -219,7 +238,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/109i.png"
         },
         {
           "card": "111",
@@ -232,7 +252,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/111i.png"
         },
         {
           "card": "332",
@@ -245,7 +266,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/332i.png"
         },
         {
           "card": "333",
@@ -258,7 +280,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/333i.png"
         },
         {
           "card": "1869",
@@ -273,9 +296,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1869i.png"
         }
       ]
     },
@@ -304,9 +329,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-1"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1114i.png"
         },
         {
           "card": "1114",
@@ -321,9 +348,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-6"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1114i.png"
         },
         {
           "card": "1317",
@@ -338,9 +367,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI017.png|es/SI250.png|es/SI188.png|es/SI124.png",
+            "tcicon": "es/SI017.png|es/SI250.png|es/SI188.png|es/SI124.png",
             "title": "敵轉火 ‧ 循環累積15+相剋符石盾 ‧ 越攻越強 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1317i.png"
         },
         {
           "card": "1868",
@@ -355,9 +386,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI073.png|es/SI302.png|es/SI047.png|es/SI229.png",
+            "tcicon": "es/SI073.png|es/SI302.png|es/SI047.png|es/SI229.png",
             "title": "神外防禦90% ‧ 首回隨機轉火 ‧ 攻後火橫縱輪轉 ‧ 軌跡燃燒2000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1868i.png"
         },
         {
           "card": "1868",
@@ -372,9 +405,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI001.png|es/SI095.png|es/SI216.png",
+            "tcicon": "es/SI001.png|es/SI095.png|es/SI216.png",
             "title": "水攻盾 ‧ 首消5Combo盾 ‧ 反擊10000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1868i.png"
         }
       ]
     },
@@ -402,9 +437,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png|es/SI183.png|es/SI263.png",
+            "tcicon": "es/SI110.png|es/SI183.png|es/SI263.png",
             "title": "隨機3~6Combo追擊盾 ‧ 始終盾 ‧ 消Combo盾25%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2306i.png"
         },
         {
           "card": "2306",
@@ -418,9 +455,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI006.png|es/SI161.png",
+            "tcicon": "es/SI006.png|es/SI161.png",
             "title": "[7回水攻2倍] ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2306i.png"
         },
         {
           "card": "2312",
@@ -434,9 +473,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI229.png|es/SI301.png|es/SI181.png",
+            "tcicon": "es/SI188.png|es/SI229.png|es/SI301.png|es/SI181.png",
             "title": "越攻越強 ‧ 軌跡燃燒5000 ‧ 水初級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2312i.png"
         },
         {
           "card": "1868",
@@ -450,9 +491,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI012.png|es/SI229.png|es/SI251.png",
+            "tcicon": "es/SI250.png|es/SI012.png|es/SI229.png|es/SI251.png",
             "title": "100%減傷盾-越攻越弱 ‧ 首消火傷害吸收 ‧ 雙重燃燒20% ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1868i.png"
         },
         {
           "card": "1868",
@@ -466,9 +509,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI001.png|es/SI096.png|es/SI216.png",
+            "tcicon": "es/SI001.png|es/SI096.png|es/SI216.png",
             "title": "水攻盾 ‧ 首消6Combo盾 ‧ 垂死反擊10000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1868i.png"
         },
         {
           "card": "2311",
@@ -482,9 +527,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png|es/SI301.png|es/SI219.png|es/SI031.png",
+            "tcicon": "es/SI135.png|es/SI301.png|es/SI219.png|es/SI031.png",
             "title": "中毒70% ‧ 首回全水冰封 ‧ 首消全水盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2311i.png"
         },
         {
           "card": "2309",
@@ -498,9 +545,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI146.png|es/SI165.png|es/SI047.png",
+            "tcicon": "es/SI146.png|es/SI165.png|es/SI047.png",
             "title": "首消光傷害吸收-反擊200% ‧ 2秒轉珠 ‧ 四角轉光"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2309i.png"
         },
         {
           "card": "2309",
@@ -514,9 +563,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
+            "tcicon": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
             "title": "CD3 ‧ 刷新符石-左右直行電擊 ‧ 4秒轉珠 ‧ 扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2309i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "技能重置 ‧ 雙重燃燒20%",
   "effect": "首回合所有成員的主動技能 CD 及累積戰鬥回合數重置。<br>隨機燃燒 2 個位置，每觸碰被燃燒的位置，將扣除召喚師 20% 生命力",
   "content": "技能重置,燃燒",
-  "icon": "es/SI121.png|es/SI229.png"
+  "icon": "es/SI121.png|es/SI229.png",
+  "tcicon": "es/SI121.png|es/SI229.png"
 }

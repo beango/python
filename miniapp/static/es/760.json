@@ -3,5 +3,6 @@
   "title": "(2回回復力變0)-結",
   "effect": "敵人死亡後，2 回合內召喚師的回復力變 0",
   "content": "回復力減弱",
-  "icon": "es/SI156.png"
+  "icon": "es/SI156.png",
+  "tcicon": "es/SI156.png"
 }

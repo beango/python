@@ -3,5 +3,6 @@
   "title": "龍脈回復",
   "effect": "首回合敵人會將龍脈儀存滿",
   "content": "龍脈回復",
-  "icon": "es/SI138.png"
+  "icon": "es/SI138.png",
+  "tcicon": "es/SI138.png"
 }

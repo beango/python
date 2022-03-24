@@ -22,7 +22,8 @@
           "coin": "11",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/649i.png"
         },
         {
           "card": "649",
@@ -32,7 +33,8 @@
           "coin": "11",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/649i.png"
         },
         {
           "card": "649",
@@ -42,7 +44,8 @@
           "coin": "11",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/649i.png"
         },
         {
           "card": "1749",
@@ -56,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI105.png",
+            "tcicon": "es/SI105.png",
             "title": "7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1749i.png"
         },
         {
           "card": "1749",
@@ -71,9 +76,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI105.png",
+            "tcicon": "es/SI105.png",
             "title": "7+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1749i.png"
         },
         {
           "card": "1752",
@@ -87,9 +94,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "命懸一線 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1752i.png"
         }
       ]
     },
@@ -116,9 +125,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI236.png",
+            "tcicon": "es/SI160.png|es/SI236.png",
             "title": "突擊65% ‧ 攻後電擊2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         },
         {
           "card": "1370",
@@ -131,9 +142,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI305.png|es/SI236.png|es/SI117.png",
+            "tcicon": "es/SI305.png|es/SI236.png|es/SI117.png",
             "title": "首回全暗電擊 ‧ 首消暗追擊零化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         },
         {
           "card": "1367",
@@ -146,9 +159,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png|es/SI229.png|es/SI124.png",
+            "tcicon": "es/SI012.png|es/SI229.png|es/SI124.png",
             "title": "首消火傷害吸收-雙重燃燒10% ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1367i.png"
         },
         {
           "card": "1367",
@@ -162,9 +177,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI229.png|es/SI188.png",
+            "tcicon": "es/SI123.png|es/SI229.png|es/SI188.png",
             "title": "附加消除 ‧ 三重擴散燃燒10% ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1367i.png"
         }
       ]
     },
@@ -195,9 +212,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI008.png|es/SI161.png",
+            "tcicon": "es/SI008.png|es/SI161.png",
             "title": "[7回木攻2倍] ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1368i.png"
         },
         {
           "card": "1750",
@@ -210,9 +229,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI274.png",
+            "tcicon": "es/SI160.png|es/SI274.png",
             "title": "突擊10%-(98回致命步伐500)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1750i.png"
         },
         {
           "card": "1750",
@@ -226,9 +247,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI122.png",
+            "tcicon": "es/SI188.png|es/SI122.png",
             "title": "重覆隊員禁錮 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1750i.png"
         }
       ]
     }

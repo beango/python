@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/ICON119.png",
+            "tcicon": "es/ICON119.png",
             "title": "越戰越強-銅"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1746i.png"
         },
         {
           "card": "1750",
@@ -44,9 +46,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI274.png",
+            "tcicon": "es/SI160.png|es/SI274.png",
             "title": "突擊10%-(3回致命步伐1000)"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1750i.png"
         },
         {
           "card": "1747",
@@ -61,9 +65,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "隨機縱向燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1747i.png"
         }
       ]
     },
@@ -90,9 +96,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "自殘20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         },
         {
           "card": "1370",
@@ -105,9 +113,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI304.png|es/SI236.png|es/SI167.png",
+            "tcicon": "es/SI304.png|es/SI236.png|es/SI167.png",
             "title": "首回全光電擊 ‧ 連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1370i.png"
         },
         {
           "card": "1369",
@@ -120,9 +130,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI161.png",
+            "tcicon": "es/SI161.png",
             "title": "自殘20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         },
         {
           "card": "1369",
@@ -136,9 +148,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI169.png|es/SI221.png|es/SI254.png",
+            "tcicon": "es/SI169.png|es/SI221.png|es/SI254.png",
             "title": "(5回攻擊無效) ‧ 攻後側行風化15000 ‧ 強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         }
       ]
     },
@@ -167,9 +181,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1369i.png"
         },
         {
           "card": "1367",
@@ -183,9 +199,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI214.png|es/SI161.png",
+            "tcicon": "es/SI214.png|es/SI161.png",
             "title": "生命回復 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1367i.png"
         }
       ]
     }

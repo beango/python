@@ -23,7 +23,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/064i.png"
         },
         {
           "card": "084",
@@ -34,7 +35,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/084i.png"
         },
         {
           "card": "074",
@@ -45,7 +47,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/074i.png"
         },
         {
           "card": "094",
@@ -56,7 +59,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/094i.png"
         },
         {
           "card": "327",
@@ -68,7 +72,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/327i.png"
         },
         {
           "card": "383",
@@ -80,7 +85,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/383i.png"
         },
         {
           "card": "384",
@@ -92,7 +98,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/384i.png"
         },
         {
           "card": "407",
@@ -103,7 +110,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/407i.png"
         },
         {
           "card": "328",
@@ -116,7 +124,8 @@
           "item": "4",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         }
       ]
     },
@@ -141,7 +150,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/065i.png"
         },
         {
           "card": "075",
@@ -152,7 +162,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "085",
@@ -163,7 +174,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "095",
@@ -174,7 +186,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "327",
@@ -186,7 +199,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/327i.png"
         },
         {
           "card": "383",
@@ -198,7 +212,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/383i.png"
         },
         {
           "card": "384",
@@ -210,7 +225,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/384i.png"
         },
         {
           "card": "407",
@@ -223,7 +239,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/407i.png"
         },
         {
           "card": "328",
@@ -236,7 +253,8 @@
           "item": "4",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         }
       ]
     },
@@ -264,9 +282,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/065i.png"
         },
         {
           "card": "075",
@@ -277,7 +297,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "095",
@@ -288,7 +309,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "085",
@@ -299,7 +321,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "328",
@@ -312,7 +335,8 @@
           "drop": "327",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "338",
@@ -324,7 +348,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/338i.png"
         },
         {
           "card": "383",
@@ -336,7 +361,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/383i.png"
         },
         {
           "card": "384",
@@ -348,7 +374,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/384i.png"
         },
         {
           "card": "407",
@@ -361,9 +388,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png",
+            "tcicon": "es/SI135.png",
             "title": "中毒7.5%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/407i.png"
         },
         {
           "card": "317",
@@ -375,7 +404,8 @@
           "coin": "20",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/317i.png"
         },
         {
           "card": "175",
@@ -386,7 +416,8 @@
           "coin": "19",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/175i.png"
         },
         {
           "card": "175",
@@ -397,7 +428,8 @@
           "coin": "19",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/175i.png"
         },
         {
           "card": "361",
@@ -412,9 +444,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png",
+            "tcicon": "es/SI135.png",
             "title": "中毒20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/361i.png"
         }
       ]
     },
@@ -440,9 +474,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/057i.png"
         },
         {
           "card": "065",
@@ -454,9 +490,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/065i.png"
         },
         {
           "card": "067",
@@ -466,7 +504,8 @@
           "coin": "501",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/067i.png"
         },
         {
           "card": "075",
@@ -476,7 +515,8 @@
           "coin": "501",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/075i.png"
         },
         {
           "card": "077",
@@ -486,7 +526,8 @@
           "coin": "433",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/077i.png"
         },
         {
           "card": "085",
@@ -496,7 +537,8 @@
           "coin": "433",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/085i.png"
         },
         {
           "card": "087",
@@ -508,9 +550,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/087i.png"
         },
         {
           "card": "095",
@@ -522,9 +566,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI167.png",
+            "tcicon": "es/SI167.png",
             "title": "連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/095i.png"
         },
         {
           "card": "107",
@@ -536,9 +582,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/107i.png"
         },
         {
           "card": "115",
@@ -550,9 +598,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png",
+            "tcicon": "es/SI254.png",
             "title": "強化盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/115i.png"
         },
         {
           "card": "320",
@@ -566,9 +616,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI102.png",
+            "tcicon": "es/SI102.png",
             "title": "4+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/320i.png"
         },
         {
           "card": "328",
@@ -582,9 +634,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI102.png",
+            "tcicon": "es/SI102.png",
             "title": "4+Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "334",
@@ -594,7 +648,8 @@
           "coin": "85",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/334i.png"
         },
         {
           "card": "338",
@@ -604,7 +659,8 @@
           "coin": "85",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/338i.png"
         },
         {
           "card": "403",
@@ -616,9 +672,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "剋屬外防禦50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/403i.png"
         },
         {
           "card": "407",
@@ -630,9 +688,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png",
+            "tcicon": "es/SI135.png",
             "title": "中毒7.5%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/407i.png"
         },
         {
           "card": "274",
@@ -643,7 +703,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/274i.png"
         },
         {
           "card": "274",
@@ -654,7 +715,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/274i.png"
         },
         {
           "card": "274",
@@ -665,7 +727,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/274i.png"
         },
         {
           "card": "128",
@@ -675,7 +738,8 @@
           "coin": "9",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/128i.png"
         },
         {
           "card": "128",
@@ -687,9 +751,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png",
+            "tcicon": "es/SI135.png",
             "title": "中毒7.5%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/128i.png"
         },
         {
           "card": "128",
@@ -699,7 +765,8 @@
           "coin": "9",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/128i.png"
         },
         {
           "card": "327",
@@ -711,7 +778,8 @@
           "lv": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/327i.png"
         },
         {
           "card": "327",
@@ -723,7 +791,8 @@
           "lv": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/327i.png"
         },
         {
           "card": "178",
@@ -735,9 +804,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png",
+            "tcicon": "es/SI135.png",
             "title": "中毒20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/178i.png"
         },
         {
           "card": "327",
@@ -749,7 +820,8 @@
           "lv": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/327i.png"
         },
         {
           "card": "327",
@@ -761,7 +833,8 @@
           "lv": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/327i.png"
         },
         {
           "card": "327",
@@ -773,7 +846,8 @@
           "lv": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/327i.png"
         },
         {
           "card": "284",
@@ -784,7 +858,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/284i.png"
         },
         {
           "card": "130",
@@ -796,9 +871,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png",
+            "tcicon": "es/SI135.png",
             "title": "中毒30%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/130i.png"
         },
         {
           "card": "328",
@@ -810,7 +887,8 @@
           "drop": "327",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "328",
@@ -822,7 +900,8 @@
           "drop": "327",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "328",
@@ -834,7 +913,8 @@
           "drop": "327",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "339",
@@ -847,9 +927,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "攻前盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/339i.png"
         },
         {
           "card": "343",
@@ -862,9 +944,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "攻前盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/343i.png"
         },
         {
           "card": "147",
@@ -874,7 +958,8 @@
           "coin": "8",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/147i.png"
         },
         {
           "card": "147",
@@ -884,7 +969,8 @@
           "coin": "8",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/147i.png"
         },
         {
           "card": "318",
@@ -896,9 +982,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png",
+            "tcicon": "es/SI122.png",
             "title": "3~6回技能封鎖"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/318i.png"
         },
         {
           "card": "362",
@@ -912,9 +1000,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png",
+            "tcicon": "es/SI135.png",
             "title": "中毒50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/362i.png"
         }
       ]
     },
@@ -942,9 +1032,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI005.png",
+            "tcicon": "es/SI005.png",
             "title": "暗外防禦90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "328",
@@ -958,9 +1050,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI005.png",
+            "tcicon": "es/SI005.png",
             "title": "暗外防禦90%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/328i.png"
         },
         {
           "card": "1065",
@@ -974,9 +1068,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI341.png",
+            "tcicon": "es/SI341.png",
             "title": "心弱化鎖定20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1065i.png"
         },
         {
           "card": "1265",
@@ -990,9 +1086,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI257.png",
+            "tcicon": "es/SI257.png",
             "title": "10%盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1265i.png"
         },
         {
           "card": "1265",
@@ -1006,9 +1104,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI260.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI260.png",
             "title": "附加消除重置 ‧ 反彈15%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1265i.png"
         },
         {
           "card": "279",
@@ -1020,7 +1120,8 @@
           "coin": "200",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/279i.png"
         },
         {
           "card": "1155",
@@ -1034,9 +1135,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI164.png|es/SI165.png",
+            "tcicon": "es/SI164.png|es/SI165.png",
             "title": "召喚小怪 ‧ 2秒轉珠"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1155i.png"
         },
         {
           "card": "279",
@@ -1048,7 +1151,8 @@
           "coin": "200",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/279i.png"
         },
         {
           "card": "1185",
@@ -1062,9 +1166,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI122.png",
+            "tcicon": "es/SI250.png|es/SI122.png",
             "title": "隱身-隱攻封鎖4回"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1185i.png"
         },
         {
           "card": "819",
@@ -1078,9 +1184,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI020.png|es/SI161.png|es/SI047.png|es/SI188.png",
+            "tcicon": "es/SI020.png|es/SI161.png|es/SI047.png|es/SI188.png",
             "title": "敵轉暗 ‧ 命懸一線 ‧ 連擊-血弱追擊 ‧ 輕攻-火暗輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/819i.png"
         },
         {
           "card": "819",
@@ -1094,9 +1202,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI227.png|es/SI229.png",
+            "tcicon": "es/SI160.png|es/SI227.png|es/SI229.png",
             "title": "突擊65% ‧ 迷惑符石 ‧ 雙重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/819i.png"
         }
       ]
     }

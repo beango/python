@@ -3,5 +3,6 @@
   "title": "能力繼承 ‧ 軌跡燃燒2000",
   "effect": "只要場上 1 個敵人生存，<br>它會即時完全回復<br>自身生命力，<br>並吸收死去同伴的能力。<br><br>燃燒移動符石時觸碰的位置，<br>每觸碰被燃燒的位置，<br>對召喚師造成 2000 點傷害。",
   "content": "能力繼承,燃燒",
-  "icon": "es/SI163.png|es/SI229.png"
+  "icon": "es/SI163.png|es/SI229.png",
+  "tcicon": "es/SI163.png|es/SI229.png"
 }

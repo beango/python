@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png",
+            "tcicon": "es/SI160.png|es/SI229.png",
             "title": "突擊65% ‧ 攻後雙重燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/582i.png"
         },
         {
           "card": "583",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png",
+            "tcicon": "es/SI250.png",
             "title": "攻前盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/583i.png"
         },
         {
           "card": "1104",
@@ -56,9 +60,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI124.png|es/SI251.png|es/SI261.png|es/SI167.png",
+            "tcicon": "es/SI124.png|es/SI251.png|es/SI261.png|es/SI167.png",
             "title": "無法控制-無視減傷 ‧ 不倒意志60%-完全回復-狂怒2倍-連擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1104i.png"
         },
         {
           "card": "1100",
@@ -71,9 +77,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI233.png|es/SI161.png|es/SI183.png",
+            "tcicon": "es/SI233.png|es/SI161.png|es/SI183.png",
             "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1100i.png"
         },
         {
           "card": "1100",
@@ -87,9 +95,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png|es/SI260.png",
+            "tcicon": "es/SI121.png|es/SI123.png|es/SI260.png",
             "title": "附加消除重置 ‧ 反彈15%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1100i.png"
         }
       ]
     },
@@ -116,9 +126,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI087.png",
+            "tcicon": "es/SI087.png",
             "title": "首消7Combo盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/581i.png"
         },
         {
           "card": "585",
@@ -131,9 +143,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "六重軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/585i.png"
         },
         {
           "card": "1014",
@@ -144,7 +158,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "1415",
@@ -157,9 +172,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "？形隱藏 ‧ 15%隱藏5顆符石"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1415i.png"
         },
         {
           "card": "1014",
@@ -170,7 +187,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1014i.png"
         },
         {
           "card": "339",
@@ -183,9 +201,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI123.png",
+            "tcicon": "es/SI121.png|es/SI123.png",
             "title": "附加消除重置"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/339i.png"
         },
         {
           "card": "343",
@@ -198,9 +218,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI236.png",
+            "tcicon": "es/SI236.png",
             "title": "電擊2顆"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/343i.png"
         },
         {
           "card": "1562",
@@ -214,9 +236,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI254.png|es/SI260.png|es/SI067.png",
+            "tcicon": "es/SI122.png|es/SI254.png|es/SI260.png|es/SI067.png",
             "title": "光屬技能封鎖 ‧ 強化盾-傷害吸收-反擊100% ‧ 3倍獵神"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1562i.png"
         }
       ]
     },
@@ -245,9 +269,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI338.png",
+            "tcicon": "es/SI160.png|es/SI338.png",
             "title": "先攻 ‧ 疊加攻擊-木弱化鎖定20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1106i.png"
         },
         {
           "card": "1102",
@@ -260,9 +286,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI219.png|es/SI229.png",
+            "tcicon": "es/SI250.png|es/SI219.png|es/SI229.png",
             "title": "攻前盾 ‧ 首回凍結15顆 ‧ 攻後冰火轉化20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1102i.png"
         },
         {
           "card": "1110",
@@ -275,9 +303,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI158.png|es/SI254.png|es/SI221.png",
+            "tcicon": "es/SI158.png|es/SI254.png|es/SI221.png",
             "title": "(4回減攻80%) ‧ 強化盾 ‧ 攻後兩側風化3000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1110i.png"
         },
         {
           "card": "1562",
@@ -290,9 +320,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI067.png|es/SI122.png",
+            "tcicon": "es/SI123.png|es/SI067.png|es/SI122.png",
             "title": "附加消除 ‧ 3倍獵神-禁錮"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1562i.png"
         },
         {
           "card": "1562",
@@ -306,9 +338,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI224.png|es/SI106.png",
+            "tcicon": "es/SI160.png|es/SI224.png|es/SI106.png",
             "title": "突擊60% ‧ 攻後隱藏12顆 ‧ 8+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1562i.png"
         }
       ]
     }

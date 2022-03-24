@@ -3,5 +3,6 @@
   "title": "火屬技能回復",
   "effect": "首回合敵人會將火屬性成員的主動技能 CD 變 0",
   "content": "技能回復",
-  "icon": "es/SI125.png"
+  "icon": "es/SI125.png",
+  "tcicon": "es/SI125.png"
 }

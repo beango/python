@@ -3,5 +3,6 @@
   "title": "首殺盾 ‧ 1顆風化15000 ‧ 無法控制",
   "effect": "召喚師必需先擊斃此敵人，才可以對其他敵人造成傷害。<br><br>每回合移動符石前，隨機將 <font color=yellow>1 粒符石風化</font>，風化符石一經觸碰，即時停止移動符石，並對召喚師造成 <font color=yellow>15000 點</font>傷害。<br><br>無視所有控制技能",
   "content": "首殺盾,風化符石,無法控制",
-  "icon": "es/SI250.png|es/SI221.png|es/SI124.png"
+  "icon": "es/SI250.png|es/SI221.png|es/SI124.png",
+  "tcicon": "es/SI250.png|es/SI221.png|es/SI124.png"
 }

@@ -3,5 +3,6 @@
   "title": "突擊25% ‧ 攻後轉直水 ‧ 首消水追擊零化 ‧ 2秒轉珠",
   "effect": "首回合優先突擊 1 次。每次受到敵人攻擊時，隨機將 1 直行的符石轉化為水符石。<br>移動符石時間會縮短至 2 秒。<br>消除水屬性的連擊 (Combo) 會令全隊攻擊無效，消除的水屬性連擊 (Combo) 愈多，敵人的連擊次數愈多。連擊 (Combo) 只計算首批消除的符石",
   "content": "突擊傷害,符石轉換,首消符石追擊零化,移動符石時間改變",
-  "icon": "es/SI160.png|es/SI011.png|es/SI113.png|es/SI165.png"
+  "icon": "es/SI160.png|es/SI011.png|es/SI113.png|es/SI165.png",
+  "tcicon": "es/SI160.png|es/SI011.png|es/SI113.png|es/SI165.png"
 }

@@ -3,5 +3,6 @@
   "title": "越戰越強-白金",
   "effect": "敵人生命力愈低時，攻擊力及防禦力會大幅提升{{Cal|越戰越強|白金|{{{atk|}}}|{{{def|}}}}}",
   "content": "越戰越強",
-  "icon": "es/SI188.png"
+  "icon": "es/SI188.png",
+  "tcicon": "es/SI188.png"
 }

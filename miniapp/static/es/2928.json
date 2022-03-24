@@ -3,5 +3,6 @@
   "title": "火攻盾 ‧ 2秒轉珠 ‧ 火強化初級拼圖盾-限",
   "effect": "只有火屬性的攻擊才會對敵人造成攻擊傷害。<br>移動符石時間會縮短至 2 秒。<br>需以指定的形狀消除相應數量的火強化符石 (不可連同形狀外旁邊的符石消除) 才會對敵人造成攻擊傷害",
   "content": "屬性攻勢盾,時間改變,拼圖盾",
-  "icon": "es/SI002.png|es/SI165.png|es/SI022.png|es/SI181.png"
+  "icon": "es/SI002.png|es/SI165.png|es/SI022.png|es/SI181.png",
+  "tcicon": "es/SI002.png|es/SI165.png|es/SI022.png|es/SI181.png"
 }

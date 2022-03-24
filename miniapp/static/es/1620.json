@@ -3,5 +3,6 @@
   "title": "附加消除-技能封鎖1回 ‧ 攻前盾 ‧ 初怒",
   "effect": "首回合敵人會消除召喚師所有附加效果，並封鎖所有成員的主動技能 1 回合。<br>敵人無視任何攻擊傷害，直至敵人第 1 次攻擊。當敵人首次發動攻擊時，攻擊力會大幅提升{{Cal|首攻狂暴|{{{atk|}}}}}",
   "content": "附加消除,技能封鎖,攻前盾,初怒",
-  "icon": "es/SI123.png|es/SI122.png|es/SI250.png|es/SI188.png"
+  "icon": "es/SI123.png|es/SI122.png|es/SI250.png|es/SI188.png",
+  "tcicon": "es/SI123.png|es/SI122.png|es/SI250.png|es/SI188.png"
 }

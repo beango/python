@@ -25,7 +25,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -38,7 +39,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -51,7 +53,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -64,7 +67,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -77,7 +81,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "1593",
@@ -92,9 +97,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI211.png",
+            "tcicon": "es/SI211.png",
             "title": "五次受攻盾50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         }
       ]
     },
@@ -122,9 +129,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水縱橫輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/256i.png"
         },
         {
           "card": "256",
@@ -138,9 +147,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI011.png",
+            "tcicon": "es/SI011.png",
             "title": "攻後水橫縱輪轉"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/256i.png"
         },
         {
           "card": "1191",
@@ -154,9 +165,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI122.png|es/SI181.png|es/SI068.png",
+            "tcicon": "es/SI122.png|es/SI181.png|es/SI068.png",
             "title": "火屬技能封鎖 ‧ 3倍獵魔 ‧ 初級拼圖盾-限"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1191i.png"
         },
         {
           "card": "1191",
@@ -170,9 +183,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI016.png|es/SI301.png|es/SI047.png|es/SI113.png|es/SI124.png",
+            "tcicon": "es/SI016.png|es/SI301.png|es/SI047.png|es/SI113.png|es/SI124.png",
             "title": "敵轉水-首回隨機轉水 ‧ 首消水追擊零化 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1191i.png"
         }
       ]
     },
@@ -202,7 +217,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/871i.png"
         },
         {
           "card": "872",
@@ -215,7 +231,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/872i.png"
         },
         {
           "card": "873",
@@ -228,7 +245,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/873i.png"
         },
         {
           "card": "874",
@@ -241,7 +259,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/874i.png"
         },
         {
           "card": "875",
@@ -254,7 +273,8 @@
           "note": "",
           "esjson": null,
           "stage": "",
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/875i.png"
         },
         {
           "card": "1191",
@@ -268,9 +288,11 @@
           "note": "{{特性*離開*2}}",
           "esjson": {
             "img": "es/SI257.png",
+            "tcicon": "es/SI257.png",
             "title": "攻擊傷害無效"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1191i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "自爆20000",
   "effect": "敵人死亡後會對召喚師造成 20000 點傷害，因主動技能而死亡除外",
   "content": "自爆",
-  "icon": "es/SI168.png"
+  "icon": "es/SI168.png",
+  "tcicon": "es/SI168.png"
 }

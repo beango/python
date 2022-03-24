@@ -3,5 +3,6 @@
   "title": "12擊盾-非技傷敵反擊50%",
   "effect": "需對敵人進行 12 次攻擊後，才能對其造成攻擊傷害。<br>當敵人受到攻擊時 (主動技能及龍刻技能除外)，敵人會反擊自身 50% 攻擊傷害",
   "content": "攻擊次數盾",
-  "icon": "es/SI250.png|es/SI260.png"
+  "icon": "es/SI250.png|es/SI260.png",
+  "tcicon": "es/SI250.png|es/SI260.png"
 }

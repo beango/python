@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 單擊2億盾 ‧ 首消木傷害零化-連續反擊100% ‧ 無法控制",
   "effect": "敵人首次攻擊變為 CD 1。<br><br>隊伍中成員的單一攻擊<br>達 2 億<br>才能對敵人造成攻擊傷害。<br><br>首批消除木符石<br>及對敵人發動攻擊，該回合<br>無法對敵人造成攻擊傷害，<br>且敵人會反擊自身 100% <br>攻擊傷害 2 次。<br><br>無視所有控制技能。",
   "content": "攻速變更,單擊盾,傷害零化,無法控制",
-  "icon": "es/SI159.png|es/SI300.png|es/SI145.png|es/SI124.png"
+  "icon": "es/SI159.png|es/SI300.png|es/SI145.png|es/SI124.png",
+  "tcicon": "es/SI159.png|es/SI300.png|es/SI145.png|es/SI124.png"
 }

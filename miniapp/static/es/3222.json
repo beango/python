@@ -3,5 +3,6 @@
   "title": "20%盾 ‧ 中毒90% ‧ 暗屬防禦盾95%",
   "effect": "每回合攻擊最多只能造成敵人生命力 20% 的傷害 (主動技除外)。所有成員中毒，每回合扣除召喚師 90% 生命力，直至敵人死亡。暗屬性攻擊傷害減至 5%",
   "content": "百分比盾,中毒,屬性防禦盾",
-  "icon": "es/SI257.png|es/SI135.png|es/SI005.png"
+  "icon": "es/SI257.png|es/SI135.png|es/SI005.png",
+  "tcicon": "es/SI257.png|es/SI135.png|es/SI005.png"
 }

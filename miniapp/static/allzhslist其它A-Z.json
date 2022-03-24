@@ -8,7 +8,8 @@
     "series": "命運女神",
     "skill": "凝冰之際",
     "skill1": "",
-    "lskill": "攻守一體 ‧ 水"
+    "lskill": "攻守一體 ‧ 水",
+    "tcimg": "static/zhs/6001i.png"
   },
   {
     "id": "6002",
@@ -19,7 +20,8 @@
     "series": "命運女神",
     "skill": "操縱之火",
     "skill1": "",
-    "lskill": "攻守一體 ‧ 火"
+    "lskill": "攻守一體 ‧ 火",
+    "tcimg": "static/zhs/6002i.png"
   },
   {
     "id": "6003",
@@ -30,7 +32,8 @@
     "series": "命運女神",
     "skill": "腐蝕",
     "skill1": "",
-    "lskill": "攻守一體 ‧ 木"
+    "lskill": "攻守一體 ‧ 木",
+    "tcimg": "static/zhs/6003i.png"
   },
   {
     "id": "6004",
@@ -41,7 +44,8 @@
     "series": "命運女神",
     "skill": "癒合結界",
     "skill1": "",
-    "lskill": "超絕回復"
+    "lskill": "超絕回復",
+    "tcimg": "static/zhs/6004i.png"
   },
   {
     "id": "6005",
@@ -52,7 +56,8 @@
     "series": "命運女神",
     "skill": "斬斷束縛",
     "skill1": "",
-    "lskill": "靈魂收割 ‧ 結"
+    "lskill": "靈魂收割 ‧ 結",
+    "tcimg": "static/zhs/6005i.png"
   },
   {
     "id": "6006",
@@ -63,7 +68,8 @@
     "series": "妖女",
     "skill": "泡沫爆破",
     "skill1": "",
-    "lskill": "妖精領域"
+    "lskill": "妖精領域",
+    "tcimg": "static/zhs/6006i.png"
   },
   {
     "id": "6007",
@@ -74,7 +80,8 @@
     "series": "妖女",
     "skill": "點燃",
     "skill1": "",
-    "lskill": "妖精之怒"
+    "lskill": "妖精之怒",
+    "tcimg": "static/zhs/6007i.png"
   },
   {
     "id": "6008",
@@ -85,7 +92,8 @@
     "series": "妖女",
     "skill": "生命採摘",
     "skill1": "",
-    "lskill": "妖精之血"
+    "lskill": "妖精之血",
+    "tcimg": "static/zhs/6008i.png"
   },
   {
     "id": "6009",
@@ -96,7 +104,8 @@
     "series": "妖女",
     "skill": "擴散",
     "skill1": "",
-    "lskill": "妖精領域"
+    "lskill": "妖精領域",
+    "tcimg": "static/zhs/6009i.png"
   },
   {
     "id": "6010",
@@ -107,7 +116,8 @@
     "series": "妖女",
     "skill": "魅惑",
     "skill1": "",
-    "lskill": "妖精之怒"
+    "lskill": "妖精之怒",
+    "tcimg": "static/zhs/6010i.png"
   },
   {
     "id": "6011",
@@ -118,7 +128,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 水",
     "skill1": "",
-    "lskill": "海之怒"
+    "lskill": "海之怒",
+    "tcimg": "static/zhs/6011i.png"
   },
   {
     "id": "6012",
@@ -129,7 +140,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 火",
     "skill1": "",
-    "lskill": "炎之怒"
+    "lskill": "炎之怒",
+    "tcimg": "static/zhs/6012i.png"
   },
   {
     "id": "6013",
@@ -140,7 +152,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 木",
     "skill1": "",
-    "lskill": "森之怒"
+    "lskill": "森之怒",
+    "tcimg": "static/zhs/6013i.png"
   },
   {
     "id": "6014",
@@ -151,7 +164,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 光",
     "skill1": "",
-    "lskill": "聖之怒"
+    "lskill": "聖之怒",
+    "tcimg": "static/zhs/6014i.png"
   },
   {
     "id": "6015",
@@ -162,7 +176,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 暗",
     "skill1": "",
-    "lskill": "邪之怒"
+    "lskill": "邪之怒",
+    "tcimg": "static/zhs/6015i.png"
   },
   {
     "id": "6016",
@@ -173,7 +188,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 水",
     "skill1": "",
-    "lskill": "海之怒"
+    "lskill": "海之怒",
+    "tcimg": "static/zhs/6016i.png"
   },
   {
     "id": "6017",
@@ -184,7 +200,8 @@
     "series": "怪物彈珠 ‧ 英雄",
     "skill": "水之仙女",
     "skill1": "",
-    "lskill": "流雲雙刃斬"
+    "lskill": "流雲雙刃斬",
+    "tcimg": "static/zhs/6017i.png"
   },
   {
     "id": "6018",
@@ -195,7 +212,8 @@
     "series": "怪物彈珠 ‧ 英雄",
     "skill": "神之秘剣 - 光炎破碎",
     "skill1": "",
-    "lskill": "煉獄之集權"
+    "lskill": "煉獄之集權",
+    "tcimg": "static/zhs/6018i.png"
   },
   {
     "id": "6019",
@@ -206,7 +224,8 @@
     "series": "怪物彈珠 ‧ 英雄",
     "skill": "撒旦王權",
     "skill1": "",
-    "lskill": "莫逆相伴 ‧ 妖"
+    "lskill": "莫逆相伴 ‧ 妖",
+    "tcimg": "static/zhs/6019i.png"
   },
   {
     "id": "6020",
@@ -217,7 +236,8 @@
     "series": "怪物彈珠 ‧ 英雄",
     "skill": "騎士王神劍 - 王者之劍",
     "skill1": "",
-    "lskill": "電殛雙刃斬"
+    "lskill": "電殛雙刃斬",
+    "tcimg": "static/zhs/6020i.png"
   },
   {
     "id": "6021",
@@ -228,7 +248,8 @@
     "series": "怪物彈珠 ‧ 英雄",
     "skill": "背叛的神父",
     "skill1": "",
-    "lskill": "天魔道 ‧ 暗"
+    "lskill": "天魔道 ‧ 暗",
+    "tcimg": "static/zhs/6021i.png"
   },
   {
     "id": "6022",
@@ -239,7 +260,8 @@
     "series": "怪物彈珠 ‧ 英雄",
     "skill": "世界樹之克勞諾斯閃擊",
     "skill1": "",
-    "lskill": "靈力迫人"
+    "lskill": "靈力迫人",
+    "tcimg": "static/zhs/6022i.png"
   },
   {
     "id": "6023",
@@ -250,7 +272,8 @@
     "series": "怪物彈珠 ‧ 英雄",
     "skill": "憐憫惡魔之歌",
     "skill1": "",
-    "lskill": "穹蒼之賜 ‧ 護心"
+    "lskill": "穹蒼之賜 ‧ 護心",
+    "tcimg": "static/zhs/6023i.png"
   },
   {
     "id": "6024",
@@ -261,7 +284,8 @@
     "series": "",
     "skill": "沒有技能",
     "skill1": "",
-    "lskill": "人類之嗔怒"
+    "lskill": "人類之嗔怒",
+    "tcimg": "static/zhs/6024i.png"
   },
   {
     "id": "6025",
@@ -272,7 +296,8 @@
     "series": "",
     "skill": "沒有技能",
     "skill1": "",
-    "lskill": "人類之嗔怒"
+    "lskill": "人類之嗔怒",
+    "tcimg": "static/zhs/6025i.png"
   },
   {
     "id": "6026",
@@ -283,7 +308,8 @@
     "series": "地獄魔王",
     "skill": "同仇念",
     "skill1": "",
-    "lskill": "眾神之狂怒"
+    "lskill": "眾神之狂怒",
+    "tcimg": "static/zhs/6026i.png"
   },
   {
     "id": "6027",
@@ -294,7 +320,8 @@
     "series": "誓約之花",
     "skill": "信誓的泉源",
     "skill1": "",
-    "lskill": "浪濤萬鈞之怒 ‧ 強"
+    "lskill": "浪濤萬鈞之怒 ‧ 強",
+    "tcimg": "static/zhs/6027i.png"
   },
   {
     "id": "6028",
@@ -305,7 +332,8 @@
     "series": "誓約之花",
     "skill": "熾熱的約定",
     "skill1": "",
-    "lskill": "熾燄萬鈞之怒 ‧ 強"
+    "lskill": "熾燄萬鈞之怒 ‧ 強",
+    "tcimg": "static/zhs/6028i.png"
   },
   {
     "id": "6029",
@@ -316,7 +344,8 @@
     "series": "巴比倫主神",
     "skill": "水刃之能 ‧ 馭時",
     "skill1": "",
-    "lskill": "穹蒼之賜 ‧ 浪濤"
+    "lskill": "穹蒼之賜 ‧ 浪濤",
+    "tcimg": "static/zhs/6029i.png"
   },
   {
     "id": "6030",
@@ -327,7 +356,8 @@
     "series": "巴比倫主神",
     "skill": "燄刃之能 ‧ 馭時",
     "skill1": "",
-    "lskill": "穹蒼之賜 ‧ 熾燄"
+    "lskill": "穹蒼之賜 ‧ 熾燄",
+    "tcimg": "static/zhs/6030i.png"
   },
   {
     "id": "6031",
@@ -338,7 +368,8 @@
     "series": "巴比倫主神",
     "skill": "藤刃之能 ‧ 馭時",
     "skill1": "",
-    "lskill": "穹蒼之賜 ‧ 藤木"
+    "lskill": "穹蒼之賜 ‧ 藤木",
+    "tcimg": "static/zhs/6031i.png"
   },
   {
     "id": "6032",
@@ -349,7 +380,8 @@
     "series": "巴比倫主神",
     "skill": "光刃之能 ‧ 馭時",
     "skill1": "",
-    "lskill": "穹蒼之賜 ‧ 玄光"
+    "lskill": "穹蒼之賜 ‧ 玄光",
+    "tcimg": "static/zhs/6032i.png"
   },
   {
     "id": "6033",
@@ -360,7 +392,8 @@
     "series": "巴比倫主神",
     "skill": "魅刃之能 ‧ 馭時",
     "skill1": "",
-    "lskill": "穹蒼之賜 ‧ 幽冥"
+    "lskill": "穹蒼之賜 ‧ 幽冥",
+    "tcimg": "static/zhs/6033i.png"
   },
   {
     "id": "6034",
@@ -371,7 +404,8 @@
     "series": "地獄魔王",
     "skill": "勇武之力 ‧ 水",
     "skill1": "",
-    "lskill": "人類之嗔怒"
+    "lskill": "人類之嗔怒",
+    "tcimg": "static/zhs/6034i.png"
   },
   {
     "id": "6035",
@@ -382,7 +416,8 @@
     "series": "地獄魔王",
     "skill": "魔靈的印記",
     "skill1": "",
-    "lskill": "魔之本性"
+    "lskill": "魔之本性",
+    "tcimg": "static/zhs/6035i.png"
   },
   {
     "id": "6036",
@@ -393,7 +428,8 @@
     "series": "中國神",
     "skill": "魅惑傾城",
     "skill1": "",
-    "lskill": "傾世絕色"
+    "lskill": "傾世絕色",
+    "tcimg": "static/zhs/6036i.png"
   },
   {
     "id": "6037",
@@ -404,7 +440,8 @@
     "series": "中國神煉化",
     "skill": "魅惑傾城 ‧ 強",
     "skill1": "",
-    "lskill": "傾世絕色"
+    "lskill": "傾世絕色",
+    "tcimg": "static/zhs/6037i.png"
   },
   {
     "id": "6038",
@@ -415,7 +452,8 @@
     "series": "巫女",
     "skill": "冰霜絕命",
     "skill1": "",
-    "lskill": "水之狂怒"
+    "lskill": "水之狂怒",
+    "tcimg": "static/zhs/6038i.png"
   },
   {
     "id": "6039",
@@ -426,7 +464,8 @@
     "series": "巫女",
     "skill": "喋血戰意",
     "skill1": "",
-    "lskill": "火之狂怒"
+    "lskill": "火之狂怒",
+    "tcimg": "static/zhs/6039i.png"
   },
   {
     "id": "6040",
@@ -437,7 +476,8 @@
     "series": "巫女",
     "skill": "魔法雙刃",
     "skill1": "",
-    "lskill": "大地之霸權"
+    "lskill": "大地之霸權",
+    "tcimg": "static/zhs/6040i.png"
   },
   {
     "id": "6041",
@@ -448,7 +488,8 @@
     "series": "黃道十二宮",
     "skill": "神魔共鳴",
     "skill1": "",
-    "lskill": "虛靜恬淡"
+    "lskill": "虛靜恬淡",
+    "tcimg": "static/zhs/6041i.png"
   },
   {
     "id": "6042",
@@ -459,7 +500,8 @@
     "series": "墮天",
     "skill": "追魂之幽",
     "skill1": "",
-    "lskill": "魔魅斷魂劍"
+    "lskill": "魔魅斷魂劍",
+    "tcimg": "static/zhs/6042i.png"
   },
   {
     "id": "6043",
@@ -470,7 +512,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 水",
     "skill1": "",
-    "lskill": "海之怒"
+    "lskill": "海之怒",
+    "tcimg": "static/zhs/6043i.png"
   },
   {
     "id": "6044",
@@ -481,7 +524,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 火",
     "skill1": "",
-    "lskill": "炎之怒"
+    "lskill": "炎之怒",
+    "tcimg": "static/zhs/6044i.png"
   },
   {
     "id": "6045",
@@ -492,7 +536,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 木",
     "skill1": "",
-    "lskill": "森之怒"
+    "lskill": "森之怒",
+    "tcimg": "static/zhs/6045i.png"
   },
   {
     "id": "6046",
@@ -503,7 +548,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 光",
     "skill1": "",
-    "lskill": "聖之怒"
+    "lskill": "聖之怒",
+    "tcimg": "static/zhs/6046i.png"
   },
   {
     "id": "6047",
@@ -514,7 +560,8 @@
     "series": "主角",
     "skill": "界限突破 ‧ 暗",
     "skill1": "",
-    "lskill": "邪之怒"
+    "lskill": "邪之怒",
+    "tcimg": "static/zhs/6047i.png"
   },
   {
     "id": "6048",
@@ -525,7 +572,8 @@
     "series": "北歐神煉化",
     "skill": "符石強化 ‧ 水",
     "skill1": "",
-    "lskill": "水之震怒"
+    "lskill": "水之震怒",
+    "tcimg": "static/zhs/6048i.png"
   },
   {
     "id": "6049",
@@ -536,7 +584,8 @@
     "series": "北歐神煉化",
     "skill": "符石強化 ‧ 火",
     "skill1": "",
-    "lskill": "火之震怒"
+    "lskill": "火之震怒",
+    "tcimg": "static/zhs/6049i.png"
   },
   {
     "id": "6050",
@@ -547,7 +596,8 @@
     "series": "北歐神煉化",
     "skill": "符石強化 ‧ 木",
     "skill1": "",
-    "lskill": "木之震怒"
+    "lskill": "木之震怒",
+    "tcimg": "static/zhs/6050i.png"
   },
   {
     "id": "6051",
@@ -558,7 +608,8 @@
     "series": "北歐神煉化",
     "skill": "符石強化 ‧ 光",
     "skill1": "",
-    "lskill": "光之震怒"
+    "lskill": "光之震怒",
+    "tcimg": "static/zhs/6051i.png"
   },
   {
     "id": "6052",
@@ -569,7 +620,8 @@
     "series": "北歐神煉化",
     "skill": "符石強化 ‧ 暗",
     "skill1": "",
-    "lskill": "暗之震怒"
+    "lskill": "暗之震怒",
+    "tcimg": "static/zhs/6052i.png"
   },
   {
     "id": "6053",
@@ -580,7 +632,8 @@
     "series": "魔族始源",
     "skill": "元素歸一 ‧ 水",
     "skill1": "",
-    "lskill": "無影幻像 ‧ 浪濤"
+    "lskill": "無影幻像 ‧ 浪濤",
+    "tcimg": "static/zhs/6053i.png"
   },
   {
     "id": "6054",
@@ -591,7 +644,8 @@
     "series": "魔族始源",
     "skill": "元素歸一 ‧ 火",
     "skill1": "",
-    "lskill": "無影幻像 ‧ 熾燄"
+    "lskill": "無影幻像 ‧ 熾燄",
+    "tcimg": "static/zhs/6054i.png"
   },
   {
     "id": "6055",
@@ -602,7 +656,8 @@
     "series": "魔族始源",
     "skill": "元素歸一 ‧ 木",
     "skill1": "",
-    "lskill": "無影幻像 ‧ 藤木"
+    "lskill": "無影幻像 ‧ 藤木",
+    "tcimg": "static/zhs/6055i.png"
   },
   {
     "id": "6056",
@@ -613,7 +668,8 @@
     "series": "魔族始源",
     "skill": "結界術 ‧ 玄光",
     "skill1": "",
-    "lskill": "流螢結陣 ‧ 繼"
+    "lskill": "流螢結陣 ‧ 繼",
+    "tcimg": "static/zhs/6056i.png"
   },
   {
     "id": "6057",
@@ -624,7 +680,8 @@
     "series": "魔族始源",
     "skill": "結界術 ‧ 幽冥",
     "skill1": "",
-    "lskill": "幽冥結陣 ‧ 繼"
+    "lskill": "幽冥結陣 ‧ 繼",
+    "tcimg": "static/zhs/6057i.png"
   },
   {
     "id": "6058",
@@ -635,7 +692,8 @@
     "series": "墮天",
     "skill": "三原靈陣 ‧ 血燄",
     "skill1": "",
-    "lskill": "透幻之燄"
+    "lskill": "透幻之燄",
+    "tcimg": "static/zhs/6058i.png"
   },
   {
     "id": "6059",
@@ -646,7 +704,8 @@
     "series": "三國",
     "skill": "玄靈滅絕 ‧ 暗流",
     "skill1": "",
-    "lskill": "虓虎之勇 ‧ 暗"
+    "lskill": "虓虎之勇 ‧ 暗",
+    "tcimg": "static/zhs/6059i.png"
   },
   {
     "id": "6060",
@@ -657,7 +716,8 @@
     "series": "三國",
     "skill": "三原流水刃",
     "skill1": "",
-    "lskill": "結義之力"
+    "lskill": "結義之力",
+    "tcimg": "static/zhs/6060i.png"
   },
   {
     "id": "6061",
@@ -668,7 +728,8 @@
     "series": "巫女",
     "skill": "喋血戰意",
     "skill1": "",
-    "lskill": "火之狂怒"
+    "lskill": "火之狂怒",
+    "tcimg": "static/zhs/6061i.png"
   },
   {
     "id": "6062",
@@ -679,7 +740,8 @@
     "series": "大和",
     "skill": "靈木無量",
     "skill1": "",
-    "lskill": "藤木之靈"
+    "lskill": "藤木之靈",
+    "tcimg": "static/zhs/6062i.png"
   },
   {
     "id": "6063",
@@ -690,7 +752,8 @@
     "series": "封王",
     "skill": "魔力歸一",
     "skill1": "",
-    "lskill": "光暗一體"
+    "lskill": "光暗一體",
+    "tcimg": "static/zhs/6063i.png"
   },
   {
     "id": "6064",
@@ -701,7 +764,8 @@
     "series": "地精",
     "skill": "攻擊姿勢 ‧ 暗",
     "skill1": "",
-    "lskill": "妖精之力"
+    "lskill": "妖精之力",
+    "tcimg": "static/zhs/6064i.png"
   },
   {
     "id": "6065",
@@ -712,7 +776,8 @@
     "series": "封神演義",
     "skill": "亡命感應 ‧ 水",
     "skill1": "",
-    "lskill": "銳兵列陣 ‧ 強"
+    "lskill": "銳兵列陣 ‧ 強",
+    "tcimg": "static/zhs/6065i.png"
   },
   {
     "id": "6066",
@@ -723,7 +788,8 @@
     "series": "封神演義",
     "skill": "鐵壁陣勢 ‧ 火",
     "skill1": "",
-    "lskill": "火靈符籙"
+    "lskill": "火靈符籙",
+    "tcimg": "static/zhs/6066i.png"
   },
   {
     "id": "6067",
@@ -734,7 +800,8 @@
     "series": "封神演義",
     "skill": "枯朽的戰場",
     "skill1": "",
-    "lskill": "木靈符籙"
+    "lskill": "木靈符籙",
+    "tcimg": "static/zhs/6067i.png"
   },
   {
     "id": "6068",
@@ -745,7 +812,8 @@
     "series": "封神演義",
     "skill": "鐵壁陣勢 ‧ 光",
     "skill1": "",
-    "lskill": "銳兵列陣 ‧ 強"
+    "lskill": "銳兵列陣 ‧ 強",
+    "tcimg": "static/zhs/6068i.png"
   },
   {
     "id": "6069",
@@ -756,7 +824,8 @@
     "series": "封神演義",
     "skill": "攻擊強化 ‧ 暗",
     "skill1": "",
-    "lskill": "愈戰愈強 ‧ 聚擊"
+    "lskill": "愈戰愈強 ‧ 聚擊",
+    "tcimg": "static/zhs/6069i.png"
   },
   {
     "id": "6070",
@@ -767,7 +836,8 @@
     "series": "埃及神",
     "skill": "符石極限解放 ‧ 水",
     "skill1": "",
-    "lskill": "水之誅罰"
+    "lskill": "水之誅罰",
+    "tcimg": "static/zhs/6070i.png"
   },
   {
     "id": "6071",
@@ -778,7 +848,8 @@
     "series": "埃及神",
     "skill": "符石極限解放 ‧ 火",
     "skill1": "",
-    "lskill": "火之誅罰"
+    "lskill": "火之誅罰",
+    "tcimg": "static/zhs/6071i.png"
   },
   {
     "id": "6072",
@@ -789,7 +860,8 @@
     "series": "埃及神",
     "skill": "符石極限解放 ‧ 木",
     "skill1": "",
-    "lskill": "木之誅罰"
+    "lskill": "木之誅罰",
+    "tcimg": "static/zhs/6072i.png"
   },
   {
     "id": "6073",
@@ -800,7 +872,8 @@
     "series": "埃及神",
     "skill": "符石極限解放 ‧ 光",
     "skill1": "",
-    "lskill": "光之誅罰"
+    "lskill": "光之誅罰",
+    "tcimg": "static/zhs/6073i.png"
   },
   {
     "id": "6074",
@@ -811,7 +884,8 @@
     "series": "埃及神",
     "skill": "符石極限解放 ‧ 暗",
     "skill1": "",
-    "lskill": "暗之誅罰"
+    "lskill": "暗之誅罰",
+    "tcimg": "static/zhs/6074i.png"
   },
   {
     "id": "6075",
@@ -822,7 +896,8 @@
     "series": "龍僕",
     "skill": "龍魂共鳴",
     "skill1": "",
-    "lskill": "噬血龍王 ‧ 強"
+    "lskill": "噬血龍王 ‧ 強",
+    "tcimg": "static/zhs/6075i.png"
   },
   {
     "id": "6076",
@@ -833,7 +908,8 @@
     "series": "龍僕",
     "skill": "攻勢強化 ‧ 火",
     "skill1": "",
-    "lskill": "幻龍利牙"
+    "lskill": "幻龍利牙",
+    "tcimg": "static/zhs/6076i.png"
   },
   {
     "id": "6077",
@@ -844,7 +920,8 @@
     "series": "龍僕",
     "skill": "群龍壓迫 ‧ 護",
     "skill1": "",
-    "lskill": "噬血龍王 ‧ 強"
+    "lskill": "噬血龍王 ‧ 強",
+    "tcimg": "static/zhs/6077i.png"
   },
   {
     "id": "6078",
@@ -855,7 +932,8 @@
     "series": "龍僕",
     "skill": "攻勢強化 ‧ 光",
     "skill1": "",
-    "lskill": "幻龍利爪"
+    "lskill": "幻龍利爪",
+    "tcimg": "static/zhs/6078i.png"
   },
   {
     "id": "6079",
@@ -866,7 +944,8 @@
     "series": "龍僕",
     "skill": "龍力招來 ‧ 幽冥",
     "skill1": "",
-    "lskill": "幻龍利牙"
+    "lskill": "幻龍利牙",
+    "tcimg": "static/zhs/6079i.png"
   },
   {
     "id": "6080",
@@ -877,7 +956,8 @@
     "series": "神魔員工",
     "skill": "小妹亂撞",
     "skill1": "",
-    "lskill": "沒有技能"
+    "lskill": "沒有技能",
+    "tcimg": "static/zhs/6080i.png"
   },
   {
     "id": "6081",
@@ -888,7 +968,8 @@
     "series": "拳皇",
     "skill": "最終決戰奧義 ‧ 無式",
     "skill1": "MAX 版  裏百八式 ‧ 大蛇薙",
-    "lskill": "時之格鬥術"
+    "lskill": "時之格鬥術",
+    "tcimg": "static/zhs/6081i.png"
   },
   {
     "id": "6082",
@@ -899,7 +980,8 @@
     "series": "拳皇",
     "skill": "裏百八式 ‧ 八酒杯",
     "skill1": "MAX 版  禁千貳百拾壹式 ‧ 八稚女",
-    "lskill": "連擊格鬥術"
+    "lskill": "連擊格鬥術",
+    "tcimg": "static/zhs/6082i.png"
   },
   {
     "id": "6083",
@@ -910,7 +992,8 @@
     "series": "拳皇",
     "skill": "超必殺忍蜂",
     "skill1": "MAX 版  超必殺忍蜂",
-    "lskill": "焰之格鬥術"
+    "lskill": "焰之格鬥術",
+    "tcimg": "static/zhs/6083i.png"
   },
   {
     "id": "6084",
@@ -921,7 +1004,8 @@
     "series": "新革童話",
     "skill": "進退有序 ‧ 強",
     "skill1": "",
-    "lskill": "童趣約定 ‧ 浪濤"
+    "lskill": "童趣約定 ‧ 浪濤",
+    "tcimg": "static/zhs/6084i.png"
   },
   {
     "id": "6085",
@@ -932,7 +1016,8 @@
     "series": "新革童話",
     "skill": "移魂進攻 ‧ 熾燄",
     "skill1": "",
-    "lskill": "童趣約定 ‧ 熾燄"
+    "lskill": "童趣約定 ‧ 熾燄",
+    "tcimg": "static/zhs/6085i.png"
   },
   {
     "id": "6086",
@@ -943,7 +1028,8 @@
     "series": "新革童話",
     "skill": "同盜相益 ‧ 強",
     "skill1": "",
-    "lskill": "童趣約定 ‧ 藤木"
+    "lskill": "童趣約定 ‧ 藤木",
+    "tcimg": "static/zhs/6086i.png"
   },
   {
     "id": "6087",
@@ -954,7 +1040,8 @@
     "series": "新革童話",
     "skill": "移魂進攻 ‧ 玄光",
     "skill1": "",
-    "lskill": "童趣約定 ‧ 玄光"
+    "lskill": "童趣約定 ‧ 玄光",
+    "tcimg": "static/zhs/6087i.png"
   },
   {
     "id": "6088",
@@ -965,7 +1052,8 @@
     "series": "新革童話",
     "skill": "引領之帥 ‧ 強",
     "skill1": "",
-    "lskill": "童趣約定 ‧ 幽冥"
+    "lskill": "童趣約定 ‧ 幽冥",
+    "tcimg": "static/zhs/6088i.png"
   },
   {
     "id": "6089",
@@ -976,7 +1064,8 @@
     "series": "地獄魔王",
     "skill": "混",
     "skill1": "",
-    "lskill": "格鬥之魂"
+    "lskill": "格鬥之魂",
+    "tcimg": "static/zhs/6089i.png"
   },
   {
     "id": "6090",
@@ -987,7 +1076,8 @@
     "series": "拳皇",
     "skill": "超必殺忍蜂",
     "skill1": "MAX 版  超必殺忍蜂",
-    "lskill": "焰之格鬥術"
+    "lskill": "焰之格鬥術",
+    "tcimg": "static/zhs/6090i.png"
   },
   {
     "id": "6091",
@@ -998,7 +1088,8 @@
     "series": "戰慄級",
     "skill": "熱力驅動",
     "skill1": "",
-    "lskill": "格鬥術"
+    "lskill": "格鬥術",
+    "tcimg": "static/zhs/6091i.png"
   },
   {
     "id": "6092",
@@ -1009,7 +1100,8 @@
     "series": "自然德魯依",
     "skill": "元素均霑 ‧ 強",
     "skill1": "",
-    "lskill": "百獸同心 ‧ 強"
+    "lskill": "百獸同心 ‧ 強",
+    "tcimg": "static/zhs/6092i.png"
   },
   {
     "id": "6093",
@@ -1020,7 +1112,8 @@
     "series": "自然德魯依",
     "skill": "獸化支援 ‧ 強",
     "skill1": "",
-    "lskill": "煉獄之霸業 ‧ 獸"
+    "lskill": "煉獄之霸業 ‧ 獸",
+    "tcimg": "static/zhs/6093i.png"
   },
   {
     "id": "6094",
@@ -1031,7 +1124,8 @@
     "series": "自然德魯依",
     "skill": "亡命感應 ‧ 木",
     "skill1": "",
-    "lskill": "大地之霸業 ‧ 獸"
+    "lskill": "大地之霸業 ‧ 獸",
+    "tcimg": "static/zhs/6094i.png"
   },
   {
     "id": "6095",
@@ -1042,7 +1136,8 @@
     "series": "自然德魯依",
     "skill": "三原契約 ‧ 獸",
     "skill1": "",
-    "lskill": "百獸同心 ‧ 強"
+    "lskill": "百獸同心 ‧ 強",
+    "tcimg": "static/zhs/6095i.png"
   },
   {
     "id": "6096",
@@ -1053,7 +1148,8 @@
     "series": "自然德魯依",
     "skill": "蝕夢之靈 ‧ 強",
     "skill1": "",
-    "lskill": "百獸同盟 ‧ 強"
+    "lskill": "百獸同盟 ‧ 強",
+    "tcimg": "static/zhs/6096i.png"
   },
   {
     "id": "6097",
@@ -1064,7 +1160,8 @@
     "series": "妖嬈花夢",
     "skill": "逆我盡滅",
     "skill1": "",
-    "lskill": "妖嬈之藍"
+    "lskill": "妖嬈之藍",
+    "tcimg": "static/zhs/6097i.png"
   },
   {
     "id": "6098",
@@ -1075,7 +1172,8 @@
     "series": "妖嬈花夢",
     "skill": "幻櫻花海 ‧ 魅",
     "skill1": "",
-    "lskill": "粉櫻花雨"
+    "lskill": "粉櫻花雨",
+    "tcimg": "static/zhs/6098i.png"
   },
   {
     "id": "6099",
@@ -1086,7 +1184,8 @@
     "series": "妖嬈花夢",
     "skill": "如一之靈",
     "skill1": "",
-    "lskill": "魅豔之刺"
+    "lskill": "魅豔之刺",
+    "tcimg": "static/zhs/6099i.png"
   },
   {
     "id": "6100",
@@ -1097,7 +1196,8 @@
     "series": "地獄魔王",
     "skill": "吞噬之燄",
     "skill1": "",
-    "lskill": "熾燄怒嘯"
+    "lskill": "熾燄怒嘯",
+    "tcimg": "static/zhs/6100i.png"
   },
   {
     "id": "6101",
@@ -1108,7 +1208,8 @@
     "series": "地獄魔王",
     "skill": "摧滅 ‧ 無聲",
     "skill1": "",
-    "lskill": "藤木怒嘯"
+    "lskill": "藤木怒嘯",
+    "tcimg": "static/zhs/6101i.png"
   },
   {
     "id": "6102",
@@ -1119,7 +1220,8 @@
     "series": "地獄魔王",
     "skill": "甜膩的毒汁",
     "skill1": "",
-    "lskill": "幽冥怒嘯"
+    "lskill": "幽冥怒嘯",
+    "tcimg": "static/zhs/6102i.png"
   },
   {
     "id": "6103",
@@ -1130,7 +1232,8 @@
     "series": "霹靂布袋戲",
     "skill": "天問三誓",
     "skill1": "",
-    "lskill": "流雲斷念劍"
+    "lskill": "流雲斷念劍",
+    "tcimg": "static/zhs/6103i.png"
   },
   {
     "id": "6104",
@@ -1141,7 +1244,8 @@
     "series": "霹靂布袋戲",
     "skill": "笑盡英雄",
     "skill1": "",
-    "lskill": "玄光雄傑闖天下"
+    "lskill": "玄光雄傑闖天下",
+    "tcimg": "static/zhs/6104i.png"
   },
   {
     "id": "6105",
@@ -1152,7 +1256,8 @@
     "series": "霹靂布袋戲",
     "skill": "天劍三絕",
     "skill1": "",
-    "lskill": "幽冥雄傑闖天下"
+    "lskill": "幽冥雄傑闖天下",
+    "tcimg": "static/zhs/6105i.png"
   },
   {
     "id": "6106",
@@ -1163,7 +1268,8 @@
     "series": "地獄魔王",
     "skill": "神之滅",
     "skill1": "",
-    "lskill": "冥神萬鈞之怒 ‧ 強"
+    "lskill": "冥神萬鈞之怒 ‧ 強",
+    "tcimg": "static/zhs/6106i.png"
   },
   {
     "id": "6107",
@@ -1174,7 +1280,8 @@
     "series": "宇宙序章",
     "skill": "夢中結界",
     "skill1": "",
-    "lskill": "吞噬之慾"
+    "lskill": "吞噬之慾",
+    "tcimg": "static/zhs/6107i.png"
   },
   {
     "id": "6108",
@@ -1185,7 +1292,8 @@
     "series": "宇宙序章",
     "skill": "力量之源",
     "skill1": "",
-    "lskill": "創造之能"
+    "lskill": "創造之能",
+    "tcimg": "static/zhs/6108i.png"
   },
   {
     "id": "6109",
@@ -1196,7 +1304,8 @@
     "series": "宇宙序章",
     "skill": "滅絕之噬",
     "skill1": "",
-    "lskill": "暗龍暴"
+    "lskill": "暗龍暴",
+    "tcimg": "static/zhs/6109i.png"
   },
   {
     "id": "6110",
@@ -1207,7 +1316,8 @@
     "series": "地獄魔王",
     "skill": "吞滅之燄",
     "skill1": "",
-    "lskill": "熾燄怒嘯"
+    "lskill": "熾燄怒嘯",
+    "tcimg": "static/zhs/6110i.png"
   },
   {
     "id": "6111",
@@ -1218,7 +1328,8 @@
     "series": "地獄魔王",
     "skill": "採靈術",
     "skill1": "",
-    "lskill": "藤木怒嘯"
+    "lskill": "藤木怒嘯",
+    "tcimg": "static/zhs/6111i.png"
   },
   {
     "id": "6112",
@@ -1229,7 +1340,8 @@
     "series": "地獄魔王",
     "skill": "元素破滅",
     "skill1": "",
-    "lskill": "玄光怒嘯"
+    "lskill": "玄光怒嘯",
+    "tcimg": "static/zhs/6112i.png"
   },
   {
     "id": "6113",
@@ -1240,7 +1352,8 @@
     "series": "聖酒女武神",
     "skill": "武化之水 ‧ 強",
     "skill1": "",
-    "lskill": "大海之皇權"
+    "lskill": "大海之皇權",
+    "tcimg": "static/zhs/6113i.png"
   },
   {
     "id": "6114",
@@ -1251,7 +1364,8 @@
     "series": "聖酒女武神",
     "skill": "武之控壓 ‧ 強",
     "skill1": "",
-    "lskill": "煉獄之皇權"
+    "lskill": "煉獄之皇權",
+    "tcimg": "static/zhs/6114i.png"
   },
   {
     "id": "6115",
@@ -1262,7 +1376,8 @@
     "series": "聖酒女武神",
     "skill": "武化之木 ‧ 強",
     "skill1": "",
-    "lskill": "大地之皇權"
+    "lskill": "大地之皇權",
+    "tcimg": "static/zhs/6115i.png"
   },
   {
     "id": "6116",
@@ -1273,7 +1388,8 @@
     "series": "聖酒女武神",
     "skill": "武之控壓 ‧ 強",
     "skill1": "",
-    "lskill": "神聖之皇權"
+    "lskill": "神聖之皇權",
+    "tcimg": "static/zhs/6116i.png"
   },
   {
     "id": "6117",
@@ -1284,7 +1400,8 @@
     "series": "聖酒女武神",
     "skill": "武化之暗 ‧ 強",
     "skill1": "",
-    "lskill": "暗黑之皇權"
+    "lskill": "暗黑之皇權",
+    "tcimg": "static/zhs/6117i.png"
   },
   {
     "id": "6118",
@@ -1295,7 +1412,8 @@
     "series": "封王",
     "skill": "魔王躍舞",
     "skill1": "",
-    "lskill": "妖精之舞步"
+    "lskill": "妖精之舞步",
+    "tcimg": "static/zhs/6118i.png"
   },
   {
     "id": "6119",
@@ -1306,7 +1424,8 @@
     "series": "封王",
     "skill": "捨生力敵",
     "skill1": "",
-    "lskill": "歃血之盟誓"
+    "lskill": "歃血之盟誓",
+    "tcimg": "static/zhs/6119i.png"
   },
   {
     "id": "6120",
@@ -1317,7 +1436,8 @@
     "series": "靈獸役使",
     "skill": "森野之力 ‧ 強",
     "skill1": "",
-    "lskill": "自然流溢之力 ‧ 靈泉"
+    "lskill": "自然流溢之力 ‧ 靈泉",
+    "tcimg": "static/zhs/6120i.png"
   },
   {
     "id": "6121",
@@ -1328,7 +1448,8 @@
     "series": "封王",
     "skill": "主神之威",
     "skill1": "",
-    "lskill": "絕境意志"
+    "lskill": "絕境意志",
+    "tcimg": "static/zhs/6121i.png"
   },
   {
     "id": "6122",
@@ -1339,7 +1460,8 @@
     "series": "圓桌騎士",
     "skill": "暗黑之劍氣",
     "skill1": "",
-    "lskill": "騎士之盟"
+    "lskill": "騎士之盟",
+    "tcimg": "static/zhs/6122i.png"
   },
   {
     "id": "6123",
@@ -1350,7 +1472,8 @@
     "series": "武者烈魂",
     "skill": "藤棘術",
     "skill1": "",
-    "lskill": "木葉之森"
+    "lskill": "木葉之森",
+    "tcimg": "static/zhs/6123i.png"
   },
   {
     "id": "6125",
@@ -1361,7 +1484,8 @@
     "series": "封王",
     "skill": "光魂附暗",
     "skill1": "",
-    "lskill": "念之強勢 ‧ 光"
+    "lskill": "念之強勢 ‧ 光",
+    "tcimg": "static/zhs/6125i.png"
   },
   {
     "id": "6126",
@@ -1372,7 +1496,8 @@
     "series": "封王",
     "skill": "暗魂附光",
     "skill1": "",
-    "lskill": "念之強勢 ‧ 暗"
+    "lskill": "念之強勢 ‧ 暗",
+    "tcimg": "static/zhs/6126i.png"
   },
   {
     "id": "6127",
@@ -1383,7 +1508,8 @@
     "series": "封王",
     "skill": "主神之威",
     "skill1": "",
-    "lskill": "絕境意志"
+    "lskill": "絕境意志",
+    "tcimg": "static/zhs/6127i.png"
   },
   {
     "id": "6128",
@@ -1394,7 +1520,8 @@
     "series": "封王",
     "skill": "搶天奪日 ‧ 心",
     "skill1": "",
-    "lskill": "罪之罰則"
+    "lskill": "罪之罰則",
+    "tcimg": "static/zhs/6128i.png"
   },
   {
     "id": "6129",
@@ -1405,7 +1532,8 @@
     "series": "封王",
     "skill": "捨生力敵",
     "skill1": "",
-    "lskill": "歃血之盟誓"
+    "lskill": "歃血之盟誓",
+    "tcimg": "static/zhs/6129i.png"
   },
   {
     "id": "6130",
@@ -1416,7 +1544,8 @@
     "series": "封王",
     "skill": "魔力歸一",
     "skill1": "",
-    "lskill": "光暗一體"
+    "lskill": "光暗一體",
+    "tcimg": "static/zhs/6130i.png"
   },
   {
     "id": "6131",
@@ -1427,7 +1556,8 @@
     "series": "封王",
     "skill": "引力之勢．強",
     "skill1": "",
-    "lskill": "神魔法則 ‧ 強"
+    "lskill": "神魔法則 ‧ 強",
+    "tcimg": "static/zhs/6131i.png"
   },
   {
     "id": "6132",
@@ -1438,7 +1568,8 @@
     "series": "封王",
     "skill": "元素掌控術 ‧ 全",
     "skill1": "",
-    "lskill": "元素逼力 ‧ 強"
+    "lskill": "元素逼力 ‧ 強",
+    "tcimg": "static/zhs/6132i.png"
   },
   {
     "id": "6134",
@@ -1449,7 +1580,8 @@
     "series": "三國 ‧ 貳",
     "skill": "驍雄之攻",
     "skill1": "",
-    "lskill": "霸者盛勢 ‧ 靈之控"
+    "lskill": "霸者盛勢 ‧ 靈之控",
+    "tcimg": "static/zhs/6134i.png"
   },
   {
     "id": "6135",
@@ -1460,7 +1592,8 @@
     "series": "三國 ‧ 貳",
     "skill": "驍勇之力",
     "skill1": "",
-    "lskill": "巾幗之燄"
+    "lskill": "巾幗之燄",
+    "tcimg": "static/zhs/6135i.png"
   },
   {
     "id": "6136",
@@ -1471,7 +1604,8 @@
     "series": "三國 ‧ 貳",
     "skill": "反殺之狠",
     "skill1": "",
-    "lskill": "酷冷之殺意 ‧ 強"
+    "lskill": "酷冷之殺意 ‧ 強",
+    "tcimg": "static/zhs/6136i.png"
   },
   {
     "id": "6137",
@@ -1482,7 +1616,8 @@
     "series": "地獄魔王",
     "skill": "水之鋒芒",
     "skill1": "",
-    "lskill": "浪濤怒嘯"
+    "lskill": "浪濤怒嘯",
+    "tcimg": "static/zhs/6137i.png"
   },
   {
     "id": "6138",
@@ -1493,7 +1628,8 @@
     "series": "地獄魔王",
     "skill": "草原的力量",
     "skill1": "",
-    "lskill": "藤木怒嘯"
+    "lskill": "藤木怒嘯",
+    "tcimg": "static/zhs/6138i.png"
   },
   {
     "id": "6139",
@@ -1504,7 +1640,8 @@
     "series": "地獄魔王",
     "skill": "毒水之泉",
     "skill1": "",
-    "lskill": "玄光怒嘯"
+    "lskill": "玄光怒嘯",
+    "tcimg": "static/zhs/6139i.png"
   },
   {
     "id": "6140",
@@ -1515,7 +1652,8 @@
     "series": "玩具精靈",
     "skill": "逼力凝視 ‧ 攻",
     "skill1": "",
-    "lskill": "妖精之舞步"
+    "lskill": "妖精之舞步",
+    "tcimg": "static/zhs/6140i.png"
   },
   {
     "id": "6141",
@@ -1526,7 +1664,8 @@
     "series": "玩具精靈",
     "skill": "絕地靈淵 ‧ 強",
     "skill1": "",
-    "lskill": "妖精之舞步"
+    "lskill": "妖精之舞步",
+    "tcimg": "static/zhs/6141i.png"
   },
   {
     "id": "6142",
@@ -1537,7 +1676,8 @@
     "series": "玩具精靈",
     "skill": "治癒之靈 ‧ 強",
     "skill1": "",
-    "lskill": "妖精之舞步"
+    "lskill": "妖精之舞步",
+    "tcimg": "static/zhs/6142i.png"
   },
   {
     "id": "6143",
@@ -1548,7 +1688,8 @@
     "series": "玩具精靈",
     "skill": "暗靈移魂加冕 ‧ 強",
     "skill1": "",
-    "lskill": "妖精之舞步"
+    "lskill": "妖精之舞步",
+    "tcimg": "static/zhs/6143i.png"
   },
   {
     "id": "6144",
@@ -1559,7 +1700,8 @@
     "series": "玩具精靈",
     "skill": "蓄能傳承 ‧ 煉靈",
     "skill1": "",
-    "lskill": "妖精之舞步"
+    "lskill": "妖精之舞步",
+    "tcimg": "static/zhs/6144i.png"
   },
   {
     "id": "6145",
@@ -1570,7 +1712,8 @@
     "series": "巫女",
     "skill": "喋血戰意",
     "skill1": "",
-    "lskill": "火之狂怒"
+    "lskill": "火之狂怒",
+    "tcimg": "static/zhs/6145i.png"
   },
   {
     "id": "6146",
@@ -1581,7 +1724,8 @@
     "series": "誓約之花",
     "skill": "誓約的泉源 ‧ 加冕",
     "skill1": "",
-    "lskill": "水元素暴濤"
+    "lskill": "水元素暴濤",
+    "tcimg": "static/zhs/6146i.png"
   },
   {
     "id": "6147",
@@ -1592,7 +1736,8 @@
     "series": "誓約之花",
     "skill": "熾熱的約定 ‧ 加冕",
     "skill1": "",
-    "lskill": "熊熊之火"
+    "lskill": "熊熊之火",
+    "tcimg": "static/zhs/6147i.png"
   },
   {
     "id": "6148",
@@ -1603,7 +1748,8 @@
     "series": "黃道十二宮",
     "skill": "蓄能轉換 ‧ 煉水",
     "skill1": "",
-    "lskill": "水火堅甲之賦 ‧ 突破"
+    "lskill": "水火堅甲之賦 ‧ 突破",
+    "tcimg": "static/zhs/6148i.png"
   },
   {
     "id": "6149",
@@ -1614,7 +1760,8 @@
     "series": "魔族始源",
     "skill": "玄光結界 ‧ 加冕",
     "skill1": "",
-    "lskill": "流螢結陣 ‧ 盛"
+    "lskill": "流螢結陣 ‧ 盛",
+    "tcimg": "static/zhs/6149i.png"
   },
   {
     "id": "6150",
@@ -1625,7 +1772,8 @@
     "series": "地獄魔王",
     "skill": "元素結聚之力",
     "skill1": "電擊烙印",
-    "lskill": "元素防護"
+    "lskill": "元素防護",
+    "tcimg": "static/zhs/6150i.png"
   },
   {
     "id": "6151",
@@ -1636,7 +1784,8 @@
     "series": "地獄魔王",
     "skill": "戰意高昂",
     "skill1": "",
-    "lskill": "元素防護"
+    "lskill": "元素防護",
+    "tcimg": "static/zhs/6151i.png"
   },
   {
     "id": "6153",
@@ -1647,7 +1796,8 @@
     "series": "天竺",
     "skill": "逆焰之扇",
     "skill1": "",
-    "lskill": "神魔之森"
+    "lskill": "神魔之森",
+    "tcimg": "static/zhs/6153i.png"
   },
   {
     "id": "6154",
@@ -1658,7 +1808,8 @@
     "series": "天竺",
     "skill": "光之大義",
     "skill1": "",
-    "lskill": "種族凝匯 ‧ 光"
+    "lskill": "種族凝匯 ‧ 光",
+    "tcimg": "static/zhs/6154i.png"
   },
   {
     "id": "6155",
@@ -1669,7 +1820,8 @@
     "series": "八仙",
     "skill": "穿魂之力 ‧ 機械",
     "skill1": "",
-    "lskill": "奪魄之森"
+    "lskill": "奪魄之森",
+    "tcimg": "static/zhs/6155i.png"
   },
   {
     "id": "6156",
@@ -1680,7 +1832,8 @@
     "series": "八仙",
     "skill": "仙荷之力 ‧ 強",
     "skill1": "",
-    "lskill": "八仙陣"
+    "lskill": "八仙陣",
+    "tcimg": "static/zhs/6156i.png"
   },
   {
     "id": "6157",
@@ -1691,7 +1844,8 @@
     "series": "八仙",
     "skill": "幽魂八卦陣",
     "skill1": "",
-    "lskill": "冥神 ‧ 符籙"
+    "lskill": "冥神 ‧ 符籙",
+    "tcimg": "static/zhs/6157i.png"
   },
   {
     "id": "6158",
@@ -1702,7 +1856,8 @@
     "series": "地獄魔王",
     "skill": "永恆幻夢",
     "skill1": "",
-    "lskill": "暗黑之皇權"
+    "lskill": "暗黑之皇權",
+    "tcimg": "static/zhs/6158i.png"
   },
   {
     "id": "6159",
@@ -1713,7 +1868,8 @@
     "series": "地獄魔王",
     "skill": "惑靈術",
     "skill1": "",
-    "lskill": "妖怒萬鈞 ‧ 絕命之力"
+    "lskill": "妖怒萬鈞 ‧ 絕命之力",
+    "tcimg": "static/zhs/6159i.png"
   },
   {
     "id": "6160",
@@ -1724,7 +1880,8 @@
     "series": "地獄魔王",
     "skill": "喪嬰血仇",
     "skill1": "",
-    "lskill": "莫逆相伴 ‧ 魔"
+    "lskill": "莫逆相伴 ‧ 魔",
+    "tcimg": "static/zhs/6160i.png"
   },
   {
     "id": "6161",
@@ -1735,7 +1892,8 @@
     "series": "粉碎狂熱",
     "skill": "反擊性穩定定向器",
     "skill1": "",
-    "lskill": "彩虹的衝擊"
+    "lskill": "彩虹的衝擊",
+    "tcimg": "static/zhs/6161i.png"
   },
   {
     "id": "6162",
@@ -1746,7 +1904,8 @@
     "series": "粉碎狂熱",
     "skill": "最終翠械行動綱領",
     "skill1": "",
-    "lskill": "翠械戰略"
+    "lskill": "翠械戰略",
+    "tcimg": "static/zhs/6162i.png"
   },
   {
     "id": "6163",
@@ -1757,7 +1916,8 @@
     "series": "粉碎狂熱",
     "skill": "億雷接電 脈衝感應",
     "skill1": "",
-    "lskill": "雷電戰意"
+    "lskill": "雷電戰意",
+    "tcimg": "static/zhs/6163i.png"
   },
   {
     "id": "6164",
@@ -1768,7 +1928,8 @@
     "series": "地獄魔王",
     "skill": "紅蓮滅卻鹿盧劍",
     "skill1": "",
-    "lskill": "萬世皇帝之氣勢"
+    "lskill": "萬世皇帝之氣勢",
+    "tcimg": "static/zhs/6164i.png"
   },
   {
     "id": "6165",
@@ -1779,7 +1940,8 @@
     "series": "地獄魔王",
     "skill": "刪除　終末",
     "skill1": "",
-    "lskill": "猩紅血刃"
+    "lskill": "猩紅血刃",
+    "tcimg": "static/zhs/6165i.png"
   },
   {
     "id": "6166",
@@ -1790,7 +1952,8 @@
     "series": "女王之塔",
     "skill": "相稱型僵局突破型態",
     "skill1": "",
-    "lskill": "躍動之流燄"
+    "lskill": "躍動之流燄",
+    "tcimg": "static/zhs/6166i.png"
   },
   {
     "id": "6167",
@@ -1801,7 +1964,8 @@
     "series": "憶念",
     "skill": "審判之刑",
     "skill1": "",
-    "lskill": "玄光之濤 ‧ 機械"
+    "lskill": "玄光之濤 ‧ 機械",
+    "tcimg": "static/zhs/6167i.png"
   },
   {
     "id": "6168",
@@ -1812,7 +1976,8 @@
     "series": "諸界看守者",
     "skill": "游刃而攻 ‧ 強",
     "skill1": "移靈加冕 ‧ 耀光之浪",
-    "lskill": "水之震怒"
+    "lskill": "水之震怒",
+    "tcimg": "static/zhs/6168i.png"
   },
   {
     "id": "6169",
@@ -1823,7 +1988,8 @@
     "series": "諸界看守者",
     "skill": "熾燄之傲 ‧ 強",
     "skill1": "移靈加冕 ‧ 幽冥之燄",
-    "lskill": "火之震怒"
+    "lskill": "火之震怒",
+    "tcimg": "static/zhs/6169i.png"
   },
   {
     "id": "6170",
@@ -1834,7 +2000,8 @@
     "series": "諸界看守者",
     "skill": "淨世之姿 ‧ 強",
     "skill1": "移靈加冕 ‧ 耀光之森",
-    "lskill": "木之震怒"
+    "lskill": "木之震怒",
+    "tcimg": "static/zhs/6170i.png"
   },
   {
     "id": "6171",
@@ -1845,7 +2012,8 @@
     "series": "諸界看守者",
     "skill": "運籌之時 ‧ 強",
     "skill1": "移靈加冕 ‧ 浪濤之耀",
-    "lskill": "光之震怒"
+    "lskill": "光之震怒",
+    "tcimg": "static/zhs/6171i.png"
   },
   {
     "id": "6172",
@@ -1856,7 +2024,8 @@
     "series": "諸界看守者",
     "skill": "轟動一瞬 ‧ 強",
     "skill1": "移靈加冕 ‧ 森林之幽",
-    "lskill": "暗之震怒"
+    "lskill": "暗之震怒",
+    "tcimg": "static/zhs/6172i.png"
   },
   {
     "id": "6173",
@@ -1867,7 +2036,8 @@
     "series": "地獄魔王",
     "skill": "無畏之心",
     "skill1": "",
-    "lskill": "神族萬鈞之怒"
+    "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/6173i.png"
   },
   {
     "id": "6174",
@@ -1878,7 +2048,8 @@
     "series": "埃及神煉化",
     "skill": "極限解放 ‧ 浪濤",
     "skill1": "",
-    "lskill": "浪濤之誅罰"
+    "lskill": "浪濤之誅罰",
+    "tcimg": "static/zhs/6174i.png"
   },
   {
     "id": "6175",
@@ -1889,7 +2060,8 @@
     "series": "埃及神煉化",
     "skill": "極限解放 ‧ 熾燄",
     "skill1": "",
-    "lskill": "熾燄之誅罰"
+    "lskill": "熾燄之誅罰",
+    "tcimg": "static/zhs/6175i.png"
   },
   {
     "id": "6176",
@@ -1900,7 +2072,8 @@
     "series": "埃及神煉化",
     "skill": "極限解放 ‧ 藤木",
     "skill1": "",
-    "lskill": "藤棘之誅罰"
+    "lskill": "藤棘之誅罰",
+    "tcimg": "static/zhs/6176i.png"
   },
   {
     "id": "6177",
@@ -1911,7 +2084,8 @@
     "series": "埃及神煉化",
     "skill": "極限解放 ‧ 玄光",
     "skill1": "",
-    "lskill": "玄光之誅罰"
+    "lskill": "玄光之誅罰",
+    "tcimg": "static/zhs/6177i.png"
   },
   {
     "id": "6178",
@@ -1922,7 +2096,8 @@
     "series": "埃及神煉化",
     "skill": "極限解放 ‧ 幽冥",
     "skill1": "",
-    "lskill": "幽冥之誅罰"
+    "lskill": "幽冥之誅罰",
+    "tcimg": "static/zhs/6178i.png"
   },
   {
     "id": "6179",
@@ -1933,7 +2108,8 @@
     "series": "創塔者們",
     "skill": "遠目之擊 ‧ 光",
     "skill1": "",
-    "lskill": "記憶碎片"
+    "lskill": "記憶碎片",
+    "tcimg": "static/zhs/6179i.png"
   },
   {
     "id": "6180",
@@ -1944,7 +2120,8 @@
     "series": "獵人×獵人",
     "skill": "猜猜拳2209",
     "skill1": "",
-    "lskill": "小傑之本能・成長"
+    "lskill": "小傑之本能・成長",
+    "tcimg": "static/zhs/6180i.png"
   },
   {
     "id": "6182",
@@ -1955,7 +2132,8 @@
     "series": "獵人×獵人",
     "skill": "疾風迅雷",
     "skill1": "",
-    "lskill": "奇犽之體能．成長"
+    "lskill": "奇犽之體能．成長",
+    "tcimg": "static/zhs/6182i.png"
   },
   {
     "id": "6183",
@@ -1966,7 +2144,8 @@
     "series": "地獄魔王",
     "skill": "照亮一切的光",
     "skill1": "",
-    "lskill": "強悍之力量"
+    "lskill": "強悍之力量",
+    "tcimg": "static/zhs/6183i.png"
   },
   {
     "id": "6185",
@@ -1977,7 +2156,8 @@
     "series": "戰慄級",
     "skill": "黑子舞想",
     "skill1": "",
-    "lskill": "魔族萬鈞之怒"
+    "lskill": "魔族萬鈞之怒",
+    "tcimg": "static/zhs/6185i.png"
   },
   {
     "id": "6186",
@@ -1988,7 +2168,8 @@
     "series": "部落精獸",
     "skill": "狩獵之勢 ‧ 水",
     "skill1": "",
-    "lskill": "水影結界 ‧ 獸"
+    "lskill": "水影結界 ‧ 獸",
+    "tcimg": "static/zhs/6186i.png"
   },
   {
     "id": "6187",
@@ -1999,7 +2180,8 @@
     "series": "部落精獸",
     "skill": "燄之結界 ‧ 強",
     "skill1": "",
-    "lskill": "燄影結界 ‧ 獸"
+    "lskill": "燄影結界 ‧ 獸",
+    "tcimg": "static/zhs/6187i.png"
   },
   {
     "id": "6188",
@@ -2010,7 +2192,8 @@
     "series": "部落精獸",
     "skill": "窮兇極怒 ‧ 強",
     "skill1": "",
-    "lskill": "森影結界 ‧ 獸"
+    "lskill": "森影結界 ‧ 獸",
+    "tcimg": "static/zhs/6188i.png"
   },
   {
     "id": "6189",
@@ -2021,7 +2204,8 @@
     "series": "部落精獸",
     "skill": "狩獵之勢 ‧ 光",
     "skill1": "",
-    "lskill": "光影結界 ‧ 獸"
+    "lskill": "光影結界 ‧ 獸",
+    "tcimg": "static/zhs/6189i.png"
   },
   {
     "id": "6190",
@@ -2032,7 +2216,8 @@
     "series": "部落精獸",
     "skill": "窮兇極怒 ‧ 強",
     "skill1": "",
-    "lskill": "魅影結界 ‧ 獸"
+    "lskill": "魅影結界 ‧ 獸",
+    "tcimg": "static/zhs/6190i.png"
   },
   {
     "id": "6191",
@@ -2043,7 +2228,8 @@
     "series": "幽☆遊☆白書",
     "skill": "靈丸1787",
     "skill1": "",
-    "lskill": "三界最強集結 ‧ 強"
+    "lskill": "三界最強集結 ‧ 強",
+    "tcimg": "static/zhs/6191i.png"
   },
   {
     "id": "6192",
@@ -2054,7 +2240,8 @@
     "series": "幽☆遊☆白書",
     "skill": "樹靈妖斬拳",
     "skill1": "",
-    "lskill": "漫天薔薇之瓣"
+    "lskill": "漫天薔薇之瓣",
+    "tcimg": "static/zhs/6192i.png"
   },
   {
     "id": "6193",
@@ -2065,7 +2252,8 @@
     "series": "幽☆遊☆白書",
     "skill": "邪王炎殺劍",
     "skill1": "",
-    "lskill": "酷冷幽燄 ‧ 強"
+    "lskill": "酷冷幽燄 ‧ 強",
+    "tcimg": "static/zhs/6193i.png"
   },
   {
     "id": "6194",
@@ -2076,7 +2264,8 @@
     "series": "地獄魔王",
     "skill": "全能量 100% 中的 100%",
     "skill1": "",
-    "lskill": "最強之念 ‧ 肌肉操縱"
+    "lskill": "最強之念 ‧ 肌肉操縱",
+    "tcimg": "static/zhs/6194i.png"
   },
   {
     "id": "6195",
@@ -2087,7 +2276,8 @@
     "series": "地獄魔王",
     "skill": "裂蹴紫炎彈",
     "skill1": "",
-    "lskill": "滅恨之光 ‧ 護"
+    "lskill": "滅恨之光 ‧ 護",
+    "tcimg": "static/zhs/6195i.png"
   },
   {
     "id": "6196",
@@ -2098,7 +2288,8 @@
     "series": "地獄魔王",
     "skill": "冷冽斷頭刀",
     "skill1": "",
-    "lskill": "水之震怒"
+    "lskill": "水之震怒",
+    "tcimg": "static/zhs/6196i.png"
   },
   {
     "id": "6197",
@@ -2109,7 +2300,8 @@
     "series": "巫女",
     "skill": "冰霜絕命",
     "skill1": "",
-    "lskill": "水之狂怒"
+    "lskill": "水之狂怒",
+    "tcimg": "static/zhs/6197i.png"
   },
   {
     "id": "6198",
@@ -2120,7 +2312,8 @@
     "series": "巫女",
     "skill": "喋血戰意",
     "skill1": "",
-    "lskill": "火之狂怒"
+    "lskill": "火之狂怒",
+    "tcimg": "static/zhs/6198i.png"
   },
   {
     "id": "6199",
@@ -2131,7 +2324,8 @@
     "series": "巫女",
     "skill": "魔法雙刃",
     "skill1": "",
-    "lskill": "大地之霸權"
+    "lskill": "大地之霸權",
+    "tcimg": "static/zhs/6199i.png"
   },
   {
     "id": "6200",
@@ -2142,7 +2336,8 @@
     "series": "巴比倫主神煉化",
     "skill": "水刃煞陣 ‧ 掌時",
     "skill1": "",
-    "lskill": "穹蒼賜賞 ‧ 浪濤"
+    "lskill": "穹蒼賜賞 ‧ 浪濤",
+    "tcimg": "static/zhs/6200i.png"
   },
   {
     "id": "6201",
@@ -2153,7 +2348,8 @@
     "series": "巴比倫主神煉化",
     "skill": "燄刃煞陣 ‧ 掌時",
     "skill1": "",
-    "lskill": "穹蒼賜賞 ‧ 熾燄"
+    "lskill": "穹蒼賜賞 ‧ 熾燄",
+    "tcimg": "static/zhs/6201i.png"
   },
   {
     "id": "6202",
@@ -2164,7 +2360,8 @@
     "series": "巴比倫主神煉化",
     "skill": "藤刃煞陣 ‧ 掌時",
     "skill1": "",
-    "lskill": "穹蒼賜賞 ‧ 藤木"
+    "lskill": "穹蒼賜賞 ‧ 藤木",
+    "tcimg": "static/zhs/6202i.png"
   },
   {
     "id": "6203",
@@ -2175,7 +2372,8 @@
     "series": "巴比倫主神煉化",
     "skill": "光刃煞陣 ‧ 掌時",
     "skill1": "",
-    "lskill": "穹蒼賜賞 ‧ 玄光"
+    "lskill": "穹蒼賜賞 ‧ 玄光",
+    "tcimg": "static/zhs/6203i.png"
   },
   {
     "id": "6204",
@@ -2186,7 +2384,8 @@
     "series": "巴比倫主神煉化",
     "skill": "魅刃煞陣 ‧ 掌時",
     "skill1": "",
-    "lskill": "穹蒼賜賞 ‧ 幽冥"
+    "lskill": "穹蒼賜賞 ‧ 幽冥",
+    "tcimg": "static/zhs/6204i.png"
   },
   {
     "id": "6205",
@@ -2197,7 +2396,8 @@
     "series": "印度神",
     "skill": "混沌再生",
     "skill1": "",
-    "lskill": "神妖滅世 ‧ 強"
+    "lskill": "神妖滅世 ‧ 強",
+    "tcimg": "static/zhs/6205i.png"
   },
   {
     "id": "6206",
@@ -2208,7 +2408,8 @@
     "series": "印度神",
     "skill": "力量的肇始",
     "skill1": "",
-    "lskill": "元素創念 ‧ 強"
+    "lskill": "元素創念 ‧ 強",
+    "tcimg": "static/zhs/6206i.png"
   },
   {
     "id": "6207",
@@ -2219,7 +2420,8 @@
     "series": "印度神",
     "skill": "化厄之念",
     "skill1": "",
-    "lskill": "幻惑護生"
+    "lskill": "幻惑護生",
+    "tcimg": "static/zhs/6207i.png"
   },
   {
     "id": "6208",
@@ -2230,7 +2432,8 @@
     "series": "地獄魔王",
     "skill": "妖魅之靈",
     "skill1": "",
-    "lskill": "妖精萬鈞之怒"
+    "lskill": "妖精萬鈞之怒",
+    "tcimg": "static/zhs/6208i.png"
   },
   {
     "id": "6209",
@@ -2241,7 +2444,8 @@
     "series": "地獄魔王",
     "skill": "燄鳥振翅",
     "skill1": "",
-    "lskill": "獸類萬鈞之怒"
+    "lskill": "獸類萬鈞之怒",
+    "tcimg": "static/zhs/6209i.png"
   },
   {
     "id": "6210",
@@ -2252,7 +2456,8 @@
     "series": "地獄魔王",
     "skill": "神界之宰",
     "skill1": "",
-    "lskill": "神族萬鈞之怒"
+    "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/6210i.png"
   },
   {
     "id": "6211",
@@ -2263,7 +2468,8 @@
     "series": "神話創世",
     "skill": "強悍之志",
     "skill1": "",
-    "lskill": "千秋的傳承"
+    "lskill": "千秋的傳承",
+    "tcimg": "static/zhs/6211i.png"
   },
   {
     "id": "6212",
@@ -2274,7 +2480,8 @@
     "series": "靈獸役使",
     "skill": "浪濤噬",
     "skill1": "",
-    "lskill": "瑰秘之妖力"
+    "lskill": "瑰秘之妖力",
+    "tcimg": "static/zhs/6212i.png"
   },
   {
     "id": "6213",
@@ -2285,7 +2492,8 @@
     "series": "靈獸役使",
     "skill": "炙熱爪擊 ‧ 強",
     "skill1": "",
-    "lskill": "血燄注魂術 ‧ 強獸"
+    "lskill": "血燄注魂術 ‧ 強獸",
+    "tcimg": "static/zhs/6213i.png"
   },
   {
     "id": "6214",
@@ -2296,7 +2504,8 @@
     "series": "靈獸役使",
     "skill": "麒麟之傲 ‧ 強",
     "skill1": "",
-    "lskill": "矢志萬鈞龍怒 ‧ 壽延"
+    "lskill": "矢志萬鈞龍怒 ‧ 壽延",
+    "tcimg": "static/zhs/6214i.png"
   },
   {
     "id": "6215",
@@ -2307,7 +2516,8 @@
     "series": "靈獸役使",
     "skill": "魅影術 ‧ 煉",
     "skill1": "",
-    "lskill": "幽冥萬鈞之怒 ‧ 強"
+    "lskill": "幽冥萬鈞之怒 ‧ 強",
+    "tcimg": "static/zhs/6215i.png"
   },
   {
     "id": "6216",
@@ -2318,7 +2528,8 @@
     "series": "美好世界",
     "skill": "神光拳",
     "skill1": "",
-    "lskill": "神聖之水"
+    "lskill": "神聖之水",
+    "tcimg": "static/zhs/6216i.png"
   },
   {
     "id": "6217",
@@ -2329,7 +2540,8 @@
     "series": "美好世界",
     "skill": "爆裂魔法",
     "skill1": "爆裂魔法 ‧ 真紅的金光",
-    "lskill": "釋放最強魔法"
+    "lskill": "釋放最強魔法",
+    "tcimg": "static/zhs/6217i.png"
   },
   {
     "id": "6218",
@@ -2340,7 +2552,8 @@
     "series": "美好世界",
     "skill": "堅忍的盾牌",
     "skill1": "",
-    "lskill": "聖騎士之意志"
+    "lskill": "聖騎士之意志",
+    "tcimg": "static/zhs/6218i.png"
   },
   {
     "id": "6219",
@@ -2351,7 +2564,8 @@
     "series": "地獄魔王/2{{!}}地獄魔王",
     "skill": "巴尼爾式殺人光線",
     "skill1": "",
-    "lskill": "負面情感吞食"
+    "lskill": "負面情感吞食",
+    "tcimg": "static/zhs/6219i.png"
   },
   {
     "id": "6220",
@@ -2362,7 +2576,8 @@
     "series": "地獄魔王",
     "skill": "死亡宣告",
     "skill1": "",
-    "lskill": "魔族萬鈞之怒"
+    "lskill": "魔族萬鈞之怒",
+    "tcimg": "static/zhs/6220i.png"
   },
   {
     "id": "6221",
@@ -2373,7 +2588,8 @@
     "series": "神話創世",
     "skill": "突破之結界",
     "skill1": "",
-    "lskill": "光華獨尊"
+    "lskill": "光華獨尊",
+    "tcimg": "static/zhs/6221i.png"
   },
   {
     "id": "6222",
@@ -2384,7 +2600,8 @@
     "series": "神話創世",
     "skill": "斷魂冥淵",
     "skill1": "",
-    "lskill": "無上神權"
+    "lskill": "無上神權",
+    "tcimg": "static/zhs/6222i.png"
   },
   {
     "id": "6223",
@@ -2395,7 +2612,8 @@
     "series": "神話創世",
     "skill": "自由激濤",
     "skill1": "",
-    "lskill": "海淵凝念"
+    "lskill": "海淵凝念",
+    "tcimg": "static/zhs/6223i.png"
   },
   {
     "id": "6224",
@@ -2406,7 +2624,8 @@
     "series": "神話創世",
     "skill": "唯我傲臨 ‧ 三原結界",
     "skill1": "",
-    "lskill": "滅族之燄"
+    "lskill": "滅族之燄",
+    "tcimg": "static/zhs/6224i.png"
   },
   {
     "id": "6225",
@@ -2417,7 +2636,8 @@
     "series": "神貓大盜",
     "skill": "驚世爆破",
     "skill1": "",
-    "lskill": "幽魂的力量"
+    "lskill": "幽魂的力量",
+    "tcimg": "static/zhs/6225i.png"
   },
   {
     "id": "6226",
@@ -2428,7 +2648,8 @@
     "series": "神貓大盜",
     "skill": "順勢而攻",
     "skill1": "",
-    "lskill": "異瞳的力量"
+    "lskill": "異瞳的力量",
+    "tcimg": "static/zhs/6226i.png"
   },
   {
     "id": "6227",
@@ -2439,7 +2660,8 @@
     "series": "神貓大盜",
     "skill": "伺機而攻",
     "skill1": "",
-    "lskill": "女王的力量"
+    "lskill": "女王的力量",
+    "tcimg": "static/zhs/6227i.png"
   },
   {
     "id": "6228",
@@ -2450,7 +2672,8 @@
     "series": "地獄魔王",
     "skill": "貓療術",
     "skill1": "",
-    "lskill": "熾燄萬鈞之怒"
+    "lskill": "熾燄萬鈞之怒",
+    "tcimg": "static/zhs/6228i.png"
   },
   {
     "id": "6229",
@@ -2461,7 +2684,8 @@
     "series": "地獄魔王",
     "skill": "爆烈之肌",
     "skill1": "",
-    "lskill": "玄光萬鈞之怒"
+    "lskill": "玄光萬鈞之怒",
+    "tcimg": "static/zhs/6229i.png"
   },
   {
     "id": "6230",
@@ -2472,7 +2696,8 @@
     "series": "地獄魔王",
     "skill": "奪目的光與影",
     "skill1": "",
-    "lskill": "幽冥萬鈞之怒"
+    "lskill": "幽冥萬鈞之怒",
+    "tcimg": "static/zhs/6230i.png"
   },
   {
     "id": "6231",
@@ -2483,7 +2708,8 @@
     "series": "鮮紅恩典煉化",
     "skill": "狂魔之戾 ‧ 血誓",
     "skill1": "",
-    "lskill": "戾吞天下 ‧ 水"
+    "lskill": "戾吞天下 ‧ 水",
+    "tcimg": "static/zhs/6231i.png"
   },
   {
     "id": "6232",
@@ -2494,7 +2720,8 @@
     "series": "鮮紅恩典煉化",
     "skill": "狂魔之戾 ‧ 血誓",
     "skill1": "",
-    "lskill": "戾吞天下 ‧ 火"
+    "lskill": "戾吞天下 ‧ 火",
+    "tcimg": "static/zhs/6232i.png"
   },
   {
     "id": "6233",
@@ -2505,7 +2732,8 @@
     "series": "鮮紅恩典煉化",
     "skill": "狂魔之戾 ‧ 血誓",
     "skill1": "",
-    "lskill": "戾吞天下 ‧ 木"
+    "lskill": "戾吞天下 ‧ 木",
+    "tcimg": "static/zhs/6233i.png"
   },
   {
     "id": "6234",
@@ -2516,7 +2744,8 @@
     "series": "鮮紅恩典煉化",
     "skill": "狂魔之戾 ‧ 血誓",
     "skill1": "",
-    "lskill": "魔性流曳 ‧ 光"
+    "lskill": "魔性流曳 ‧ 光",
+    "tcimg": "static/zhs/6234i.png"
   },
   {
     "id": "6235",
@@ -2527,7 +2756,8 @@
     "series": "鮮紅恩典煉化",
     "skill": "狂魔之戾 ‧ 血誓",
     "skill1": "",
-    "lskill": "魔性流曳 ‧ 暗"
+    "lskill": "魔性流曳 ‧ 暗",
+    "tcimg": "static/zhs/6235i.png"
   },
   {
     "id": "6236",
@@ -2538,7 +2768,8 @@
     "series": "地獄魔王",
     "skill": "曼妙的尖叫 ‧ 火烤",
     "skill1": "",
-    "lskill": "獸類萬鈞之怒"
+    "lskill": "獸類萬鈞之怒",
+    "tcimg": "static/zhs/6236i.png"
   },
   {
     "id": "6237",
@@ -2549,7 +2780,8 @@
     "series": "封王",
     "skill": "群魔共舞",
     "skill1": "",
-    "lskill": "萬妖齊舞"
+    "lskill": "萬妖齊舞",
+    "tcimg": "static/zhs/6237i.png"
   },
   {
     "id": "6238",
@@ -2560,7 +2792,8 @@
     "series": "黃道十二宮",
     "skill": "蓄力攻擊",
     "skill1": "",
-    "lskill": "大海之霸權"
+    "lskill": "大海之霸權",
+    "tcimg": "static/zhs/6238i.png"
   },
   {
     "id": "6239",
@@ -2571,7 +2804,8 @@
     "series": "黃道十二宮",
     "skill": "灼熱盾擊",
     "skill1": "",
-    "lskill": "煉獄之霸權"
+    "lskill": "煉獄之霸權",
+    "tcimg": "static/zhs/6239i.png"
   },
   {
     "id": "6240",
@@ -2582,7 +2816,8 @@
     "series": "黃道十二宮",
     "skill": "一擊即中",
     "skill1": "",
-    "lskill": "百步穿楊 ‧ 神弩"
+    "lskill": "百步穿楊 ‧ 神弩",
+    "tcimg": "static/zhs/6240i.png"
   },
   {
     "id": "6241",
@@ -2593,7 +2828,8 @@
     "series": "黃道十二宮",
     "skill": "狂戰士",
     "skill1": "",
-    "lskill": "光水堅甲之賦 ‧ 突破"
+    "lskill": "光水堅甲之賦 ‧ 突破",
+    "tcimg": "static/zhs/6241i.png"
   },
   {
     "id": "6242",
@@ -2604,7 +2840,8 @@
     "series": "黃道十二宮",
     "skill": "暗光攻擊轉化",
     "skill1": "",
-    "lskill": "眾神之狂怒"
+    "lskill": "眾神之狂怒",
+    "tcimg": "static/zhs/6242i.png"
   },
   {
     "id": "6243",
@@ -2615,7 +2852,8 @@
     "series": "黃道十二宮",
     "skill": "鐵壁陣勢 ‧ 暗",
     "skill1": "",
-    "lskill": "愈戰愈強 ‧ 爆擊"
+    "lskill": "愈戰愈強 ‧ 爆擊",
+    "tcimg": "static/zhs/6243i.png"
   },
   {
     "id": "6244",
@@ -2626,7 +2864,8 @@
     "series": "FAIRY TAIL",
     "skill": "星靈召喚・水瓶座",
     "skill1": "",
-    "lskill": "星靈魔法"
+    "lskill": "星靈魔法",
+    "tcimg": "static/zhs/6244i.png"
   },
   {
     "id": "6245",
@@ -2637,7 +2876,8 @@
     "series": "FAIRY TAIL",
     "skill": "火龍的鐵拳",
     "skill1": "",
-    "lskill": "滅龍魔法 ‧ 炎"
+    "lskill": "滅龍魔法 ‧ 炎",
+    "tcimg": "static/zhs/6245i.png"
   },
   {
     "id": "6246",
@@ -2648,7 +2888,8 @@
     "series": "FAIRY TAIL",
     "skill": "天輪・五芒星之劍",
     "skill1": "",
-    "lskill": "換裝魔法"
+    "lskill": "換裝魔法",
+    "tcimg": "static/zhs/6246i.png"
   },
   {
     "id": "6248",
@@ -2659,7 +2900,8 @@
     "series": "地獄魔王",
     "skill": "炎龍王的咆哮",
     "skill1": "",
-    "lskill": "炎龍王"
+    "lskill": "炎龍王",
+    "tcimg": "static/zhs/6248i.png"
   },
   {
     "id": "6250",
@@ -2670,7 +2912,8 @@
     "series": "神話創世",
     "skill": "焚書坑儒",
     "skill1": "",
-    "lskill": "亂世重典"
+    "lskill": "亂世重典",
+    "tcimg": "static/zhs/6250i.png"
   },
   {
     "id": "6251",
@@ -2681,7 +2924,8 @@
     "series": "誓約之花",
     "skill": "疾速之浪",
     "skill1": "",
-    "lskill": "水元素之力 ‧ 護壁"
+    "lskill": "水元素之力 ‧ 護壁",
+    "tcimg": "static/zhs/6251i.png"
   },
   {
     "id": "6252",
@@ -2692,7 +2936,8 @@
     "series": "誓約之花",
     "skill": "綻放之焰",
     "skill1": "",
-    "lskill": "心中的火苖"
+    "lskill": "心中的火苖",
+    "tcimg": "static/zhs/6252i.png"
   },
   {
     "id": "6253",
@@ -2703,7 +2948,8 @@
     "series": "地獄魔王",
     "skill": "絞之絕殺",
     "skill1": "",
-    "lskill": "妖魔萬鈞之怒"
+    "lskill": "妖魔萬鈞之怒",
+    "tcimg": "static/zhs/6253i.png"
   },
   {
     "id": "6254",
@@ -2714,7 +2960,8 @@
     "series": "百鬼夜行 ‧ 惡鬼",
     "skill": "鐵壁陣勢 ‧ 水",
     "skill1": "",
-    "lskill": "魔魅復甦 ‧ 凝水"
+    "lskill": "魔魅復甦 ‧ 凝水",
+    "tcimg": "static/zhs/6254i.png"
   },
   {
     "id": "6255",
@@ -2725,7 +2972,8 @@
     "series": "妖嬈花夢",
     "skill": "幻櫻花海 ‧ 魅",
     "skill1": "",
-    "lskill": "粉櫻花雨"
+    "lskill": "粉櫻花雨",
+    "tcimg": "static/zhs/6255i.png"
   },
   {
     "id": "6256",
@@ -2736,7 +2984,8 @@
     "series": "八仙",
     "skill": "穿魂之力 ‧ 機械",
     "skill1": "",
-    "lskill": "奪魄之森"
+    "lskill": "奪魄之森",
+    "tcimg": "static/zhs/6256i.png"
   },
   {
     "id": "6257",
@@ -2747,7 +2996,8 @@
     "series": "神話創世",
     "skill": "突破之結界",
     "skill1": "",
-    "lskill": "光華獨尊"
+    "lskill": "光華獨尊",
+    "tcimg": "static/zhs/6257i.png"
   },
   {
     "id": "6258",
@@ -2758,7 +3008,8 @@
     "series": "宇宙序章",
     "skill": "滅絕之噬",
     "skill1": "",
-    "lskill": "暗龍暴"
+    "lskill": "暗龍暴",
+    "tcimg": "static/zhs/6258i.png"
   },
   {
     "id": "6259",
@@ -2769,7 +3020,8 @@
     "series": "科研敍論",
     "skill": "流水定律",
     "skill1": "",
-    "lskill": "機械理論"
+    "lskill": "機械理論",
+    "tcimg": "static/zhs/6259i.png"
   },
   {
     "id": "6260",
@@ -2780,7 +3032,8 @@
     "series": "科研敍論",
     "skill": "元素探研",
     "skill1": "",
-    "lskill": "金液流動"
+    "lskill": "金液流動",
+    "tcimg": "static/zhs/6260i.png"
   },
   {
     "id": "6261",
@@ -2791,7 +3044,8 @@
     "series": "科研敍論",
     "skill": "機械解密",
     "skill1": "",
-    "lskill": "幾何結界"
+    "lskill": "幾何結界",
+    "tcimg": "static/zhs/6261i.png"
   },
   {
     "id": "6262",
@@ -2802,7 +3056,8 @@
     "series": "地獄魔王",
     "skill": "機械化的紀錄",
     "skill1": "",
-    "lskill": "機械始動"
+    "lskill": "機械始動",
+    "tcimg": "static/zhs/6262i.png"
   },
   {
     "id": "6263",
@@ -2813,7 +3068,8 @@
     "series": "地獄魔王",
     "skill": "日心說",
     "skill1": "",
-    "lskill": "人類萬鈞之怒"
+    "lskill": "人類萬鈞之怒",
+    "tcimg": "static/zhs/6263i.png"
   },
   {
     "id": "6264",
@@ -2824,7 +3080,8 @@
     "series": "地獄魔王",
     "skill": "極樂之魅",
     "skill1": "",
-    "lskill": "機械始動"
+    "lskill": "機械始動",
+    "tcimg": "static/zhs/6264i.png"
   },
   {
     "id": "6265",
@@ -2835,7 +3092,8 @@
     "series": "妖魔傾城",
     "skill": "禁果之惑",
     "skill1": "",
-    "lskill": "魔念之罪"
+    "lskill": "魔念之罪",
+    "tcimg": "static/zhs/6265i.png"
   },
   {
     "id": "6266",
@@ -2846,7 +3104,8 @@
     "series": "妖魔傾城",
     "skill": "集權之謀",
     "skill1": "",
-    "lskill": "魔曌之勢"
+    "lskill": "魔曌之勢",
+    "tcimg": "static/zhs/6266i.png"
   },
   {
     "id": "6267",
@@ -2857,7 +3116,8 @@
     "series": "妖魔傾城",
     "skill": "翩躚起舞",
     "skill1": "",
-    "lskill": "傾世魅顏"
+    "lskill": "傾世魅顏",
+    "tcimg": "static/zhs/6267i.png"
   },
   {
     "id": "6271",
@@ -2868,7 +3128,8 @@
     "series": "龍僕",
     "skill": "群龍壓迫 ‧ 護",
     "skill1": "",
-    "lskill": "噬血龍王 ‧ 強"
+    "lskill": "噬血龍王 ‧ 強",
+    "tcimg": "static/zhs/6271i.png"
   },
   {
     "id": "6272",
@@ -2879,7 +3140,8 @@
     "series": "黃道十二宮",
     "skill": "蓄能轉換 ‧ 煉水",
     "skill1": "",
-    "lskill": "水火堅甲之賦 ‧ 突破"
+    "lskill": "水火堅甲之賦 ‧ 突破",
+    "tcimg": "static/zhs/6272i.png"
   },
   {
     "id": "6273",
@@ -2890,7 +3152,8 @@
     "series": "百鬼夜行 ‧ 惡鬼",
     "skill": "蓄能轉換 ‧ 煉光",
     "skill1": "",
-    "lskill": "魔怒嘯天 ‧ 天雷陣"
+    "lskill": "魔怒嘯天 ‧ 天雷陣",
+    "tcimg": "static/zhs/6273i.png"
   },
   {
     "id": "6274",
@@ -2901,7 +3164,8 @@
     "series": "耀脈星芒",
     "skill": "幻影流星",
     "skill1": "",
-    "lskill": "流水之誘惑"
+    "lskill": "流水之誘惑",
+    "tcimg": "static/zhs/6274i.png"
   },
   {
     "id": "6275",
@@ -2912,7 +3176,8 @@
     "series": "巫女",
     "skill": "冰霜絕命",
     "skill1": "",
-    "lskill": "水之狂怒"
+    "lskill": "水之狂怒",
+    "tcimg": "static/zhs/6275i.png"
   },
   {
     "id": "6276",
@@ -2923,7 +3188,8 @@
     "series": "龍僕",
     "skill": "攻勢強化 ‧ 火",
     "skill1": "",
-    "lskill": "幻龍利牙"
+    "lskill": "幻龍利牙",
+    "tcimg": "static/zhs/6276i.png"
   },
   {
     "id": "6283",
@@ -2934,7 +3200,8 @@
     "series": "黃道十二宮",
     "skill": "狂戰士",
     "skill1": "",
-    "lskill": "火木堅甲之賦 ‧ 突破"
+    "lskill": "火木堅甲之賦 ‧ 突破",
+    "tcimg": "static/zhs/6283i.png"
   },
   {
     "id": "6284",
@@ -2945,7 +3212,8 @@
     "series": "黃道十二宮",
     "skill": "蓄能轉換 ‧ 煉木",
     "skill1": "",
-    "lskill": "木水堅甲之賦 ‧ 突破"
+    "lskill": "木水堅甲之賦 ‧ 突破",
+    "tcimg": "static/zhs/6284i.png"
   },
   {
     "id": "6285",
@@ -2956,7 +3224,8 @@
     "series": "黃道十二宮",
     "skill": "能量暴發",
     "skill1": "",
-    "lskill": "神聖之霸權"
+    "lskill": "神聖之霸權",
+    "tcimg": "static/zhs/6285i.png"
   },
   {
     "id": "6286",
@@ -2967,7 +3236,8 @@
     "series": "黃道十二宮",
     "skill": "諸刃之擊",
     "skill1": "",
-    "lskill": "眾神之狂怒"
+    "lskill": "眾神之狂怒",
+    "tcimg": "static/zhs/6286i.png"
   },
   {
     "id": "6287",
@@ -2978,7 +3248,8 @@
     "series": "黃道十二宮",
     "skill": "神魔共鳴",
     "skill1": "",
-    "lskill": "虛靜恬淡"
+    "lskill": "虛靜恬淡",
+    "tcimg": "static/zhs/6287i.png"
   },
   {
     "id": "6288",
@@ -2989,7 +3260,8 @@
     "series": "黃道十二宮",
     "skill": "蓄能轉換 ‧ 煉水",
     "skill1": "",
-    "lskill": "水火堅甲之賦 ‧ 突破"
+    "lskill": "水火堅甲之賦 ‧ 突破",
+    "tcimg": "static/zhs/6288i.png"
   },
   {
     "id": "6289",
@@ -3000,7 +3272,8 @@
     "series": "上古諸神",
     "skill": "智慧之火",
     "skill1": "",
-    "lskill": "乾坤太極陣"
+    "lskill": "乾坤太極陣",
+    "tcimg": "static/zhs/6289i.png"
   },
   {
     "id": "6290",
@@ -3011,7 +3284,8 @@
     "series": "上古諸神",
     "skill": "五色秘術",
     "skill1": "",
-    "lskill": "補天煉石"
+    "lskill": "補天煉石",
+    "tcimg": "static/zhs/6290i.png"
   },
   {
     "id": "6291",
@@ -3022,7 +3296,8 @@
     "series": "上古諸神",
     "skill": "蟠桃盛宴",
     "skill1": "",
-    "lskill": "煞神之罰"
+    "lskill": "煞神之罰",
+    "tcimg": "static/zhs/6291i.png"
   },
   {
     "id": "6292",
@@ -3033,7 +3308,8 @@
     "series": "地獄魔王",
     "skill": "戰火不滅",
     "skill1": "",
-    "lskill": "神 ‧ 焰之力"
+    "lskill": "神 ‧ 焰之力",
+    "tcimg": "static/zhs/6292i.png"
   },
   {
     "id": "6293",
@@ -3044,7 +3320,8 @@
     "series": "地獄魔王",
     "skill": "親嘗百草",
     "skill1": "",
-    "lskill": "神族萬鈞之怒"
+    "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/6293i.png"
   },
   {
     "id": "6294",
@@ -3055,7 +3332,8 @@
     "series": "地獄魔王",
     "skill": "開天闢地",
     "skill1": "",
-    "lskill": "神族萬鈞之怒"
+    "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/6294i.png"
   },
   {
     "id": "6295",
@@ -3066,7 +3344,8 @@
     "series": "神魔天后",
     "skill": "燃解心鎖",
     "skill1": "",
-    "lskill": "虹女之燄"
+    "lskill": "虹女之燄",
+    "tcimg": "static/zhs/6295i.png"
   },
   {
     "id": "6296",
@@ -3077,7 +3356,8 @@
     "series": "光之巨人、超人",
     "skill": "無限集束射線",
     "skill1": "",
-    "lskill": "影流拳法 ‧ 強"
+    "lskill": "影流拳法 ‧ 強",
+    "tcimg": "static/zhs/6296i.png"
   },
   {
     "id": "6297",
@@ -3088,7 +3368,8 @@
     "series": "光之巨人、超人",
     "skill": "ORB 至高聖劍",
     "skill1": "",
-    "lskill": "四態 ‧ 亂舞"
+    "lskill": "四態 ‧ 亂舞",
+    "tcimg": "static/zhs/6297i.png"
   },
   {
     "id": "6299",
@@ -3099,7 +3380,8 @@
     "series": "地獄魔王、侵略者",
     "skill": "一兆度火球",
     "skill1": "",
-    "lskill": "高熱 ‧ 大噴火"
+    "lskill": "高熱 ‧ 大噴火",
+    "tcimg": "static/zhs/6299i.png"
   },
   {
     "id": "6300",
@@ -3110,7 +3392,8 @@
     "series": "地獄魔王、侵略者",
     "skill": "蛇心劍 ‧ 新月斬波",
     "skill1": "",
-    "lskill": "瞬結 ‧ 黑暗力量"
+    "lskill": "瞬結 ‧ 黑暗力量",
+    "tcimg": "static/zhs/6300i.png"
   },
   {
     "id": "6301",
@@ -3121,7 +3404,8 @@
     "series": "地獄魔王、超人",
     "skill": "百萬戰鬥儀 ‧ 強",
     "skill1": "",
-    "lskill": "力量吸取"
+    "lskill": "力量吸取",
+    "tcimg": "static/zhs/6301i.png"
   },
   {
     "id": "6302",
@@ -3132,7 +3416,8 @@
     "series": "幻變之花",
     "skill": "神之弓",
     "skill1": "",
-    "lskill": "夜月之輝"
+    "lskill": "夜月之輝",
+    "tcimg": "static/zhs/6302i.png"
   },
   {
     "id": "6303",
@@ -3143,7 +3428,8 @@
     "series": "幻變之花",
     "skill": "神之幻術",
     "skill1": "",
-    "lskill": "夜月之魅"
+    "lskill": "夜月之魅",
+    "tcimg": "static/zhs/6303i.png"
   },
   {
     "id": "6304",
@@ -3154,7 +3440,8 @@
     "series": "靈獸役使",
     "skill": "浪濤噬",
     "skill1": "",
-    "lskill": "瑰秘之妖力"
+    "lskill": "瑰秘之妖力",
+    "tcimg": "static/zhs/6304i.png"
   },
   {
     "id": "6305",
@@ -3165,7 +3452,8 @@
     "series": "巫女",
     "skill": "喋血戰意",
     "skill1": "",
-    "lskill": "火之狂怒"
+    "lskill": "火之狂怒",
+    "tcimg": "static/zhs/6305i.png"
   },
   {
     "id": "6306",
@@ -3176,7 +3464,8 @@
     "series": "墮天",
     "skill": "三原靈冕化陣 ‧ 神燄",
     "skill1": "",
-    "lskill": "透幻烈燄"
+    "lskill": "透幻烈燄",
+    "tcimg": "static/zhs/6306i.png"
   },
   {
     "id": "6307",
@@ -3187,7 +3476,8 @@
     "series": "神貓大盜",
     "skill": "伺機而攻",
     "skill1": "",
-    "lskill": "女王的力量"
+    "lskill": "女王的力量",
+    "tcimg": "static/zhs/6307i.png"
   },
   {
     "id": "6308",
@@ -3198,7 +3488,8 @@
     "series": "宇宙序章",
     "skill": "夢中結界",
     "skill1": "",
-    "lskill": "吞噬之慾"
+    "lskill": "吞噬之慾",
+    "tcimg": "static/zhs/6308i.png"
   },
   {
     "id": "6310",
@@ -3209,7 +3500,8 @@
     "series": "虛擬歌手",
     "skill": "森夜的聲音",
     "skill1": "",
-    "lskill": "心的連繫"
+    "lskill": "心的連繫",
+    "tcimg": "static/zhs/6310i.png"
   },
   {
     "id": "6311",
@@ -3220,7 +3512,8 @@
     "series": "魔幻寶石",
     "skill": "蟲璧",
     "skill1": "",
-    "lskill": "懾魄瑰寶"
+    "lskill": "懾魄瑰寶",
+    "tcimg": "static/zhs/6311i.png"
   },
   {
     "id": "6312",
@@ -3231,7 +3524,8 @@
     "series": "魔幻寶石",
     "skill": "翠碧獵捕",
     "skill1": "",
-    "lskill": "翠色傲睨"
+    "lskill": "翠色傲睨",
+    "tcimg": "static/zhs/6312i.png"
   },
   {
     "id": "6313",
@@ -3242,7 +3536,8 @@
     "series": "魔幻寶石",
     "skill": "寶石遊樂園",
     "skill1": "",
-    "lskill": "閃鑽光華"
+    "lskill": "閃鑽光華",
+    "tcimg": "static/zhs/6313i.png"
   },
   {
     "id": "6314",
@@ -3253,7 +3548,8 @@
     "series": "北域遺族",
     "skill": "流雲術 ‧ 煉",
     "skill1": "",
-    "lskill": "浪濤怒嘯"
+    "lskill": "浪濤怒嘯",
+    "tcimg": "static/zhs/6314i.png"
   },
   {
     "id": "6315",
@@ -3264,7 +3560,8 @@
     "series": "北域遺族",
     "skill": "亡命感應 ‧ 火",
     "skill1": "",
-    "lskill": "熾燄怒嘯"
+    "lskill": "熾燄怒嘯",
+    "tcimg": "static/zhs/6315i.png"
   },
   {
     "id": "6316",
@@ -3275,7 +3572,8 @@
     "series": "北域遺族",
     "skill": "勇武之力 ‧ 強",
     "skill1": "",
-    "lskill": "藤木怒嘯"
+    "lskill": "藤木怒嘯",
+    "tcimg": "static/zhs/6316i.png"
   },
   {
     "id": "6317",
@@ -3286,7 +3584,8 @@
     "series": "北域遺族",
     "skill": "玄冥招來 ‧ 加冕",
     "skill1": "",
-    "lskill": "玄光怒嘯"
+    "lskill": "玄光怒嘯",
+    "tcimg": "static/zhs/6317i.png"
   },
   {
     "id": "6318",
@@ -3297,7 +3596,8 @@
     "series": "北域遺族",
     "skill": "蓄能轉換 ‧ 煉暗",
     "skill1": "",
-    "lskill": "幽冥怒嘯"
+    "lskill": "幽冥怒嘯",
+    "tcimg": "static/zhs/6318i.png"
   },
   {
     "id": "6319",
@@ -3308,7 +3608,8 @@
     "series": "地獄魔王",
     "skill": "睿焰之礦",
     "skill1": "",
-    "lskill": "神聖七約"
+    "lskill": "神聖七約",
+    "tcimg": "static/zhs/6319i.png"
   },
   {
     "id": "6320",
@@ -3319,7 +3620,8 @@
     "series": "地獄魔王",
     "skill": "碎落的光明",
     "skill1": "",
-    "lskill": "木葉 ‧  妖幻"
+    "lskill": "木葉 ‧  妖幻",
+    "tcimg": "static/zhs/6320i.png"
   },
   {
     "id": "6321",
@@ -3330,7 +3632,8 @@
     "series": "地獄魔王",
     "skill": "23 的奇蹟",
     "skill1": "",
-    "lskill": "廿三締約"
+    "lskill": "廿三締約",
+    "tcimg": "static/zhs/6321i.png"
   },
   {
     "id": "6326",
@@ -3341,7 +3644,8 @@
     "series": "百鬼夜行 ‧ 惡鬼",
     "skill": "鐵壁陣勢 ‧ 水",
     "skill1": "",
-    "lskill": "魔魅復甦 ‧ 凝水"
+    "lskill": "魔魅復甦 ‧ 凝水",
+    "tcimg": "static/zhs/6326i.png"
   },
   {
     "id": "6327",
@@ -3352,7 +3656,8 @@
     "series": "百鬼夜行 ‧ 惡鬼",
     "skill": "魔之怨念 ‧ 火",
     "skill1": "",
-    "lskill": "魔魅復甦 ‧ 凝火"
+    "lskill": "魔魅復甦 ‧ 凝火",
+    "tcimg": "static/zhs/6327i.png"
   },
   {
     "id": "6328",
@@ -3363,7 +3668,8 @@
     "series": "百鬼夜行 ‧ 惡鬼",
     "skill": "延緩",
     "skill1": "",
-    "lskill": "魔魅復甦 ‧ 凝木"
+    "lskill": "魔魅復甦 ‧ 凝木",
+    "tcimg": "static/zhs/6328i.png"
   },
   {
     "id": "6329",
@@ -3374,7 +3680,8 @@
     "series": "百鬼夜行 ‧ 惡鬼",
     "skill": "蓄能轉換 ‧ 煉光",
     "skill1": "",
-    "lskill": "魔怒嘯天 ‧ 天雷陣"
+    "lskill": "魔怒嘯天 ‧ 天雷陣",
+    "tcimg": "static/zhs/6329i.png"
   },
   {
     "id": "6330",
@@ -3385,7 +3692,8 @@
     "series": "百鬼夜行 ‧ 惡鬼",
     "skill": "狂魔暴戾 ‧ 強",
     "skill1": "",
-    "lskill": "魔怒嘯天 ‧ 冥極"
+    "lskill": "魔怒嘯天 ‧ 冥極",
+    "tcimg": "static/zhs/6330i.png"
   },
   {
     "id": "6331",
@@ -3396,7 +3704,8 @@
     "series": "妖魔傾城",
     "skill": "禁果之惑",
     "skill1": "",
-    "lskill": "魔念之罪"
+    "lskill": "魔念之罪",
+    "tcimg": "static/zhs/6331i.png"
   },
   {
     "id": "6332",
@@ -3407,7 +3716,8 @@
     "series": "憶念",
     "skill": "援之寄意",
     "skill1": "",
-    "lskill": "冥神萬鈞之怒 ‧ 強"
+    "lskill": "冥神萬鈞之怒 ‧ 強",
+    "tcimg": "static/zhs/6332i.png"
   },
   {
     "id": "6333",
@@ -3418,7 +3728,8 @@
     "series": "封王",
     "skill": "搶天奪日 ‧ 五源化靈",
     "skill1": "",
-    "lskill": "罪戮的罰則"
+    "lskill": "罪戮的罰則",
+    "tcimg": "static/zhs/6333i.png"
   },
   {
     "id": "6334",
@@ -3429,7 +3740,8 @@
     "series": "地獄魔王",
     "skill": "兩儀化靈 ‧ 結義",
     "skill1": "",
-    "lskill": "木靈為武 ‧ 火燄"
+    "lskill": "木靈為武 ‧ 火燄",
+    "tcimg": "static/zhs/6334i.png"
   },
   {
     "id": "6335",
@@ -3440,7 +3752,8 @@
     "series": "地獄魔王",
     "skill": "星宿下凡",
     "skill1": "",
-    "lskill": "神族萬鈞之怒"
+    "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/6335i.png"
   },
   {
     "id": "6336",
@@ -3451,7 +3764,8 @@
     "series": "地獄魔王",
     "skill": "化吉之念",
     "skill1": "",
-    "lskill": "神族萬鈞之怒"
+    "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/6336i.png"
   },
   {
     "id": "6337",
@@ -3462,7 +3776,8 @@
     "series": "封王",
     "skill": "無垠結界 ‧ 強",
     "skill1": "",
-    "lskill": "歸元結念 ‧ 強"
+    "lskill": "歸元結念 ‧ 強",
+    "tcimg": "static/zhs/6337i.png"
   },
   {
     "id": "6339",
@@ -3473,7 +3788,8 @@
     "series": "傾世霸主",
     "skill": "力拔山河",
     "skill1": "",
-    "lskill": "無雙之霸"
+    "lskill": "無雙之霸",
+    "tcimg": "static/zhs/6339i.png"
   },
   {
     "id": "6340",
@@ -3484,7 +3800,8 @@
     "series": "遙古三族",
     "skill": "不撓之志 ‧ 龍",
     "skill1": "",
-    "lskill": "三族戰勢"
+    "lskill": "三族戰勢",
+    "tcimg": "static/zhs/6340i.png"
   },
   {
     "id": "6341",
@@ -3495,7 +3812,8 @@
     "series": "遙古三族",
     "skill": "逆水之燄",
     "skill1": "",
-    "lskill": "神女之柔"
+    "lskill": "神女之柔",
+    "tcimg": "static/zhs/6341i.png"
   },
   {
     "id": "6342",
@@ -3506,7 +3824,8 @@
     "series": "遙古三族",
     "skill": "戰甲利刃 ‧ 獸",
     "skill1": "",
-    "lskill": "戰火紛飛"
+    "lskill": "戰火紛飛",
+    "tcimg": "static/zhs/6342i.png"
   },
   {
     "id": "6343",
@@ -3517,7 +3836,8 @@
     "series": "夢幻聖物",
     "skill": "驚世之步",
     "skill1": "煉丹術",
-    "lskill": "元素之核"
+    "lskill": "元素之核",
+    "tcimg": "static/zhs/6343i.png"
   },
   {
     "id": "6344",
@@ -3528,7 +3848,8 @@
     "series": "究極北歐神",
     "skill": "森野神號",
     "skill1": "",
-    "lskill": "藤蔓 ‧ 極致"
+    "lskill": "藤蔓 ‧ 極致",
+    "tcimg": "static/zhs/6344i.png"
   },
   {
     "id": "6345",
@@ -3539,7 +3860,8 @@
     "series": "真理追尋者",
     "skill": "爆炎鍊成陣",
     "skill1": "",
-    "lskill": "焰之鍊金術"
+    "lskill": "焰之鍊金術",
+    "tcimg": "static/zhs/6345i.png"
   },
   {
     "id": "6346",
@@ -3550,7 +3872,8 @@
     "series": "真理追尋者",
     "skill": "等價交換",
     "skill1": "",
-    "lskill": "鍊金術 ‧ 元素"
+    "lskill": "鍊金術 ‧ 元素",
+    "tcimg": "static/zhs/6346i.png"
   },
   {
     "id": "6347",
@@ -3561,7 +3884,8 @@
     "series": "真理追尋者",
     "skill": "巨大鎧甲",
     "skill1": "",
-    "lskill": "血印之魂"
+    "lskill": "血印之魂",
+    "tcimg": "static/zhs/6347i.png"
   },
   {
     "id": "6348",
@@ -3572,7 +3896,8 @@
     "series": "地獄魔王",
     "skill": "電殛之刑",
     "skill1": "",
-    "lskill": "機械人 ‧ 萬鈞之怒"
+    "lskill": "機械人 ‧ 萬鈞之怒",
+    "tcimg": "static/zhs/6348i.png"
   },
   {
     "id": "6349",
@@ -3583,7 +3908,8 @@
     "series": "魔幻寶石",
     "skill": "寶石遊樂園",
     "skill1": "",
-    "lskill": "閃鑽光華"
+    "lskill": "閃鑽光華",
+    "tcimg": "static/zhs/6349i.png"
   },
   {
     "id": "6350",
@@ -3594,7 +3920,8 @@
     "series": "天竺",
     "skill": "加冕之卍",
     "skill1": "",
-    "lskill": "浪濤萬鈞之怒"
+    "lskill": "浪濤萬鈞之怒",
+    "tcimg": "static/zhs/6350i.png"
   },
   {
     "id": "6351",
@@ -3605,7 +3932,8 @@
     "series": "天竺",
     "skill": "兩儀加冕 ‧ 火",
     "skill1": "元素凝力",
-    "lskill": "熾燄萬鈞之怒"
+    "lskill": "熾燄萬鈞之怒",
+    "tcimg": "static/zhs/6351i.png"
   },
   {
     "id": "6352",
@@ -3616,7 +3944,8 @@
     "series": "天竺",
     "skill": "釘鈀之力",
     "skill1": "",
-    "lskill": "藤木萬鈞之怒"
+    "lskill": "藤木萬鈞之怒",
+    "tcimg": "static/zhs/6352i.png"
   },
   {
     "id": "6353",
@@ -3627,7 +3956,8 @@
     "series": "天竺",
     "skill": "骷髏的加冕",
     "skill1": "",
-    "lskill": "玄光萬鈞之怒"
+    "lskill": "玄光萬鈞之怒",
+    "tcimg": "static/zhs/6353i.png"
   },
   {
     "id": "6354",
@@ -3638,7 +3968,8 @@
     "series": "天竺",
     "skill": "暗黑魅網的戰場",
     "skill1": "",
-    "lskill": "幽冥萬鈞之怒"
+    "lskill": "幽冥萬鈞之怒",
+    "tcimg": "static/zhs/6354i.png"
   },
   {
     "id": "6355",
@@ -3649,7 +3980,8 @@
     "series": "究極中國神",
     "skill": "金睛真火・極致凝煉",
     "skill1": "",
-    "lskill": "金鋼護甲"
+    "lskill": "金鋼護甲",
+    "tcimg": "static/zhs/6355i.png"
   },
   {
     "id": "6357",
@@ -3660,7 +3992,8 @@
     "series": "地獄魔王",
     "skill": "誅滅異己",
     "skill1": "",
-    "lskill": "木靈附攻 ‧ 野藤"
+    "lskill": "木靈附攻 ‧ 野藤",
+    "tcimg": "static/zhs/6357i.png"
   },
   {
     "id": "6358",
@@ -3671,7 +4004,8 @@
     "series": "時空之門",
     "skill": "水之治癒術",
     "skill1": "",
-    "lskill": "水流精華"
+    "lskill": "水流精華",
+    "tcimg": "static/zhs/6358i.png"
   },
   {
     "id": "6359",
@@ -3682,7 +4016,8 @@
     "series": "引導者",
     "skill": "解難化毒",
     "skill1": "",
-    "lskill": "妖精之靈泉"
+    "lskill": "妖精之靈泉",
+    "tcimg": "static/zhs/6359i.png"
   },
   {
     "id": "6360",
@@ -3693,7 +4028,8 @@
     "series": "夢幻聖物",
     "skill": "絕望的詛咒",
     "skill1": "",
-    "lskill": "萬惡之源"
+    "lskill": "萬惡之源",
+    "tcimg": "static/zhs/6360i.png"
   },
   {
     "id": "6361",
@@ -3704,7 +4040,8 @@
     "series": "代偶規條",
     "skill": "水淹木林",
     "skill1": "",
-    "lskill": "水月戰盾"
+    "lskill": "水月戰盾",
+    "tcimg": "static/zhs/6361i.png"
   },
   {
     "id": "6362",
@@ -3715,7 +4052,8 @@
     "series": "代偶規條",
     "skill": "疾風侵噬",
     "skill1": "",
-    "lskill": "藤棘怒號"
+    "lskill": "藤棘怒號",
+    "tcimg": "static/zhs/6362i.png"
   },
   {
     "id": "6363",
@@ -3726,7 +4064,8 @@
     "series": "代偶規條",
     "skill": "潛能甦醒",
     "skill1": "",
-    "lskill": "籌劃之戰"
+    "lskill": "籌劃之戰",
+    "tcimg": "static/zhs/6363i.png"
   },
   {
     "id": "6364",
@@ -3737,7 +4076,8 @@
     "series": "地獄魔王",
     "skill": "剛強的表象",
     "skill1": "",
-    "lskill": "妖精萬鈞之怒"
+    "lskill": "妖精萬鈞之怒",
+    "tcimg": "static/zhs/6364i.png"
   },
   {
     "id": "6365",
@@ -3748,7 +4088,8 @@
     "series": "地獄魔王",
     "skill": "符文遊戲",
     "skill1": "",
-    "lskill": "神族萬鈞之怒"
+    "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/6365i.png"
   },
   {
     "id": "6366",
@@ -3759,7 +4100,8 @@
     "series": "地獄魔王",
     "skill": "魔欲橫流",
     "skill1": "",
-    "lskill": "魔族萬鈞之怒"
+    "lskill": "魔族萬鈞之怒",
+    "tcimg": "static/zhs/6366i.png"
   },
   {
     "id": "6367",
@@ -3770,7 +4112,8 @@
     "series": "神話創世",
     "skill": "突破之結界 ‧ 強",
     "skill1": "",
-    "lskill": "玄華獨尊 ‧ 崇"
+    "lskill": "玄華獨尊 ‧ 崇",
+    "tcimg": "static/zhs/6367i.png"
   },
   {
     "id": "6368",
@@ -3781,7 +4124,8 @@
     "series": "封王",
     "skill": "奔騰的液流",
     "skill1": "",
-    "lskill": "十殺之屠"
+    "lskill": "十殺之屠",
+    "tcimg": "static/zhs/6368i.png"
   },
   {
     "id": "6369",
@@ -3792,7 +4136,8 @@
     "series": "地獄魔王",
     "skill": "蔑火戰舞",
     "skill1": "",
-    "lskill": "幽魅戰姬"
+    "lskill": "幽魅戰姬",
+    "tcimg": "static/zhs/6369i.png"
   },
   {
     "id": "6370",
@@ -3803,7 +4148,8 @@
     "series": "天元突破、大紅蓮團",
     "skill": "來福槍狙擊",
     "skill1": "",
-    "lskill": "大紅蓮團之念"
+    "lskill": "大紅蓮團之念",
+    "tcimg": "static/zhs/6370i.png"
   },
   {
     "id": "6371",
@@ -3814,7 +4160,8 @@
     "series": "天元突破、大紅蓮團",
     "skill": "堅定意志",
     "skill1": "",
-    "lskill": "天元突破之勢"
+    "lskill": "天元突破之勢",
+    "tcimg": "static/zhs/6371i.png"
   },
   {
     "id": "6372",
@@ -3825,7 +4172,8 @@
     "series": "天元突破、大紅蓮團",
     "skill": "希望之光",
     "skill1": "",
-    "lskill": "天元突破之勢"
+    "lskill": "天元突破之勢",
+    "tcimg": "static/zhs/6372i.png"
   },
   {
     "id": "6373",
@@ -3836,7 +4184,8 @@
     "series": "地獄魔王",
     "skill": "嗜血之輪",
     "skill1": "",
-    "lskill": "魔獸 ‧ 萬鈞之怒"
+    "lskill": "魔獸 ‧ 萬鈞之怒",
+    "tcimg": "static/zhs/6373i.png"
   },
   {
     "id": "6374",
@@ -3847,7 +4196,8 @@
     "series": "地獄魔王",
     "skill": "嗅覺衝擊",
     "skill1": "",
-    "lskill": "妖精萬鈞之怒"
+    "lskill": "妖精萬鈞之怒",
+    "tcimg": "static/zhs/6374i.png"
   },
   {
     "id": "6375",
@@ -3858,7 +4208,8 @@
     "series": "妖魔傾城",
     "skill": "禁果之惑",
     "skill1": "",
-    "lskill": "魔念之罪"
+    "lskill": "魔念之罪",
+    "tcimg": "static/zhs/6375i.png"
   },
   {
     "id": "6376",
@@ -3869,7 +4220,8 @@
     "series": "眾神的逆鱗",
     "skill": "狩獵祭典",
     "skill1": "",
-    "lskill": "不死狩獵"
+    "lskill": "不死狩獵",
+    "tcimg": "static/zhs/6376i.png"
   },
   {
     "id": "6377",
@@ -3880,7 +4232,8 @@
     "series": "眾神的逆鱗",
     "skill": "靈槍 Chastiefol 第五形態「增殖」",
     "skill1": "",
-    "lskill": "妖精王之心"
+    "lskill": "妖精王之心",
+    "tcimg": "static/zhs/6377i.png"
   },
   {
     "id": "6378",
@@ -3891,7 +4244,8 @@
     "series": "眾神的逆鱗",
     "skill": "全反擊",
     "skill1": "",
-    "lskill": "支配憤怒"
+    "lskill": "支配憤怒",
+    "tcimg": "static/zhs/6378i.png"
   },
   {
     "id": "6379",
@@ -3902,7 +4256,8 @@
     "series": "封王",
     "skill": "符文交疊 ‧ 日",
     "skill1": "",
-    "lskill": "念之強勢 ‧ 噬日"
+    "lskill": "念之強勢 ‧ 噬日",
+    "tcimg": "static/zhs/6379i.png"
   },
   {
     "id": "6380",
@@ -3913,7 +4268,8 @@
     "series": "封王",
     "skill": "符文交疊 ‧ 月",
     "skill1": "",
-    "lskill": "念之強勢 ‧ 蝕月"
+    "lskill": "念之強勢 ‧ 蝕月",
+    "tcimg": "static/zhs/6380i.png"
   },
   {
     "id": "6402",
@@ -3924,7 +4280,8 @@
     "series": "神魔審判",
     "skill": "炮火連天",
     "skill1": "",
-    "lskill": "戰神之焰"
+    "lskill": "戰神之焰",
+    "tcimg": "static/zhs/6402i.png"
   },
   {
     "id": "6403",
@@ -3935,7 +4292,8 @@
     "series": "神魔審判",
     "skill": "畸軀",
     "skill1": "",
-    "lskill": "生靈殆盡"
+    "lskill": "生靈殆盡",
+    "tcimg": "static/zhs/6403i.png"
   },
   {
     "id": "6404",
@@ -3946,7 +4304,8 @@
     "series": "神魔審判",
     "skill": "星象詮釋",
     "skill1": "",
-    "lskill": "星宿之掌"
+    "lskill": "星宿之掌",
+    "tcimg": "static/zhs/6404i.png"
   },
   {
     "id": "6405",
@@ -3957,7 +4316,8 @@
     "series": "地獄魔王",
     "skill": "機魂虹彩",
     "skill1": "",
-    "lskill": "機械萬鈞之怒 ‧ 極"
+    "lskill": "機械萬鈞之怒 ‧ 極",
+    "tcimg": "static/zhs/6405i.png"
   },
   {
     "id": "6406",
@@ -3968,7 +4328,8 @@
     "series": "地獄魔王",
     "skill": "神明的導引",
     "skill1": "",
-    "lskill": "光暗一體"
+    "lskill": "光暗一體",
+    "tcimg": "static/zhs/6406i.png"
   },
   {
     "id": "6407",
@@ -3979,7 +4340,8 @@
     "series": "地獄魔王",
     "skill": "絕望爆發",
     "skill1": "",
-    "lskill": "魔族萬鈞之怒"
+    "lskill": "魔族萬鈞之怒",
+    "tcimg": "static/zhs/6407i.png"
   },
   {
     "id": "6408",
@@ -3990,7 +4352,8 @@
     "series": "夢幻聖物",
     "skill": "惡魔的幻象",
     "skill1": "",
-    "lskill": "宇宙之掌"
+    "lskill": "宇宙之掌",
+    "tcimg": "static/zhs/6408i.png"
   },
   {
     "id": "6409",
@@ -4001,7 +4364,8 @@
     "series": "永恆幻夢",
     "skill": "連綿夢魘",
     "skill1": "",
-    "lskill": "神夢國度"
+    "lskill": "神夢國度",
+    "tcimg": "static/zhs/6409i.png"
   },
   {
     "id": "6410",
@@ -4012,7 +4376,8 @@
     "series": "魔幻寶石",
     "skill": "翠碧獵捕",
     "skill1": "",
-    "lskill": "翠色傲睨"
+    "lskill": "翠色傲睨",
+    "tcimg": "static/zhs/6410i.png"
   },
   {
     "id": "6411",
@@ -4023,7 +4388,8 @@
     "series": "地獄魔王",
     "skill": "墜落攻勢",
     "skill1": "",
-    "lskill": "神族萬鈞之怒 ‧ 極"
+    "lskill": "神族萬鈞之怒 ‧ 極",
+    "tcimg": "static/zhs/6411i.png"
   },
   {
     "id": "6412",
@@ -4034,7 +4400,8 @@
     "series": "遙古三族",
     "skill": "不撓宏志 ‧ 龍",
     "skill1": "",
-    "lskill": "三族戰勢"
+    "lskill": "三族戰勢",
+    "tcimg": "static/zhs/6412i.png"
   },
   {
     "id": "6413",
@@ -4045,7 +4412,8 @@
     "series": "地獄魔王",
     "skill": "封印解除",
     "skill1": "",
-    "lskill": "13 號機覺醒！"
+    "lskill": "13 號機覺醒！",
+    "tcimg": "static/zhs/6413i.png"
   },
   {
     "id": "6414",
@@ -4056,7 +4424,8 @@
     "series": "地獄魔王",
     "skill": "封印解除",
     "skill1": "",
-    "lskill": "13 號機覺醒！"
+    "lskill": "13 號機覺醒！",
+    "tcimg": "static/zhs/6414i.png"
   },
   {
     "id": "6415",
@@ -4067,7 +4436,8 @@
     "series": "討伐戰",
     "skill": "射擊主砲",
     "skill1": "",
-    "lskill": "力量導引"
+    "lskill": "力量導引",
+    "tcimg": "static/zhs/6415i.png"
   },
   {
     "id": "6416",
@@ -4078,7 +4448,8 @@
     "series": "地獄魔王",
     "skill": "穿梭之時",
     "skill1": "",
-    "lskill": "夾腳拖"
+    "lskill": "夾腳拖",
+    "tcimg": "static/zhs/6416i.png"
   },
   {
     "id": "6417",
@@ -4089,7 +4460,8 @@
     "series": "神話創世",
     "skill": "自由激濤 ‧ 湧",
     "skill1": "",
-    "lskill": "海淵凝念 ‧ 強"
+    "lskill": "海淵凝念 ‧ 強",
+    "tcimg": "static/zhs/6417i.png"
   },
   {
     "id": "6418",
@@ -4100,7 +4472,8 @@
     "series": "大和",
     "skill": "神權八咫鏡 ‧ 強",
     "skill1": "",
-    "lskill": "燄神咒術．強"
+    "lskill": "燄神咒術．強",
+    "tcimg": "static/zhs/6418i.png"
   },
   {
     "id": "6429",
@@ -4111,7 +4484,8 @@
     "series": "魔法閣沙蘿耶",
     "skill": "命運交織",
     "skill1": "",
-    "lskill": "赤龍之心"
+    "lskill": "赤龍之心",
+    "tcimg": "static/zhs/6429i.png"
   },
   {
     "id": "6430",
@@ -4122,7 +4496,8 @@
     "series": "魔法閣沙蘿耶",
     "skill": "猛獸列陣",
     "skill1": "",
-    "lskill": "狂獸凶勢"
+    "lskill": "狂獸凶勢",
+    "tcimg": "static/zhs/6430i.png"
   },
   {
     "id": "6431",
@@ -4133,7 +4508,8 @@
     "series": "魔法閣沙蘿耶",
     "skill": "命定的守護",
     "skill1": "",
-    "lskill": "魔女承志"
+    "lskill": "魔女承志",
+    "tcimg": "static/zhs/6431i.png"
   },
   {
     "id": "6432",
@@ -4144,7 +4520,8 @@
     "series": "魔神戰",
     "skill": "破冰魅術",
     "skill1": "",
-    "lskill": "神族萬鈞之怒 ‧ 極"
+    "lskill": "神族萬鈞之怒 ‧ 極",
+    "tcimg": "static/zhs/6432i.png"
   },
   {
     "id": "6433",
@@ -4155,7 +4532,8 @@
     "series": "魔軍領率",
     "skill": "魔鬼的代號",
     "skill1": "",
-    "lskill": "御天之志"
+    "lskill": "御天之志",
+    "tcimg": "static/zhs/6433i.png"
   },
   {
     "id": "6434",
@@ -4166,7 +4544,8 @@
     "series": "魔軍領率",
     "skill": "金果誘毒",
     "skill1": "",
-    "lskill": "致命的嬌媚"
+    "lskill": "致命的嬌媚",
+    "tcimg": "static/zhs/6434i.png"
   },
   {
     "id": "6435",
@@ -4177,7 +4556,44 @@
     "series": "神魔員工",
     "skill": "小妹亂撞",
     "skill1": "",
-    "lskill": "沒有技能"
+    "lskill": "沒有技能",
+    "tcimg": "static/zhs/6435i.png"
+  },
+  {
+    "id": "6456",
+    "path": "static/zhs/6456i.png",
+    "rare": "6",
+    "attr": "水",
+    "race": "機械族",
+    "series": "ROCKMAN X DiVE",
+    "skill": "集氣射擊",
+    "skill1": "",
+    "lskill": "手砲戰鬥",
+    "tcimg": "static/zhs/6456i.png"
+  },
+  {
+    "id": "6457",
+    "path": "static/zhs/6457i.png",
+    "rare": "7",
+    "attr": "水",
+    "race": "機械族",
+    "series": "ROCKMAN X DiVE",
+    "skill": "螺旋爆碎射擊 ‧ 漩渦",
+    "skill1": "",
+    "lskill": "手砲戰鬥 ‧ 第一裝甲",
+    "tcimg": "static/zhs/6457i.png"
+  },
+  {
+    "id": "6458",
+    "path": "static/zhs/6458i.png",
+    "rare": "7",
+    "attr": "光",
+    "race": "機械族",
+    "series": "ROCKMAN X DiVE",
+    "skill": "螺旋爆碎射擊 ‧ 雷光",
+    "skill1": "",
+    "lskill": "手砲戰鬥 ‧ 第二裝甲",
+    "tcimg": "static/zhs/6458i.png"
   },
   {
     "id": "7001",
@@ -4189,6 +4605,7 @@
     "skill": "暗火移魂",
     "skill1": "",
     "lskill": "火之震怒",
+    "tcimg": "static/zhs/7001i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4206,6 +4623,7 @@
     "skill": "歸一之志",
     "skill1": "",
     "lskill": "邃矚之力",
+    "tcimg": "static/zhs/7002i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4223,6 +4641,7 @@
     "skill": "凝時摧魂 ‧ 木",
     "skill1": "",
     "lskill": "大地之集權",
+    "tcimg": "static/zhs/7003i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4242,6 +4661,7 @@
     "skill": "五星同源 ‧ 念",
     "skill1": "",
     "lskill": "遊俠之義",
+    "tcimg": "static/zhs/7004i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4266,6 +4686,7 @@
     "skill": "進擊之癲",
     "skill1": "",
     "lskill": "眾神之狂怒",
+    "tcimg": "static/zhs/7005i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4286,6 +4707,7 @@
     "skill": "逆天加冕",
     "skill1": "",
     "lskill": "野獸之嗔怒",
+    "tcimg": "static/zhs/7006i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4309,6 +4731,7 @@
     "skill": "死靈之源",
     "skill1": "",
     "lskill": "妖精之舞",
+    "tcimg": "static/zhs/7007i.png",
     "tags": [
       "增傷",
       "界王拳"
@@ -4324,6 +4747,7 @@
     "skill": "群龍之首 ‧ 呼嘯",
     "skill1": "",
     "lskill": "龍之嗔怒",
+    "tcimg": "static/zhs/7008i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4344,6 +4768,7 @@
     "skill": "無形 ‧ 瞬擊",
     "skill1": "",
     "lskill": "人類之嗔怒",
+    "tcimg": "static/zhs/7009i.png",
     "tags": [
       "限制成員攻擊",
       "迴避",
@@ -4362,6 +4787,7 @@
     "skill": "靈之回饋",
     "skill1": "",
     "lskill": "妖精之舞",
+    "tcimg": "static/zhs/7010i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4380,6 +4806,7 @@
     "skill": "神魅噬魂",
     "skill1": "",
     "lskill": "眾神之狂怒",
+    "tcimg": "static/zhs/7011i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -4396,6 +4823,7 @@
     "skill": "森野結界",
     "skill1": "",
     "lskill": "野獸之嗔怒",
+    "tcimg": "static/zhs/7012i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4419,6 +4847,7 @@
     "skill": "穿刺奪魄 ‧ 光炫",
     "skill1": "",
     "lskill": "神魔獵盟",
+    "tcimg": "static/zhs/7013i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4441,6 +4870,7 @@
     "skill": "玄火追擊流",
     "skill1": "",
     "lskill": "藤木萬鈞之怒 ‧ 強",
+    "tcimg": "static/zhs/7014i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -4461,6 +4891,7 @@
     "skill": "無止煉獄",
     "skill1": "",
     "lskill": "燄獸萬鈞之怒 ‧ 極",
+    "tcimg": "static/zhs/7015i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4482,6 +4913,7 @@
     "skill": "流水邪術",
     "skill1": "",
     "lskill": "浪濤萬鈞之怒",
+    "tcimg": "static/zhs/7016i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4500,6 +4932,7 @@
     "skill": "鮮血之渴求",
     "skill1": "",
     "lskill": "魔族萬鈞之怒",
+    "tcimg": "static/zhs/7017i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4521,6 +4954,7 @@
     "skill": "連綿夢魘",
     "skill1": "",
     "lskill": "神夢國度",
+    "tcimg": "static/zhs/7018i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4546,6 +4980,7 @@
     "skill": "元素護壁",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/8001i.png",
     "tags": [
       "減傷",
       "迴避",
@@ -4564,6 +4999,7 @@
     "skill": "元素護壁",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/8002i.png",
     "tags": [
       "減傷",
       "迴避",
@@ -4582,6 +5018,7 @@
     "skill": "淨世一擊",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/8003i.png",
     "tags": [
       "風化符石處理",
       "直傷",
@@ -4600,6 +5037,7 @@
     "skill": "淨世一擊",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/8004i.png",
     "tags": [
       "風化符石處理",
       "直傷",
@@ -4618,6 +5056,7 @@
     "skill": "鐵壁陣勢 ‧ 木",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/8005i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4637,6 +5076,7 @@
     "skill": "鐵壁陣勢 ‧ 木",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/8006i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4656,6 +5096,7 @@
     "skill": "元素轉移 ‧ 光",
     "skill1": "",
     "lskill": "愈戰愈強 ‧ 超",
+    "tcimg": "static/zhs/8007i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理"
@@ -4671,6 +5112,7 @@
     "skill": "元素轉移 ‧ 光",
     "skill1": "",
     "lskill": "愈戰愈強 ‧ 超",
+    "tcimg": "static/zhs/8008i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理"
@@ -4686,6 +5128,7 @@
     "skill": "幽冥追擊",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/8009i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -4705,6 +5148,7 @@
     "skill": "幽冥追擊",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/8010i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -4724,6 +5168,7 @@
     "skill": "念之躍動",
     "skill1": "",
     "lskill": "邃矚之力",
+    "tcimg": "static/zhs/8011i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4742,6 +5187,7 @@
     "skill": "念之躍動",
     "skill1": "",
     "lskill": "邃矚之力",
+    "tcimg": "static/zhs/8012i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4760,6 +5206,7 @@
     "skill": "時空裂縫",
     "skill1": "",
     "lskill": "速戰速決",
+    "tcimg": "static/zhs/8013i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4777,6 +5224,7 @@
     "skill": "時空裂縫",
     "skill1": "",
     "lskill": "速戰速決",
+    "tcimg": "static/zhs/8014i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4794,6 +5242,7 @@
     "skill": "水暗移魂",
     "skill1": "",
     "lskill": "野獸之狂怒",
+    "tcimg": "static/zhs/8015i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4811,6 +5260,7 @@
     "skill": "暗水移魂",
     "skill1": "",
     "lskill": "海之怒",
+    "tcimg": "static/zhs/8016i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4828,6 +5278,7 @@
     "skill": "暗火移魂",
     "skill1": "",
     "lskill": "炎之怒",
+    "tcimg": "static/zhs/8017i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4845,6 +5296,7 @@
     "skill": "光木移魂",
     "skill1": "",
     "lskill": "森之怒",
+    "tcimg": "static/zhs/8018i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4862,6 +5314,7 @@
     "skill": "火光移魂",
     "skill1": "",
     "lskill": "聖之怒",
+    "tcimg": "static/zhs/8019i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4879,6 +5332,7 @@
     "skill": "木暗移魂",
     "skill1": "",
     "lskill": "邪之怒",
+    "tcimg": "static/zhs/8020i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4896,6 +5350,7 @@
     "skill": "元素共鳴 ‧ 龍",
     "skill1": "",
     "lskill": "龍之狂怒",
+    "tcimg": "static/zhs/8021i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4914,6 +5369,7 @@
     "skill": "元素凝聚",
     "skill1": "",
     "lskill": "魔之軍勢",
+    "tcimg": "static/zhs/8022i.png",
     "tags": [
       "增傷",
       "界王拳",
@@ -4930,6 +5386,7 @@
     "skill": "暗木移魂",
     "skill1": "",
     "lskill": "森之怒",
+    "tcimg": "static/zhs/8023i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -4947,6 +5404,7 @@
     "skill": "光刃猛擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/8024i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4963,6 +5421,7 @@
     "skill": "暗戈猛擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/8025i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4979,6 +5438,7 @@
     "skill": "流水猛擊",
     "skill1": "",
     "lskill": "海之力",
+    "tcimg": "static/zhs/8026i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -4995,6 +5455,7 @@
     "skill": "烈焰猛擊",
     "skill1": "",
     "lskill": "炎之力",
+    "tcimg": "static/zhs/8027i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5011,6 +5472,7 @@
     "skill": "片葉猛擊",
     "skill1": "",
     "lskill": "森之力",
+    "tcimg": "static/zhs/8028i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5027,6 +5489,7 @@
     "skill": "光刃猛擊",
     "skill1": "",
     "lskill": "聖之力",
+    "tcimg": "static/zhs/8029i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5043,6 +5506,7 @@
     "skill": "暗戈猛擊",
     "skill1": "",
     "lskill": "邪之力",
+    "tcimg": "static/zhs/8030i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5059,6 +5523,7 @@
     "skill": "橫掃攻擊 ‧ 水",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8031i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5075,6 +5540,7 @@
     "skill": "橫掃攻擊 ‧ 水",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8032i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5091,6 +5557,7 @@
     "skill": "橫掃攻擊 ‧ 火",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8033i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5107,6 +5574,7 @@
     "skill": "橫掃攻擊 ‧ 火",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8034i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5123,6 +5591,7 @@
     "skill": "橫掃攻擊 ‧ 木",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8035i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5139,6 +5608,7 @@
     "skill": "橫掃攻擊 ‧ 木",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8036i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5155,6 +5625,7 @@
     "skill": "橫掃攻擊 ‧ 光",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8037i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5171,6 +5642,7 @@
     "skill": "橫掃攻擊 ‧ 光",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8038i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5187,6 +5659,7 @@
     "skill": "橫掃攻擊 ‧ 暗",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8039i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5203,6 +5676,7 @@
     "skill": "橫掃攻擊 ‧ 暗",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8040i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5219,6 +5693,7 @@
     "skill": "橫掃攻擊 ‧ 光",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8041i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5235,6 +5710,7 @@
     "skill": "念之躍動",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8042i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5253,6 +5729,7 @@
     "skill": "橫掃攻擊 ‧ 暗",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8043i.png",
     "tags": [
       "直傷",
       "增傷",
@@ -5269,6 +5746,7 @@
     "skill": "時空裂縫",
     "skill1": "",
     "lskill": "妖精之力",
+    "tcimg": "static/zhs/8044i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5286,6 +5764,7 @@
     "skill": "魔控乾坤 ‧ 木",
     "skill1": "",
     "lskill": "魔魅結聚 ‧ 木",
+    "tcimg": "static/zhs/8045i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5302,6 +5781,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8046i.png",
     "tags": [
       "防毒"
     ]
@@ -5316,6 +5796,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8047i.png",
     "tags": [
       "防毒"
     ]
@@ -5330,6 +5811,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8048i.png",
     "tags": [
       "防毒"
     ]
@@ -5344,6 +5826,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8049i.png",
     "tags": [
       "防毒"
     ]
@@ -5358,6 +5841,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8050i.png",
     "tags": [
       "防毒"
     ]
@@ -5372,6 +5856,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8051i.png",
     "tags": [
       "防毒"
     ]
@@ -5386,6 +5871,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8052i.png",
     "tags": [
       "防毒"
     ]
@@ -5400,6 +5886,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8053i.png",
     "tags": [
       "防毒"
     ]
@@ -5414,6 +5901,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8054i.png",
     "tags": [
       "防毒"
     ]
@@ -5428,6 +5916,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8055i.png",
     "tags": [
       "防毒"
     ]
@@ -5442,6 +5931,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8056i.png",
     "tags": [
       "防毒"
     ]
@@ -5456,6 +5946,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8057i.png",
     "tags": [
       "防毒"
     ]
@@ -5470,6 +5961,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8058i.png",
     "tags": [
       "防毒"
     ]
@@ -5484,6 +5976,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8059i.png",
     "tags": [
       "防毒"
     ]
@@ -5498,6 +5991,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8060i.png",
     "tags": [
       "防毒"
     ]
@@ -5512,6 +6006,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8061i.png",
     "tags": [
       "防毒"
     ]
@@ -5526,6 +6021,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8062i.png",
     "tags": [
       "防毒"
     ]
@@ -5540,6 +6036,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8063i.png",
     "tags": [
       "防毒"
     ]
@@ -5554,6 +6051,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8064i.png",
     "tags": [
       "防毒"
     ]
@@ -5568,6 +6066,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8065i.png",
     "tags": [
       "防毒"
     ]
@@ -5582,6 +6081,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8066i.png",
     "tags": [
       "防毒"
     ]
@@ -5596,6 +6096,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8067i.png",
     "tags": [
       "防毒"
     ]
@@ -5610,6 +6111,7 @@
     "skill": "沒有技能",
     "skill1": "",
     "lskill": "沒有技能",
+    "tcimg": "static/zhs/8068i.png",
     "tags": [
       "防毒"
     ]
@@ -5624,6 +6126,7 @@
     "skill": "元素護壁",
     "skill1": "",
     "lskill": "妖精之狂怒",
+    "tcimg": "static/zhs/9001i.png",
     "tags": [
       "減傷",
       "迴避",
@@ -5642,6 +6145,7 @@
     "skill": "元素護壁",
     "skill1": "",
     "lskill": "妖精之狂怒",
+    "tcimg": "static/zhs/9002i.png",
     "tags": [
       "減傷",
       "迴避",
@@ -5660,6 +6164,7 @@
     "skill": "淨世一擊",
     "skill1": "",
     "lskill": "妖精之意志",
+    "tcimg": "static/zhs/9003i.png",
     "tags": [
       "風化符石處理",
       "直傷",
@@ -5678,6 +6183,7 @@
     "skill": "淨世一擊",
     "skill1": "",
     "lskill": "妖精之意志",
+    "tcimg": "static/zhs/9004i.png",
     "tags": [
       "風化符石處理",
       "直傷",
@@ -5696,6 +6202,7 @@
     "skill": "鐵壁陣勢 ‧ 木",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/9005i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5715,6 +6222,7 @@
     "skill": "鐵壁陣勢 ‧ 木",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/9006i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5734,6 +6242,7 @@
     "skill": "元素轉移 ‧ 光",
     "skill1": "",
     "lskill": "愈戰愈強 ‧ 超",
+    "tcimg": "static/zhs/9007i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理"
@@ -5749,6 +6258,7 @@
     "skill": "元素轉移 ‧ 光",
     "skill1": "",
     "lskill": "愈戰愈強 ‧ 超",
+    "tcimg": "static/zhs/9008i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理"
@@ -5764,6 +6274,7 @@
     "skill": "幽冥追擊",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/9009i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -5783,6 +6294,7 @@
     "skill": "幽冥追擊",
     "skill1": "",
     "lskill": "魅影幻陣",
+    "tcimg": "static/zhs/9010i.png",
     "tags": [
       "風化符石處理",
       "增傷",
@@ -5802,6 +6314,7 @@
     "skill": "念之躍動",
     "skill1": "",
     "lskill": "邃矚之力",
+    "tcimg": "static/zhs/9011i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5820,6 +6333,7 @@
     "skill": "念之躍動",
     "skill1": "",
     "lskill": "邃矚之力",
+    "tcimg": "static/zhs/9012i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5838,6 +6352,7 @@
     "skill": "時空裂縫",
     "skill1": "",
     "lskill": "速戰速決",
+    "tcimg": "static/zhs/9013i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5855,6 +6370,7 @@
     "skill": "時空裂縫",
     "skill1": "",
     "lskill": "速戰速決",
+    "tcimg": "static/zhs/9014i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5872,6 +6388,7 @@
     "skill": "魔控乾坤 ‧ 木",
     "skill1": "",
     "lskill": "魔魅結聚 ‧ 木",
+    "tcimg": "static/zhs/9015i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5888,6 +6405,7 @@
     "skill": "元素凝聚",
     "skill1": "",
     "lskill": "魔之軍勢",
+    "tcimg": "static/zhs/9016i.png",
     "tags": [
       "增傷",
       "界王拳",
@@ -5904,6 +6422,7 @@
     "skill": "秘密的約定",
     "skill1": "",
     "lskill": "神族萬鈞之怒",
+    "tcimg": "static/zhs/9017i.png",
     "tags": [
       "指定符石引爆",
       "回血",
@@ -5923,6 +6442,7 @@
     "skill": "十字標記",
     "skill1": "",
     "lskill": "神之本",
+    "tcimg": "static/zhs/9018i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",
@@ -5941,6 +6461,7 @@
     "skill": "點石加冕 ‧ 光",
     "skill1": "",
     "lskill": "人類萬鈞之怒",
+    "tcimg": "static/zhs/9019i.png",
     "tags": [
       "指定符石引爆",
       "風化符石處理",

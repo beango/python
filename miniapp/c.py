@@ -5,7 +5,8 @@
 import json
 import execjs
 
-
+# 金幣: https://i.loli.net/2021/02/06/CK9mOY3xGJdlvPa.png
+# 布蘭克之匙: https://i.loli.net/2021/01/14/jnczI3KC4utls6Y.png
 def loop(zhs, gjson_obj2):
     global notcount  # global声明
     # if zhs["id"] in ignoreid: continue
@@ -26,6 +27,7 @@ def loop(zhs, gjson_obj2):
                     if sk[0] in ignore: continue
                     # if zhs["id"] in ignoreid or sk[0] !=_tag:continue
                     if sk[0] not in zhs2["tags"]:
+                        print(50*'*')
                         print("A", zhs["id"], sk[0], zhs["skill"])
                         notcount += 1
                         continue

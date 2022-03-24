@@ -3,5 +3,6 @@
   "title": "突擊65% ‧ 水外最少屬轉水 ‧ 首消水傷害化血-反饋100% ‧ 6+Combo盾",
   "effect": "<font color=#FFFF3C>【突擊 ‧ 符石轉水 ‧ 首消水月化血 - 反饋<br> ‧ 6 連擊盾】</font><br><br>首回合優先突擊 1 次。<br><br>每回合將水符石以外<br>數量最少的 1 種屬性符石<br>⇒ 轉化為水符石<br><br>首批消除水屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 100% 攻擊傷害。<br><br>6 連擊 (Combo) 或以上<br>才會對敵人造成攻擊傷害。",
   "content": "突擊,符石轉換,消珠化血,Combo盾",
-  "icon": "es/SI160.png|es/SI301.png|es/SI047.png|es/SI143.png|es/SI104.png"
+  "icon": "es/SI160.png|es/SI301.png|es/SI047.png|es/SI143.png|es/SI104.png",
+  "tcicon": "es/SI160.png|es/SI301.png|es/SI047.png|es/SI143.png|es/SI104.png"
 }

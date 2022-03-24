@@ -3,5 +3,6 @@
   "title": "回復力變0 ‧ 首回攻後隱藏圍城 ‧ 首消木傷害吸收",
   "effect": "召喚師回復力變 0。<br>首回合及當受到敵人攻擊時，所有符石轉化為隱藏符石。<br>首批消除木屬性的連擊 (Combo) 時，敵人會回復相等於該回合召喚師所造成傷害的血量",
   "content": "回復力減弱,隱藏,傷害吸收",
-  "icon": "es/SI233.png|es/SI224.png|es/SI013.png"
+  "icon": "es/SI233.png|es/SI224.png|es/SI013.png",
+  "tcicon": "es/SI233.png|es/SI224.png|es/SI013.png"
 }

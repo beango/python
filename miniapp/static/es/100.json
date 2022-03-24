@@ -3,5 +3,6 @@
   "title": "水轉自身",
   "effect": "每回合敵人會將水符石轉化為敵人屬性的符石",
   "content": "符石轉換",
-  "icon": "es/SI047.png"
+  "icon": "es/SI047.png",
+  "tcicon": "es/SI047.png"
 }

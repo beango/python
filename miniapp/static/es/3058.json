@@ -3,5 +3,6 @@
   "title": "[5回攻擊力變0] ‧ 光外超級技能重置 ‧ 黑白符石",
   "effect": "5 回合內，全隊攻擊力減至 0。<br>首回合將光屬性以外成員的主動技能 CD、EP 及累積戰鬥回合數重置。<br>所有符石轉化為黑白色",
   "content": "攻擊變零,技能重置,黑白符石",
-  "icon": "es/SI158.png|es/SI121.png|es/SI215.png"
+  "icon": "es/SI158.png|es/SI121.png|es/SI215.png",
+  "tcicon": "es/SI158.png|es/SI121.png|es/SI215.png"
 }

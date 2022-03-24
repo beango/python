@@ -25,7 +25,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/967i.png"
         },
         {
           "card": "969",
@@ -38,7 +39,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/969i.png"
         },
         {
           "card": "971",
@@ -51,7 +53,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/971i.png"
         },
         {
           "card": "973",
@@ -64,7 +67,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/973i.png"
         },
         {
           "card": "975",
@@ -77,7 +81,8 @@
           "item": "141",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/975i.png"
         }
       ]
     },
@@ -106,9 +111,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "2顆風化"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/477i.png"
         },
         {
           "card": "478",
@@ -123,9 +130,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI121.png|es/SI228.png",
+            "tcicon": "es/SI121.png|es/SI228.png",
             "title": "技能重置 ‧ 雙重黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/478i.png"
         },
         {
           "card": "476",
@@ -140,9 +149,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png",
+            "tcicon": "es/SI219.png",
             "title": "凍結圍城"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/476i.png"
         },
         {
           "card": "2307",
@@ -157,9 +168,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png|es/SI002.png|es/SI003.png",
+            "tcicon": "es/SI160.png|es/SI229.png|es/SI002.png|es/SI003.png",
             "title": "先攻-雙重攻後延伸燃燒10% ‧ 火木防禦盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2307i.png"
         }
       ]
     },
@@ -188,9 +201,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI144.png",
+            "tcicon": "es/SI144.png",
             "title": "首消火傷害吸收-反擊50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/297i.png"
         },
         {
           "card": "294",
@@ -205,9 +220,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI143.png",
+            "tcicon": "es/SI143.png",
             "title": "首消水傷害吸收-反擊50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/294i.png"
         },
         {
           "card": "2307",
@@ -222,9 +239,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI227.png|es/SI031.png|es/SI032.png",
+            "tcicon": "es/SI227.png|es/SI031.png|es/SI032.png",
             "title": "15+15+水火符石幻變盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2307i.png"
         }
       ]
     },
@@ -253,9 +272,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png|es/SI306.png|es/SI047.png",
+            "tcicon": "es/SI217.png|es/SI306.png|es/SI047.png",
             "title": "溢補盾 ‧ 心形轉心-其他轉敵屬 ‧ 隨機轉心"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2307i.png"
         }
       ]
     }

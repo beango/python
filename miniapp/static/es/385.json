@@ -3,5 +3,6 @@
   "title": "軌跡燃燒800",
   "effect": "敵人會燃燒移動符石時所觸碰的位置，每觸碰被燃燒的位置，對召喚師造成 800 點的傷害",
   "content": "燃燒",
-  "icon": "es/SI229.png"
+  "icon": "es/SI229.png",
+  "tcicon": "es/SI229.png"
 }

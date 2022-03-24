@@ -3,5 +3,6 @@
   "title": "神外技能重置",
   "effect": "首回合敵人會將神族以外成員的技能 CD 重置",
   "content": "技能重置",
-  "icon": "es/SI121.png"
+  "icon": "es/SI121.png",
+  "tcicon": "es/SI121.png"
 }

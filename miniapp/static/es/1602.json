@@ -3,5 +3,6 @@
   "title": "連擊 ‧ 越戰越強-石 ‧ 火木弱化鎖定10%",
   "effect": "敵人會在 1 回合內連續攻擊 2 次。<br>敵人生命力愈低時，攻擊力會作一定幅度的提升。<br>每回合移動符石前，敵人會鎖定場上的火及木符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 10% (發動龍刻脈動視作消除場上的鎖定符石){{Cal|越戰越強|穩定提升|{{{atk|}}}}}",
   "content": "連擊,越戰越強,弱化鎖定",
-  "icon": "es/SI167.png|es/SI188.png|es/SI337.png|es/SI338.png"
+  "icon": "es/SI167.png|es/SI188.png|es/SI337.png|es/SI338.png",
+  "tcicon": "es/SI167.png|es/SI188.png|es/SI337.png|es/SI338.png"
 }

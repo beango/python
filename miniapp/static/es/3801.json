@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 軌跡黏附 ‧ 始終盾 ‧ 弱轉珠技無效",
   "effect": "敵人首次攻擊變為 CD 1。<br><br>持續黏附移動符石時<br>所觸碰的符石，<br>被黏附的符石一經觸碰，<br>即時停止移動符石。<br><br>每回合以指定位置 (綠色漩渦) 的符石開始轉珠及在指定位置 (紅色漩渦) 結束轉珠，才會發動攻擊和回復。<br>(達成條件前，無法進行回復)<br><br>所有轉化符石技能效果無效<br>(轉化種族符石而不改變<br>符石種類的技能除外)。",
   "content": "攻速變更,黏附,始終盾,技能無效",
-  "icon": "es/SI159.png|es/SI228.png|es/SI183.png|es/SI058.png"
+  "icon": "es/SI159.png|es/SI228.png|es/SI183.png|es/SI058.png",
+  "tcicon": "es/SI159.png|es/SI228.png|es/SI183.png|es/SI058.png"
 }

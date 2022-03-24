@@ -19,7 +19,7 @@ from operator import itemgetter  # itemgetter用来去dict中的key，省去了�
 from itertools import groupby  # itertool还包含有其他很多函数，比如将多个list联合起来。。
 import datetime
 import difflib
-import execjs
+#import execjs
 import filterdict
 import requests
 
@@ -29,7 +29,7 @@ hostname = socket.gethostname()
 ip = socket.gethostbyname(hostname)
 isLocale = ip == "127.0.0.1"
 print(hostname, ip, isLocale)
-
+isLocale= False
 checkexists = True
 canuploadtc = True
 timeout = 8
@@ -38,8 +38,8 @@ head = {}
 head['User-Agent'] = 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'
 httpproxy_handler = request.ProxyHandler({"socks5": "127.0.0.1:7891"})
 nullproxy_handler = request.ProxyHandler({})
-opener = request.build_opener(nullproxy_handler)
-allzhs = {}
+opener = request.build_opener(httpproxy_handler)
+# allzhs = {}
 alltuchuang = []
 alltuchuangjson = {}
 
@@ -51,22 +51,53 @@ re_br = re.compile('<br\s*?/?>')  # 处理换行
 re_h = re.compile('</?\w+[^>]*>')  # HTML标签
 re_comment = re.compile('<!--[^>]*-->')  # HTML注释
 
-if os.path.exists('static/allzhs.json'):
-    with open('static/allzhs.json', 'r') as json_file:
-        if json_file != '':
-            allzhs = json.load(json_file)
-
+# if os.path.exists('static/allzhs.json'):
+#     with open('static/allzhs.json', 'r') as json_file:
+#         if json_file != '':
+#             allzhs = json.load(json_file)
 headers = {'Authorization': Authorization}
-url = 'https://sm.ms/api/v2/upload_history'
-res = requests.get(url, headers=headers)
-if res.status_code==200:
-    resdict = json.loads(res.text)
-    if resdict["success"] and len(resdict["data"]) >0:
-        for upsingle in resdict["data"]:
-            # print(upsingle)
-            alltuchuang.append(upsingle["filename"])
-            alltuchuangjson[upsingle["filename"]] = upsingle["path"]
-print("已同步数=", len(alltuchuang))
+def getalltc():
+    if os.path.exists('static/alltc.json'):
+        f = open('static/alltc.json', encoding='utf-8')
+        res = f.read()
+        d = json.loads(res)
+        for k in d:
+            alltuchuang.append(k)
+            alltuchuangjson[k] = d[k]
+
+def saveLocalTC(name, path):
+    global alltuchuangjson
+    if os.path.exists('static/alltc.json'):
+        f = open('static/alltc.json', encoding='utf-8')
+        res = f.read()
+        alltuchuangjson = json.loads(res)
+    if name not in alltuchuang:
+        alltuchuang.append(name)
+        alltuchuangjson[name] = path
+        fw = open('static/alltc.json', 'w', encoding='utf-8')
+        json.dump(alltuchuangjson, fw, ensure_ascii=False, indent=2)
+
+pg = 1
+def getalltcfromremote():
+    global pg
+    if not isLocale or pg > 0:
+        uploadcount = 0
+        url = 'https://sm.ms/api/v2/upload_history?page=' + str(pg)
+        res = requests.get(url, headers=headers)
+        if res.status_code==200:
+            resdict = json.loads(res.text)
+            if resdict["success"] and len(resdict["data"]) >0:
+                for upsingle in resdict["data"]:
+                    print(upsingle["filename"], "====", upsingle["url"])
+                    saveLocalTC(upsingle["filename"], upsingle["url"])
+                    uploadcount += 1
+                print("已同步数=", uploadcount, len(alltuchuang), "pg=", pg)
+                pg += 1
+                time.sleep(2)
+                getalltcfromremote()
+            else:
+                pg = -1
+        
 
 uploadcount = 0
 
@@ -80,11 +111,13 @@ def upload(path):
     name = os.path.basename(path)
     if name in alltuchuang:
         return alltuchuangjson.get(name)
-    # print(open(path, 'rb'))
-    # return
     files = {'smfile': open(path, 'rb')}
     url = 'https://sm.ms/api/v2/upload'
-    res = requests.post(url, files=files, headers=headers).json()
+    q = requests.post(url, files=files, headers=headers, timeout=30)
+    if q.text == "":
+        print("×××××× 上传失败", path, q.text)
+        return path
+    res = q.json()
     if res["success"]:
         print("上传成功", path, res["success"], res["message"])
         uploadcount = uploadcount + 1
@@ -92,20 +125,25 @@ def upload(path):
             print("暂停一会")
             uploadcount = 0
             time.sleep(40)
-        return res['data']['path']
+        saveLocalTC(name, res['data']['url'])
+        return res['data']['url']
     else: 
         print("×××××× 上传失败", path, res)
         if not res["success"] and res["message"].find('You can only upload')>-1:
             canuploadtc = False
             print("每天上传到达上限")
-    return
+        if not res["success"] and res["message"].find('this image exists at')>-1:
+            print("文件已经存在=", res['images'])
+            saveLocalTC(name, res['images'])
+            return res['images']
+    return path
 
 def gettc(path):
     if not path.startswith('static'): path = os.path.join('static', path)
-    if not os.path.exists(path):
-        return
+    # return path
     name = os.path.basename(path)
-    return alltuchuangjson.get(name)
+    if name in alltuchuangjson.keys(): return alltuchuangjson.get(name)
+    else: return path
 
 # 将所有static目录下的图片（jpg png）上传到图床
 def uploadall():
@@ -123,7 +161,6 @@ def uploadalles():
     for parent, dirnames, filenames in os.walk('static/es'):
         for filename in filenames:
             if filename.lower().endswith(('.json')):
-                print(filename)
                 f = open(os.path.join(parent, filename), encoding='utf-8')
                 esjson = json.loads(f.read())
                 f.close()
@@ -159,7 +196,10 @@ def compare2file(file1, file2):
 
 
 def replace1(d):
+    print(d)
+    # gettc(img_src)
     d = re.sub(r'{{([\d]+)[\|]([^}]{0,})}}', r'![\1](zhs/\1i.png)', d)
+    # d = re.sub(r'{{([\d]+)[\|]([^}]{0,})}}', r'![\1]('+gettc('\1i.png')+')', d)
     d = re.sub(r'{{(C[\d]+)[\|]([^}]{0,})}}\s*(\[\[([^\]]+?)\]\])*',
                r'![\1\4](lk/\1.png)[\1\4](/pages/index/lk/lk?id=\1)', d)
     # d=re.sub(r'\[\[([^\]]*)\]\]',r'[\1](/pages/index/detail/detail?name2=\1)', d)
@@ -177,11 +217,10 @@ def replace1(d):
             if len(_ar) == 1:
                 d[i] = "[" + _ar[0] + \
                     "](/pages/index/detail/detail?name2="+quote(_ar[0])+")"
-    return "".join(d)
-# {{1522|40}} -->  {{1522*40}}
+    title = "".join(d)
+    return replacetc2(title)
 
-
-def replacecommon(title):
+def replacecommonlocal(title):
     title = re.sub(
         r'({{魔法石}})', r'![魔法石](toswikiapic/Gift-魔法石.png)', title)
     title = re.sub(
@@ -202,8 +241,57 @@ def replacecommon(title):
                    r'![\1](zhs/\1i.png)', title)
     title = re.sub(r'\[\[([^\]]*)\]\]',
                    r'[\1](/pages/index/detail/detail?name2=\1)', title)
+    da = re.split(r'\(([^)]+)\)', title)
+    f1 = False
+    for i in range(0, len(da), 1):
+        di = da[i]
+        if di.find("zhs/") == 0:
+            da[i] = "("+gettc(di)+")"
+            f1 = True
+    if f1: title = ''.join(da)
     return title
 
+def replacecommon(title):
+    title = re.sub(
+        r'({{魔法石}})', r'![魔法石](/2021/01/14/KMm8QZj3aFrNAYi.png)', title)
+    title = re.sub(
+        r'({{布蘭克之匙}})', r'![布蘭克之匙](/2021/01/14/jnczI3KC4utls6Y.png)', title)
+    title = re.sub(
+        r'({{金幣}})', r'![金幣](/2021/02/06/CK9mOY3xGJdlvPa.png)', title)
+    title = re.sub(
+        r'({{Gift[\|]體力回復劑[\|].*}})', r'![體力回復劑](/2021/01/14/7U3F5pLiOlbSBdX.png)', title)
+    title = re.sub(
+        r'({{Gift[\|]體力[\|].*}})', r'![體力](/2021/01/14/QM3mT8lIE1s6eZz.png)', title)
+    title = re.sub(
+        r'({{Gift[\|]魔法石[\|].*}})', r'![魔法石](/2021/01/14/KMm8QZj3aFrNAYi.png)', title)
+    title = re.sub(
+        r'({{Gift[\|]戰靈回復劑[\|].*}})', r'![戰靈回復劑](/2021/02/06/d9rpLOcQ43BTZVe.png)', title)
+    title = re.sub(
+        r'({{Gift[\|]戰靈藥水[\|].*}})', r'![戰靈藥水](/2021/02/06/ei1EIRYO38CJQr6.png)', title)
+    title = re.sub(
+        r'({{Gift[\|]體力藥水 50 點[\|].*}})', r'![體力藥水 50 點](/2021/02/06/ouzyOHPRI85m3MT.png)', title)
+    title = re.sub(r'{{([\d]+)\|{1}([^}]*)}}',
+                   r'![\1](zhs/\1i.png)', title)
+    title = re.sub(r'\[\[([^\]]*)\]\]',
+                   r'[\1](/pages/index/detail/detail?name2=\1)', title)
+    title = replacetc(title)
+    return title
+
+def replacetc(title):
+    resu = title
+    # da = re.split(r'\(([^)]+)\)', title)
+    da = re.split(r'\(([^)]+[png])\)', title)
+    f1 = False
+    for i in range(0, len(da), 1):
+        di = da[i]
+        if di.find("zhs/") == 0:
+            da[i] = "("+gettc(di)+")"
+            f1 = True
+        if di.find("fbimg/") == 0:
+            da[i] = "("+gettc(di)+")"
+            f1 = True
+    if f1: resu = ''.join(da)
+    return resu
 
 def replace2(d):
     d = re.split(r'{{([^}]*)}}', d)
@@ -331,10 +419,12 @@ def getrecent():
                 sectiontitle = line.replace("}}", "")
             if re.match('^{{Event\|{{DIcon\|([-]{0,1}\d+)\|(.*)}}(.*)$', line):
                 if (sectionline[lineidx+1][0] == '|'):
-                    start = str.strip(
-                        sectionline[lineidx+1][1:].split('|')[0]).replace("}}", "")
-                    end = str.strip(
-                        sectionline[lineidx+1][1:].split('|')[1].replace("}}", "").replace("-->", ""))
+                    _arr2 = sectionline[lineidx+1][1:].split('|')
+                    start = str.strip(_arr2[0]).replace("}}", "")
+                    if len(_arr2)== 2:
+                        end = str.strip(_arr2[1].replace("}}", "").replace("-->", ""))
+                    if len(_arr2)== 1:
+                        end = start
                 s2 = re.split(
                     '^{{Event\|{{DIcon\|([-]{0,1}\d+)\|(.*)}}(.*)$', line)
                 if len(s2) > 4:
@@ -357,12 +447,17 @@ def getrecent():
                         title = s2[0].replace('{{Event|', '')
                     else:
                         title = s2[0]
+                title = title.replace("}} ※ 附 {{EXTRA", "")
+                orgtitle = orgtitle.replace("}} ※ 附 {{EXTRA", "")
                 endstr = str.strip(end)
-                if(endstr != ''):
-                    if endstr.find(" ") > -1:
+                if endstr != '' and (endstr.find(":") > -1 or endstr.find("/") > -1):
+                    # now_str=datetime.now.strftime('%Y/%m/%d')
+                    # print("_____________________________________________________")
+                    # print(endstr, isinstance(endstr, datetime.datetime))
+                    if endstr.find(":") > -1:
                         endtime = datetime.datetime.strptime(
                             endstr, "%Y/%m/%d %H:%M")
-                    else:
+                    elif endstr.find("/") > -1:
                         endtime = datetime.datetime.strptime(
                             endstr, "%Y/%m/%d")+datetime.timedelta(days=1)
                     if endtime > nowtime:
@@ -397,8 +492,11 @@ def getrecent():
                 if(end.find(" ") > -1):
                     endtime = datetime.datetime.strptime(end, "%Y/%m/%d %H:%M")
                 else:
-                    endtime = datetime.datetime.strptime(
-                        end, "%Y/%m/%d")+datetime.timedelta(days=1)
+                    try:
+                        endtime = datetime.datetime.strptime(
+                            end, "%Y/%m/%d")+datetime.timedelta(days=1)
+                    except Exception as e:
+                        endtime = datetime.datetime.now()
                 if endtime > nowtime:
                     extgift = ""
                     if len(title) > 2:
@@ -429,13 +527,17 @@ def getrecent():
                             "}}", "").replace("-->", ""))
                     else:
                         end = start
+                    end = str.strip(end)
                 title = re.split('^{{Event\|(.*)$', line)[1]
                 if(end.find(" ") > -1):
                     endtime = datetime.datetime.strptime(end, "%Y/%m/%d %H:%M")
                 else:
                     if end != '':
-                        endtime = datetime.datetime.strptime(
+                        try:
+                            endtime = datetime.datetime.strptime(
                             end, "%Y/%m/%d")+datetime.timedelta(days=1)
+                        except Exception as e:
+                            endtime = datetime.datetime.now()
                 if endtime > nowtime:
                     title = replacecommon(title)
                     title = replace1(title)
@@ -510,7 +612,10 @@ def getzhs(card, forceupdate):
         soup = downlink(href)
         if soup == None:
             return
-        textarea = soup.findAll('textarea')[0].string
+        ta = soup.findAll('textarea')
+        if ta == None or len(ta) == 0:
+            return
+        textarea = ta[0].string
         d = {}
         linearr = []
         for line in textarea.splitlines():
@@ -527,6 +632,7 @@ def getzhs(card, forceupdate):
                 if _name == 'skill' or _name == 'skill2' or _name == 'skill1' or _name == 'lskill':
                     d[_name] = str.strip(_s[1].replace("/", ""))
                     getskill(d[_name], _s[1], forceupdate)
+        d["tcimg"] = gettc("zhs/" + card + "i.png")
         if os.path.exists('static/teamskill2.json'):
             f = open('static/teamskill2.json', encoding='utf-8')
             res = f.read()
@@ -538,7 +644,7 @@ def getzhs(card, forceupdate):
         fw = open('static/zhs/'+card+'.json', 'w', encoding='utf-8')
         json.dump(d, fw, ensure_ascii=False, indent=2)
 
-def getalllk():
+def getalllk(forceupdate):
     href = "https://tos.fandom.com/zh/wiki/" + \
         quote("龍刻圖鑒")+"?action=edit"  # 龍刻武裝圖鑒
     soup = downlink(href)
@@ -552,8 +658,8 @@ def getalllk():
             lk = str.strip(lk)
             if lk == "":
                 continue
-            if not os.path.exists('static/lk/'+lk+'.json'):
-                getlk(lk)
+            if not os.path.exists('static/lk/'+lk+'.json') or forceupdate:
+                getlk(lk, forceupdate)
             lkarray.append({"name": lk})
 
     href = "https://tos.fandom.com/zh/wiki/"+quote("龍刻武裝圖鑒")+"?action=edit"
@@ -564,14 +670,14 @@ def getalllk():
     # f =open('2.txt', encoding='utf-8')
     # textarea=f.read()
     lkgroup = re.split('{{龍刻圖鑒\|(.*)}}', textarea)
-    lkarray = []
+    # lkarray = []
     for i in range(1, len(lkgroup), 2):
         for lk in lkgroup[i].split("|"):
             lk = str.strip(lk)
             if lk == "":
                 continue
-            if not os.path.exists('static/lk/'+lk+'.json'):
-                getlk(lk)
+            if not os.path.exists('static/lk/'+lk+'.json') or forceupdate:
+                getlk(lk, forceupdate)
             lkarray.append({"name": lk})
     fw = open('static/lk.json', 'w', encoding='utf-8')
     json.dump(lkarray, fw, ensure_ascii=False, indent=2)
@@ -604,12 +710,13 @@ def getalllkimg():
             downimg(url, 'static/lk/' + name)
 
 
-def getlk(no):
-    if not os.path.exists("static/lk/" + no + ".json"):
+def getlk(no, forceupdate):
+    if not os.path.exists("static/lk/" + no + ".json") or forceupdate:
         href = "https://tos.fandom.com/zh/wiki/Template:"+no+"?action=edit"
         soup = downlink(href)
         if soup == None:
             return
+        print("更新龙刻=", no)
         textarea = soup.findAll('textarea')[0].string
         # f =open('1.html', encoding='utf-8')
         # textarea=f.read()
@@ -621,9 +728,9 @@ def getlk(no):
                 d[_name] = str.strip(_s[1])
                 if _name == 'skill' or _name == 'lskill':
                     getskill(d[_name])
+        d["tcimg"] = gettc("lk/"+no+".png")
         fw = open('static/lk/'+no+'.json', 'w', encoding='utf-8')
         json.dump(d, fw, ensure_ascii=False, indent=2)
-
 
 # 下载龙刻
 def getlkimg(id):
@@ -638,9 +745,6 @@ def getlkimg(id):
     name = obj.get("alt")
     img_src = 'static/lk/' + name
     downimg(obj.get("src"), img_src)
-
-# 王关宝相掉落金币
-
 
 def getchest():
     src = "https://static.wikia.nocookie.net/tos/images/f/f4/ICON075.png/revision/latest/scale-to-width-down/39?cb=20130924033809&path-prefix=zh"
@@ -673,7 +777,10 @@ def getskill(skillname, skillorgname, forceupdate):
         soup = downlink(href)
         if soup == None:
             return
-        daily = soup.findAll('textarea')[0].string
+        daily = soup.findAll('textarea')
+        if daily == None or len(daily) ==0:
+            return
+        daily = daily[0].string
         id = ''
         name = ''
         effect = ''
@@ -750,8 +857,6 @@ def getes(num):
     return {"img": icon, "title": obj["title"]}
 
 # 下载故人技能
-
-
 def getdres(num):
     esjson = 'static/es/' + num + '.json'
     if checkexists and os.path.exists(esjson):
@@ -810,9 +915,14 @@ def downurl(href):
             download_html = download_response.read().decode('utf-8', 'ignore')
             i = 0
             return download_html
+        except urllib.error.URLError:
+            return None
+        except urllib.error.HTTPError as e:
+            if e.reason.index("HTTP Error 404")>-1:
+                return None
+            i = i-1
         except Exception as e:
             print("downlink::下载失败，重试一次！", href, e)
-            # logging.exception(e)
             i = i-1
     return None
 
@@ -854,7 +964,7 @@ def gettask_old(fb):
             quote(fb["orgtitle"])+"?action=edit"
     if fb["type"] == '旅人的記憶':
         href += '&veswitched=1'
-    print('更新副本 ------> ', maintitle, fb["type"], href)
+    print('更新副本 ------> ', maintitle, fb["type"])
     soup = downlink(href)
     if soup == None:
         return
@@ -1008,7 +1118,27 @@ def gettask_old(fb):
         json.dump(v, fw, ensure_ascii=False, indent=2)
         fw.close()
     f.close()
-    # print('副本结束 ======> ', fb)
+
+def replacetc2(str):
+    rstStr = str
+    _noteda = re.split(r'\((lk[^)]+)\)', rstStr)
+    f1 = False
+    for i in range(0, len(_noteda), 1):
+        di = _noteda[i]
+        if di.find("lk/") == 0:
+            _noteda[i] = "("+gettc(di)+")"
+            f1 = True
+    if f1: rstStr = ''.join(_noteda)
+
+    _noteda = re.split(r'\((zhs[^)]+)\)', rstStr)
+    f1 = False
+    for i in range(0, len(_noteda), 1):
+        di = _noteda[i]
+        if di.find("zhs/") == 0:
+            _noteda[i] = "("+gettc(di)+")"
+            f1 = True
+    if f1: rstStr = ''.join(_noteda)
+    return rstStr
 
 def gettask(fb):
     if fb["type"] == '':
@@ -1070,6 +1200,7 @@ def gettask(fb):
                                    r'![C\1](lk/C\1.png)', _note)
                     _note = re.sub(r'{{([\d]+)\*{1}([^}]*)}}',
                                    r'![\1](zhs/\1i.png)', _note)
+                    _note = replacetc2(_note)
                     openhis.append({"start": str.strip(_start), "end": str.strip(
                         _end), "note": _note, 'cj': [], 'cishujl': []})
         if sectionarr[n] == '通關次數獎勵':
@@ -1113,9 +1244,16 @@ def gettask(fb):
                                         cishujl["cs_jltj"] = "成功通过 [" + \
                                             stagelevelname + "]() " + \
                                             jldarr[2] + " 次"
-                                        cishujl["cs_jl"] = '![' + jldarr[3] + \
-                                            '](zhs/'+jldarr[3] + \
-                                            'i.png) * ' + jldarr[4]
+                                        if jldarr[3][0] =='C':
+                                            cishujl["cs_jl"] = '![' + jldarr[3] + \
+                                                '](zhs/'+jldarr[3] + \
+                                                '.png)'
+                                        else:
+                                            cishujl["cs_jl"] = '![' + jldarr[3] + \
+                                                '](zhs/'+jldarr[3] + \
+                                                'i.png)'
+                                        if len(jldarr) > 4: cishujl["cs_jl"] = cishujl["cs_jl"] + " * " + jldarr[4]
+                                        cishujl["cs_jl"] = replacetc(cishujl["cs_jl"])
                                         if(len(jldarr) > 5 and jldarr[5].find('skill=') == 0):
                                             cishujl["cs_jl"] += "(技能等级 " + \
                                                 jldarr[5].replace(
@@ -1187,7 +1325,7 @@ def gettask(fb):
                         getlkimg(_lkid)
                         tcimg = gettc("lk/" + _lkid + ".png")
                     if _lkid.isdigit():
-                        img_src = 'static/zhs/' + _lkid + 'i.png'
+                        img_src = 'zhs/' + _lkid + 'i.png'
                         tcimg = gettc(img_src)
                     topcj.append({'star': _t.split('|')[
                                  1], 'id': _lkid, 'soul': _lksoul, 'm': getUrlParamsByName(_t, "M"), 'num': _lknum, 'tcimg': tcimg})
@@ -1274,11 +1412,11 @@ def gettask(fb):
                         dd = dd.replace("{{BASEPAGENAME}}",
                                         '['+stagetitle+']()')
                         dd = re.sub(r'({{布蘭克之匙}})',
-                                    r'![布蘭克之匙](toswikiapic/yaoshi.png)', dd)
+                                    r'![布蘭克之匙](/2021/01/14/jnczI3KC4utls6Y.png)', dd)
                         dd = re.sub(r'({{Gift[\|]布蘭克之匙[\|][^}]*}})',
-                                    r'![布蘭克之匙](toswikiapic/yaoshi.png)', dd)
+                                    r'![布蘭克之匙](/2021/01/14/jnczI3KC4utls6Y.png)', dd)
                         dd = re.sub(
-                            r'({{金幣}})', r'![金幣](toswikiapic/金幣.png)', dd)
+                            r'({{金幣}})', r'![金幣](/2021/02/06/CK9mOY3xGJdlvPa.png)', dd)
                         dd = replace1(dd)
                         cjlist = dd.split("|")
             xarr.append({"id": stageid, 'title': stagetitle, "note": stagenote, "story": story,
@@ -1307,26 +1445,31 @@ def gettask(fb):
         f.close()
 
 def getmainline(allupdate):
-    href = "https://tos.fandom.com/zh/wiki/Template:" + \
-        quote("主線任務")+"?action=edit"
-    soup = downlink(href)
-    if soup == None:
-        return
-    textarea = soup.findAll('textarea')[0].string
-    # f =open('2.txt', encoding='utf-8')
-    # textarea=f.read()
+    if isLocale:
+        f =open('1.html', encoding='utf-8')
+        textarea=f.read()
+    else:
+        href = "https://tos.fandom.com/zh/wiki/Template:" + \
+            quote("主線任務")+"?action=edit"
+        soup = downlink(href)
+        if soup == None:
+            return
+        textarea = soup.findAll('textarea')[0].string
     sections = re.search(
         r"<div class=\"rstage\".*><tabber>([\s\S]+?)<\/tabber>", textarea)
     d = re.sub(r'([^\s]*)=', r'# \1', sections.group(1))
     d = re.sub(r"<center>'''([^']*)'''</center>", r'### \1', d)
     d = re.sub(r"'''([^']*)'''", r'\1', d)
+    
     stagegroup = re.split(r"{{DIcon\|[^\|]*\|([^\|]*).*", d)
     xuyingstages = []
     for i in range(1, len(stagegroup), 2):
         stagename = str.strip(stagegroup[i])
-        xuyingstages.append(stagename)
-        fb = {'title': stagename, 'type': '主線'}
-        if not os.path.exists('static/stages/' + stagename + '.json') or allupdate:
+        stagename2 = re.sub(r"\((.+?)\)", r'#\1', stagename)
+        xuyingstages.append(stagename2)
+        # print(stagename, stagename2)
+        fb = {'title': stagename2, 'orgtitle':stagename, 'type': '主線'}
+        if not os.path.exists('static/stages/' + stagename2 + '.json') or allupdate:
             gettask(fb)
     d = re.sub(r"\((.+?)\)", r'#\1', d)
     d = re.sub(r"{{DIcon\|([^\|]*)\|([^\|]*).*", r'![\2](\1) [\2](\2)', d)
@@ -1342,7 +1485,7 @@ def getmainline(allupdate):
                 va[1] = "S" + va[1][1:-1]
             else:
                 va[1] = va[1][1:-1]
-            va[1] = "(fbimg/" + va[1] + "i.png)"
+            va[1] = "("+gettc("fbimg/" + va[1] + "i.png")+")"
             va[len(va) - 2] = "(/pages/index/detail/detail?name=" + \
                 urllib.parse.quote(va[len(va) - 2][1:-1]) + ")"
             ll = "".join(va)
@@ -1614,10 +1757,9 @@ def analysestage(d):
                 downimg('https://static.wikia.nocookie.net/tos/images/8/83/%E9%87%91%E5%8D%A1.png/revision/latest/scale-to-width-down/13?cb=20190529132644&path-prefix=zh', 'static/' + img_src)
         if(_tmp == "card" or _tmp == "drop") and dval[_tmp] != '':  # 敌人及掉落图片
             img_src = 'zhs/' + dval[_tmp] + 'i.png'
-            if not os.path.exists('static/' + img_src) and not isLocale:  # getmainlineimg
-                print(img_src + "图片不存在" + dval[_tmp])
+            if not os.path.exists('static/' + img_src) and not isLocale:
                 getmainlineimg(dval[_tmp])
-                getzhs(dval[_tmp])
+                getzhs(dval[_tmp], False)
         if(_tmp == "es" and dval[_tmp] != '' and not isLocale):  # 技能
             esjson = getes(dval[_tmp])
             dval["esjson"] = esjson
@@ -1788,6 +1930,7 @@ class TestClass():
                                             zhs["skill"] = "" if "skill" not in zhsobj else zhsobj["skill"]
                                             zhs["skill1"] = "" if "skill1" not in zhsobj else zhsobj["skill1"]
                                             zhs["lskill"] = "" if "lskill" not in zhsobj else zhsobj["lskill"]
+                                            zhs["tcimg"] = gettc("zhs/" + zhs["id"] + "i.png")
                                             # for _d in self.teamskill2:
                                             #     if zhs["id"] in _d:
                                             #         zhs["teamskill2"] = _d[zhs["id"]]
@@ -1847,28 +1990,18 @@ class TestClass():
                 model = json.dumps(tags, ensure_ascii=False, indent=2)
                 fw.write(model)
                 fw.close()
-                # for tag in tags:
-                #     fw = open('static/tags/'+tag+'.json',
-                #               'w', encoding='utf-8')
-                #     if tag not in tj["tag"]:
-                #         tj["tag"].append(tag)
-                #     model = json.dumps(tags[tag], ensure_ascii=False, indent=2)
-                #     fw.write(model)
-                #     fw.close()
-                # tj["rare"].sort()
-                # fw = open('static/zhstj.json', 'w', encoding='utf-8')
-                # model = json.dumps(tj, ensure_ascii=False, indent=2)
-                # fw.write(model)
-                # fw.close()
                 for obj in allzhs:
                     if 'orgin' in obj: del obj["orgin"]
                     if 'path' in obj: del obj["path"]
-                    # if 'skill' in obj: del obj["skill"]
-                    # if 'lskill' in obj: del obj["lskill"]
-                fw = open('static/monster_JSON1.json', 'w', encoding='utf-8')
-                model = json.dumps(allzhs, ensure_ascii=False, indent=2)
-                fw.write(model)
-                fw.close()
+                phnums = 1000; totalnums = len(allzhs); startnums = 0; index = 1
+                while startnums<totalnums:
+                    phallzhs = allzhs[startnums : startnums + phnums]
+                    startnums += phnums
+                    fw = open('static/monster_JSON_%d.json' % index, 'w', encoding='utf-8')
+                    model = json.dumps(phallzhs, ensure_ascii=False, indent=2)
+                    fw.write(model)
+                    fw.close()
+                    index += 1
 
 def t1(zhsobj, skill_effect, zhs, tags):
     skill_effect = re.sub(r'\s+', '', skill_effect)
@@ -1968,7 +2101,7 @@ def getlvrenbyapi(allupdate):
                         imgsrc = div2.a.img.get('src')
                     downimg(imgsrc, 'static/fbimg/' + dataimagename)
                     sectionobj["stages"].append(
-                        {"title": title, "img": dataimagename})
+                        {"title": title, "img": "fbimg/" + dataimagename, "tcimg": gettc("fbimg/" + dataimagename)})
                     if not os.path.exists('static/stages/' + title + '.json') or allupdate:
                         gettask(
                             {"title": title, "img": dataimagename, "type": "旅人的記憶"})
@@ -1978,7 +2111,7 @@ def getlvrenbyapi(allupdate):
     fw.close()
 
 
-def getlvren():
+def getlvren_delete():
     download_url = "https://tos.fandom.com/zh/wiki/%E6%97%85%E4%BA%BA%E7%9A%84%E8%A8%98%E6%86%B6?action=edit"
     soup = downlink(download_url)
     if soup == None:
@@ -2033,7 +2166,6 @@ def getxuyingbyapi():
                   "type": "虛影世界", "note": "", "stages": []}
     for div in textarea.children:
         if isinstance(div, bs4.element.Tag):  # 排除非标签元素干扰
-
             for div2 in div.children:
                 if div2 == None:
                     continue
@@ -2113,13 +2245,13 @@ def getxuying(allupdate):
         o["data"] += ll + "\n"
     for dggg in dg:
         dggg["data"] = "\n".join(dggg["data"].split("\n")[1:])
+        dggg["data"] = replacetc(dggg["data"])
     fw = open('static/xuying.json', 'w', encoding='utf-8')
     fw.write(json.dumps(dg, ensure_ascii=False, indent=2))
     fw.close()
     fw = open('static/xuyingstages.json', 'w', encoding='utf-8')
     fw.write(json.dumps(xuyingstages, ensure_ascii=False, indent=2))
     fw.close()
-
 
 def gettosmonster():
     # f1 = open('main.19ec43eb.chunk.js', encoding='utf-8')
@@ -2264,26 +2396,36 @@ if __name__ == "__main__":
     # downimg(huihe, 'static/toswikiapic/huihe.png')
     # tili2 = 'https://static.wikia.nocookie.net/tos/images/8/8d/Stamina.png/revision/latest/scale-to-width-down/25?cb=20130924035103&path-prefix=zh'
     # downimg(tili2, 'static/toswikiapic/tili2.png')
+    
+    getalltc()
 
-    # getrecent()
-    # getrecenttask()
-    # getrecentimg()
+
+    
+    getrecent()
+    getrecenttask()
+    getrecentimg()
+    # gettask({
+    #             "title": "墜落陽日",  # 無名的熊孩子  掙扎求生的本能 不可輕敵  魔法閣的邀請
+    #             "type": "地獄級關卡",  # 旅人的記憶, 虛影世界,地獄級關卡
+    #             "img": "static/zhs/3002i.png"
+    # })
     # if (upload('static/common/chest.png')):print("成功")
     # else: print("失败")
-    print("全部需要同步数=", len(uploadall()))
-    # print(gettc('toswikiapic/2611i.png'))
+    # print("全部需要同步数=", len(uploadall()))
+    # print(gettc('toswikiapic/S-2113i.png'))
     # uploadalles()
+    # getalltcfromremote()
 
     # 主线
-    # getmainline(True)
     # getmainlineimg(quote("主線任務#.E7.AC.AC1-6.E5.B0.81.E5.8D.B0") + "")
+    # getmainline(True)
+    
 
     # 虚影
-    # getxuying(True)
     # getmainlineimg(quote("虛影世界"))
+    # getxuying(True)
 
     # 旅人的记忆
-    # getlvren() # 过时
     # getlvrenbyapi(True)
 
     # 获取场景特性
@@ -2291,16 +2433,16 @@ if __name__ == "__main__":
     # 召唤兽
     obj = TestClass()
     # obj.getteamskill()
-    # obj.getallzhs('1-300', True)
-    # obj.getallzhs('301-600', True)
-    # obj.getallzhs('601-900', True)
-    # obj.getallzhs('901-1200', True)
-    # obj.getallzhs('1201-1500', True)
-    # obj.getallzhs('1501-1800', True)
-    # obj.getallzhs('1801-2100', True)
-    # obj.getallzhs('2101-2400', True)
-    # obj.getallzhs('2401-2700', True)
-    # obj.getallzhs('其它A-Z', True)
+    # obj.getallzhs('1-300', False)
+    # obj.getallzhs('301-600', False)
+    # obj.getallzhs('601-900', False)
+    # obj.getallzhs('901-1200', False)
+    # obj.getallzhs('1201-1500', False)
+    # obj.getallzhs('1501-1800', False)
+    # obj.getallzhs('1801-2100', False)
+    # obj.getallzhs('2101-2400', False)
+    # obj.getallzhs('2401-2700', False)
+    # obj.getallzhs('其它A-Z', False)
     # obj.mergeallzhs()
     # obj.getlostskill()
     # t = '每次只能選取 1 個效果。<br>效果1：1 回合內，光及暗屬性攻擊力2倍，並將移動符石時間變為 2 秒<br>效果2：心符石轉化為暗符石，同時將光符石轉化為心強化符石'
@@ -2312,8 +2454,8 @@ if __name__ == "__main__":
     # getskill("給我一雙翅膀", None)
 
     # 龙刻
-    # getalllk()
     # getalllkimg()
+    # getalllk(True)
 
     # 召唤兽
     # gettosmonster()
@@ -2330,7 +2472,3 @@ if __name__ == "__main__":
     #             "img": "static/zhs/086i.png"
     #             })
 
-    # 主线更新
-    # - static/mainline.txt
-
-    

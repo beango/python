@@ -31,7 +31,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/060i.png"
         },
         {
           "card": "062",
@@ -42,7 +43,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/062i.png"
         },
         {
           "card": "064",
@@ -53,7 +55,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/064i.png"
         },
         {
           "card": "072",
@@ -64,7 +67,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/072i.png"
         },
         {
           "card": "102",
@@ -76,7 +80,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/102i.png"
         },
         {
           "card": "930",
@@ -89,7 +94,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/930i.png"
         },
         {
           "card": "932",
@@ -102,7 +108,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/932i.png"
         },
         {
           "card": "934",
@@ -115,7 +122,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/934i.png"
         },
         {
           "card": "936",
@@ -128,7 +136,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/936i.png"
         },
         {
           "card": "699",
@@ -142,7 +151,8 @@
           "item": "85",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/699i.png"
         }
       ]
     },
@@ -167,7 +177,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/061i.png"
         },
         {
           "card": "063",
@@ -178,7 +189,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/063i.png"
         },
         {
           "card": "065",
@@ -189,7 +201,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/065i.png"
         },
         {
           "card": "073",
@@ -200,7 +213,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/073i.png"
         },
         {
           "card": "103",
@@ -211,7 +225,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/103i.png"
         },
         {
           "card": "930",
@@ -224,7 +239,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/930i.png"
         },
         {
           "card": "932",
@@ -237,7 +253,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/932i.png"
         },
         {
           "card": "934",
@@ -250,7 +267,8 @@
           "lv": "2",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/934i.png"
         },
         {
           "card": "936",
@@ -263,7 +281,8 @@
           "lv": "1",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/936i.png"
         },
         {
           "card": "354",
@@ -277,7 +296,8 @@
           "item": "85",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/354i.png"
         }
       ]
     },
@@ -302,7 +322,8 @@
           "lv": "3",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/061i.png"
         },
         {
           "card": "063",
@@ -313,7 +334,8 @@
           "lv": "3",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/063i.png"
         },
         {
           "card": "065",
@@ -324,7 +346,8 @@
           "lv": "3",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/065i.png"
         },
         {
           "card": "073",
@@ -335,7 +358,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/073i.png"
         },
         {
           "card": "103",
@@ -346,7 +370,8 @@
           "lv": "3",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/103i.png"
         },
         {
           "card": "931",
@@ -360,7 +385,8 @@
           "drop": "930",
           "note": "{{強化盾}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/931i.png"
         },
         {
           "card": "933",
@@ -374,7 +400,8 @@
           "drop": "932",
           "note": "{{問號符石**123}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/933i.png"
         },
         {
           "card": "935",
@@ -388,7 +415,8 @@
           "drop": "934",
           "note": "{{心轉自身}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/935i.png"
         },
         {
           "card": "936",
@@ -401,7 +429,8 @@
           "lv": "1",
           "note": "{{軌跡隱藏4}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/936i.png"
         },
         {
           "card": "925",
@@ -413,7 +442,8 @@
           "coin": "6580",
           "note": "{{連擊}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/925i.png"
         },
         {
           "card": "913",
@@ -425,7 +455,8 @@
           "coin": "5898",
           "note": "{{風化 ‧ 先}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/913i.png"
         },
         {
           "card": "907",
@@ -439,7 +470,8 @@
           "item": "85",
           "note": "{{魔族剋制 ‧ 攻 ‧ 鎖*atk=4732}}",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/907i.png"
         }
       ]
     },

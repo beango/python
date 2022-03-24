@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png|es/SI262.png",
+            "tcicon": "es/SI219.png|es/SI262.png",
             "title": "冰封圍城 ‧ 單擊800萬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1562i.png"
         },
         {
           "card": "1562",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI233.png|es/SI161.png|es/SI183.png",
+            "tcicon": "es/SI233.png|es/SI161.png|es/SI183.png",
             "title": "(5回回復力減弱50%) ‧ 自殘20% ‧ 對角始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1562i.png"
         },
         {
           "card": "1562",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI015.png|es/SI260.png|es/SI122.png|es/SI224.png",
+            "tcicon": "es/SI015.png|es/SI260.png|es/SI122.png|es/SI224.png",
             "title": "首消暗傷害吸收-反擊100% ‧ 含神-全體禁錮-隱藏圍城"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1562i.png"
         }
       ]
     }

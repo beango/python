@@ -1,5 +1,942 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2020/12/28 12:00",
+      "end": "2021/1/3 7:59",
+      "note": "首日挑戰",
+      "cj": [],
+      "cishujl": []
+    },
+    {
+      "start": "2020/12/29 12:00",
+      "end": "2021/1/3 7:59",
+      "note": "第二日試煉關卡",
+      "cj": [],
+      "cishujl": []
+    },
+    {
+      "start": "2020/12/30 12:00",
+      "end": "2021/1/3 7:59",
+      "note": "第三日試煉關卡",
+      "cj": [],
+      "cishujl": []
+    },
+    {
+      "start": "2020/12/31 12:00",
+      "end": "2021/1/3 7:59",
+      "note": "第四日試煉關卡",
+      "cj": [],
+      "cishujl": []
+    },
+    {
+      "start": "2021/1/1 12:00",
+      "end": "2021/1/3 7:59",
+      "note": "第五日試煉關卡",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
-  "stages": []
+  "stages": [
+    {
+      "id": "704",
+      "title": "首日挑戰(簡單)",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "704",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "874",
+          "note": "",
+          "esjson": {
+            "img": "es/SI224.png",
+            "title": "軌跡隱藏"
+          },
+          "jd": ""
+        },
+        {
+          "card": "302",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1317",
+          "note": "",
+          "esjson": {
+            "img": "es/SI221.png",
+            "title": "6顆風化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1599",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1594",
+          "note": "",
+          "esjson": {
+            "img": "es/SI183.png",
+            "title": "始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "850",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1533",
+          "note": "",
+          "esjson": {
+            "img": "es/SI301.png|es/SI228.png",
+            "title": "水位置黏附"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1279",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "200",
+          "note": "",
+          "esjson": {
+            "img": "es/SI242.png",
+            "title": "火強水木盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1126",
+      "title": "第二日試煉關卡(簡單)",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "1126",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "966",
+          "note": "",
+          "esjson": {
+            "img": "es/SI301.png|es/SI047.png|es/SI165.png",
+            "title": "隨機轉水 ‧ 消水減時0.2-1秒"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1325",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "870",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "敵屬初級拼圖盾-限"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1232",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1283",
+          "note": "",
+          "esjson": {
+            "img": "es/SI087.png",
+            "title": "首消7Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1339",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1357",
+          "note": "",
+          "esjson": {
+            "img": "es/SI339.png|es/SI341.png",
+            "title": "光心弱化鎖定20%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1291",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "241",
+          "note": "",
+          "esjson": {
+            "img": "es/SI244.png",
+            "title": "暗強水木盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "286",
+      "title": "第三日試煉關卡(簡單)",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "286",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "702",
+          "note": "",
+          "esjson": {
+            "img": "es/SI110.png",
+            "title": "首消隨機3~6Combo追擊弱盾-轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1177",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "769",
+          "note": "",
+          "esjson": {
+            "img": "es/SI165.png",
+            "title": "(5回轉珠減2秒)-結"
+          },
+          "jd": ""
+        },
+        {
+          "card": "859",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1490",
+          "note": "",
+          "esjson": {
+            "img": "es/SI227.png|es/SI034.png",
+            "title": "迷惑符石 ‧ 首消全光盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "703",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1156",
+          "note": "",
+          "esjson": {
+            "img": "es/SI105.png|es/SI236.png",
+            "title": "7+Combo追擊盾 ‧ 電擊2顆"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1628",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "281",
+          "note": "",
+          "esjson": {
+            "img": "es/SI106.png",
+            "title": "8+Combo追擊盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1174",
+      "title": "第四日試煉關卡(簡單)",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "1174",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1741",
+          "note": "",
+          "esjson": {
+            "img": "es/SI215.png|es/SI183.png",
+            "title": "黑白符石 ‧ 始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "296",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1317",
+          "note": "",
+          "esjson": {
+            "img": "es/SI221.png",
+            "title": "6顆風化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "854",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "281",
+          "note": "",
+          "esjson": {
+            "img": "es/SI106.png",
+            "title": "8+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "234",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1546",
+          "note": "",
+          "esjson": {
+            "img": "es/SI302.png|es/SI229.png",
+            "title": "火位置燃燒20%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1629",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "201",
+          "note": "",
+          "esjson": {
+            "img": "es/SI242.png",
+            "title": "木強水火盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "823",
+      "title": "第五日試煉關卡(簡單)",
+      "note": "",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "823",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1716",
+          "note": "",
+          "esjson": {
+            "img": "es/SI221.png",
+            "title": "風化15000-轉"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1543",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1582",
+          "note": "",
+          "esjson": {
+            "img": "es/SI116.png|es/SI304.png|es/SI236.png",
+            "title": "首消光追擊零化 ‧ 光電擊2顆"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1001",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "304",
+          "note": "",
+          "esjson": {
+            "img": "es/SI096.png",
+            "title": "首消6Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1355",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1358",
+          "note": "",
+          "esjson": {
+            "img": "es/SI340.png|es/SI341.png",
+            "title": "暗心弱化鎖定20%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1630",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "238",
+          "note": "",
+          "esjson": {
+            "img": "es/SI244.png",
+            "title": "光強水木盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1054",
+      "title": "首日挑戰(困難)",
+      "note": "※ 禁止{{A|L}}光屬性成員進場 ※<br>",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "1054",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "760",
+          "note": "",
+          "esjson": {
+            "img": "es/SI156.png",
+            "title": "(2回回復力變0)-結"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1234",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1283",
+          "note": "",
+          "esjson": {
+            "img": "es/SI087.png",
+            "title": "首消7Combo盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1340",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1358",
+          "note": "",
+          "esjson": {
+            "img": "es/SI340.png|es/SI341.png",
+            "title": "暗心弱化鎖定20%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1619",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1634",
+          "note": "",
+          "esjson": {
+            "img": "es/SI032.png",
+            "title": "累積10+火符石盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1264",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "870",
+          "note": "",
+          "esjson": {
+            "img": "es/SI181.png",
+            "title": "敵屬初級拼圖盾-限"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1256",
+      "title": "第二日試煉關卡(困難)",
+      "note": "※ 禁止{{A|E}}木屬性成員進場 ※<br>",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "1256",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "2265",
+          "note": "",
+          "esjson": {
+            "img": "es/SI038.png",
+            "title": "(2回水禁消)"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1341",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1712",
+          "note": "",
+          "esjson": {
+            "img": "es/SI221.png",
+            "title": "3顆風化15000"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1302",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1243",
+          "note": "",
+          "esjson": {
+            "img": "es/SI012.png",
+            "title": "首消火傷害吸收"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1712",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1594",
+          "note": "",
+          "esjson": {
+            "img": "es/SI183.png",
+            "title": "始終盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1537",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1573",
+          "note": "",
+          "esjson": {
+            "img": "es/SI113.png|es/SI301.png|es/SI236.png",
+            "title": "首消水追擊零化 ‧ 水電擊2顆"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1333",
+      "title": "第三日試煉關卡(困難)",
+      "note": "※ 禁止{{A|D}}暗屬性成員進場 ※<br>",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "1333",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "769",
+          "note": "",
+          "esjson": {
+            "img": "es/SI165.png",
+            "title": "(5回轉珠減2秒)-結"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1697",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1771",
+          "note": "",
+          "esjson": {
+            "img": "es/SI017.png|es/SI302.png|es/SI047.png|es/SI114.png",
+            "title": "敵轉火-首回隨機轉火 ‧ 首消火追擊零化"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1304",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1245",
+          "note": "",
+          "esjson": {
+            "img": "es/SI014.png",
+            "title": "首消光傷害吸收"
+          },
+          "jd": ""
+        },
+        {
+          "card": "854",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "281",
+          "note": "",
+          "esjson": {
+            "img": "es/SI106.png",
+            "title": "8+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1680",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "241",
+          "note": "",
+          "esjson": {
+            "img": "es/SI244.png",
+            "title": "暗強水木盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1702",
+      "title": "第四日試煉關卡(困難)",
+      "note": "※ 禁止{{A|W}}水屬性成員進場 ※<br>",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "1702",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "634",
+          "note": "",
+          "esjson": {
+            "img": "es/SI105.png",
+            "title": "(5回7+Combo發動攻回)"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1302",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1243",
+          "note": "",
+          "esjson": {
+            "img": "es/SI012.png",
+            "title": "首消火傷害吸收"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1385",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1356",
+          "note": "",
+          "esjson": {
+            "img": "es/SI338.png|es/SI341.png",
+            "title": "木心弱化鎖定20%"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1667",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "819",
+          "note": "",
+          "esjson": {
+            "img": "es/SI107.png",
+            "title": "9+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1628",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "199",
+          "note": "",
+          "esjson": {
+            "img": "es/SI242.png",
+            "title": "水強火木盾"
+          },
+          "jd": ""
+        }
+      ]
+    },
+    {
+      "id": "1258",
+      "title": "第五日試煉關卡(困難)",
+      "note": "※ 禁止{{A|F}}火屬性成員進場 ※<br>",
+      "story": "",
+      "cj": [],
+      "info": {},
+      "data": [
+        {
+          "card": "1258",
+          "stage": "1",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "2267",
+          "note": "",
+          "esjson": {
+            "img": "es/SI040.png",
+            "title": "(2回木禁消)"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1668",
+          "stage": "2",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "819",
+          "note": "",
+          "esjson": {
+            "img": "es/SI107.png",
+            "title": "9+Combo追擊盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1858",
+          "stage": "3",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1488",
+          "note": "",
+          "esjson": {
+            "img": "es/SI227.png|es/SI032.png",
+            "title": "迷惑符石 ‧ 首消全火盾"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1345",
+          "stage": "4",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1712",
+          "note": "",
+          "esjson": {
+            "img": "es/SI221.png",
+            "title": "3顆風化15000"
+          },
+          "jd": ""
+        },
+        {
+          "card": "1541",
+          "stage": "5",
+          "damage": "14250",
+          "turn": "1(1)",
+          "hp": "1995000",
+          "def": "1",
+          "coin": "0",
+          "es": "1579",
+          "note": "",
+          "esjson": {
+            "img": "es/SI115.png|es/SI303.png|es/SI236.png",
+            "title": "首消木追擊零化 ‧ 木電擊2顆"
+          },
+          "jd": ""
+        }
+      ]
+    }
+  ]
 }

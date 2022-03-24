@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/200i.png"
         },
         {
           "card": "192",
@@ -40,9 +42,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI254.png|es/SI260.png",
+            "tcicon": "es/SI254.png|es/SI260.png",
             "title": "強化盾-反擊100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/192i.png"
         },
         {
           "card": "198",
@@ -55,9 +59,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png",
+            "tcicon": "es/SI110.png",
             "title": "首消隨機3~5Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/198i.png"
         },
         {
           "card": "196",
@@ -70,9 +76,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI244.png",
+            "tcicon": "es/SI244.png",
             "title": "五屬盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/196i.png"
         },
         {
           "card": "194",
@@ -86,9 +94,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "軌跡燃燒1000"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/194i.png"
         }
       ]
     },
@@ -114,7 +124,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1527",
@@ -126,7 +137,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1529",
@@ -138,7 +150,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1528",
@@ -150,7 +163,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1530",
@@ -162,7 +176,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         }
       ]
     },
@@ -191,7 +206,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1526i.png"
         },
         {
           "card": "1527",
@@ -203,7 +219,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1527i.png"
         },
         {
           "card": "1529",
@@ -215,7 +232,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1529i.png"
         },
         {
           "card": "1528",
@@ -227,7 +245,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1528i.png"
         },
         {
           "card": "1530",
@@ -239,7 +258,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1530i.png"
         },
         {
           "card": "1010",
@@ -252,9 +272,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI303.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI303.png|es/SI047.png|es/SI124.png",
             "title": "首殺盾 ‧ 攻後木縱橫輪轉 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         },
         {
           "card": "1413",
@@ -267,9 +289,11 @@
           "note": "{{特性*離開*3}}",
           "esjson": {
             "img": "es/SI228.png",
+            "tcicon": "es/SI228.png",
             "title": "雙重黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1413i.png"
         },
         {
           "card": "1010",
@@ -283,9 +307,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI303.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI303.png|es/SI047.png|es/SI124.png",
             "title": "首殺盾 ‧ 攻後木縱橫輪轉 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1010i.png"
         }
       ]
     }

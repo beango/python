@@ -3,5 +3,6 @@
   "title": "首消木傷害吸收-反擊100% ‧ 雙重木幻變 ‧ 首回直行轉木 ‧ 幻側轉木",
   "effect": "隨機將 2 個位置轉化為木屬幻變空間，經過幻變空間的起手符石會轉化為木符石。<br><br>首回合隨機將 1 直行的符石轉化為木符石，其後每回合將幻變空間四周的符石轉化為木符石。<br><br>首批消除木屬性的連擊 (Combo) 及對敵人發動攻擊，敵人會回復相等於該回合召喚師所造成傷害的血量及反擊自身 100% 攻擊傷害",
   "content": "傷害吸收,幻變,符石轉換",
-  "icon": "es/SI013.png|es/SI260.png|es/SI303.png|es/SI270.png|es/SI047.png"
+  "icon": "es/SI013.png|es/SI260.png|es/SI303.png|es/SI270.png|es/SI047.png",
+  "tcicon": "es/SI013.png|es/SI260.png|es/SI303.png|es/SI270.png|es/SI047.png"
 }

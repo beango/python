@@ -3,5 +3,6 @@
   "title": "CD1 ‧ 火攻盾 ‧ 水木弱化鎖定20% ‧ 連擊-血弱趨狂",
   "effect": "敵人首次攻擊變為 CD 1。<br>只有火屬性的攻擊才會對敵人造成傷害。<br>每回合移動符石前，敵人會鎖定場上的水及木符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 20% (發動龍刻脈動作消除場上的鎖定符石)。<br>敵人會在 1 回合內連續攻擊 2 次，敵人生命力愈低時，連擊次數愈多",
   "content": "回合改變",
-  "icon": "es/SI159.png|es/SI002.png|es/SI336.png|es/SI338.png|es/SI167.png|es/SI188.png"
+  "icon": "es/SI159.png|es/SI002.png|es/SI336.png|es/SI338.png|es/SI167.png|es/SI188.png",
+  "tcicon": "es/SI159.png|es/SI002.png|es/SI336.png|es/SI338.png|es/SI167.png|es/SI188.png"
 }

@@ -3,5 +3,6 @@
   "title": "敵轉水 ‧ 連擊趨狂 ‧ 命懸一線-首回心轉水-攻後隨機轉水 ‧ 水屬防禦90%",
   "effect": "首回合敵人會轉換成水屬性。<br>敵人會令水屬性的攻擊傷害減至 10%。<br>敵人會在 1 回合內連續攻擊 2 次，敵人生命力愈低時，連擊次數愈多。<br>首回合敵人會令召喚師生命力剩 1 點，並將心符石轉化為水符石。每回合敵人發動攻擊時，會將隨機 1 種符石轉化為水符石",
   "content": "屬性轉換,連擊趨狂,命懸一線,符石轉換",
-  "icon": "es/SI016.png|es/SI167.png|es/SI161.png|es/SI301.png|es/SI047.png|es/SI001.png"
+  "icon": "es/SI016.png|es/SI167.png|es/SI161.png|es/SI301.png|es/SI047.png|es/SI001.png",
+  "tcicon": "es/SI016.png|es/SI167.png|es/SI161.png|es/SI301.png|es/SI047.png|es/SI001.png"
 }

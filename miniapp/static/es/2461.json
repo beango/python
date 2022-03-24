@@ -3,5 +3,6 @@
   "title": "攻後光縱橫輪轉 ‧ 無法控制",
   "effect": "首次受到敵人攻擊時，隨機將 1 直行的符石轉化為光符石；第 2 次受到敵人攻擊時，隨機將 1 橫行的符石轉化為光符石。以上攻擊循環周而復始。<br>敵人無視所有控制技能",
   "content": "符石轉換,無法控制",
-  "icon": "es/SI304.png|es/SI047.png|es/SI124.png"
+  "icon": "es/SI304.png|es/SI047.png|es/SI124.png",
+  "tcicon": "es/SI304.png|es/SI047.png|es/SI124.png"
 }

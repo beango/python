@@ -24,7 +24,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -36,7 +37,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1596",
@@ -48,7 +50,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "1595",
@@ -62,9 +65,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI221.png",
+            "tcicon": "es/SI221.png",
             "title": "4顆風化"
           },
-          "jd": "R4 特性场景特性：10263"
+          "jd": "R4 特性场景特性：10263",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1592",
@@ -79,9 +84,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI165.png",
+            "tcicon": "es/SI165.png",
             "title": "(5回轉珠減2秒)"
           },
-          "jd": "R4 特性场景特性：10263"
+          "jd": "R4 特性场景特性：10263",
+          "cardtcimg": "zhs/1592i.png"
         }
       ]
     },
@@ -107,7 +114,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/486i.png"
         },
         {
           "card": "488",
@@ -119,7 +127,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/488i.png"
         },
         {
           "card": "489",
@@ -131,7 +140,8 @@
           "coin": "",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/489i.png"
         },
         {
           "card": "1006",
@@ -143,7 +153,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1006i.png"
         },
         {
           "card": "1012",
@@ -155,7 +166,8 @@
           "coin": "905",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1012i.png"
         },
         {
           "card": "556",
@@ -167,9 +179,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI217.png|es/SI188.png",
+            "tcicon": "es/SI217.png|es/SI188.png",
             "title": "溢補盾 ‧ 越攻越強"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/556i.png"
         },
         {
           "card": "556",
@@ -183,9 +197,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI123.png|es/SI303.png|es/SI047.png|es/SI032.png",
+            "tcicon": "es/SI123.png|es/SI303.png|es/SI047.png|es/SI032.png",
             "title": "附加消除-隨機轉木 ‧ 攻後木縱橫輪轉 ‧ 首消全火盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/556i.png"
         }
       ]
     },
@@ -213,7 +229,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -225,7 +242,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -237,7 +255,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -249,7 +268,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -261,7 +281,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "1195",
@@ -273,9 +294,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI227.png|es/SI242.png",
+            "tcicon": "es/SI160.png|es/SI227.png|es/SI242.png",
             "title": "先攻 ‧ 迷惑符石 ‧ 三屬盾"
           },
-          "jd": "R5 特性场景特性：10010"
+          "jd": "R5 特性场景特性：10010",
+          "cardtcimg": "zhs/1195i.png"
         },
         {
           "card": "1195",
@@ -289,9 +312,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI020.png|es/SI305.png|es/SI047.png|es/SI117.png",
+            "tcicon": "es/SI020.png|es/SI305.png|es/SI047.png|es/SI117.png",
             "title": "敵轉暗-首回隨機轉暗 ‧ 首消暗追擊零化"
           },
-          "jd": "R5 特性场景特性：10010"
+          "jd": "R5 特性场景特性：10010",
+          "cardtcimg": "zhs/1195i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "(7回光攻無效) ‧ 自殺",
   "effect": "7 回合內，光屬性成員的攻擊力減至 0。<br>敵人下回合會扣除自身生命力 100%，期間不受任何攻擊傷害及無視所有控制技能",
   "content": "攻擊零化,自殘",
-  "icon": "es/SI339.png|es/SI161.png"
+  "icon": "es/SI339.png|es/SI161.png",
+  "tcicon": "es/SI339.png|es/SI161.png"
 }

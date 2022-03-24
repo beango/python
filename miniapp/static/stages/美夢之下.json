@@ -27,9 +27,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png",
+            "tcicon": "es/SI224.png",
             "title": "六重軌跡隱藏"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/317i.png"
         },
         {
           "card": "315",
@@ -44,9 +46,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png",
+            "tcicon": "es/SI183.png",
             "title": "始終盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/315i.png"
         },
         {
           "card": "1114",
@@ -61,9 +65,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-1"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1114i.png"
         },
         {
           "card": "1114",
@@ -78,9 +84,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "縱向燃燒10%-6"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1114i.png"
         },
         {
           "card": "1318",
@@ -95,9 +103,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI251.png|es/SI232.png|es/SI218.png",
+            "tcicon": "es/SI251.png|es/SI232.png|es/SI218.png",
             "title": "無視減傷 ‧ 首回化血圍城-心化血"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1318i.png"
         }
       ]
     },
@@ -124,7 +134,8 @@
           "item": "164",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1719i.png"
         }
       ]
     },
@@ -153,9 +164,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2381i.png"
         },
         {
           "card": "2381",
@@ -170,9 +183,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI032.png",
+            "tcicon": "es/SI032.png",
             "title": "累積30+火符石盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2381i.png"
         }
       ]
     },
@@ -201,9 +216,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI156.png",
+            "tcicon": "es/SI156.png",
             "title": "回復力變0"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/673i.png"
         },
         {
           "card": "673",
@@ -218,9 +235,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI215.png|es/SI124.png",
+            "tcicon": "es/SI250.png|es/SI215.png|es/SI124.png",
             "title": "首殺盾 ‧ 黑白符石 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/673i.png"
         },
         {
           "card": "7018",
@@ -236,9 +255,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI228.png|es/SI094.png",
+            "tcicon": "es/SI160.png|es/SI228.png|es/SI094.png",
             "title": "先攻 ‧ 橫縱黏附 ‧ 首消4Combo盾25%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/7018i.png"
         }
       ]
     },
@@ -266,9 +287,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI224.png|es/SI106.png",
+            "tcicon": "es/SI224.png|es/SI106.png",
             "title": "隱藏-轉 ‧ 8+Combo追擊盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2384i.png"
         },
         {
           "card": "2383",
@@ -282,9 +305,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI110.png|es/SI183.png|es/SI263.png",
+            "tcicon": "es/SI110.png|es/SI183.png|es/SI263.png",
             "title": "隨機3~5Combo追擊盾-轉 ‧ 始終盾 ‧ 消Combo盾20%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2383i.png"
         },
         {
           "card": "2383",
@@ -298,9 +323,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI122.png|es/SI314.png|es/SI156.png",
+            "tcicon": "es/SI159.png|es/SI122.png|es/SI314.png|es/SI156.png",
             "title": "CD1 ‧ 1回禁錮 ‧ 首回木引爆減傷-1顆10% ‧ 回復力變0"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2383i.png"
         },
         {
           "card": "2387",
@@ -314,9 +341,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI250.png|es/SI122.png|es/SI221.png|es/SI135.png",
+            "tcicon": "es/SI250.png|es/SI122.png|es/SI221.png|es/SI135.png",
             "title": "隱身-隱攻5回禁錮 ‧ 5顆風化15000 ‧ 中毒80%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2387i.png"
         },
         {
           "card": "2309",
@@ -330,9 +359,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI035.png|es/SI124.png",
+            "tcicon": "es/SI035.png|es/SI124.png",
             "title": "循環累積30+暗符石盾-首消禁別屬 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2309i.png"
         },
         {
           "card": "2309",
@@ -346,9 +377,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
+            "tcicon": "es/SI159.png|es/SI046.png|es/SI236.png|es/SI165.png|es/SI132.png",
             "title": "CD3 ‧ 刷新符石-左右直行電擊 ‧ 4秒轉珠 ‧ 扣血100%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2309i.png"
         },
         {
           "card": "2312",
@@ -362,9 +395,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI229.png|es/SI224.png",
+            "tcicon": "es/SI160.png|es/SI229.png|es/SI224.png",
             "title": "突擊65%-三重燃燒20% ‧ 隱藏-結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2312i.png"
         },
         {
           "card": "7018",
@@ -379,9 +414,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI019.png|es/SI048.png|es/SI116.png|es/SI449.png|es/SI236.png",
+            "tcicon": "es/SI019.png|es/SI048.png|es/SI116.png|es/SI449.png|es/SI236.png",
             "title": "敵轉光 ‧ 剋屬盾 ‧ 首消光追擊零化 ‧ [催眠神外] ‧ 首回全光-每回3顆轉光-電擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/7018i.png"
         },
         {
           "card": "7018",
@@ -395,9 +432,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI159.png|es/SI328.png|es/SI188.png|es/SI251.png",
+            "tcicon": "es/SI159.png|es/SI328.png|es/SI188.png|es/SI251.png",
             "title": "CD1 ‧ 首消多種減傷盾25% ‧ 越攻越強 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/7018i.png"
         }
       ]
     }

@@ -3,5 +3,6 @@
   "title": "先攻-心轉光弱化鎖定20% ‧ 心禁消",
   "effect": "首回合敵人會優先攻擊 1 次，並將心符石轉化為光符石，再鎖定所有光符石；每消除 1 粒被鎖定的符石，全隊攻擊力減少 20%  (發動龍刻脈動視作消除場上的鎖定符石)。<br>心符石無法被消除",
   "content": "先攻,弱化鎖定,符石禁消",
-  "icon": "es/SI160.png|es/SI304.png|es/SI047.png|es/SI339.png|es/SI043.png"
+  "icon": "es/SI160.png|es/SI304.png|es/SI047.png|es/SI339.png|es/SI043.png",
+  "tcicon": "es/SI160.png|es/SI304.png|es/SI047.png|es/SI339.png|es/SI043.png"
 }

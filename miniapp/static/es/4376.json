@@ -3,5 +3,6 @@
   "title": "循環15+剋屬符石盾 ‧ 火外最多轉火弱化鎖定10% ‧ 轉珠技無效 ‧ 無法控制",
   "effect": "<font color=#FFFF3C>【相剋護盾 15 粒 ‧ 符石轉火 - 弱化符石 10% ‧ 轉化符石技能無效 ‧ 無法控制】</font><br><br>累積消除 15 粒或以上、<br>克制敵人屬性的符石<br>(不受轉換屬性技能影響)，<br>才會對敵人造成攻擊傷害。<br>如果達成上述條件，<br>CD 0 時重置符石數目；<br>反之，<br>CD 0 時敵人會發動攻擊。<br><br>每回合將火以外數量最多的<br>1 種符石轉化為<br>⇒ 火符石並鎖定；<br>每消除 1 粒被鎖定的符石，<br>全隊攻擊力減少 10%<br>(發動龍刻脈動視作<br>消除場上的鎖定符石)。<br><br>所有轉化符石技能效果無效<br>(轉化種族符石而不改變<br>符石種類的技能除外)。<br><br>無視所有控制技能。",
   "content": "元素盾,符石轉換,轉珠技無效,無法控制",
-  "icon": "es/SI250.png|es/SI302.png|es/SI047.png|es/SI058.png|es/SI124.png"
+  "icon": "es/SI250.png|es/SI302.png|es/SI047.png|es/SI058.png|es/SI124.png",
+  "tcicon": "es/SI250.png|es/SI302.png|es/SI047.png|es/SI058.png|es/SI124.png"
 }

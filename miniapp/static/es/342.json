@@ -3,5 +3,6 @@
   "title": "強化盾-連續反擊50%",
   "effect": "敵人只會受到強化符石的攻擊傷害；若受到非強化符石的攻擊，敵人會連續反擊自身 50% 攻擊傷害 2 次",
   "content": "強化盾",
-  "icon": "es/SI254.png|es/SI260.png"
+  "icon": "es/SI254.png|es/SI260.png",
+  "tcicon": "es/SI254.png|es/SI260.png"
 }

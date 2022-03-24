@@ -3,5 +3,6 @@
   "title": "獸外防禦75%",
   "effect": "獸類以外的攻擊傷害減至 25%",
   "content": "種族針對(攻擊力)",
-  "icon": "es/SI064.png"
+  "icon": "es/SI064.png",
+  "tcicon": "es/SI064.png"
 }

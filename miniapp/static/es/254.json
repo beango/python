@@ -3,5 +3,6 @@
   "title": "全體無限回復",
   "effect": "全體敵人每回合會完全回復生命力",
   "content": "無限回復",
-  "icon": "es/SI212.png"
+  "icon": "es/SI212.png",
+  "tcicon": "es/SI212.png"
 }

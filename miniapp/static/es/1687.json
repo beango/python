@@ -3,5 +3,6 @@
   "title": "三屬輪轉 ‧ 剋屬盾-反擊100% ‧ 自身凍結",
   "effect": "敵人每兩回合轉換屬性 (水、火及木屬)，克制敵人當前屬性的攻擊才會對敵人造成傷害；若受到非剋屬的攻擊，敵人會反擊自身 100% 攻擊傷害。<br>每回合移動符石前，敵人會凍結自身屬性的符石；如有符石處於凍結狀態而未被消除時，3 回合不能消除該符石",
   "content": "屬性輪轉,剋屬盾,凍結符石",
-  "icon": "es/SI049.png|es/SI048.png|es/SI260.png|es/SI219.png"
+  "icon": "es/SI049.png|es/SI048.png|es/SI260.png|es/SI219.png",
+  "tcicon": "es/SI049.png|es/SI048.png|es/SI260.png|es/SI219.png"
 }

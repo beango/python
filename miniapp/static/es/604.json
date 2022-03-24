@@ -3,5 +3,6 @@
   "title": "軌跡黏附",
   "effect": "敵人會持續黏附移動符石時所觸碰的符石，被黏附的符石一經觸碰，即時停止移動符石",
   "content": "黏附",
-  "icon": "es/SI228.png"
+  "icon": "es/SI228.png",
+  "tcicon": "es/SI228.png"
 }

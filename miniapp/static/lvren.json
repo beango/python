@@ -7,27 +7,33 @@
     "stages": [
       {
         "title": "耀之處女宮",
-        "img": "366i.png"
+        "img": "fbimg/366i.png",
+        "tcimg": "fbimg/366i.png"
       },
       {
         "title": "光之獅子宮",
-        "img": "364i.png"
+        "img": "fbimg/364i.png",
+        "tcimg": "fbimg/364i.png"
       },
       {
         "title": "幽之巨蟹宮",
-        "img": "362i.png"
+        "img": "fbimg/362i.png",
+        "tcimg": "fbimg/362i.png"
       },
       {
         "title": "闇之雙子宮",
-        "img": "360i.png"
+        "img": "fbimg/360i.png",
+        "tcimg": "fbimg/360i.png"
       },
       {
         "title": "炎之金牛宮",
-        "img": "358i.png"
+        "img": "fbimg/358i.png",
+        "tcimg": "fbimg/358i.png"
       },
       {
         "title": "赤之白羊宮",
-        "img": "356i.png"
+        "img": "fbimg/356i.png",
+        "tcimg": "fbimg/356i.png"
       }
     ]
   },
@@ -39,27 +45,33 @@
     "stages": [
       {
         "title": "海之雙魚宮",
-        "img": "378i.png"
+        "img": "fbimg/378i.png",
+        "tcimg": "fbimg/378i.png"
       },
       {
         "title": "清之水瓶宮",
-        "img": "376i.png"
+        "img": "fbimg/376i.png",
+        "tcimg": "fbimg/376i.png"
       },
       {
         "title": "翠之山羊宮",
-        "img": "374i.png"
+        "img": "fbimg/374i.png",
+        "tcimg": "fbimg/374i.png"
       },
       {
         "title": "森之人馬宮",
-        "img": "372i.png"
+        "img": "fbimg/372i.png",
+        "tcimg": "fbimg/372i.png"
       },
       {
         "title": "毒之天蠍宮",
-        "img": "370i.png"
+        "img": "fbimg/370i.png",
+        "tcimg": "fbimg/370i.png"
       },
       {
         "title": "義之天秤宮",
-        "img": "368i.png"
+        "img": "fbimg/368i.png",
+        "tcimg": "fbimg/368i.png"
       }
     ]
   },
@@ -71,23 +83,28 @@
     "stages": [
       {
         "title": "錠光圓覺寺",
-        "img": "534i.png"
+        "img": "fbimg/534i.png",
+        "tcimg": "fbimg/534i.png"
       },
       {
         "title": "雷罡仙道觀",
-        "img": "540i.png"
+        "img": "fbimg/540i.png",
+        "tcimg": "fbimg/540i.png"
       },
       {
         "title": "神臺太公廟",
-        "img": "538i.png"
+        "img": "fbimg/538i.png",
+        "tcimg": "fbimg/538i.png"
       },
       {
         "title": "天尊太師座",
-        "img": "532i.png"
+        "img": "fbimg/532i.png",
+        "tcimg": "fbimg/532i.png"
       },
       {
         "title": "清源二郎庭",
-        "img": "536i.png"
+        "img": "fbimg/536i.png",
+        "tcimg": "fbimg/536i.png"
       }
     ]
   },
@@ -99,23 +116,28 @@
     "stages": [
       {
         "title": "學士的識見之心",
-        "img": "660i.png"
+        "img": "fbimg/660i.png",
+        "tcimg": "fbimg/660i.png"
       },
       {
         "title": "半偶的鬱悶之心",
-        "img": "659i.png"
+        "img": "fbimg/659i.png",
+        "tcimg": "fbimg/659i.png"
       },
       {
         "title": "傀儡的情感之心",
-        "img": "658i.png"
+        "img": "fbimg/658i.png",
+        "tcimg": "fbimg/658i.png"
       },
       {
         "title": "學者的探求之心",
-        "img": "657i.png"
+        "img": "fbimg/657i.png",
+        "tcimg": "fbimg/657i.png"
       },
       {
         "title": "機偶的守護之心",
-        "img": "656i.png"
+        "img": "fbimg/656i.png",
+        "tcimg": "fbimg/656i.png"
       }
     ]
   },
@@ -127,23 +149,28 @@
     "stages": [
       {
         "title": "煉獄的火",
-        "img": "729i.png"
+        "img": "fbimg/729i.png",
+        "tcimg": "fbimg/729i.png"
       },
       {
         "title": "錯向的風",
-        "img": "731i.png"
+        "img": "fbimg/731i.png",
+        "tcimg": "fbimg/731i.png"
       },
       {
         "title": "守候的影",
-        "img": "735i.png"
+        "img": "fbimg/735i.png",
+        "tcimg": "fbimg/735i.png"
       },
       {
         "title": "孤寂的雪",
-        "img": "727i.png"
+        "img": "fbimg/727i.png",
+        "tcimg": "fbimg/727i.png"
       },
       {
         "title": "希望的光",
-        "img": "733i.png"
+        "img": "fbimg/733i.png",
+        "tcimg": "fbimg/733i.png"
       }
     ]
   },
@@ -155,23 +182,28 @@
     "stages": [
       {
         "title": "不赦之淚",
-        "img": "1065i.png"
+        "img": "fbimg/1065i.png",
+        "tcimg": "fbimg/1065i.png"
       },
       {
         "title": "瓦爾哈拉國雙王",
-        "img": "1063i.png"
+        "img": "fbimg/1063i.png",
+        "tcimg": "fbimg/1063i.png"
       },
       {
         "title": "悼靈的考古學者",
-        "img": "1061i.png"
+        "img": "fbimg/1061i.png",
+        "tcimg": "fbimg/1061i.png"
       },
       {
         "title": "聖地守護神",
-        "img": "1059i.png"
+        "img": "fbimg/1059i.png",
+        "tcimg": "fbimg/1059i.png"
       },
       {
         "title": "弗爾克范格女皇",
-        "img": "1057i.png"
+        "img": "fbimg/1057i.png",
+        "tcimg": "fbimg/1057i.png"
       }
     ]
   },
@@ -183,23 +215,28 @@
     "stages": [
       {
         "title": "赤龍的秘果",
-        "img": "1230i.png"
+        "img": "fbimg/1230i.png",
+        "tcimg": "fbimg/1230i.png"
       },
       {
         "title": "麒麟的銅幣",
-        "img": "1228i.png"
+        "img": "fbimg/1228i.png",
+        "tcimg": "fbimg/1228i.png"
       },
       {
         "title": "獨角馬的厚禮",
-        "img": "1226i.png"
+        "img": "fbimg/1226i.png",
+        "tcimg": "fbimg/1226i.png"
       },
       {
         "title": "犬神的鈴鐺",
-        "img": "1224i.png"
+        "img": "fbimg/1224i.png",
+        "tcimg": "fbimg/1224i.png"
       },
       {
         "title": "蛞蝓的水跡",
-        "img": "1222i.png"
+        "img": "fbimg/1222i.png",
+        "tcimg": "fbimg/1222i.png"
       }
     ]
   },
@@ -211,23 +248,28 @@
     "stages": [
       {
         "title": "蜘蛛精之痴",
-        "img": "1670i.png"
+        "img": "fbimg/1670i.png",
+        "tcimg": "fbimg/1670i.png"
       },
       {
         "title": "白骨精之善",
-        "img": "1669i.png"
+        "img": "fbimg/1669i.png",
+        "tcimg": "fbimg/1669i.png"
       },
       {
         "title": "豬八戒之戀",
-        "img": "1668i.png"
+        "img": "fbimg/1668i.png",
+        "tcimg": "fbimg/1668i.png"
       },
       {
         "title": "金角與銀角之悲",
-        "img": "1667i.png"
+        "img": "fbimg/1667i.png",
+        "tcimg": "fbimg/1667i.png"
       },
       {
         "title": "沙僧之醉",
-        "img": "1666i.png"
+        "img": "fbimg/1666i.png",
+        "tcimg": "fbimg/1666i.png"
       }
     ]
   },
@@ -239,23 +281,28 @@
     "stages": [
       {
         "title": "純白色的婚約",
-        "img": "1916i.png"
+        "img": "fbimg/1916i.png",
+        "tcimg": "fbimg/1916i.png"
       },
       {
         "title": "控制之愛",
-        "img": "1917i.png"
+        "img": "fbimg/1917i.png",
+        "tcimg": "fbimg/1917i.png"
       },
       {
         "title": "苦心所得的見證",
-        "img": "1918i.png"
+        "img": "fbimg/1918i.png",
+        "tcimg": "fbimg/1918i.png"
       },
       {
         "title": "隼鳥守護神",
-        "img": "1919i.png"
+        "img": "fbimg/1919i.png",
+        "tcimg": "fbimg/1919i.png"
       },
       {
         "title": "鳥語的情歌",
-        "img": "1920i.png"
+        "img": "fbimg/1920i.png",
+        "tcimg": "fbimg/1920i.png"
       }
     ]
   },
@@ -267,23 +314,28 @@
     "stages": [
       {
         "title": "沉魚禍水",
-        "img": "2361i.png"
+        "img": "fbimg/2361i.png",
+        "tcimg": "fbimg/2361i.png"
       },
       {
         "title": "烈火的祈願",
-        "img": "2362i.png"
+        "img": "fbimg/2362i.png",
+        "tcimg": "fbimg/2362i.png"
       },
       {
         "title": "暴風作亂",
-        "img": "2363i.png"
+        "img": "fbimg/2363i.png",
+        "tcimg": "fbimg/2363i.png"
       },
       {
         "title": "紳士的品格",
-        "img": "2364i.png"
+        "img": "fbimg/2364i.png",
+        "tcimg": "fbimg/2364i.png"
       },
       {
         "title": "纏身病毒",
-        "img": "2365i.png"
+        "img": "fbimg/2365i.png",
+        "tcimg": "fbimg/2365i.png"
       }
     ]
   },
@@ -295,23 +347,28 @@
     "stages": [
       {
         "title": "時空旅程的終結",
-        "img": "1719i.png"
+        "img": "fbimg/1719i.png",
+        "tcimg": "fbimg/1719i.png"
       },
       {
         "title": "尋求自身的起源",
-        "img": "2307i.png"
+        "img": "fbimg/2307i.png",
+        "tcimg": "fbimg/2307i.png"
       },
       {
         "title": "為了永垂不朽",
-        "img": "814i.png"
+        "img": "fbimg/814i.png",
+        "tcimg": "fbimg/814i.png"
       },
       {
         "title": "失去半身的紋龍",
-        "img": "1868i.png"
+        "img": "fbimg/1868i.png",
+        "tcimg": "fbimg/1868i.png"
       },
       {
         "title": "延續龐貝的夢想",
-        "img": "2307i.png"
+        "img": "fbimg/2307i.png",
+        "tcimg": "fbimg/2307i.png"
       }
     ]
   },
@@ -323,23 +380,28 @@
     "stages": [
       {
         "title": "蒼璧的冒險",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "代偶們的生活",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "只盼與所愛相伴",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "被審判的罪名",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "革命的狼煙",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       }
     ]
   },
@@ -351,23 +413,28 @@
     "stages": [
       {
         "title": "生命的波折",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "不安份的影子",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "龍哨之聲",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "膨脹的支配",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "必然的命運",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       }
     ]
   },
@@ -379,23 +446,28 @@
     "stages": [
       {
         "title": "代偶們的捍衛戰",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "愛與恨的心理戰",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "異種介入",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "過去的追憶",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "暫歇的戰況",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       }
     ]
   },
@@ -407,23 +479,28 @@
     "stages": [
       {
         "title": "美夢之下",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "對自身的恐懼",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "踏進末日",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "失去與得到",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       },
       {
         "title": "大戰的終結",
-        "img": "S-2114i.png"
+        "img": "fbimg/S-2114i.png",
+        "tcimg": "fbimg/S-2114i.png"
       }
     ]
   },
@@ -435,23 +512,28 @@
     "stages": [
       {
         "title": "通過畢業考試 (上)",
-        "img": "S-2006i.png"
+        "img": "fbimg/S-2006i.png",
+        "tcimg": "fbimg/S-2006i.png"
       },
       {
         "title": "通過畢業考試 (下)",
-        "img": "S-2006i.png"
+        "img": "fbimg/S-2006i.png",
+        "tcimg": "fbimg/S-2006i.png"
       },
       {
         "title": "前往北域",
-        "img": "S-2027i.png"
+        "img": "fbimg/S-2027i.png",
+        "tcimg": "fbimg/S-2027i.png"
       },
       {
         "title": "聖地阿斯嘉特",
-        "img": "S-2116i.png"
+        "img": "fbimg/S-2116i.png",
+        "tcimg": "fbimg/S-2116i.png"
       },
       {
         "title": "我們的使命",
-        "img": "S-2027i.png"
+        "img": "fbimg/S-2027i.png",
+        "tcimg": "fbimg/S-2027i.png"
       }
     ]
   },
@@ -463,55 +545,68 @@
     "stages": [
       {
         "title": "白羊宮",
-        "img": "2123i.png"
+        "img": "fbimg/2123i.png",
+        "tcimg": "fbimg/2123i.png"
       },
       {
         "title": "金牛宮",
-        "img": "2115i.png"
+        "img": "fbimg/2115i.png",
+        "tcimg": "fbimg/2115i.png"
       },
       {
         "title": "雙子宮",
-        "img": "2119i.png"
+        "img": "fbimg/2119i.png",
+        "tcimg": "fbimg/2119i.png"
       },
       {
         "title": "巨蟹宮",
-        "img": "2117i.png"
+        "img": "fbimg/2117i.png",
+        "tcimg": "fbimg/2117i.png"
       },
       {
         "title": "獅子宮",
-        "img": "2113i.png"
+        "img": "fbimg/2113i.png",
+        "tcimg": "fbimg/2113i.png"
       },
       {
         "title": "處女宮",
-        "img": "2120i.png"
+        "img": "fbimg/2120i.png",
+        "tcimg": "fbimg/2120i.png"
       },
       {
         "title": "天秤宮",
-        "img": "2124i.png"
+        "img": "fbimg/2124i.png",
+        "tcimg": "fbimg/2124i.png"
       },
       {
         "title": "天蠍宮",
-        "img": "2118i.png"
+        "img": "fbimg/2118i.png",
+        "tcimg": "fbimg/2118i.png"
       },
       {
         "title": "射手宮",
-        "img": "2125i.png"
+        "img": "fbimg/2125i.png",
+        "tcimg": "fbimg/2125i.png"
       },
       {
         "title": "摩羯宮",
-        "img": "2112i.png"
+        "img": "fbimg/2112i.png",
+        "tcimg": "fbimg/2112i.png"
       },
       {
         "title": "水瓶宮",
-        "img": "2111i.png"
+        "img": "fbimg/2111i.png",
+        "tcimg": "fbimg/2111i.png"
       },
       {
         "title": "雙魚宮",
-        "img": "2114i.png"
+        "img": "fbimg/2114i.png",
+        "tcimg": "fbimg/2114i.png"
       },
       {
         "title": "教皇殿",
-        "img": "2121i.png"
+        "img": "fbimg/2121i.png",
+        "tcimg": "fbimg/2121i.png"
       }
     ]
   },
@@ -523,31 +618,38 @@
     "stages": [
       {
         "title": "冷落的女巫",
-        "img": "8006i.png"
+        "img": "fbimg/8006i.png",
+        "tcimg": "fbimg/8006i.png"
       },
       {
         "title": "高貴的邪惡",
-        "img": "8014i.png"
+        "img": "fbimg/8014i.png",
+        "tcimg": "fbimg/8014i.png"
       },
       {
         "title": "黑色藏寶圖",
-        "img": "8012i.png"
+        "img": "fbimg/8012i.png",
+        "tcimg": "fbimg/8012i.png"
       },
       {
         "title": "異想篡位者",
-        "img": "8010i.png"
+        "img": "fbimg/8010i.png",
+        "tcimg": "fbimg/8010i.png"
       },
       {
         "title": "海巫的歌聲",
-        "img": "8002i.png"
+        "img": "fbimg/8002i.png",
+        "tcimg": "fbimg/8002i.png"
       },
       {
         "title": "仙境的脂腴",
-        "img": "8004i.png"
+        "img": "fbimg/8004i.png",
+        "tcimg": "fbimg/8004i.png"
       },
       {
         "title": "偏狂的針線",
-        "img": "8008i.png"
+        "img": "fbimg/8008i.png",
+        "tcimg": "fbimg/8008i.png"
       }
     ]
   },
@@ -559,23 +661,28 @@
     "stages": [
       {
         "title": "轉世神器法陣 ‧ 暗",
-        "img": "765i.png"
+        "img": "fbimg/765i.png",
+        "tcimg": "fbimg/765i.png"
       },
       {
         "title": "轉世神器法陣 ‧ 木",
-        "img": "761i.png"
+        "img": "fbimg/761i.png",
+        "tcimg": "fbimg/761i.png"
       },
       {
         "title": "轉世神器法陣 ‧ 火",
-        "img": "759i.png"
+        "img": "fbimg/759i.png",
+        "tcimg": "fbimg/759i.png"
       },
       {
         "title": "轉世神器法陣 ‧ 水",
-        "img": "747i.png"
+        "img": "fbimg/747i.png",
+        "tcimg": "fbimg/747i.png"
       },
       {
         "title": "轉世神器法陣 ‧ 光",
-        "img": "763i.png"
+        "img": "fbimg/763i.png",
+        "tcimg": "fbimg/763i.png"
       }
     ]
   },
@@ -587,23 +694,28 @@
     "stages": [
       {
         "title": "斷裂牽絆還心願",
-        "img": "908i.png"
+        "img": "fbimg/908i.png",
+        "tcimg": "fbimg/908i.png"
       },
       {
         "title": "尋仙覓道宿世緣",
-        "img": "902i.png"
+        "img": "fbimg/902i.png",
+        "tcimg": "fbimg/902i.png"
       },
       {
         "title": "問情應當歷輪迴",
-        "img": "900i.png"
+        "img": "fbimg/900i.png",
+        "tcimg": "fbimg/900i.png"
       },
       {
         "title": "相隔世代需寬恕",
-        "img": "904i.png"
+        "img": "fbimg/904i.png",
+        "tcimg": "fbimg/904i.png"
       },
       {
         "title": "宿命因緣仙與俠",
-        "img": "896i.png"
+        "img": "fbimg/896i.png",
+        "tcimg": "fbimg/896i.png"
       }
     ]
   }

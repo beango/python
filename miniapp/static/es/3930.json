@@ -3,5 +3,6 @@
   "title": "能力繼承 ‧ 攻後光橫縱輪轉",
   "effect": "只要場上 1 個敵人生存，<br>它會即時完全回復<br>自身生命力，<br>並吸收死去同伴的能力。<br><br>當首次受到敵人攻擊時，<br>隨機將 1 橫行的符石<br>⇒ 轉化為光符石；<br>第 2 次受到敵人攻擊時，<br>隨機將 1 直行的符石<br>⇒ 轉化為光符石。<br>以上攻擊循環周而復始。",
   "content": "能力繼承,符石轉換",
-  "icon": "es/SI163.png|es/SI304.png|es/SI047.png"
+  "icon": "es/SI163.png|es/SI304.png|es/SI047.png",
+  "tcicon": "es/SI163.png|es/SI304.png|es/SI047.png"
 }

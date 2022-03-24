@@ -3,5 +3,6 @@
   "title": "強化盾 ‧ 首回攻後光心化血",
   "effect": "敵人只會受到強化符石的攻擊傷害。<br>首回合及當受到敵人攻擊時，敵人會鎖定場上的心符石及光符石；如有鎖定的符石未被消除時，敵人回復相等於該回合召喚師所造成傷害的血量",
   "content": "強化盾,化血符石",
-  "icon": "es/SI254.png|es/SI310.png|es/SI218.png"
+  "icon": "es/SI254.png|es/SI310.png|es/SI218.png",
+  "tcicon": "es/SI254.png|es/SI310.png|es/SI218.png"
 }

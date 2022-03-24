@@ -3,5 +3,6 @@
   "title": "能力繼承 ‧ 1顆電擊",
   "effect": "只要場上 1 個敵人生存，<br>它會即時完全回復<br>自身生命力，<br>並吸收死去同伴的能力。<br><br>每回合移動符石前，<br>隨機電擊 1 粒符石；<br>如有電擊符石未被消除，<br>無法對敵人造成攻擊傷害；<br>被電擊的符石一經觸碰，<br>即時停止移動符石。",
   "content": "能力繼承,電擊",
-  "icon": "es/SI163.png|es/SI236.png"
+  "icon": "es/SI163.png|es/SI236.png",
+  "tcicon": "es/SI163.png|es/SI236.png"
 }

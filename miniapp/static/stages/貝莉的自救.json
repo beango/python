@@ -26,7 +26,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1592i.png"
         },
         {
           "card": "1593",
@@ -38,7 +39,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1593i.png"
         },
         {
           "card": "1594",
@@ -50,7 +52,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1594i.png"
         },
         {
           "card": "1595",
@@ -62,7 +65,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1595i.png"
         },
         {
           "card": "1596",
@@ -74,7 +78,8 @@
           "lv": "15",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1596i.png"
         },
         {
           "card": "1192",
@@ -87,9 +92,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI125.png",
+            "tcicon": "es/SI125.png",
             "title": "妖精技能回復"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1192i.png"
         },
         {
           "card": "713",
@@ -102,9 +109,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png|es/SI221.png|es/SI217.png",
+            "tcicon": "es/SI188.png|es/SI221.png|es/SI217.png",
             "title": "1-4顆追擊風化20% ‧ 溢補盾"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/713i.png"
         },
         {
           "card": "713",
@@ -117,9 +126,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI256.png|es/SI131.png|es/SI228.png",
+            "tcicon": "es/SI256.png|es/SI131.png|es/SI228.png",
             "title": "消心盾5% ‧ 扣血90% ‧ 雙重黏附"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/713i.png"
         }
       ]
     }

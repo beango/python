@@ -3,5 +3,6 @@
   "title": "附加消除-技能重置-龍脈重置 ‧ 五屬刷新 ‧ 首消隨機4~8Combo盾-轉 ‧ 10%強盾",
   "effect": "首回合消除召喚師所有附加效果，所有成員的技能 CD 及累積戰鬥回合數將被重置，同時清空龍脈儀的能量。<br>每回合敵人會將所有符石轉換為固定數量的屬性符石。<br>在開始移動符石時，出現隨機指定的連擊 (Combo) 數，當達成指定的連擊 (Combo) 才會對敵人做成攻擊傷害 (需消除符石及只計算首批消除的符石)。達成上述指定的連擊 (Combo) 數，敵人不會發動攻擊；反之，差距的連擊 (Combo) 數愈多，敵人的連擊次數愈多。<br>每回合最多只能造成敵人生命力上限 10% 的轉珠傷害 (技能傷害減至 0)",
   "content": "附加消除,技能重置,龍脈重置,刷新符石,隨機Combo盾,百分比盾",
-  "icon": "es/SI123.png|es/SI121.png|es/SI140.png|es/SI046.png|es/SI110.png|es/SI257.png"
+  "icon": "es/SI123.png|es/SI121.png|es/SI140.png|es/SI046.png|es/SI110.png|es/SI257.png",
+  "tcicon": "es/SI123.png|es/SI121.png|es/SI140.png|es/SI046.png|es/SI110.png|es/SI257.png"
 }

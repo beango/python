@@ -3,5 +3,6 @@
   "title": "越戰越強-銀",
   "effect": "敵人生命力愈低時，攻擊力會提升，達到一定血量時並會連撃 2 次{{Cal|越戰越強|銀|{{{atk|}}}}}",
   "content": "越戰越強(敵人技能)",
-  "icon": "es/SI188.png"
+  "icon": "es/SI188.png",
+  "tcicon": "es/SI188.png"
 }

@@ -3,5 +3,6 @@
   "title": "攻後轉水4顆",
   "effect": "當受到敵人攻擊時，場上隨機 4 粒符石會轉化為水符石",
   "content": "符石轉換",
-  "icon": "es/SI301.png|es/SI047.png"
+  "icon": "es/SI301.png|es/SI047.png",
+  "tcicon": "es/SI301.png|es/SI047.png"
 }

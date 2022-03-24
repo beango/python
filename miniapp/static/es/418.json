@@ -3,5 +3,6 @@
   "title": "10+Combo盾",
   "effect": "10 連擊 (Combo) 或以上才會對敵人造成攻擊傷害",
   "content": "正負Combo盾",
-  "icon": "es/SI108.png"
+  "icon": "es/SI108.png",
+  "tcicon": "es/SI108.png"
 }

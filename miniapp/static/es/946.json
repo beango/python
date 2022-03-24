@@ -3,5 +3,6 @@
   "title": "無視減傷 ‧ 三次受攻盾50%",
   "effect": "敵人會無視所有減傷效果和意志技能。<br>敵人死亡後會復活，直至召喚師受到 3 次攻擊；首 3 次復活中，每 1 次復活會令敵人的攻擊力減少 50%",
   "content": "無視減傷,受攻盾",
-  "icon": "es/SI251.png|es/SI211.png"
+  "icon": "es/SI251.png|es/SI211.png",
+  "tcicon": "es/SI251.png|es/SI211.png"
 }

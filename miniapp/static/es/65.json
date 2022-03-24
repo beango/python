@@ -3,5 +3,6 @@
   "title": "技能重置",
   "effect": "首回合敵人會將所有成員技能 CD 及累積戰鬥回合數重置",
   "content": "技能重置",
-  "icon": "es/SI121.png"
+  "icon": "es/SI121.png",
+  "tcicon": "es/SI121.png"
 }

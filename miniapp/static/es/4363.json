@@ -3,5 +3,6 @@
   "title": "雙重眼球地型 ‧ 光暗盾-限 ‧ 軌跡黑白 ‧ 劇毒20% ‧ 無法控制",
   "effect": "<font color=#FFFF3C>【眼球地型 ‧ 光暗屬盾 - 水火木限制 ‧ 幽閉之途 ‧ 劇毒 ‧ 無法控制】</font><br><br>隨機 2 個位置<br>⇒ 出現眼球地型<br><br>移動符石時須觸碰<br>所有眼球地型，<br>且所有眼球地型<br>須為閉眼狀態，<br>才會對敵人造成攻擊傷害。<br><br>需同時符合以下兩個條件，<br>才會對敵人造成攻擊傷害：<br>⓵ 同時消除光及暗符石<br>⓶ 不能首批消除<br>水、火或木符石<br><br>將移動符石時所觸碰的<br>符石變為黑白色。<br><br>所有成員中毒，每回合扣除<br>召喚師 20% 生命力，<br>直至敵人死亡。<br>受到敵人攻擊次數愈多，<br>中毒愈深，最多扣除100%。<br><br>無視所有控制技能。",
   "content": "眼球地型,屬性符石盾,黑白符石,劇毒,無法控制",
-  "icon": "es/ES570.png|es/SI241.png|es/SI215.png|es/SI136.png|es/SI124.png"
+  "icon": "es/ES570.png|es/SI241.png|es/SI215.png|es/SI136.png|es/SI124.png",
+  "tcicon": "es/ES570.png|es/SI241.png|es/SI215.png|es/SI136.png|es/SI124.png"
 }

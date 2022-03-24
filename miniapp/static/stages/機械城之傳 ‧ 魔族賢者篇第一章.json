@@ -25,9 +25,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI161.png",
+            "tcicon": "es/SI160.png|es/SI161.png",
             "title": "先攻 ‧ 自殺"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/971i.png"
         },
         {
           "card": "971",
@@ -41,9 +43,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI135.png|es/SI309.png|es/SI218.png",
+            "tcicon": "es/SI135.png|es/SI309.png|es/SI218.png",
             "title": "中毒40% ‧ 首回攻後木心化血"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/971i.png"
         }
       ]
     },
@@ -70,9 +74,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉橫火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1442i.png"
         },
         {
           "card": "1442",
@@ -85,9 +91,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉橫火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1442i.png"
         },
         {
           "card": "1442",
@@ -100,9 +108,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI012.png",
+            "tcicon": "es/SI012.png",
             "title": "攻後轉橫火"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/1442i.png"
         },
         {
           "card": "838",
@@ -115,9 +125,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
             "title": "首消光傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "838",
@@ -130,9 +142,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI014.png",
+            "tcicon": "es/SI014.png",
             "title": "首消光傷害吸收"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/838i.png"
         },
         {
           "card": "136",
@@ -145,9 +159,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI229.png",
+            "tcicon": "es/SI229.png",
             "title": "✕形燃燒10%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/136i.png"
         },
         {
           "card": "136",
@@ -161,9 +177,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI188.png",
+            "tcicon": "es/SI188.png",
             "title": "越戰越強-金"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/136i.png"
         }
       ]
     }

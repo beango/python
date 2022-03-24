@@ -3,5 +3,6 @@
   "title": "重覆隊員禁錮 ‧ 越攻越強",
   "effect": "首回合敵人會永久封鎖相同隊員的主動技能及其攻擊；敵人攻擊次數愈多時，攻擊力會大幅提升，達到一定次數時會連撃 2 次{{Cal|越攻越強|{{{atk|}}}}}",
   "content": "相同成員技能攻擊封鎖",
-  "icon": "es/SI188.png|es/SI122.png"
+  "icon": "es/SI188.png|es/SI122.png",
+  "tcicon": "es/SI188.png|es/SI122.png"
 }

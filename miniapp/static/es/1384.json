@@ -3,5 +3,6 @@
   "title": "攻前盾 ‧ 首回凍結6顆 ‧ 攻後冰火轉化20%",
   "effect": "首回合敵人會隨機凍結 6 粒符石，其後受到敵人攻擊時，將場上的凍結符石解凍，並燃燒其位置，每觸碰被燃燒的位置，將扣除召喚師 20% 生命力。<br>敵人無視任何攻擊傷害，直至敵人第 1 次攻擊。",
   "content": "攻前盾,凍結符石,冰火轉化",
-  "icon": "es/SI250.png|es/SI219.png|es/SI229.png"
+  "icon": "es/SI250.png|es/SI219.png|es/SI229.png",
+  "tcicon": "es/SI250.png|es/SI219.png|es/SI229.png"
 }

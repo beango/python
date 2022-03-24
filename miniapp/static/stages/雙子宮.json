@@ -1,5 +1,13 @@
 {
-  "openhis": [],
+  "openhis": [
+    {
+      "start": "2019/05/14 16:00",
+      "end": "2019/06/02 23:59",
+      "note": "須完成「[[金牛宮]]」全部關卡（EXTRA除外）後始可進入<br/>僅開放香港、澳門、台灣、新加玻、馬來西亞、泰國等地區",
+      "cj": [],
+      "cishujl": []
+    }
+  ],
   "cj": [],
   "stages": [
     {
@@ -24,7 +32,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -36,7 +45,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -48,7 +58,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -60,7 +71,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -72,7 +84,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "831",
@@ -84,7 +97,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -96,7 +110,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -108,7 +123,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -120,7 +136,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -132,7 +149,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "2119",
@@ -147,9 +165,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png|es/SI216.png|es/SI161.png|es/SI124.png",
+            "tcicon": "es/SI183.png|es/SI216.png|es/SI161.png|es/SI124.png",
             "title": "始終盾 ‧ CD1-不死復活-變CD2 ‧ 自殺 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2119i.png"
         }
       ]
     },
@@ -177,9 +197,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI122.png|es/SI236.png",
+            "tcicon": "es/SI160.png|es/SI122.png|es/SI236.png",
             "title": "先攻當前99% ‧ 人外禁錮1回 ‧ 隨機直行電擊"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2109i.png"
         },
         {
           "card": "2101",
@@ -193,9 +215,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI219.png",
+            "tcicon": "es/SI219.png",
             "title": "雙重凍結"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2101i.png"
         },
         {
           "card": "2101",
@@ -210,9 +234,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI160.png|es/SI219.png|es/SI251.png",
+            "tcicon": "es/SI160.png|es/SI219.png|es/SI251.png",
             "title": "先攻-縱橫冰封 ‧ 無視減傷"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2101i.png"
         }
       ]
     },
@@ -238,7 +264,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -250,7 +277,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -262,7 +290,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -274,7 +303,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -286,7 +316,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "831",
@@ -298,7 +329,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/831i.png"
         },
         {
           "card": "833",
@@ -310,7 +342,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/833i.png"
         },
         {
           "card": "835",
@@ -322,7 +355,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/835i.png"
         },
         {
           "card": "837",
@@ -334,7 +368,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/837i.png"
         },
         {
           "card": "839",
@@ -346,7 +381,8 @@
           "coin": "10",
           "note": "",
           "esjson": null,
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/839i.png"
         },
         {
           "card": "2119",
@@ -360,9 +396,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI183.png|es/SI305.png|es/SI047.png|es/SI124.png",
+            "tcicon": "es/SI183.png|es/SI305.png|es/SI047.png|es/SI124.png",
             "title": "始終盾 ‧ 攻後暗縱橫輪轉 ‧ 無法控制"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2119i.png"
         },
         {
           "card": "2119",
@@ -377,9 +415,11 @@
           "note": "",
           "esjson": {
             "img": "es/SI147.png",
+            "tcicon": "es/SI147.png",
             "title": "首消暗傷害吸收-反擊50%"
           },
-          "jd": ""
+          "jd": "",
+          "cardtcimg": "zhs/2119i.png"
         }
       ]
     }
