@@ -13,6 +13,24 @@ import ConfigParser
 import optparse
 import re
 import traceback
+import random
+
+# 收集到的常用Header
+my_headers = [
+    "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14",
+    "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)",
+    'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11',
+    'Opera/9.25 (Windows NT 5.1; U; en)',
+    'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)',
+    'Mozilla/5.0 (compatible; Konqueror/3.5; Linux) KHTML/3.5.5 (like Gecko) (Kubuntu)',
+    'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.12) Gecko/20070731 Ubuntu/dapper-security Firefox/1.5.0.12',
+    'Lynx/2.8.5rel.1 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/1.2.9',
+    "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.7 (KHTML, like Gecko) Ubuntu/11.04 Chromium/16.0.912.77 Chrome/16.0.912.77 Safari/535.7",
+    "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0 "
+]
 
 # API_URL
 fund_api_url = "https://fundmobapi.eastmoney.com/FundMApi/FundVarietieValuationDetail.ashx"
@@ -36,7 +54,12 @@ def get(url, data):
     for k in data.keys():
         var_list.append(k + "=" + str(data[k]))
     url += "?" + "&".join(var_list)
-    response = urllib2.urlopen(url)
+    
+    request = urllib2.Request(url)
+    request.add_header('User-Agent', random.choice(my_headers))
+    response = urllib2.urlopen(request)
+    # response.add_header('User-Agent', random.choice(my_headers))
+    # print response.read()
     return response.read()
 
 def get_fund(fund_id):
@@ -47,14 +70,19 @@ def get_fund(fund_id):
         "product" : "EFund",
         "version" : "2.0.0"
     }
-    return get(fund_api_url, data)
+    fund_str = get(fund_api_url, data)
+    return fund_str
 
 def get_stock(stock_id):
     response = None
     if stock_id not in OUTLAND_STOCK:
-        response = urllib2.urlopen(stock_api_url.format(stock_id))
+        request = urllib2.Request(stock_api_url.format(stock_id))
+        request.add_header("Referer", "http://finance.sina.com.cn")
+        response = urllib2.urlopen(request)
     else:
-        response = urllib2.urlopen(stock_outland_api_url.format(stock_id))
+        request = urllib2.Request(stock_api_url.format(stock_id))
+        request.add_header("Referer", "http://finance.sina.com.cn")
+        response = urllib2.urlopen(request)
     return response.read()
 
 def get_all_fund_data(fund_list):
@@ -130,6 +158,7 @@ def print_all_fund_data(fund_dict_list):
             if float(fund_dict["gszzl"]) > 0:
                 line += RED + fund_dict["gszzl"].ljust(gszzl_max_len) + RESET
             elif float(fund_dict["gszzl"]) < 0:
+                print(type(fund_dict["gszzl"]), type(fund_dict["gszzl"].ljust(gszzl_max_len)))
                 line += GREEN + fund_dict["gszzl"].ljust(gszzl_max_len) + RESET
             else:
                 line += fund_dict["gszzl"].ljust(gszzl_max_len)
@@ -144,7 +173,7 @@ def print_all_fund_data(fund_dict_list):
 
         line += b" | " + fund_dict["gztime"].ljust(gztime_max_len) + b" | "
 
-        print line.decode('gb18030')
+        print(line.decode('gb18030'))
 
         if fund_dict["total"].decode('gb18030') != u"总值":
             total_value += float(fund_dict['total'])
@@ -215,7 +244,7 @@ def print_all_stock_data(stock_dict_list):
             line += stock_dict["rate"].ljust(rate_max_len)
         line += b"|"
 
-        print line.decode('gb18030')
+        print(line.decode('gb18030'))
 
 def main():
     parser = optparse.OptionParser()
@@ -228,7 +257,7 @@ def main():
     stock_id_list = cf.options("stock")
     buy_fund_pair_list = cf.items("buy_fund")
 
-    print HIDE_CURSOR,
+    print(HIDE_CURSOR)
     last_tick_time = 0
 
     while 1:
@@ -236,28 +265,44 @@ def main():
         if now > last_tick_time + int(options.delay):
             stock_data_list = get_all_stock_data(stock_id_list)
             stock_dict_list = process_all_stock_data(stock_data_list)
-
-            # fund_data_list = get_all_fund_data(fund_id_list)
-            # fund_dict_list = process_all_fund_data(fund_data_list, buy_fund_pair_list)
-
             rows, columns = os.popen('stty size', 'r').read().split()
 
             print CLEAR_SCREEN,
             print(MAGENTA + time.strftime("%Y-%m-%d %H:%M:%S").center(int(columns)) + RESET)
             print_all_stock_data(stock_dict_list)
-            # print
-            # print_all_fund_data(fund_dict_list)
 
             last_tick_time = now
         time.sleep(1)
 
+def fund():
+    parser = optparse.OptionParser()
+    parser.add_option("-d", "--delay", dest="delay", default=6)
+    (options, args) = parser.parse_args()
+
+    cf = ConfigParser.ConfigParser()
+    cf.read("./fund.conf")
+    fund_id_list = cf.options("fund")
+    stock_id_list = cf.options("stock")
+    buy_fund_pair_list = cf.items("buy_fund")
+
+    print(HIDE_CURSOR)
+    
+    fund_data_list = get_all_fund_data(fund_id_list)
+    fund_dict_list = process_all_fund_data(fund_data_list, buy_fund_pair_list)
+
+    rows, columns = os.popen('stty size', 'r').read().split()
+
+    print(CLEAR_SCREEN)
+    print(MAGENTA + time.strftime("%Y-%m-%d %H:%M:%S").center(int(columns)) + RESET)
+    print
+    print_all_fund_data(fund_dict_list)
+
+    
+
 if __name__ == "__main__":
     while 1:
-    	try:
-        	main()
-	except KeyboardInterrupt:
-		print SHOW_CURSOR 
-		break
-    	except Exception as e:
-		print SHOW_CURSOR
-		traceback.print_exc()
+        main()
+    # fund()
+
+# sshpass -p '9HLx63RwWMAe' scp -r ./fund.py root@106.75.148.48:/root
+# sshpass -p '10HLx63RwWMAe' scp -P 26807 -r CC签到.py root@144.168.63.235:/root

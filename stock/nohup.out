@@ -1,0 +1,84 @@
+
+(plank:6015): Gtk-WARNING **: 09:18:38.577: Theme parsing error: gtk.css:123:146: Expected a valid selector
+
+(plank:6015): Gtk-WARNING **: 09:18:38.586: Theme parsing error: gtk.css:9319:2: '/*' in comment block
+
+(plank:6015): Gtk-WARNING **: 09:18:38.586: Theme parsing error: gtk.css:9320:20: Expected semicolon
+
+(plank:6015): Gtk-WARNING **: 09:18:38.590: Theme parsing error: gtk.css:13298:18: Invalid name of pseudo-class
+Gtk-Message: 09:18:38.609: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 09:18:38.609: Failed to load module "colorreload-gtk-module"
+
+(plank:6015): Gtk-WARNING **: 09:18:38.648: Theme parsing error: gtk.css:123:146: Expected a valid selector
+
+(plank:6015): Gtk-WARNING **: 09:18:38.658: Theme parsing error: gtk.css:9319:2: '/*' in comment block
+
+(plank:6015): Gtk-WARNING **: 09:18:38.658: Theme parsing error: gtk.css:9320:20: Expected semicolon
+
+(plank:6015): Gtk-WARNING **: 09:18:38.662: Theme parsing error: gtk.css:13298:18: Invalid name of pseudo-class
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.323: Theme parsing error: gtk.css:123:146: Expected a valid selector
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.346: Theme parsing error: gtk.css:9319:2: '/*' in comment block
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.346: Theme parsing error: gtk.css:9320:20: Expected semicolon
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.355: Theme parsing error: gtk.css:13298:18: Invalid name of pseudo-class
+Gtk-Message: 09:21:36.382: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 09:21:36.382: Failed to load module "colorreload-gtk-module"
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.860: Theme parsing error: gtk.css:123:146: Expected a valid selector
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.870: Theme parsing error: gtk.css:9319:2: '/*' in comment block
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.871: Theme parsing error: gtk.css:9320:20: Expected semicolon
+
+(firefox:6170): Gtk-WARNING **: 09:21:36.875: Theme parsing error: gtk.css:13298:18: Invalid name of pseudo-class
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[93m[WARN 09:18:38.686947][0m [Preferences:192] '/usr/share/plank/themes/Default/dock.theme' is read-only!
+[93m[WARN 09:39:19.359999][0m Creating surface took WAY TOO LONG (31ms), enabled downscaling for this cache!
+[93m[WARN 18:03:27.212909][0m [AbstractMain:42] Caught signal (15), exiting

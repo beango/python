@@ -11,3 +11,12 @@ http/content
 /t1
 *.tar.gz
 miniapp/static/
+miniapp/__pycache__/
+
+zx/build/
+zx/__pycache__/
+zx/dist
+weixin/log/
+.vscode
+.gradle
+node_modules
